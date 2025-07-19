@@ -1,82 +1,71 @@
-.distribuidores-container{
-    overflow: hidden;
-}
-
-.distribuidores-content{
+.infinite-carousel{
     width: 100%;
-    border-radius: 4px;
-    /* padding: 20px;
-    background: #F2F2F2; */
+    overflow: hidden;
 }
 
 .distribuidores{
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 10px;
+    display: flex;
+    width: max-content;
+    animation: scroll 15s linear infinite;
+    padding: 10px 0;
+}
+
+.distribuidores:hover{
+    animation-play-state: paused;
+}
+
+@keyframes scroll{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-50%);
+    }
 }
 
 .distribuidores li{
-    width: 100%;
-    min-height: 130px;
+    flex: 0 0 auto;
+    width: 200px;
+    min-height: 100px;
     display: flex;
     background: var(--white);
-    border-radius: 4px;
+    border-radius: 6px;
     overflow: hidden;
-    border: 1px solid #D2D2D2;
+    border: 1px solid #e0e0e0;
     transition: var(--t-200ms-linear);
 }
 
 .distribuidores li:hover{
-    border: 1px solid var(--color-1);
+  border-color: var(--color-1);
 }
 
 .distribuidores li a{
+    padding: 20px;
     width: 100%;
     height: 100%;
-    padding: 20px;
     display: flex;
-    background: var(--white);
+    align-items: center;
+    justify-content: center;
 }
 
 .distribuidores li a img{
-    margin: auto;
-    width: 180px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3/1;
     object-fit: contain;
 }
 
 @media screen and (max-width: 600px){
-    .distribuidores-container{
-        width: 100%;
-        overflow: hidden;
+    .distribuidores li{
+        width: 150px;
+        min-height: 80px;
     }
 
-    .distribuidores-content{
-        width: auto;
-        overflow-x: scroll;
-    }
-
-    .distribuidores-content::-webkit-scrollbar{
-        display: none;
-    }
+    /* .distribuidores li a img{
+        max-height: 50px;
+    } */
 
     .distribuidores{
-        width: calc(223.3px * 8);
-        display: flex;
-        animation: scrollX 20s linear alternate-reverse infinite;
-    }
-
-    @keyframes scrollX{
-        100%{
-            margin-left: -1450px;
-        }
-    }
-
-    .distribuidores li{
-        min-height: 100px;
-    }
-
-    .distribuidores li a img{
-        width: 120px;
+        animation-duration: 15s;
     }
 }

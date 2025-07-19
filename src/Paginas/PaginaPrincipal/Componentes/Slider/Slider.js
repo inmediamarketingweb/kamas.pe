@@ -19,7 +19,7 @@ function Slider() {
     useEffect(() => {
         const interval = setInterval(() => {
             setCurrentIndex((prevIndex) => (prevIndex + 1) % totalSlides);
-        }, 10000);
+        }, 5000);
         return () => clearInterval(interval);
     }, [totalSlides]);
 
@@ -44,7 +44,9 @@ function Slider() {
                             {Array.from({ length: totalSlides }).map((_, index) => (
                                 <li key={index}>
                                     {visibleIndexes.includes(index) && (
-                                        <img width={isSmallScreen ? 400 : 2000} height={isSmallScreen ? 180 : 600} {...(index !== 0 ? { loading: "lazy" } : {})} src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} alt="Kamas | Fabricantes de colchones, camas y dormitorios." />
+                                        <a href='' alt=''>
+                                            <img width={isSmallScreen ? 400 : 2000} height={isSmallScreen ? 180 : 600} {...(index !== 0 ? { loading: "lazy" } : {})} src={`/assets/imagenes/paginas/pagina-principal/slider/${isSmallScreen ? 'thumb/' : ''}slider-${index + 1}.webp`} alt="Kamas | Fabricantes de colchones, camas y dormitorios." />
+                                        </a>
                                     )}
                                 </li>
                             ))}

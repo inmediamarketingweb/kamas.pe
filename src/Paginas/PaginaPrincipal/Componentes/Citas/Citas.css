@@ -1,4 +1,13 @@
-.mapa-block-content > div:nth-child(2){
+.mapa-block-container{
+    background: var(--color-1);
+}
+
+.cita-content > div:nth-child(1) img{
+    width: 100%;
+    max-width: 320px;
+}
+
+.cita-content{
     /* background: orange; */
     display: grid;
     grid-template-columns: 1fr 400px;
@@ -8,6 +17,12 @@
 .mapa{
     border: 0 !important;
     outline: 0 !important;
+}
+
+.cita-content > div:nth-child(2){
+    background: var(--white);
+    padding: 20px;
+    border-radius: 6px;
 }
 
 /**/
@@ -49,7 +64,7 @@
 /**/
 
 @media screen and (max-width: 600px){
-    .mapa-block-content > div:nth-child(2){
+    .cita-content{
         grid-template-columns: 1fr;
     }
 

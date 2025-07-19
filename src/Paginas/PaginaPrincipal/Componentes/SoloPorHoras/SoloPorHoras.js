@@ -206,7 +206,7 @@ function SoloPorHoras() {
         <div className="block-container block-container-sale">
             <section className="block-content block-content-sale">
                 <div className="block-title-container">
-                    <h2 className="block-title">¡ Solo por horas ⏰ !</h2>
+                    <h2 className="block-title text-left">¡ Solo por horas ⏰ !</h2>
                     <ConteoRegresivo onExpire={() => setExpired(true)} />
                 </div>
 

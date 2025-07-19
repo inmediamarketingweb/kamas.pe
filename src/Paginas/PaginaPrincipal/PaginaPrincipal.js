@@ -15,7 +15,7 @@ import Footer from '../../Componentes/Footer/Footer';
 
 import Promocion from './Componentes/Promocion/Promocion';
 // import CategoriasNew from './Componentes/CategoriasNew/Categorias';
-import Mapa from './Componentes/Mapa/Mapa';
+import Citas from './Componentes/Citas/Citas';
 
 import './PaginaPrincipal.css';
 
@@ -57,7 +57,7 @@ function PaginaPrincipal(){
 
                 <Distribuidores/>
 
-                <Mapa/>
+                <Citas/>
 
                 <ModalDatos/>
             </main>
