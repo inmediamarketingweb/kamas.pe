@@ -3,15 +3,13 @@ import { useState, useEffect } from 'react';
 import './Categorias.css';
 
 function Categorias(){
-    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
 
+    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     useEffect(() => {
         const handleResize = () => {
             setIsSmallScreen(window.innerWidth < 600);
         };
-
         window.addEventListener('resize', handleResize);
-
         return () => {
             window.removeEventListener('resize', handleResize);
         };

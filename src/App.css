@@ -82,6 +82,10 @@ main{
 }
 
 .block-title{
+    width: 100%;
+    word-spacing: 2px;
+    letter-spacing: -2px;
+    text-transform: uppercase;
     text-align: center;
     font-weight: bold;
     font-size: 28px;
@@ -135,6 +139,10 @@ button{
     outline: 0;
 }
 
+.font-bold{
+    font-weight: bold;
+}
+
 .font-13{
     font-size: 13px !important;
 }
@@ -166,6 +174,14 @@ button{
 .text{
     color: var(--text);
     transition: var(--t-200ms-linear);
+}
+
+.text-left{
+    text-align: left !important;
+}
+
+.text-center{
+    text-align: center !important;
 }
 
 .italic{
@@ -236,6 +252,11 @@ button{
 
 .w-100{
     width: 100%;
+}
+
+.d-grid-1-auto{
+    display: grid;
+    grid-template-columns: 1fr auto;
 }
 
 .d-grid-2-1fr{
@@ -316,7 +337,6 @@ button{
     text-align: center;
 }
 
-
 .button-link{
     display: flex;
     align-items: center;
@@ -380,6 +400,23 @@ button{
 .button-link-3:hover .button-link-text,
 .button-link-3:hover span{
     color: var(--color-2);
+}
+
+.button-link-4{
+    width: auto;
+    height: 48px;
+    padding: 0 20px;
+    border-radius: 4px;
+    background: var(--color-2);
+}
+
+.button-link-4:hover{
+    background: var(--color-1);
+}
+
+.button-link-4 .button-link-text,
+.button-link-4 span{
+    color: var(--white);
 }
 
 .button-icon{
@@ -543,8 +580,13 @@ button{
     /**/
 
     .block-title{
+        font-size: 24px;
         margin-right: auto;
-        text-align: left !important;
+        /* text-align: left !important; */
+    }
+
+    .title{
+        font-size: 17px;
     }
 
     /**/

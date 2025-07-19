@@ -3,15 +3,13 @@ import { useEffect, useState } from 'react';
 import './SobreNosotros.css';
 
 function SobreNosotros(){
-    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
 
+    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     useEffect(() => {
         const handleResize = () => {
             setIsSmallScreen(window.innerWidth < 600);
         };
-
         window.addEventListener('resize', handleResize);
-
         return () => {
             window.removeEventListener('resize', handleResize);
         };
@@ -20,9 +18,9 @@ function SobreNosotros(){
     return(
         <div className='block-container block-container-homepage-about-us'>
             <section className='block-content'>
-                <div className='block-title-container'>
+                {/* <div className='block-title-container'>
                     <h2 className='block-title'>Kamas fabricantes de dormitorios</h2>
-                </div>
+                </div> */}
 
                 <div className='d-grid-2-1fr gap-10'>
                     <video width="100%" height="auto" controls>

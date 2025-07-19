@@ -37,13 +37,15 @@ footer{
 
 .footer-block-content .block-title-container{
     position: relative;
+    margin-bottom: 80px;
 }
 
 .footer-block-content .block-title-container::before{
     content: '';
     position: absolute;
-    left: 0;
+    left: 50%;
     top: calc(100% + 8px);
+    translate: -50% 0;
     width: 200px;
     height: 4px;
     background: var(--color-1);
