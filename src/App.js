@@ -18,9 +18,7 @@ import Favoritos from "./Paginas/Favoritos/Favoritos";
 
 //Páginas de nosotros y contenido adicional
 import Nosotros from "./Paginas/Nosotros/Nosotros";
-
 import ProyectosYAlianzas from "./Paginas/ProyectosYAlianzas/ProyectosYAlianzas";
-
 import PropiedadIntelectual from "./Paginas/Nosotros/Paginas/PropiedadIntelectual";
 import RazonesParaComprar from "./Paginas/Nosotros/Paginas/RazonesParaComprar";
 import MediosDePago from './Paginas/ServicioAlCliente/MediosDePago';
@@ -58,6 +56,9 @@ import Error404 from "./Paginas/Error404/Error404";
 //Páginas para los vendedores
 import Colores from './Paginas/Vendedores/Colores/Colores';
 import Agencias from './Paginas/Vendedores/Agencias/Agencias';
+
+//*Servicio al cliente*
+import Citas from './Paginas/ServicioAlCliente/Citas/Citas';
 
 import './App.css';
 
@@ -97,6 +98,7 @@ function App(){
                     <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
                     <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>
 
+                    <Route path="/agendar-visita/" element={<Citas/>}/>
                     <Route path="/servicio-al-cliente/medios-de-pago/" element={<MediosDePago/>}/>
                     <Route path="/servicio-al-cliente/costos-de-envio-por-zona/" element={<CostosDeEnvioPorZonas/>}/>
                     <Route path="/servicio-al-cliente/garantia-de-productos/" element={<GarantiaDeProductos/>}/>
