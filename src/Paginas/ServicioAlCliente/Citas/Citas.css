@@ -1,22 +1,19 @@
-/* .mapa-block-container{
-    background: var(--color-1);
-} */
-
 .cita-content{
-    /* background: orange; */
     display: grid;
     grid-template-columns: 1fr 420px;
     gap: 20px;
 }
 
-.leo{
+.citas-fecha-hora{
     width: 100% !important;
     max-width: none !important;
 }
 
-.leo .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box{
+.citas-fecha-hora .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box{
     width: auto !important;
 }
+
+/* .cita-content > div:nth-child(2) */
 
 .mapa{
     border: 0 !important;
@@ -28,8 +25,6 @@
     padding: 20px;
     border-radius: 6px;
 }
-
-/**/
 
 .cita-formulario{
     width: 100%;
@@ -65,43 +60,18 @@
     cursor: pointer;
 }
 
-/**/
-
-.custom-datepicker {
-  width: 100%;
-  padding: 10px;
-  font-size: 15px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  background-color: white;
-  color: #333;
-}
-
-.react-datepicker {
-  font-family: 'Poppins', sans-serif;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+.react-datepicker{
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0 0 0 / 0.15);
 }
 
 .react-datepicker__time-container {
-  width: auto;
+    width: auto;
 }
 
-.react-datepicker__time {
-  background-color: white;
+.react-datepicker__time{
+    background: var(--white);
 }
-
-/* Estilo básico personalizado */
-.custom-datepicker {
-  padding: 10px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  font-size: 16px;
-}
-
-
-/**/
 
 @media screen and (max-width: 600px){
     .cita-content{
@@ -109,6 +79,6 @@
     }
 
     .mapa{
-        height: 200px;
+        height: 240px;
     }
 }

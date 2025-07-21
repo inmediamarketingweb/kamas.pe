@@ -131,6 +131,10 @@ option{
     border-radius: 6px;
 }
 
+.cursor-pointer{
+    cursor: pointer !important;
+}
+
 button{
     width: auto;
     border: 0;
