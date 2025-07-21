@@ -90,12 +90,11 @@ function Citas() {
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
                                 </div>
 
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1952.2138676078494!2d-77.03640125973622!3d-11.875275418653773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105d1689f283b6d%3A0x2cdabc049c86b46!2sKamas!5e0!3m2!1ses!2spe!4v1753115233464!5m2!1ses!2spe" width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe className='mapa' src="https://surl.li/qvlpsb" width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
 
-                            <div className='d-flex-column gap-10'>
-                                <p className='title'>Agenda una cita</p>
-                                <p className='text'>... con <b className='color-color-1 font-bold'>cita previa.</b></p>
+                            <div className='d-flex-column gap-20'>
+                                <p className='block-title color-white'>Agenda una cita</p>
                                 <form className='cita-formulario d-flex-column gap-20' onSubmit={handleSubmit}>
                                     <fieldset>
                                         <span>Nombres<b className='color-red'>*</b></span>
@@ -128,7 +127,7 @@ function Citas() {
                                             locale={es}
                                             timeCaption="Hora"
                                             monthCaption="Mes"
-                                            calendarClassName='leo'
+                                            calendarClassName='citas-fecha-hora cursor-pointer'
                                         />
                                         {mensajeError && (
                                             <p className="color-red font-13">{mensajeError}</p>
