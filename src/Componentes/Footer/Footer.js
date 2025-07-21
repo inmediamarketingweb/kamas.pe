@@ -83,6 +83,11 @@ function Footer(){
                                 <p className='title'>Servicio al cliente</p>
                                 <ul className='footer-list'>
                                     <li>
+                                        <a href='/agendar-visita/' title='Agendar visita | Kamas'>
+                                            <p>Agendar visita</p>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='/servicio-al-cliente/costos-de-envio-por-zona/' title='Costos de envio por zona | Kamas'>
                                             <p>Costos de envío por zona</p>
                                         </a>

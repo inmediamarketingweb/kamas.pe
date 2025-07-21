@@ -1,17 +1,21 @@
-.mapa-block-container{
+/* .mapa-block-container{
     background: var(--color-1);
-}
-
-.cita-content > div:nth-child(1) img{
-    width: 100%;
-    max-width: 320px;
-}
+} */
 
 .cita-content{
     /* background: orange; */
     display: grid;
-    grid-template-columns: 1fr 400px;
+    grid-template-columns: 1fr 420px;
     gap: 20px;
+}
+
+.leo{
+    width: 100% !important;
+    max-width: none !important;
+}
+
+.leo .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box{
+    width: auto !important;
 }
 
 .mapa{
@@ -20,7 +24,7 @@
 }
 
 .cita-content > div:nth-child(2){
-    background: var(--white);
+    background: var(--color-1);
     padding: 20px;
     border-radius: 6px;
 }
@@ -60,6 +64,42 @@
 .cita-formulario fieldset input[type="date"]{
     cursor: pointer;
 }
+
+/**/
+
+.custom-datepicker {
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: #333;
+}
+
+.react-datepicker {
+  font-family: 'Poppins', sans-serif;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.react-datepicker__time-container {
+  width: auto;
+}
+
+.react-datepicker__time {
+  background-color: white;
+}
+
+/* Estilo básico personalizado */
+.custom-datepicker {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
 
 /**/
 
