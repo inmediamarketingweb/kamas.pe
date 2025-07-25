@@ -1,0 +1,528 @@
+[
+    {
+        "categoria": "colchones",
+        "filtros":[
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "queen"
+                    },
+                    {
+                        "tamaño": "king"
+                    }
+                ]
+            },
+            {
+                "línea-de-colchón":[
+                    {
+                        "línea-de-colchón": "semi ortopédicos"
+                    },
+                    {
+                        "línea-de-colchón": "anátomicos"
+                    },
+                    {
+                        "línea-de-colchón": "ortopédicos"
+                    },
+                    {
+                        "línea-de-colchón": "súper ortopédicos"
+                    },
+                    {
+                        "línea-de-colchón": "hoteleros"
+                    },
+                    {
+                        "línea-de-colchón": "extra ortopédicos"
+                    }
+                ]
+            },
+            {
+                "nivel-de-confort":[
+                    {
+                        "nivel-de-confort": "confortable"
+                    },
+                    {
+                        "nivel-de-confort": "intermedio"
+                    },
+                    {
+                        "nivel-de-confort": "muy confortable"
+                    },
+                    {
+                        "nivel-de-confort": "firme"
+                    },
+                    {
+                        "nivel-de-confort": "muy firme"
+                    }
+                ]
+            },
+            {
+                "modelo-de-colchón":[
+                    {
+                        "modelo-de-colchón": "adel"
+                    },
+                    {
+                        "modelo-de-colchón": "rucay"
+                    },
+                    {
+                        "modelo-de-colchón": "sarki"
+                    },
+                    {
+                        "modelo-de-colchón": "safynnte"
+                    },
+                    {
+                        "modelo-de-colchón": "der prinz"
+                    },
+                    {
+                        "modelo-de-colchón": "thameo pocket"
+                    },
+                    {
+                        "modelo-de-colchón": "ramat"
+                    },
+                    {
+                        "modelo-de-colchón": "nesie"
+                    },
+                    {
+                        "modelo-de-colchón": "norole"
+                    },
+                    {
+                        "modelo-de-colchón": "thaleo Pocket"
+                    },
+                    {
+                        "modelo-de-colchón": "konig"
+                    },
+                    {
+                        "modelo-de-colchón": "yurmale"
+                    }
+                ]
+            },
+            {
+                "tipo-de-resorte":[
+                    {
+                        "tipo-de-resorte": "bonell"
+                    },
+                    {
+                        "tipo-de-resorte": "pocket"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "camas box tarimas",
+        "filtros":[
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "queen"
+                    },
+                    {
+                        "tamaño": "king"
+                    }
+                ]
+            },
+            {
+                "línea":[
+                    {
+                        "línea": "clásica"
+                    },
+                    {
+                        "línea": "americana"
+                    },
+                    {
+                        "línea": "europea"
+                    },
+                    {
+                        "línea": "premium"
+                    }
+                ]
+            },
+            {
+                "cajones":[
+                    {
+                        "cajones": "si"
+                    },
+                    {
+                        "cajones": "no"
+                    }
+                ]
+            },
+            {
+                "base-encajonada":[
+                    {
+                        "base-encajonada": "si"
+                    },
+                    {
+                        "base-encajonada": "no"
+                    }
+                ]
+            },
+            {
+                "tipo-de-cabecera":[
+                    {
+                        "tipo-de-cabecera": "aérea"
+                    },
+                    {
+                        "tipo-de-cabecera": "aérea con patas"
+                    },
+                    {
+                        "tipo-de-cabecera": "pedestal"
+                    }
+                ]
+            },
+            {
+                "diseño-de-cabecera":[
+                    {
+                        "diseño-de-cabecera": "intantil"
+                    },
+                    {
+                        "diseño-de-cabecera": "clásica"
+                    },
+                    {
+                        "diseño-de-cabecera": "americana"
+                    },
+                    {
+                        "diseño-de-cabecera": "con marco"
+                    },
+                    {
+                        "diseño-de-cabecera": "corona"
+                    },
+                    {
+                        "diseño-de-cabecera": "bloques"
+                    },
+                    {
+                        "diseño-de-cabecera": "otras formas"
+                    }
+                ]
+            },
+            {
+                "brazos-de-cabecera":[
+                    {
+                        "brazos-de-cabecera": "sin brazos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos rectos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos curvos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos p"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos seahorse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "dormitorios",
+        "filtros":[
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "queen"
+                    },
+                    {
+                        "tamaño": "king"
+                    }
+                ]
+            },
+            {
+                "línea":[
+                    {
+                        "línea": "clásica"
+                    },
+                    {
+                        "línea": "americana"
+                    },
+                    {
+                        "línea": "europea"
+                    },
+                    {
+                        "línea": "premium"
+                    }
+                ]
+            },
+            {
+                "modelo-de-colchón":[
+                    {
+                        "modelo-de-colchón": "adel"
+                    },
+                    {
+                        "modelo-de-colchón": "rucay"
+                    },
+                    {
+                        "modelo-de-colchón": "sarki"
+                    },
+                    {
+                        "modelo-de-colchón": "safynnte"
+                    },
+                    {
+                        "modelo-de-colchón": "der prinz"
+                    },
+                    {
+                        "modelo-de-colchón": "thameo pocket"
+                    },
+                    {
+                        "modelo-de-colchón": "ramat"
+                    },
+                    {
+                        "modelo-de-colchón": "nesie"
+                    },
+                    {
+                        "modelo-de-colchón": "norole"
+                    },
+                    {
+                        "modelo-de-colchón": "thaleo Pocket"
+                    },
+                    {
+                        "modelo-de-colchón": "konig"
+                    },
+                    {
+                        "modelo-de-colchón": "yurmale"
+                    }
+                ]
+            },
+            {
+                "cajones":[
+                    {
+                        "cajones": "si"
+                    },
+                    {
+                        "cajones": "no"
+                    }
+                ]
+            },
+            {
+                "base-encajonada":[
+                    {
+                        "base-encajonada": "si"
+                    },
+                    {
+                        "base-encajonada": "no"
+                    }
+                ]
+            },
+            {
+                "tipo-de-cabecera":[
+                    {
+                        "tipo-de-cabecera": "aérea"
+                    },
+                    {
+                        "tipo-de-cabecera": "aérea con patas"
+                    },
+                    {
+                        "tipo-de-cabecera": "pedestal"
+                    }
+                ]
+            },
+            {
+                "diseño-de-cabecera":[
+                    {
+                        "diseño-de-cabecera": "intantil"
+                    },
+                    {
+                        "diseño-de-cabecera": "clásica"
+                    },
+                    {
+                        "diseño-de-cabecera": "americana"
+                    },
+                    {
+                        "diseño-de-cabecera": "con marco"
+                    },
+                    {
+                        "diseño-de-cabecera": "corona"
+                    },
+                    {
+                        "diseño-de-cabecera": "bloques"
+                    },
+                    {
+                        "diseño-de-cabecera": "otras formas"
+                    }
+                ]
+            },
+            {
+                "brazos-de-cabecera":[
+                    {
+                        "brazos-de-cabecera": "sin brazos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos rectos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos curvos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos p"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos seahorse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "camas funcionales",
+        "filtros":[
+            {
+                "subcategoría":[
+                    {
+                        "subcategoría": "box espacio",
+                        "colchón":[
+                            {
+                                "colchón": "si"
+                            },
+                            {
+                                "colchón": "no"
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoría": "box con baúl"
+                    },
+                    {
+                        "subcategoría": "divanes"
+                    },
+                    {
+                        "subcategoría": "camarotes"
+                    },
+                    {
+                        "subcategoría": "cunas"
+                    },
+                    {
+                        "subcategoría": "camas funcionales"
+                    }
+                ]
+            },
+            {
+                "línea":[
+                    {
+                        "línea": "clásica"
+                    },
+                    {
+                        "línea": "americana"
+                    },
+                    {
+                        "línea": "europea"
+                    },
+                    {
+                        "línea": "premium"
+                    }
+                ]
+            },
+            {
+                "cajones":[
+                    {
+                        "cajones": "si"
+                    },
+                    {
+                        "cajones": "no"
+                    }
+                ]
+            },
+            {
+                "base-encajonada":[
+                    {
+                        "base-encajonada": "si"
+                    },
+                    {
+                        "base-encajonada": "no"
+                    }
+                ]
+            },
+            {
+                "tipo-de-cabecera":[
+                    {
+                        "tipo-de-cabecera": "aérea"
+                    },
+                    {
+                        "tipo-de-cabecera": "aérea con patas"
+                    },
+                    {
+                        "tipo-de-cabecera": "pedestal"
+                    }
+                ]
+            },
+            {
+                "diseño-de-cabecera":[
+                    {
+                        "diseño-de-cabecera": "intantil"
+                    },
+                    {
+                        "diseño-de-cabecera": "clásica"
+                    },
+                    {
+                        "diseño-de-cabecera": "americana"
+                    },
+                    {
+                        "diseño-de-cabecera": "con marco"
+                    },
+                    {
+                        "diseño-de-cabecera": "corona"
+                    },
+                    {
+                        "diseño-de-cabecera": "bloques"
+                    },
+                    {
+                        "diseño-de-cabecera": "otras formas"
+                    }
+                ]
+            },
+            {
+                "brazos-de-cabecera":[
+                    {
+                        "brazos-de-cabecera": "sin brazos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos rectos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos curvos"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos p"
+                    },
+                    {
+                        "brazos-de-cabecera": "brazos seahorse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "cabeceras"
+    },
+    {
+        "categoria": "sofás"
+    },
+    {
+        "categoria": "complementos"
+    }
+]

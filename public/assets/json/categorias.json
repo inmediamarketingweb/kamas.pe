@@ -1,0 +1,116 @@
+{
+    "categorias":[
+        {
+            "colchones":[
+                {
+                    "metatitulo": "Colchones | Kamas",
+                    "link-principal": "/productos/colchones/",
+                    "link-ofertas": "/productos/colchones/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=colchones",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://hiraoka.com.pe/media/mageplaza/blog/post/t/i/tipos_de_colchones-que_colchon_debo_elegir.jpg?utm_source=Soicos&utm_medium=AFL&utm_campaign=PE_SO_AON_AFL_Soicos_CSV_All&utm_term=2504521017&soicos_clickid=2504521017",
+                    "foto-1-alt": "",
+                    "foto-2": "https://hiraoka.com.pe/media/mageplaza/blog/post/t/i/tipos_de_colchones-que_colchon_debo_elegir.jpg?utm_source=Soicos&utm_medium=AFL&utm_campaign=PE_SO_AON_AFL_Soicos_CSV_All&utm_term=2504521017&soicos_clickid=2504521017",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "camas-box-tarimas":[
+                {
+                    "metatitulo": "Camas box tarimas | Kamas",
+                    "link-principal": "/productos/camas-box-tarimas/",
+                    "link-ofertas": "/productos/camas-box-tarimas/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=camas-box-tarimas",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://ohbaby.pe/wp-content/uploads/2022/04/Box-tarima-4.png",
+                    "foto-1-alt": "",
+                    "foto-2": "https://ohbaby.pe/wp-content/uploads/2022/04/Box-tarima-4.png",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "dormitorios":[
+                {
+                    "metatitulo": "Dormitorios | Kamas",
+                    "link-principal": "/productos/dormitorios/",
+                    "link-ofertas": "/productos/dormitorios/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=dormitorios",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://enzomuebles.com/wp-content/uploads/2025/01/tendencias-en-dormitorios-2025.jpg",
+                    "foto-1-alt": "",
+                    "foto-2": "https://enzomuebles.com/wp-content/uploads/2025/01/tendencias-en-dormitorios-2025.jpg",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "camas-funcionales":[
+                {
+                    "metatitulo": "Camas funcionales | Kamas",
+                    "link-principal": "/productos/camas-funcionales/",
+                    "link-ofertas": "/productos/camas-funcionales/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=camas-funcionales",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://casaflorez.pe/wp-content/uploads/2025/04/D_NQ_NP_742106-MPE45378026966_032021-O.webp",
+                    "foto-1-alt": "",
+                    "foto-2": "https://casaflorez.pe/wp-content/uploads/2025/04/D_NQ_NP_742106-MPE45378026966_032021-O.webp",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "cabeceras":[
+                {
+                    "metatitulo": "Cabeceras | Kamas",
+                    "link-principal": "/productos/cabeceras/",
+                    "link-ofertas": "/productos/cabeceras/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=cabeceras",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://decoshadesperu.com/wp-content/uploads/2020/08/NOX-cabecera-1070x669.jpg",
+                    "foto-1-alt": "",
+                    "foto-2": "https://decoshadesperu.com/wp-content/uploads/2020/08/NOX-cabecera-1070x669.jpg",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "sofás":[
+                {
+                    "metatitulo": "Colchones | Kamas",
+                    "link-principal": "/productos/sofas/",
+                    "link-ofertas": "/productos/sofas/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=sofás",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://cdn.shopify.com/s/files/1/0781/8425/1702/files/Micadoni-MIC_UL_100_F1_RUBY1-BG_2400x1796_crop_center.jpg?v=1752656420",
+                    "foto-1-alt": "",
+                    "foto-2": "https://cdn.shopify.com/s/files/1/0781/8425/1702/files/Micadoni-MIC_UL_100_F1_RUBY1-BG_2400x1796_crop_center.jpg?v=1752656420",
+                    "foto-2-alt": ""
+                }
+            ]
+        },
+        {
+            "complementos":[
+                {
+                    "metatitulo": "Complementos | Kamas",
+                    "link-principal": "/productos/complementos/",
+                    "link-ofertas": "/productos/complementos/",
+                    "link-solo-por-horas": "/ofertas/solo-por-horas/?categoria=complementos",
+                    "icono-1": "",
+                    "icono-1-alt": "",
+                    "foto-1": "https://promart.vteximg.com.br/arquivos/ids/6811599-1000-1000/image-f6271f86efe240baa0db44f19ec024a5.jpg?v=638138338368400000",
+                    "foto-1-alt": "",
+                    "foto-2": "https://promart.vteximg.com.br/arquivos/ids/6811599-1000-1000/image-f6271f86efe240baa0db44f19ec024a5.jpg?v=638138338368400000",
+                    "foto-2-alt": ""
+                }
+            ]
+        }
+    ]
+}
