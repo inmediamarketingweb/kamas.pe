@@ -1,8 +1,7 @@
 .slider-general-container{
-    background: var(--color-2);
     width: 100%;
+    max-width: var(--container-mx-width);
     margin: 0 auto;
-    max-width: 2000px;
 }
 
 .slider-general-container > img{
@@ -33,7 +32,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: var(--color-2);
+    /* background: var(--color-2); */
 }
 
 .slider-container::-webkit-scrollbar{
@@ -41,7 +40,7 @@
 }
 
 .slider{
-    width: 600%;
+    width: 500%;
     height: 100%;
     display: flex;
     transition: all 500ms ease-in-out;
@@ -51,16 +50,92 @@
     width: 100%;
     height: 100%;
     display: flex;
+    position: relative;
 }
+
+/* .slider li:nth-child(1)::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background: #DC1424;
+    z-index: 0;
+}
+
+.slider li:nth-child(2)::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background: #54041c;
+    z-index: 0;
+}
+
+.slider li:nth-child(2)::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background: #f4f4f4;
+    z-index: 0;
+}
+
+.slider li:nth-child(3)::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background: #f7f7f7;
+    z-index: 0;
+}
+
+.slider li:nth-child(3)::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background: #e9e9e7;
+    z-index: 0;
+}
+
+.slider li:nth-child(4)::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background: #5698eb;
+    z-index: 0;
+} */
 
 .slider li a{
     width: 100%;
     height: 100%;
     display: flex;
+    z-index: 1;
 }
 
 .slider li img{
+    margin: auto;
     width: 100%;
+    max-width: var(--container-mx-width);
     height: 100%;
     object-fit: cover;
 }
@@ -76,6 +151,7 @@
     height: 48px;
     border-radius: 100%;
     background: var(--color-1);
+    z-index: 10;
 }
 
 .hero-slider-button span{
@@ -102,7 +178,7 @@
     }
 
     .slider{
-        width: 600%;
+        width: 500%;
         display: flex;
         transition: var(--t-200ms-linear);
     }
