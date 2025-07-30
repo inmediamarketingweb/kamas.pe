@@ -6,7 +6,7 @@ import Slider from './Componentes/Slider/Slider';
 import Categorias from './Componentes/Categorias/Categorias';
 import SoloPorHoras from './Componentes/SoloPorHoras/SoloPorHoras';
 import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
-import Ofertas from './Componentes/Ofertas/Ofertas';
+// import Ofertas from './Componentes/Ofertas/Ofertas';
 import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
 import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
 import ModalDatos from './Componentes/ModalDatos/ModalDatos';
@@ -38,17 +38,18 @@ function PaginaPrincipal(){
 
             <Header/>
 
-            <main>
+            <main className='main-pagina-principal d-flex-column gap-10'>
                 <Slider/>
 
                 <Categorias/>
+
                 {/* <CategoriasNew/> */}
 
-                <SoloPorHoras/>
-
                 <UltimasNovedades/>
+
+                <SoloPorHoras/>
                 
-                <Ofertas/>
+                {/* <Ofertas/> */}
 
                 <Promocion/>
 

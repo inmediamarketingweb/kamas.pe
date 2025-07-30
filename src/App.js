@@ -11,7 +11,6 @@ import Productos from './Paginas/Productos/Productos';
 import PaginaDeCategoria from "./Paginas/Categorias/PaginaDeCategoria";
 import PaginaProducto from './Paginas/PaginaProducto/PaginaProducto';
 import SoloPorHoras from "./Paginas/SoloPorHoras/SoloPorHoras";
-import Ofertas from "./Paginas/Ofertas/Ofertas";
 
 //Página para productos favoritos en localstorage
 import Favoritos from "./Paginas/Favoritos/Favoritos";
@@ -79,11 +78,7 @@ function App(){
 
                     <Route path="/productos/*" element={<PaginaProducto/>} />
 
-                    <Route path="/ofertas/" element={<Ofertas/>} />
-                    <Route path="/ofertas/*" element={<PaginaProducto/>} />
-
-                    <Route path="/ofertas/solo-por-horas/" element={<SoloPorHoras/>} />
-                    <Route path="/ofertas/solo-por-horas/*" element={<PaginaProducto/>} />
+                    <Route path="/ofertas/" element={<SoloPorHoras/>} />
 
                     <Route path="/mis-favoritos/" element={<Favoritos/>} />
 

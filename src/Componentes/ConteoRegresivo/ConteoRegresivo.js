@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 
-function ConteoRegresivo({ onExpire }) {
-    const defaultTargetDate = new Date('2025-07-28T00:00:00');
-    const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
+import './ConteoRegresivo.css';
 
+function ConteoRegresivo({ onExpire }){
+    const defaultTargetDate = new Date('2025-08-05T00:00:00');
+    const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
     const format = (num) => String(num).padStart(2, '0');
 
     useEffect(() => {
@@ -25,11 +26,10 @@ function ConteoRegresivo({ onExpire }) {
                 seconds: diffInSec % 60,
             });
         }, 1000);
-
         return () => clearInterval(interval);
     }, [onExpire]);
 
-    return (
+    return(
         <div className="sale-time">
             <div className="sale-time-days">
                 <span>{format(timeLeft.days)}</span>

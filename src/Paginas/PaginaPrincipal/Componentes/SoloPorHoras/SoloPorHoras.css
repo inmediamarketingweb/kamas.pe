@@ -1,225 +1,213 @@
-.block-content-sale{
-    background: #121212;
-    border-radius: 10px;
+.block-content-solo-por-horas{
+    background: #222;
     padding: 20px;
-    position: relative;
-}
-
-.block-content-sale .block-title-container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 40px;
-}
-
-.block-content-sale .block-title-container .block-title{
-    margin: unset;
-    color: var(--white);
-}
-
-.sale-time{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-}
-
-.sale-time div{
-    position: relative;
-    width: 48px;
-    height: 64px;
-    background: crimson;
     border-radius: 6px;
-    display: flex;
+}
+
+.block-content-solo-por-horas .block-title-container{
+    width: 100%;
+    margin-right: auto;
+    display: flex !important;
     align-items: center;
-    justify-content: center;
-    font-weight: bold;
+    justify-content: space-between !important;
+    position: relative;
+    margin-bottom: 0 !important;
 }
 
-.sale-time div span{
-    font-weight: bold;
+.block-content-solo-por-horas .block-title-container .block-title{
+    width: auto !important;
     color: var(--white);
 }
 
-.sale-time div p{
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    translate: -50% 0;
-    color: var(--white);
-    font-size: 13px;
+.block-content-solo-por-horas .block-title-container .sale-time{
+    margin-left: auto;
 }
 
-/**/
-
-.sale-products-container{
+.block-content-solo-por-horas > ul{
     width: 100%;
-    overflow-x: scroll;
-    cursor: grabbing;
-}
-
-.sale-products-container.dragging{
-    cursor: -webkit-grabbing;
-    scroll-behavior: auto !important;
-    user-select: none;
-}
-
-.sale-products-container::-webkit-scrollbar{
-    display: none;
-}
-
-.block-content-sale .product-card-discount{
-    background: crimson;
-}
-
-.sale-products-content{
-    width: auto;
-}
-
-.sale-products{
-    width: 100%;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
     gap: 10px;
 }
 
-.sale-products li{
+.block-content-solo-por-horas > ul > li{
+    width: 100%;
+    height: 100%;
     display: flex;
-}
-
-.sale-products li .product-card{
-    max-width: none;
-    border: 2px solid #121212;
-    width: 280px;
     background: var(--white);
+    border-radius: 6px;
+    overflow: hidden;
 }
 
-.sale-products li .product-card:hover{
-    border: 2px solid crimson !important;
+.block-content-solo-por-horas > ul > li:nth-child(1){
+    grid-column: 1/2;
+    grid-row: 1/2;
 }
 
-.product-card-stock{
-    position: absolute;
-    bottom: 100%;
-    right: 20px;
+.block-content-solo-por-horas > ul > li:nth-child(2){
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+.block-content-solo-por-horas > ul > li:nth-child(3){
+    grid-column: 2/3;
+    grid-row: 1/3;
+}
+
+.block-content-solo-por-horas > ul > li:nth-child(4){
+    grid-column: 3/5;
+    grid-row: 1/2;
+}
+
+.block-content-solo-por-horas > ul > li:nth-child(7){
+    grid-column: 5/6;
+    grid-row: 1/3;
+}
+
+.block-content-solo-por-horas > ul > li .product-card{
+    background: var(--white);
+    width: 100%;
+    height: 100%;
     display: flex;
-    align-items: center;
-    justify-content: right;
-    display: flex;
+    flex-direction: column;
+    border-radius: 0 !important;
+    border: none !important;
 }
 
-.product-card-stock span{
-    background: crimson;
-    padding: 3px 8px;
-    border-radius: 3px;
+.block-content-solo-por-horas > ul li .product-card:hover{
+    border: none !important;
 }
 
-.product-card-stock span,
-.product-card-stock span b{
-    color: var(--white);
-    font-size: 12px;
-    /* font-weight: bold; */
+.block-content-solo-por-horas > ul li .product-card .product-card-image img{
+    width: 100%;
 }
 
-.block-content-sale > .d-flex > .block-title-buttons button{
-    background: crimson !important;
-}
-
-.sale-products .product-card-sale-price{
-    color: crimson !important;
-}
-
-/**/
-
-.sale-products-content{
+.product-card-image-container{
+    width: 100%;
+    height: 200px;
     position: relative;
 }
 
-/**/
-
-.solo-por-horas-button{
+.product-card-image-container .descuento{
     position: absolute;
-    bottom: 183px;
-    width: 48px;
-    height: 48px;
+    left: 10px;
+    top: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 100%;
-    background: crimson;
-    z-index: 10;
+    font-weight: bold;
+    color: crimson;
+    font-size: 24px;
 }
 
-.solo-por-horas-button-1{
-    left: 10px;
-}
-
-.solo-por-horas-button-2{
-    right: 10px;
-}
-
-.solo-por-horas-button span{
-    color: var(--white);
-}
-
-/**/
-
-.product-card.expired{
-    position: relative;
-}
-
-.product-card.expired::before{
-    content: 'La promoción terminó';
+.product-card-image-container .tipo-de-envio{
     position: absolute;
-    left: 0;
-    top: 50%;
-    translate: 0 -50%;
+    right: 10px;
+    bottom: 10px;
+    background: orange;
+    padding: 4px 8px !important;
+    border: 0 !important;
+    font-weight: bold;
+    background: #dcfcdc;
+    font-size: 14px;
+    color: green;
+    border-radius: 100px !important;
+}
+
+.product-card-image-container .tipo-de-envio:hover{
+    background: 0 !important;
+    border: 0 !important;
+}
+
+.product-card-image-slider{
     width: 100%;
-    text-align: center;
-    background: crimson;
-    padding: 16px 0;
-    color: var(--white);
-    z-index: 1;
-    filter: grayscale(0) !important;
+    height: 100%;
+    overflow: hidden;
 }
 
-.product-card.expired .product-card-images,
-.product-card.expired .product-card-content{
-    filter: grayscale(1);
+.product-card-image-slides{
+    width: 200%;
+    height: 100%;
+    display: flex;
 }
 
-/**/
+.product-card-image-slides li{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.product-card-image-slides li img{
+    margin: auto;
+    display: flex;
+    width: 80%;
+    max-width: 180px;
+    aspect-ratio: 1/1;
+}
+
+.block-content-solo-por-horas > ul li .product-card > div:nth-child(2){
+    width: 100%;
+    height: calc(100% - 200px);
+    padding: 0 10px 10px 10px;
+}
+
+.block-content-solo-por-horas > ul li .product-card > div:nth-child(2) p.title{
+    font-size: 16px;
+    color: var(--text);
+}
+
+.block-content-solo-por-horas .product-card .product-card-content .product-card-ofert{
+    position: unset;
+    margin-left: auto;
+}
 
 @media screen and (max-width: 600px){
-    .block-title-container{
-        flex-direction: column;
-        gap: 20px;
+    .block-content-solo-por-horas > ul{
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-template-rows: repeat(5, auto) !important;
     }
 
-    .block-content-sale .block-title-container{
-        margin-bottom: 40px;
-    }
-    
-    .sale-products-container{
-        padding-bottom: 20px;
+    .block-content-solo-por-horas > ul > li:nth-child(1){
+        grid-column: 1/2;
+        grid-row: 2/3;
     }
 
-    .sale-products-container::-webkit-scrollbar{
-        display: unset;
-        background: rgba(235 235 235 / 0.75);
-        border-radius: 10px;
-        height: 4px;
+    .block-content-solo-por-horas > ul > li:nth-child(2){
+        grid-column: 2/3;
+        grid-row: 2/3;
     }
 
-    .product-card-stock{
-        right: 10px;
+    .block-content-solo-por-horas > ul > li:nth-child(3){
+        grid-column: 1/-1;
+        grid-row: 1/2;
     }
 
-    .solo-por-horas-button{
-        bottom: 185px;
+    .block-content-solo-por-horas > ul > li:nth-child(3) .product-card{
+        flex-direction: row;
     }
 
-    .sale-products-container::-webkit-scrollbar-thumb{
-        background: crimson;
-        border-radius: 10px;
+    .block-content-solo-por-horas > ul > li:nth-child(4){
+        grid-column: 1/-1;
+        grid-row: 3/4;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(5){
+        grid-column: 1/2;
+        grid-row: 4/5;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(6){
+        grid-column: 2/3;
+        grid-row: 4/5;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(7){
+        grid-column: 1/-1;
+        grid-row: 5/6;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(7) .product-card{
+        flex-direction: row;
     }
 }

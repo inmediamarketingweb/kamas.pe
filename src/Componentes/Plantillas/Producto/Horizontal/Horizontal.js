@@ -1,12 +1,12 @@
 import PropTypes from 'prop-types';
 import { useEffect, useState } from "react";
 
-import './Producto.css';
-import './CSS/Favorite.css';
+import './Horizontal.css';
+import '../CSS/Favorite.css';
 
-import LazyImage from '../LazyImage';
+import LazyImage from '../../LazyImage';
 
-export function Producto({ producto = { id: null } , truncate }){
+export function Horizontal({ producto = { id: null } , truncate }){
     const [favorites, setFavorites] = useState([]);
     const [secondImageError, setSecondImageError] = useState(false);
     const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
@@ -40,8 +40,8 @@ export function Producto({ producto = { id: null } , truncate }){
     const imageSize = isSmallScreen ? 140 : 200;
 
     return(
-        <li className='product-card-li'>
-            <div className={`product-card ${producto.stock === 0 ? "agotado" : ""}`}>
+        <li>
+            <div className={`product-card-hori ${producto.stock === 0 ? "agotado" : ""}`}>
                 <div className="product-card-images">
                     {descuento > 0 && (
                         <span className="product-card-discount">-{descuento}%</span>
@@ -106,7 +106,7 @@ export function Producto({ producto = { id: null } , truncate }){
 
                     <div className='d-flex-column'>
                         <span className="product-card-brand">KAMAS</span>
-                        <h4 className="product-card-name">{truncate(producto.nombre, 56)}</h4>
+                        <h4 className="product-card-name">{truncate(producto.nombre, 48)}</h4>
                     </div>
 
                     <div className='d-flex-center-left margin-right product-card-separar'>
@@ -127,7 +127,7 @@ export function Producto({ producto = { id: null } , truncate }){
     );
 }
 
-Producto.propTypes = {
+Horizontal.propTypes = {
     producto: PropTypes.shape({
         id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
         nombre: PropTypes.string.isRequired,
