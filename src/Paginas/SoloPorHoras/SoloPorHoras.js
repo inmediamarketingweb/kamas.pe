@@ -1,140 +1,122 @@
-import { useEffect, useState } from "react";
-import { Helmet } from "react-helmet-async";
-import { v4 as uuidv4 } from "uuid";
-
-import Header from "../../Componentes/Header/Header";
-import ConteoRegresivo from "../../Componentes/ConteoRegresivo/ConteoRegresivo";
-import LazyImage from '../../Componentes/Plantillas/LazyImage';
-import Footer from "../../Componentes/Footer/Footer";
+import { useEffect, useState } from 'react';
+import { Helmet } from 'react-helmet-async';
+import { useLocation } from 'react-router-dom';
 
 import './SoloPorHoras.css';
 
-function SoloPorHoras() {
+import Header from '../../Componentes/Header/Header';
+import Categorias from './Componentes/Categorias/Categorias';
+import Filtros from '../../Componentes/Plantillas/Filtros/Filtros';
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
+import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
+import Footer from '../../Componentes/Footer/Footer';
+
+function SoloPorHoras(){
+    const [filtrosPrecio, setFiltrosPrecio] = useState([]);
     const [productos, setProductos] = useState([]);
-    const [expired, setExpired] = useState(false);
+    const location = useLocation();
+    const searchParams = new URLSearchParams(location.search);
+    const categoriaParam = searchParams.get('categoria');
+    const categoria = categoriaParam ? categoriaParam.replace(/-/g, ' ') : null;
+    const detallesParam = searchParams.get('detalles-del-producto');
+    const detalles = detallesParam ? JSON.parse(detallesParam) : {};
 
     useEffect(() => {
-        fetch("/assets/json/manifest.json")
-            .then((response) => response.json())
-            .then((data) => {
-                const files = data.files || [];
-                const filePromises = files.map((fileUrl) =>
-                    fetch(fileUrl)
-                        .then((res) => res.json())
-                        .catch(() => ({ productos: [] }))
-                );
+        const cargarProductos = async () => {
+            try{
+                const manifestResponse = await fetch('/assets/json/manifest.json');
+                const manifestData = await manifestResponse.json();
+                const archivos = manifestData.files || [];
+                const productosPromesas = archivos.map(async (url) => {
+                    const response = await fetch(url);
+                    const data = await response.json();
+                    return data.productos.filter(p => p["solo-por-horas"] === "si");
+                });
 
-                Promise.all(filePromises)
-                    .then((results) => {
-                        const allProducts = results.reduce((acc, curr) => {
-                            if (Array.isArray(curr.productos)) {
-                                return acc.concat(curr.productos);
-                            }
-                            return acc;
-                        }, []);
+                const productosPorArchivo = await Promise.all(productosPromesas);
+                const productosFiltrados = productosPorArchivo.flat();
 
-                        const productosSoloPorHoras = allProducts.filter(
-                            (producto) => producto["solo-por-horas"] === "si"
-                        );
-                        setProductos(productosSoloPorHoras);
-                    })
-                    .catch((error) => {
-                        console.error(
-                            "Error al combinar archivos de productos:",
-                            error
-                        );
-                        setProductos([]);
-                    });
-            })
-            .catch((error) => {
-                console.error("Error al cargar manifest.json:", error);
-                setProductos([]);
-            });
+                setProductos(productosFiltrados);
+            } catch (error) {
+                console.error("Error cargando productos:", error);
+            }
+        };
+
+        cargarProductos();
     }, []);
 
     const truncate = (str, maxLength) => {
-        if (str.length <= maxLength) return str;
-        return str.slice(0, maxLength) + "...";
+        return str.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str;
     };
 
-    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+    const productosFiltrados = productos.filter(producto => {
+        if (categoria && producto.categoria !== categoria) {
+            return false;
+        }
+        for (const [key, value] of Object.entries(detalles)) {
+            const valorBuscado = value.replace(/-/g, ' ');
+            const detalleEncontrado = producto['detalles-del-producto'].some(detalle => {
+                return detalle[key] === valorBuscado;
+            });
+            
+            if (!detalleEncontrado) {
+                return false;
+            }
+        }
+        if (filtrosPrecio.length > 0) {
+            const precio = parseFloat(producto.precioVenta);
+            const cumplePrecio = filtrosPrecio.some(rango => {
+                const [min, max] = rango.split('-').map(Number);
+                return precio >= min && precio <= max;
+            });
+            
+            if (!cumplePrecio) {
+                return false;
+            }
+        }
+        return true;
+    });
 
-    useEffect(() => {
-        const handleResize = () => {
-            setIsSmallScreen(window.innerWidth < 600);
-        };
-
-        window.addEventListener('resize', handleResize);
-
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
-    }, []);
-
-    return (
+    return(
         <>
             <Helmet>
-                <title>Ofertas - Solo por horas | Kamas</title>
+                <title>¡Ofertas ⏰! | Kamas</title>
                 <meta name="description" content="Descubre los mejores descuentos en productos solo por horas en Kamas." />
             </Helmet>
 
             <Header />
 
-            <main className="solo-por-horas-main d-flex-column">
-                <ConteoRegresivo onExpire={() => setExpired(true)} />
+            <main className="solo-por-horas-page-main d-flex-column">
+                <section className="block-container solo-por-horas-page-container">
+                    <div className="block-content solo-por-horas-page-content">
+                        <Categorias/>
 
-                <div className="block-container">
-                    <section className="block-content">
-                        {productos.length > 0 ? (
-                            <ul className="solo-por-horas-page-products">
-                                {productos.map((producto) => {
-                                    const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
-                                    const agotado = producto.stock === 0;
+                        <Filtros onCambiarPrecio={setFiltrosPrecio} />
 
-                                    return(
-                                        <li key={uuidv4()}>
-                                            <div className={`product-card ${ agotado ? "agotado" : "" }`} title={producto.nombre}>
-                                                <div className="product-card-images">
-                                                    {descuento > 0 && (
-                                                        <span className="product-card-discount">
-                                                            -{descuento}%
-                                                        </span>
-                                                    )}
+                        <div className='d-flex-column gap-10 solo-por-horas-productos'>
+                            <div className='d-flex-center-between banner-top-ofertas gap-20'>
+                                <div className='d-flex-column'>
+                                    <p className='block-title text-left color-white'>Cyber Kamas</p>
+                                    <p className='title color-white'>¡Aprovecha hasta el <b className='font-bold color-red'>35% de descuento</b> en dormitorios seleccionados! 🔥</p>
+                                </div>
 
-                                                    <a href={producto.ruta}>
-                                                        <LazyImage width={isSmallScreen ? 160 : 200} height={isSmallScreen ? 160 : 200} src={`${producto.fotos}/1.jpg`} alt={producto.nombre}/>
-                                                    </a>
-                                                </div>
+                                <ConteoRegresivo/>
+                            </div>
 
-                                                <a href={producto.ruta} className="product-card-content" >
-                                                    {producto[ "solo-por-horas" ] === "si" && (
-                                                        <div className="product-card-stock">
-                                                            {agotado ? (
-                                                                <span>Agotado 😥</span>
-                                                            ) : (
-                                                                <span>¡ Solo quedan{" "}<b>{producto.stock}</b>{" "}🔥 !</span>
-                                                            )}
-                                                        </div>
-                                                    )}
-
-                                                    <span className="product-card-brand">KAMAS</span>
-                                                    <h4 className="product-card-name">{truncate(producto.nombre, 62)}</h4>
-                                                    <div className="product-card-prices">
-                                                        <span className="product-card-regular-price">S/.{producto.precioRegular}</span>
-                                                        <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
-                                                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </li>
-                                    );
-                                })}
+                            <ul className="products-list">
+                                {productosFiltrados.length === 0 ? (
+                                    <div className='no-hay-productos d-flex-column w-100'>
+                                        <p className='text'>Lo sentimos, las ofertas para esta categoría se han agotado 😢</p>
+                                    </div>
+                                ) : (
+                                    productosFiltrados.map(producto => (
+                                        <Producto key={producto.sku} producto={producto} truncate={truncate} />
+                                    ))
+                                )}
                             </ul>
-                        ) : (
-                            <p>No hay ofertas disponibles.</p>
-                        )}
-                    </section>
-                </div>
+                        </div>
+                    </div>
+                </section>
             </main>
 
             <Footer />

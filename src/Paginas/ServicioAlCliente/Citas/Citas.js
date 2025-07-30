@@ -85,7 +85,7 @@ function Citas() {
                         <div className='cita-content'>
                             <div className='d-flex-column gap-20'>
                                 <div className='d-flex-column gap-10'>
-                                    <p className='block-title text-left color-color-1'>Agenda una cita con nosotros y descubre la variedad de productos y modelos que tenemos para ofrecerte</p>
+                                    <p className='block-title text-left color-color-1'>Agenda una visita con nosotros y descubre la variedad de productos y modelos que tenemos para ofrecerte</p>
                                     <p className='title'>En nuestra sala de exhibición podrás armar el dormitorio con el que tanto sueñas, contamos con alta variedad de modelos en box, colchones y más de 100 modelos en cabeceras que puedes escoger a tu gusto. </p>
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
                                 </div>
@@ -94,7 +94,7 @@ function Citas() {
                             </div>
 
                             <div className='d-flex-column gap-20'>
-                                <p className='block-title color-white'>Agenda una cita</p>
+                                <p className='block-title color-white'>Agenda una visita</p>
                                 <form className='cita-formulario d-flex-column gap-20' onSubmit={handleSubmit}>
                                     <fieldset>
                                         <span>Nombres<b className='color-red'>*</b></span>

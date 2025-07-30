@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import { v4 as uuidv4 } from "uuid";
 
-import SearchBar from '../SearchBar/SearchBar';
-
 import './Center.css';
+
+import Spinner from '../../../Elementos/Spinner/Spinner';
+import SearchBar from '../SearchBar/SearchBar';
 
 function Center(){
     const [categories, setCategories] = useState(null);
@@ -34,7 +35,11 @@ function Center(){
     }
 
     if(!categories){
-        return <div className="loading">Cargando menu...</div>;
+        return(
+            <div className="d-flex-center-center w-100 h-70-px bg-loading position-relative">
+                <Spinner/>
+            </div>
+        )
     }
 
     const handleCategoryClick = (categoryId) => {

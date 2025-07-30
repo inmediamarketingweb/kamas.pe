@@ -1,0 +1,112 @@
+.filtros-container{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+}
+
+.filtros-prices-container{
+    width: 100%;
+    padding: 20px 0;
+    border-top: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.filtros-prices-container > div > label{
+    cursor: pointer !important;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 5px;
+}
+
+.filtros-prices-container > div > label input{
+    width: 20px;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+.filtros-content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #D9D9D9;
+    /* padding-top: 20px; */
+}
+
+.filtros-content-categorias{
+    padding: 20px 0;
+}
+
+.filtros-content-categorias .filtro-items{
+    padding: 0 !important;
+}
+
+.filtros-content > div{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.filtro-top{
+    width: 100%;
+    /* height: 40px; */
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    position: relative;
+    transition: var(--t-200ms-linear);
+    gap: 20px;
+}
+
+.filtros-content > div:nth-child(1) > ul{
+    height: auto !important;
+    padding: 10px 0 !important;
+    padding-top: 0 !important;
+}
+
+.filtro-items{
+    display: flex;
+    width: 100%;
+    padding: 10px 0;
+    flex-wrap: wrap;
+    gap: 5px;
+    overflow: hidden;
+}
+
+.filtros-content > div:nth-last-child(1) > ul:nth-last-child(1){
+    padding-bottom: 0;
+}
+
+.filtro-items li button{
+    overflow: hidden;
+    border: 1px solid #D9D9D9;
+    padding: 4px 6px;
+    border-radius: 3px;
+    transition: var(--t-200ms-linear);
+}
+
+.filtro-items li button.active{
+    background: var(--color-2);
+    border: 1px solid var(--color-2);
+}
+
+.filtro-items li button.active:hover{
+    background: var(--color-2);
+}
+
+.filtro-items li button:hover{
+    background: #D9D9D9;
+}
+
+.filtro-items li button span{
+    font-size: 14px;
+    color: var(--text);
+}
+
+.filtro-items li button.active span{
+    color: var(--white);
+}

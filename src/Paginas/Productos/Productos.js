@@ -39,7 +39,7 @@ function Productos(){
 
     useEffect(() => {
         const loadAllData = async () => {
-            try {
+            try{
                 const manifestResponse = await fetch('/assets/json/manifest.json');
                 if (!manifestResponse.ok) throw new Error('Error al cargar manifest');
                 const manifestData = await manifestResponse.json();

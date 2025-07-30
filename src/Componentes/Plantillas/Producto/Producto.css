@@ -1,14 +1,21 @@
+.product-card-li{
+    width: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
 .product-card{
     display: flex;
-    width: 280px !important;
-    height: 380px;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background: var(--white);
+    border: 0 !important;
 }
 
 .product-card-images{
-    margin: 10px;
-    background: var(--white);
     display: flex;
-    width: calc(100% - 20px);
+    width: 100%;
     height: var(--product-card-images-height);
     position: relative;
     overflow: hidden;
@@ -16,99 +23,57 @@
 
 .product-card-discount{
     position: absolute;
-    left: 0;
-    top: 0;
-    background: var(--color-2);
-    font-size: 13px;
-    font-weight: bold;
+    left: 10px;
+    top: 10px;
+    font-size: 14px;
+    background: var(--color-1);
     color: var(--white);
-    padding: 3px 8px;
+    padding: 4px 8px;
     border-radius: 25px;
+    font-weight: bold;
     z-index: 2;
 }
 
-.product-card-images a{
+.product-card-images > a{
     display: flex;
     width: 100%;
     height: 100%;
     position: relative;
 }
 
-.product-card-images a img{
+.product-card-images > a img{
     position: absolute;
     left: 50%;
     top: 50%;
     translate: -50% -50%;
-    /* width: 80%; */
     max-width: 200px;
     height: auto;
-    /* height: 100%; */
     object-fit: contain;
     transition: var(--t-200ms-linear);
-    /* aspect-ratio: 1/1; */
     z-index: 0;
 }
 
-.product-card-images a img:nth-child(1){
+.product-card-images > a img:nth-child(1){
     z-index: 1;
 }
 
-.product-card:hover .product-card-images a img:nth-child(1){
+.product-card:hover .product-card-images > a img:nth-child(1){
     opacity: 0;
 }
 
-.product-card-images a img:nth-child(2){
+.product-card-images > a img:nth-child(2){
     z-index: 0;
-}
-
-/* .product-card:hover .product-card-images img{
-    scale: 1.25;
-} */
-
-.product-card-favorite,
-.remove-favorite{
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 32px;
-    height: 32px;
-    border-radius: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgb(153, 153, 153, 0.5);
-    transition: var(--t-200ms-linear);
-    z-index: 2;
-
-    opacity: 0;
-}
-
-.product-card:hover .product-card-images .product-card-favorite,
-.product-card.active .product-card-images .product-card-favorite{
-    opacity: 1;
-}
-
-.product-card-favorite span,
-.remove-favorite span{
-    color: var(--white);
-    font-size: 16px;
-}
-
-.product-card-favorite:hover,
-.product-card-favorite.active{
-    background: crimson;
-    opacity: 1;
 }
 
 .product-card-content{
     width: 100%;
     height: calc(100% - var(--product-card-images-height));
-    padding: 10px;
+    padding: 0 10px 10px 10px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
-    gap: 5px;
+    gap: 10px;
     position: relative;
 }
 
@@ -206,10 +171,84 @@
     color: white;
 }
 
+.product-card-separar{
+    display: flex;
+    gap: 3px;
+}
+
+.product-card-separar span{
+    aspect-ratio: 1/1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #2f74f5;
+}
+
+.product-card-separar p,
+.product-card-separar p b{
+    font-size: 15px;
+    color: #2f74f5;
+}
+
+.product-card-prices{
+    width: 100%;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product-card-prices > div p{
+    text-decoration: line-through !important;
+}
+
+.product-card-prices > div p:nth-child(1){
+    font-size: 16px;
+    color: var(--gray);
+}
+
+.product-card-prices > div p:nth-child(2){
+    font-size: 20px;
+    color: #FF0000;
+}
+
+.product-card-prices > p{
+    font-weight: bold;
+    font-size: 28px;
+    color: var(--color-1);
+}
+
+.product-card.agotado:hover{
+    border: 1px solid #FF0000;
+}
+
+.product-card-agotado{
+    background: #FF0000;
+}
+
+.product-card-agotado span{
+    color: var(--white);
+}
+
+.product-card-name{
+    font-size: 14px;
+    transition: var(--t-200ms-linear);
+    color: var(--text);
+}
+
+.product-card:hover .product-card-content .product-card-name{
+    color: var(--black);
+}
+
 @media screen and (max-width: 600px){
-    .product-card{
-        display: flex;
-        width: 260px !important;
-        height: 340px;
+    .product-card-prices > div p:nth-child(1){
+        font-size: 13px;
+    }
+    .product-card-prices > div p:nth-child(2){
+        font-size: 16px;
+    }
+    .product-card-prices > p{
+        font-size: 24px;
     }
 }

@@ -1,0 +1,30 @@
+.sale-time{
+    width: auto;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: var(--color-1);
+}
+
+.sale-time div{
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.sale-time div span{
+    font-size: 30px;
+    font-weight: bold;
+    color: var(--white);
+}
+
+.sale-time div p{
+    color: var(--white);
+    font-size: 12px;
+}

@@ -20,6 +20,7 @@
     --body: #FFFFFF;
 
     --white: #FFFFFF;
+    --component: #F6F6F6;
     --gray: #434343;
     --black: #000000;
 
@@ -29,7 +30,7 @@
     --f-size-small: 14px;
 
     --container-mx-width: 2000px;
-    --content-mx-width: 1500px;
+    --content-mx-width: 1440px;
 
     --t-100ms-linear: all 100ms linear;
     --t-200ms-linear: all 200ms linear;
@@ -41,6 +42,10 @@
     font-family: 'DM Sans';
     src: url('../public/assets/fonts/DM_Sans/DMSans.ttf') format('truetype');
     font-display: swap;
+}
+
+.material-icons{
+    line-height: unset !important;
 }
 
 body{
@@ -57,11 +62,12 @@ main{
     width: 100%;
     min-height: 50vh;
     margin-top: 150px;
+    padding: 10px 0;
 }
 
 .block-container{
     width: 100%;
-    padding: 20px;
+    padding: 0 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,6 +85,8 @@ main{
     justify-content: space-between;
     margin-bottom: 20px;
     grid-column: 1/-1;
+
+    /* display: none !important; */
 }
 
 .block-title{
@@ -155,6 +163,14 @@ button{
     font-size: 14px !important;
 }
 
+.bg-white{
+    background: #FFFFFF;
+}
+
+.bg-loading{
+    background: #F8F8F8;
+}
+
 .color-red{
     color: #FF0000;
 }
@@ -188,6 +204,14 @@ button{
     text-align: center !important;
 }
 
+.lowercase{
+    text-transform: unset !important;
+}
+
+.uppercase{
+    text-transform: uppercase !important;
+}
+
 .italic{
     font-style: italic;
 }
@@ -197,8 +221,12 @@ button{
     font-weight: bold;
 }
 
+.first-uppercase{
+    display: inline-block;
+}
+
 .first-uppercase::first-letter{
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 
 .d-flex{
@@ -254,8 +282,24 @@ button{
     flex-wrap: wrap;
 }
 
+.w-auto{
+    width: auto !important;
+}
+
 .w-100{
     width: 100%;
+}
+
+.h-100{
+    height: 100%;
+}
+
+.h-70-px{
+    height: 70px;
+}
+
+.h-100-px{
+    height: 100px;
 }
 
 .d-grid-1-auto{
@@ -319,6 +363,18 @@ button{
 
 .margin-bottom{
     margin-bottom: auto;
+}
+
+.margin-top-10{
+    margin-top: 10px;
+}
+
+.margin-top-20{
+    margin-top: 20px;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px;
 }
 
 .padding-right-20-to-0{
@@ -423,6 +479,15 @@ button{
     color: var(--white);
 }
 
+.button-link-5 .button-link-text,
+.button-link-5 span{
+    color: var(--color-1);
+}
+
+.button-link-5:hover .button-link-text{
+    text-decoration: underline;
+}
+
 .button-icon{
     display: flex;
     align-items: center;
@@ -444,51 +509,6 @@ button{
 .button-icon-1{
     background: var(--color-1);
 }
-
-.product-card{
-    width: 100%;
-    max-width: 280px !important;
-    display: flex;
-    flex-direction: column;
-    border: 1px solid rgba(0 0 0 / 0.2);
-    background: var(--white);
-    border-radius: 6px;
-    overflow: hidden;
-    transition: var(--t-200ms-linear);
-}
-
-.product-card:hover{
-    border: 1px solid var(--color-1);
-}
-
-/**/
-
-
-.product-card.agotado:hover{
-    border: 1px solid #FF0000;
-}
-
-.product-card-agotado{
-    background: #FF0000;
-}
-
-.product-card-agotado span{
-    color: var(--white);
-}
-
-/**/
-
-.product-card-name{
-    transition: var(--t-200ms-linear);
-    color: var(--text);
-    font-size: 14px;
-}
-
-.product-card:hover .product-card-content .product-card-name{
-    color: var(--black);
-}
-
-/**/
 
 .message{
     width: 100%;
@@ -533,6 +553,12 @@ button{
 
 .position-relative{
     position: relative;
+}
+
+.p-absolute-left-bottom-20{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
 }
 
 /**/

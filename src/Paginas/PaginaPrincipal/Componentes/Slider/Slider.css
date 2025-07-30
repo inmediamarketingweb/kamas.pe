@@ -138,6 +138,7 @@
     max-width: var(--container-mx-width);
     height: 100%;
     object-fit: cover;
+    /* object-fit: contain; */
 }
 
 .hero-slider-button{
@@ -182,4 +183,8 @@
         display: flex;
         transition: var(--t-200ms-linear);
     }
+/*     
+    .slider li img{
+        object-fit: contain;
+    } */
 }
