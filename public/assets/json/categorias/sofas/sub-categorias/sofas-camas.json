@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "sofas camas",
             "ruta": "/productos/sofas/sofas-camas/1/",
             "nombre": "SOFÁ CAMA 2 PLAZAS - NEGRO",
@@ -44,7 +44,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "sofas camas",
             "ruta": "/productos/sofas/sofas-camas/2/",
             "nombre": "SOFÁ CAMA 1 PLAZA Y MEDIA - PLOMO",
@@ -86,7 +86,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "sofas camas",
             "ruta": "/productos/sofas/sofas-camas/3/",
             "nombre": "SOFÁ CAMA QUEEN - ARENA OSCURO",
@@ -128,7 +128,7 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "sofas camas",
             "ruta": "/productos/sofas/sofas-camas/4/",
             "nombre": "SOFÁ CAMA 2 PLAZAS - BEIGE",
@@ -170,7 +170,7 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "sofas camas",
             "ruta": "/productos/sofas/sofas-camas/5/",
             "nombre": "SOFÁ CAMA 2 PLAZAS - VERDE ESMERALDA",

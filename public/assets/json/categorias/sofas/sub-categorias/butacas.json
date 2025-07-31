@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/1/",
             "nombre": "2 BUTACAS CLASIC -  NEGRO Y PLATA",
@@ -42,7 +42,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/2/",
             "nombre": "BUTACA CLASIC - PLATA",
@@ -82,7 +82,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/3/",
             "nombre": "BUTACA CLASIC - MORO",
@@ -122,7 +122,7 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/4/",
             "nombre": "BUTACA CLASIC - PLOMO RATA",
@@ -162,7 +162,7 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/5/",
             "nombre": "BUTACA CLASIC - PALO ROSA",
@@ -202,7 +202,7 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "butacas",
             "ruta": "/productos/sofas/butacas/6/",
             "nombre": "BUTACA CLASIC - PLOMO PLATA",

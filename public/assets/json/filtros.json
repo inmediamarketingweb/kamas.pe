@@ -415,9 +415,6 @@
                     },
                     {
                         "subcategoría": "cunas"
-                    },
-                    {
-                        "subcategoría": "camas funcionales"
                     }
                 ]
             },
@@ -517,12 +514,208 @@
         ]
     },
     {
-        "categoria": "cabeceras"
+        "categoria": "cabeceras",
+        "filtros":[
+            {
+                "linea":[
+                    {
+                        "linea": "Clásica"
+                    },
+                    {
+                        "linea": "Americana"
+                    },
+                    {
+                        "linea": "Madera natural"
+                    },
+                    {
+                        "linea": "Premium"
+                    }
+                ]
+            },
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "Queen"
+                    },
+                    {
+                        "tamaño": "King"
+                    }
+                ]
+            },
+            {
+                "tipo-de-cabecera":[
+                    {
+                        "tipo-de-cabecera": "Aérea"
+                    },
+                    {
+                        "tipo-de-cabecera": "Aérea con patas"
+                    },
+                    {
+                        "tipo-de-cabecera": "Pedestal"
+                    }
+                ]
+            },
+            {
+                "diseño-de-cabecera":[
+                    {
+                        "diseño-de-cabecera": "Infantil"
+                    },
+                    {
+                        "diseño-de-cabecera": "Clásica"
+                    },
+                    {
+                        "diseño-de-cabecera": "Americana"
+                    },
+                    {
+                        "diseño-de-cabecera": "Con marco"
+                    },
+                    {
+                        "diseño-de-cabecera": "Corona"
+                    },
+                    {
+                        "diseño-de-cabecera": "Bloques"
+                    },
+                    {
+                        "diseño-de-cabecera": "Otras formas"
+                    }
+                ]
+            },
+            {
+                "brazos-de-cabecera":[
+                    {
+                        "brazos-de-cabecera": "Sin brazos"
+                    },
+                    {
+                        "brazos-de-cabecera": "Brazos rectos"
+                    },
+                    {
+                        "brazos-de-cabecera": "Brazos curvos"
+                    },
+                    {
+                        "brazos-de-cabecera": "Brazos P"
+                    },
+                    {
+                        "brazos-de-cabecera": "Brazos seahorse"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "categoria": "sofás"
+        "categoria": "sofás",
+        "filtros":[
+            {
+                "modelo":[
+                    {
+                        "modelo": "Juegos de sala"
+                    },
+                    {
+                        "modelo": "Seccionales"
+                    },
+                    {
+                        "modelo": "Sófas camas"
+                    },
+                    {
+                        "modelo": "Reclinables"
+                    },
+                    {
+                        "modelo": "Sofás y sillones"
+                    },
+                    {
+                        "modelo": "Mecedoras"
+                    },
+                    {
+                        "modelo": "Butacas"
+                    }
+                ]
+            },
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "Queen"
+                    },
+                    {
+                        "tamaño": "King"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "categoria": "complementos"
+        "categoria": "complementos",
+        "filtros":[
+            {
+                "subcategoría":[
+                    {
+                        "subcategoría": "Veladores"
+                    },
+                    {
+                        "subcategoría": "Baúles"
+                    },
+                    {
+                        "subcategoría": "Base sola"
+                    },
+                    {
+                        "subcategoría": "Puffs"
+                    },
+                    {
+                        "subcategoría": "Almohadas"
+                    },
+                    {
+                        "subcategoría": "Sábanas y cobertores"
+                    },
+                    {
+                        "subcategoría": "Cama perro"
+                    }
+                ]
+            },
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
+                    {
+                        "tamaño": "1 plaza y media"
+                    },
+                    {
+                        "tamaño": "2 plazas"
+                    },
+                    {
+                        "tamaño": "Queen"
+                    },
+                    {
+                        "tamaño": "King"
+                    }
+                ]
+            },
+            {
+                "cajones":[
+                    {
+                        "cajones": "Si"
+                    },
+                    {
+                        "cajones": "No"
+                    }
+                ]
+            }
+        ]
     }
 ]

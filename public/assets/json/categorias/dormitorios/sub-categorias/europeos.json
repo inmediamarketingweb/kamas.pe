@@ -28,7 +28,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -37,7 +37,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -123,7 +123,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -132,7 +132,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -218,7 +218,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -227,7 +227,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -313,7 +313,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -322,7 +322,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -408,7 +408,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -417,7 +417,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -503,7 +503,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -512,102 +512,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "espuma": "Zebra de alta densidad",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material de resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "categoria": "dormitorios",
-            "subcategoria": "europeos",
-            "tamaño": "king",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/europeos/king/sarki/7/",
-            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - PLOMO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
-            "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
-            "stock": 23,
-            "sku": "K334233N17",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo-oscuro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Europeo",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -693,7 +598,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -702,7 +607,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -790,7 +695,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -799,7 +704,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -887,7 +792,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -896,7 +801,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -984,7 +889,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -993,7 +898,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1081,7 +986,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -1090,7 +995,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1178,7 +1083,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -1187,7 +1092,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1275,7 +1180,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
@@ -1284,7 +1189,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "King",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1369,7 +1274,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Adel",
                     "tipo-de-cabecera": "Pedestal",
@@ -1378,7 +1283,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1458,7 +1363,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1467,7 +1372,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1549,7 +1454,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Safynnte",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1558,7 +1463,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1639,7 +1544,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
@@ -1648,7 +1553,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1729,7 +1634,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
@@ -1738,7 +1643,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1819,7 +1724,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
@@ -1828,7 +1733,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1909,7 +1814,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
@@ -1918,7 +1823,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",
@@ -1999,7 +1904,7 @@
             ],
             "resumen-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Pedestal",
@@ -2008,7 +1913,7 @@
             ],
             "detalles-del-producto":[
                 {
-                    "línea": "Europeo",
+                    "línea": "Europea",
                     "tamaño": "2 plazas",
                     "cajones": "No",
                     "base-encajonada": "No",

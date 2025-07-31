@@ -31,6 +31,7 @@
 @media screen and (max-width: 600px){
     .header-bottom-container{
         height: 50px;
+        padding: 0 10px;
     }
     .header-bottom > p{
         text-align: center;

@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/1/",
             "nombre": "MECEDORA CAPITONEADA - BEIGE",
@@ -42,7 +42,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/2/",
             "nombre": "MECEDORA CAPITONEADA - CELESTE",
@@ -82,7 +82,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/3/",
             "nombre": "MECEDORA CAPITONEADA - VERDE LORO",

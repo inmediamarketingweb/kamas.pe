@@ -79,8 +79,8 @@ export function Producto({ producto = { id: null } , truncate }){
                             )}
 
                             {producto["solo-por-horas"] === "si" && (
-                                <div className="product-card-stock">
-                                    <span>¡ Solo por horas ⌛ !</span>
+                                <div className="product-card-ofert">
+                                    <span>En oferta 🔥</span>
                                 </div>
                             )}
 

@@ -94,7 +94,7 @@ function SoloPorHoras() {
 
         elementos.push(
             <li key="cabeceras">
-                <a href='/ofertas/' className='product-card-miniature'>
+                <a href='/ofertas/?categoria=cabeceras' className='product-card-miniature'>
                     <ul>
                         <li><img src='/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/3/1.jpg' alt='Cabeceras' /></li>
                         <li><img src='/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/4/1.jpg' alt='Cabeceras' /></li>
@@ -121,7 +121,7 @@ function SoloPorHoras() {
                     <ConteoRegresivo />
                 </div>
 
-                <ul>
+                <ul className='solo-por-horas-productos'>
                     {renderizarElementos()}
                 </ul>
             </div>

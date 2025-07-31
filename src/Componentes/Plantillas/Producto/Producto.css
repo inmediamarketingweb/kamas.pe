@@ -78,13 +78,10 @@
 }
 
 .product-card-ofert{
-    position: absolute;
-    right: 10px;
-    bottom: 100%;
+    margin-left: auto;
     background: red;
     padding: 3px 9px;
     border-radius: 3px;
-    z-index: 10;
 }
 
 .product-card-ofert span{
@@ -134,13 +131,10 @@
 }
 
 .product-card-tipo-de-envio{
-    position: absolute;
-    right: 10px;
-    bottom: 100%;
+    margin-left: auto;
     display: flex;
     padding: 3px 8px;
     border-radius: 3px;
-    z-index: 11;
 }
 
 .product-card-tipo-de-envio span{
@@ -204,7 +198,7 @@
 }
 
 .product-card-prices > div p:nth-child(1){
-    font-size: 16px;
+    font-size: 15px;
     color: var(--gray);
 }
 
@@ -245,9 +239,11 @@
     .product-card-prices > div p:nth-child(1){
         font-size: 13px;
     }
+
     .product-card-prices > div p:nth-child(2){
         font-size: 16px;
     }
+
     .product-card-prices > p{
         font-size: 24px;
     }

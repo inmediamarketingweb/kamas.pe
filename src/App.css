@@ -488,6 +488,25 @@ button{
     text-decoration: underline;
 }
 
+.filter-button-open{
+    /* background: #F0F0F0; */
+    margin-left: auto;
+    width: auto;
+    padding: 10px 14px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--t-200ms-linear);
+    border: 1px solid #D9D9D9;
+    gap: 10px;
+}
+
+.filter-button-open span,
+.filter-button-open p{
+    color: var(--text);
+}
+
 .button-icon{
     display: flex;
     align-items: center;
@@ -601,25 +620,22 @@ button{
         cursor: none !important;
     }
 
-    /**/
+    .block-container{
+        padding: 0 10px;
+    }
 
     main{
         margin-top: 210px;
     }
 
-    /**/
-
     .block-title{
         font-size: 24px;
         margin-right: auto;
-        /* text-align: left !important; */
     }
 
     .title{
         font-size: 17px;
     }
-
-    /**/
 
     .d-grid-2-1fr,
     .d-grid-3-2-1fr,
@@ -635,5 +651,12 @@ button{
 
     .padding-right-20-to-0{
         padding-right: 0;
+    }
+
+    .filter-button-open{
+        display: flex;
+        position: fixed;
+        right: 10px;
+        z-index: 50;
     }
 }
