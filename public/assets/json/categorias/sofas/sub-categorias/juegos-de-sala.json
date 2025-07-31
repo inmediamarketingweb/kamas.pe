@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/1/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ELUA - VINO",
@@ -43,7 +43,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/2/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO CUERO - MORADO",
@@ -84,7 +84,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/3/",
             "nombre": "SOFÁ CAMA 2 PLAZAS VERNET - MORADO",
@@ -125,7 +125,7 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/4/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - LILA",
@@ -166,7 +166,7 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/5/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ROMA CURVE CUERO - VINO",
@@ -207,7 +207,7 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/6/",
             "nombre": "SOFÁ CAMA 2 PLAZAS OXFORD BLUE - AZUL NOCHE",
@@ -248,7 +248,7 @@
         },
         {
             "id": 7,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/7/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - PLOMO PLATA",
@@ -289,7 +289,7 @@
         },
         {
             "id": 8,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/8/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - PLOMO PLATA",
@@ -330,7 +330,7 @@
         },
         {
             "id": 9,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/9/",
             "nombre": "SOFÁ CAMA 2 PLAZAS DIOR ROYAL - AZUL MARINO",
@@ -371,7 +371,7 @@
         },
         {
             "id": 10,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/10/",
             "nombre": "SOFÁ CAMA 2 PLAZAS VENECCIA CAPITONEADO - NEGRO",
@@ -412,7 +412,7 @@
         },
         {
             "id": 11,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/11/",
             "nombre": "SOFÁ CAMA 2 PLAZAS BARI - GRIS",
@@ -453,7 +453,7 @@
         },
         {
             "id": 12,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/12/",
             "nombre": "SOFÁ CAMA 2 PLAZAS ROMA CURVE - PLOMO",
@@ -494,7 +494,7 @@
         },
         {
             "id": 13,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/13/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CUADROS - PLOMO",
@@ -535,7 +535,7 @@
         },
         {
             "id": 14,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/14/",
             "nombre": "SOFÁ CAMA 2 PLAZAS DURQUE - GRIS",
@@ -576,7 +576,7 @@
         },
         {
             "id": 15,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/15/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC DUAR - CUERO CAFE",
@@ -617,7 +617,7 @@
         },
         {
             "id": 16,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/16/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC CUERO",
@@ -658,7 +658,7 @@
         },
         {
             "id": 17,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/17/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SENSE 3 - CUERO CAFE",
@@ -699,7 +699,7 @@
         },
         {
             "id": 18,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/18/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - CAMELL",
@@ -740,7 +740,7 @@
         },
         {
             "id": 19,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/19/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN BLACK - CUERO NEGRO",
@@ -781,7 +781,7 @@
         },
         {
             "id": 20,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/20/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - HUESO",
@@ -822,7 +822,7 @@
         },
         {
             "id": 21,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/21/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC SIMPL - VERDE LIMON",
@@ -863,7 +863,7 @@
         },
         {
             "id": 22,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/22/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AZUL MARINO",
@@ -904,7 +904,7 @@
         },
         {
             "id": 23,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/23/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - BEIGE",
@@ -945,7 +945,7 @@
         },
         {
             "id": 24,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/24/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AMARILLO PASTEL",
@@ -986,7 +986,7 @@
         },
         {
             "id": 25,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/25/",
             "nombre": "SOFÁ CAMA 2 PLAZAS LINEAL - BEIGE",
@@ -1027,7 +1027,7 @@
         },
         {
             "id": 26,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/26/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - AMARILLO",
@@ -1068,7 +1068,7 @@
         },
         {
             "id": 27,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/27/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SIRIBI - LILA",
@@ -1109,7 +1109,7 @@
         },
         {
             "id": 28,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/28/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - HUESO",
@@ -1150,7 +1150,7 @@
         },
         {
             "id": 29,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/29/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  MINIMAL VERDE - VERDE ESMERALDA",
@@ -1191,7 +1191,7 @@
         },
         {
             "id": 30,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/30/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  MODERN - GRIS PLATA",
@@ -1232,7 +1232,7 @@
         },
         {
             "id": 31,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/31/",
             "nombre": "SOFÁ CAMA 2 PLAZAS  CAPITONEADO - VERDE JADE",
@@ -1273,7 +1273,7 @@
         },
         {
             "id": 32,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/32/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN 2 - GRIS",
@@ -1314,7 +1314,7 @@
         },
         {
             "id": 33,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/33/",
             "nombre": "SOFÁ CAMA 2 PLAZAS MODERN 6 - PLATA",
@@ -1355,7 +1355,7 @@
         },
         {
             "id": 34,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/34/",
             "nombre": "SOFÁ CAMA 2 PLAZAS SWIFT SLEEP - NEGRO",
@@ -1396,7 +1396,7 @@
         },
         {
             "id": 35,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/35/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CAPITONEADO - CUERO NEGRO",
@@ -1437,7 +1437,7 @@
         },
         {
             "id": 36,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "juegos de sala",
             "ruta": "/productos/sofas/juegos-de-sala/36/",
             "nombre": "SOFÁ CAMA 2 PLAZAS CLASIC - PLOMO",

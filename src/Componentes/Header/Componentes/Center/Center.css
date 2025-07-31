@@ -213,21 +213,17 @@
 
 .submenu-target:nth-last-child(1) > img{
     margin: auto;
-    /* width: 100%; */
     aspect-ratio: 1/1;
 }
-
-/**/
 
 .menu-button{
     display: none;
 }
 
-/**/
-
 @media screen and (max-width: 600px){
     .header-center-container{
         height: auto;
+        padding: 0 10px;
     }
 
     .header-center{
@@ -245,8 +241,6 @@
     .header-logo img{
         height: 40px;
     }
-
-    /**/
 
     .menu-container{
         position: fixed;
@@ -312,8 +306,6 @@
         rotate: -180deg;
     }
 
-    /**/
-
     .menu-link{
         gap: 10px;
     }
@@ -365,8 +357,6 @@
         background: unset;
     }
 
-    /**/
-
     .submenu-container{
         position: unset;
         left: unset;
@@ -413,8 +403,6 @@
     .submenu-target:nth-last-child(1){
         grid-column: 1/-1;
     }
-
-    /**/
 
     .menu-button{
         width: auto;
@@ -475,8 +463,6 @@
     .menu-button.active > div span:nth-child(2){
         scale: 1;
     }
-
-    /**/
 
     .menu::after{
         display: block;

@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/1/",
             "nombre": "2 SOFÁS RECLINABLES CUERO NEGRO Y GRIS",
@@ -46,7 +46,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/2/",
             "nombre": "SOFÁ RECLINABLE CUERO PLOMO PLATA",
@@ -90,7 +90,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/3/",
             "nombre": "SOFÁ RECLINABLE CUERO NEGRO",
@@ -134,7 +134,7 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/4/",
             "nombre": "SOFÁ RECLINABLE CUERO PLOMO PLATA",
@@ -178,7 +178,7 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/5/",
             "nombre": "SOFÁ RECLINABLE CUERO BEIGE",
@@ -222,7 +222,7 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/6/",
             "nombre": "SOFÁ RECLINABLE CUERO HUESO",
@@ -266,7 +266,7 @@
         },
         {
             "id": 7,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/7/",
             "nombre": "SOFÁ RECLINABLE CUERO NEGRO",
@@ -310,7 +310,7 @@
         },
         {
             "id": 8,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "reclinables",
             "ruta": "/productos/sofas/reclinables/8/",
             "nombre": "SOFÁ RECLINABLE CUERO PLOMO",

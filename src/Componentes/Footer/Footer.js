@@ -144,11 +144,6 @@ function Footer(){
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='/ofertas/solo-por-horas/' title='Solo por horas | Kamas'>
-                                                <p>Solo por horas</p>
-                                            </a>
-                                        </li>
-                                        <li>
                                             <a href='/novedades/programa-de-influencers/' title='Programa de influencers | Kamas'>
                                                 <p>Programa influencers</p>
                                             </a>

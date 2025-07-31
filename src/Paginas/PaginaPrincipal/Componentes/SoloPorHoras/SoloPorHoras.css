@@ -157,7 +157,8 @@
     color: var(--text);
 }
 
-.block-content-solo-por-horas .product-card .product-card-content .product-card-ofert{
+.block-content-solo-por-horas .product-card .product-card-content .product-card-ofert,
+.block-content-solo-por-horas .product-card .product-card-content .product-card-tipo-de-envio{
     position: unset;
     margin-left: auto;
 }
@@ -209,5 +210,31 @@
 
     .block-content-solo-por-horas > ul > li:nth-child(7) .product-card{
         flex-direction: row;
+    }
+
+    .solo-por-horas-productos li .product-card .product-card-content{
+        height: 100% !important;
+        padding: 10px 10px 10px 0;
+    }
+
+    .solo-por-horas-productos li .product-card .product-card-images{
+        height: 100% !important;
+    }
+
+    .solo-por-horas-productos li .product-card .product-card-content .product-card-ofert{
+        display: none !important;
+    }
+
+    .solo-por-horas-productos li .product-card-hori{
+        grid-template-columns: 180px 1fr;
+    }
+
+    .solo-por-horas-productos li .product-card-hori .product-card-content{
+        height: 100% !important;
+        padding: 10px 10px 10px 0;
+    }
+
+    .solo-por-horas-productos li .product-card-hori .product-card-content .product-card-tipo-de-envio{
+        display: none !important;
     }
 }

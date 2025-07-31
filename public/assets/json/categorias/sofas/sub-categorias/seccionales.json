@@ -2,7 +2,7 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/1/",
             "nombre": "SOFÁ SECCIONAL - BEIGE",
@@ -42,7 +42,7 @@
         },
         {
             "id": 2,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/2/",
             "nombre": "SOFÁ SECCIONAL - GRIS",
@@ -82,7 +82,7 @@
         },
         {
             "id": 3,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/3/",
             "nombre": "SOFÁ SECCIONAL - AZUL",
@@ -122,7 +122,7 @@
         },
         {
             "id": 4,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/4/",
             "nombre": "SOFÁ SECCIONAL - BLANCO",
@@ -162,7 +162,7 @@
         },
         {
             "id": 5,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/5/",
             "nombre": "SOFÁ SECCIONAL - VERDE ESMERALDA",
@@ -202,7 +202,7 @@
         },
         {
             "id": 6,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/6/",
             "nombre": "SOFÁ SECCIONAL - NEGRO",
@@ -242,7 +242,7 @@
         },
         {
             "id": 7,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/7/",
             "nombre": "SOFÁ SECCIONAL - PLOMO RATA",
@@ -282,7 +282,7 @@
         },
         {
             "id": 8,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/8/",
             "nombre": "SOFÁ SECCIONAL - PLOMO",
@@ -322,7 +322,7 @@
         },
         {
             "id": 9,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/9/",
             "nombre": "SOFÁ SECCIONAL - NEGRO",
@@ -362,7 +362,7 @@
         },
         {
             "id": 10,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/10/",
             "nombre": "SOFÁ SECCIONAL - CAMELL OSCURO",
@@ -402,7 +402,7 @@
         },
         {
             "id": 11,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/11/",
             "nombre": "SOFÁ SECCIONAL - ARENA",
@@ -442,7 +442,7 @@
         },
         {
             "id": 12,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/12/",
             "nombre": "SOFÁ SECCIONAL - PLOMO RATA",
@@ -482,7 +482,7 @@
         },
         {
             "id": 13,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/13/",
             "nombre": "SOFÁ SECCIONAL - NEGRO",
@@ -522,7 +522,7 @@
         },
         {
             "id": 14,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/14/",
             "nombre": "SOFÁ SECCIONAL - PLOMO PLATA",
@@ -562,7 +562,7 @@
         },
         {
             "id": 15,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/15/",
             "nombre": "SOFÁ SECCIONAL - GRIS RATON",
@@ -602,7 +602,7 @@
         },
         {
             "id": 16,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/16/",
             "nombre": "SOFÁ SECCIONAL - CHOCOLATE",
@@ -642,7 +642,7 @@
         },
         {
             "id": 17,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/17/",
             "nombre": "SOFÁ SECCIONAL - BEIGE",
@@ -682,7 +682,7 @@
         },
         {
             "id": 18,
-            "categoria": "sofas",
+            "categoria": "sofás",
             "subcategoria": "seccionales",
             "ruta": "/productos/sofas/seccionales/18/",
             "nombre": "SOFÁ SECCIONAL - ROJO",
