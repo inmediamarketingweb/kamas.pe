@@ -79,15 +79,29 @@ export function Producto({ producto = { id: null } , truncate }){
                             )}
 
                             {producto["solo-por-horas"] === "si" && (
-                                <div className="product-card-ofert">
-                                    <span>En oferta 🔥</span>
-                                </div>
+                                <>
+                                    <div className="product-card-ofert">
+                                        <span>En oferta 🔥</span>
+                                    </div>
+
+                                    <div className='d-flex-center-left margin-right product-card-separar'>
+                                        <span className="material-icons">sell</span>
+                                        <p>Separa con <b>S/.200</b></p>
+                                    </div>
+                                </>
                             )}
 
                             {producto.oferta === "si" && (
-                                <div className="product-card-ofert">
-                                    <span>En oferta 🔥</span>
-                                </div>
+                                <>
+                                    <div className="product-card-ofert">
+                                        <span>En oferta 🔥</span>
+                                    </div>
+
+                                    <div className='d-flex-center-left margin-right product-card-separar'>
+                                        <span className="material-icons">sell</span>
+                                        <p>Separa con <b>S/.200</b></p>
+                                    </div>
+                                </>
                             )}
 
                             {producto.novedades !== "si" &&
@@ -107,11 +121,6 @@ export function Producto({ producto = { id: null } , truncate }){
                     <div className='d-flex-column'>
                         <span className="product-card-brand">KAMAS</span>
                         <h4 className="product-card-name">{truncate(producto.nombre, 56)}</h4>
-                    </div>
-
-                    <div className='d-flex-center-left margin-right product-card-separar'>
-                        <span className="material-icons">sell</span>
-                        <p>Separa con <b>S/.200</b></p>
                     </div>
 
                     <div className="product-card-prices">

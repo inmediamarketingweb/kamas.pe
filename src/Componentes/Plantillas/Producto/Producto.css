@@ -199,7 +199,7 @@
 
 .product-card-prices > div p:nth-child(1){
     font-size: 15px;
-    color: var(--gray);
+    color: #A9A9A9;
 }
 
 .product-card-prices > div p:nth-child(2){
