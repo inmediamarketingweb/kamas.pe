@@ -22,7 +22,6 @@
     align-items: center;
     justify-content: left;
     gap: 10px;
-    /* background: orange; */
     border-radius: 4px;
     border: 1px solid #D9D9D9;
     transition: var(--t-200ms-linear);
@@ -72,10 +71,6 @@
 .no-hay-productos{
     width: 100%;
     grid-column: 1/-1;
-}
-
-.pagina-productos-productos .product-card .product-card-separar{
-    display: none !important;
 }
 
 .pagina-productos-navigation{

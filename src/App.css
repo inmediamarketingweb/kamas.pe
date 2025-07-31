@@ -85,8 +85,6 @@ main{
     justify-content: space-between;
     margin-bottom: 20px;
     grid-column: 1/-1;
-
-    /* display: none !important; */
 }
 
 .block-title{
@@ -489,7 +487,6 @@ button{
 }
 
 .filter-button-open{
-    /* background: #F0F0F0; */
     margin-left: auto;
     width: auto;
     padding: 10px 14px;
@@ -499,7 +496,9 @@ button{
     justify-content: center;
     transition: var(--t-200ms-linear);
     border: 1px solid #D9D9D9;
+    background: var(--white);
     gap: 10px;
+    display: none;
 }
 
 .filter-button-open span,
@@ -556,8 +555,6 @@ button{
     color: #FFA500;
 }
 
-/**/
-
 .message-note{
     border: 1px solid green;
     background: rgba(37 214 76 / 0.1);
@@ -568,8 +565,6 @@ button{
     color: green;
 }
 
-/**/
-
 .position-relative{
     position: relative;
 }
@@ -579,8 +574,6 @@ button{
     left: 20px;
     bottom: 20px;
 }
-
-/**/
 
 .category-loading-container{
     display: flex;
@@ -612,8 +605,6 @@ button{
         transform: rotate(360deg);
     }
 }
-
-/**/
 
 @media screen and (max-width: 600px){
     *{
