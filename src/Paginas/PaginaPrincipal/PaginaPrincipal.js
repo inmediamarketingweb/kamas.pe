@@ -55,6 +55,17 @@ function PaginaPrincipal(){
 
                 <SobreNosotros/>
 
+                <section className='block-container'>
+                    <div className='block-content d-flex-column gap-10'>
+                        <div className='d-grid-2-1fr gap-10'>
+                            <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/>
+                            <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
+                            {/* <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/> */}
+                        </div>
+                        <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="" className='page-banner-img'/>
+                    </div>
+                </section>
+
                 <Distribuidores/>
 
                 <ModalDatos/>

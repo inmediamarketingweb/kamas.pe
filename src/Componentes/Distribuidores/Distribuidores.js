@@ -17,9 +17,10 @@ function Distribuidores(){
 
     return(
         <div className='block-container'>
-            <div className='block-content'>
-                <div className='block-title-container'>
-                    <h2 className='block-title text-center w-100'>Distribuidores autorizados</h2>
+            <div className='block-content distribuidores-block-content'>
+                <div className='block-title-container d-flex-column'>
+                    <h2 className='block-title text-left w-100'>Distribuidores autorizados</h2>
+                    <p className="text w-100">Como alianza estratégica hemos diversificado nuestra distribución con el fin de generar más confíanza en nuestros clientes.</p>
                 </div>
 
                 <div className='distribuidores-container'>
