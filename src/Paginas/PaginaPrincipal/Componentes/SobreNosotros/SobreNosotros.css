@@ -16,3 +16,14 @@
 .sobre-nosotros-block-content div{
     padding: 20px;
 }
+
+@media screen and (max-width: 600px){
+    .sobre-nosotros-block-content{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .sobre-nosotros-block-content img{
+        height: 180px;
+    }
+}

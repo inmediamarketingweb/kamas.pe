@@ -15,10 +15,6 @@
     display: none !important;
 }
 
-.see-all-products{
-    background: orange;
-}
-
 @media screen and (max-width: 600px){
     .ultimas-novedades-products{
         grid-template-columns: repeat(2, 1fr);

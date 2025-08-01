@@ -1,3 +1,7 @@
+.distribuidores-block-content .block-title-container{
+    margin-bottom: 0 !important;
+}
+
 .infinite-carousel{
     width: 100%;
     overflow: hidden;
@@ -60,10 +64,6 @@
         width: 150px;
         min-height: 80px;
     }
-
-    /* .distribuidores li a img{
-        max-height: 50px;
-    } */
 
     .distribuidores{
         animation-duration: 15s;

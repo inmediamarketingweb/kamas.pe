@@ -9,8 +9,6 @@
     font-weight: 500;
 }
 
-/**/
-
 :root{
     --color-1: #AD3362;
     --color-2: #6C0C2C;
@@ -308,6 +306,11 @@ button{
 .d-grid-2-1fr{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+}
+
+.d-grid-3-1fr{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .d-grid-auto-1fr{

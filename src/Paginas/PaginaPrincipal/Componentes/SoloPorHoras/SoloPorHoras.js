@@ -48,8 +48,8 @@ function SoloPorHoras() {
             <li key="colchones">
                 <a href='/ofertas/?categoria=colchones' className='product-card-miniature'>
                     <ul>
-                        <li><img src='/assets/imagenes/productos/colchones/norole/king/1.jpg' alt='Colchones' /></li>
-                        <li><img src='/assets/imagenes/productos/colchones/thameo-pocket/king/1.jpg' alt='Colchones' /></li>
+                        <li><img src='/assets/imagenes/productos/colchones/norole/1.jpg' alt='Colchones' /></li>
+                        <li><img src='/assets/imagenes/productos/colchones/thameo-pocket/1.jpg' alt='Colchones' /></li>
                     </ul>
                     <p className='text'>Colchones</p>
                 </a>
@@ -117,7 +117,14 @@ function SoloPorHoras() {
         <section className="block-container block-container-solo-por-horas">
             <div className="block-content block-content-solo-por-horas d-flex-column gap-20">
                 <div className="block-title-container d-flex d-flex-center-between">
-                    <h2 className="block-title text-left lowercase">¡¡ Por pocos días !!</h2>
+                    <div className='d-flex-column gap-5'>
+                        <h2 className="block-title text-left lowercase">¡ Por pocos días 🔥 !</h2>
+                        <p className='color-white'>Ofertas invatibles en productos seleccionados, solo en Kamas</p>
+                        <a href='/ofertas/' className='margin-right w-auto button-link button-link-5'>
+                            <p className='button-link-text color-white'>Ver todas las ofertas</p>
+                        </a>
+                    </div>
+
                     <ConteoRegresivo />
                 </div>
 

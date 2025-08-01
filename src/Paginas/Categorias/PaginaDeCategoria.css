@@ -22,8 +22,6 @@
     gap: 10px;
 }
 
-/**/
-
 .category-page-right{
     display: flex;
     flex-direction: column;
@@ -34,9 +32,10 @@
     display: none;
 }
 
-/**/
-
 .category-page-products{
+    background: var(--component);
+    padding: 10px;
+    border-radius: 6px;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -48,6 +47,8 @@
     flex: 1 1 clamp(100px, calc(calc(100% / 4) - calc(30px / 4)), 100%);
     max-width: calc(calc(100% / 4) - calc(30px / 4));
     height: 360px;
+    border-radius: 4px;
+    overflow: hidden;
 }
 
 .category-page-products li .product-card{

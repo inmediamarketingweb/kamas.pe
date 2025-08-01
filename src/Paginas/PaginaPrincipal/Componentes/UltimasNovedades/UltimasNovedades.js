@@ -13,6 +13,7 @@ function UltimasNovedades() {
             'K234223N11',
             'K324236N92',
             'K324235N42',
+            'K334233N12',
             'K223123N13',
             'K41212N16',
             'K6122N10',
@@ -75,12 +76,6 @@ function UltimasNovedades() {
                                 <Producto key={producto.sku} producto={producto} truncate={truncate}/>
                             );
                         })}
-                        
-                        <li className='product-card-li'>
-                            <a href='/productos/' className='d-flex-center-center gap-20 d-flex-column w-100 h-100 see-all-products'>
-                                <p>Ver todos los productos</p>
-                            </a>
-                        </li>
                     </ul>
                 </div>
             </section>
