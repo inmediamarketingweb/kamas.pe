@@ -1,31 +1,60 @@
-.ofertas-products{
+.solo-por-horas-page-content{
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: 320px 1fr;
     gap: 10px;
 }
 
-.ofertas-products li{
+.solo-por-horas-productos .products-list{
     width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
 }
 
-.ofertas-products li .product-card{
-    width: 100% !important;
-    max-width: none !important;
-    height: 390px;
+.solo-por-horas-productos .products-list > li .product-card .product-card-stock{
+    display: none !important;
 }
 
-/**/
+.banner-top-ofertas{
+    background: crimson !important;
+    padding: 30px 10px;
+    border-radius: 6px;
+}
 
-@media screen and (max-width: 1200px) {
-    .ofertas-products{
+.banner-top-ofertas .sale-time{
+    background: none !important;
+    padding: 0 !important;
+}
+
+.banner-top-ofertas div > p b{
+    background: snow;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.solo-por-horas-productos .products-list{
+    width: 100%;
+    padding: 10px;
+    background: #f8f8f8;
+    border-radius: 6px;
+}
+
+.no-hay-productos{
+    width: 100%;
+    grid-column: 1/-1;
+}
+
+@media screen and (max-width: 600px){
+    .solo-por-horas-page-content{
+        grid-template-columns: 1fr;
+    }
+
+    .solo-por-horas-productos .products-list{
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .ofertas-products li .product-card{
-        height: 100%;
-    }
-
-    .ofertas-products li .product-card .product-card-content{
-        padding: 10px;
+    .banner-top-ofertas{
+        padding: 20px 10px;
+        flex-direction: column;
     }
 }

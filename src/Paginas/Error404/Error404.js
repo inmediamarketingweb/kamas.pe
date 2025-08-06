@@ -1,8 +1,4 @@
-import React from "react";
 import { Helmet } from "react-helmet";
-
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
 
 import './Error404.css';
 
@@ -12,8 +8,6 @@ const Error404 = () => {
             <Helmet>
                 <title>Página no encontrada | Kamas</title>
             </Helmet>
-
-            <Header/>
             
             <main>
                 <div className="block-container">
@@ -24,8 +18,6 @@ const Error404 = () => {
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 };

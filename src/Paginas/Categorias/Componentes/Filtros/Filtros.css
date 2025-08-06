@@ -1,7 +1,15 @@
+/* .filters-container{
+    background: orange;
+} */
+
 .filters-content{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    /* background: red; */
+    padding: 20px;
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
 }
 
 .filters-content-top{

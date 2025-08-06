@@ -1,8 +1,4 @@
-import React from "react";
 import { Helmet } from "react-helmet";
-
-import Header from '../../../Componentes/Header/Header';
-import Footer from '../../../Componentes/Footer/Footer';
 
 import '../GarantiaDeProductos/GarantiaDeProductos.css';
 
@@ -12,8 +8,6 @@ function RecomendacionesDeUso(){
             <Helmet>
                 <title>Recomendaciones de uso | Kamas</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -45,8 +39,6 @@ function RecomendacionesDeUso(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

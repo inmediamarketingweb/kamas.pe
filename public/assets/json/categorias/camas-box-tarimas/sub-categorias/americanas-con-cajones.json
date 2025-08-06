@@ -542,7 +542,7 @@
             "categoria": "camas box tarimas",
             "subcategoria": "americanas con cajones",
             "tamaño": "1 plaza y media",
-            "ruta": "/ofertas/solo-por-horas/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/9/",
+            "ruta": "/ofertas/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/9/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
@@ -551,7 +551,7 @@
             "precioVenta": 710,
             "stock": 12,
             "sku": "K2215123N10",
-            "solo-por-horas": "si",
+            "oferta": "si",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {

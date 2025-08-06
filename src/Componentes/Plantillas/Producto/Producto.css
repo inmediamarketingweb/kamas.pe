@@ -121,13 +121,10 @@
 }
 
 .product-card-sale-price{
-    position: absolute;
-    right: 0;
-    top: 50%;
-    translate: 0 -50%;
     color: var(--color-1);
     font-size: 22px;
     font-weight: bold;
+    margin-left: auto;
 }
 
 .product-card-tipo-de-envio{

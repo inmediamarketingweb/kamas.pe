@@ -49,7 +49,7 @@ function Categorias(){
 
                     return(
                         <li key={index} className="categoria-item">
-                            <a href={datosCategoria['link-solo-por-horas']} title={datosCategoria.metatitulo} className="categoria-link">
+                            <a href={datosCategoria['link-ofertas']} title={datosCategoria.metatitulo} className="categoria-link">
                                 <img src={datosCategoria['foto-1']} alt={datosCategoria['foto-1-alt'] || nombreFormateado} className="categoria-imagen"/>
                                 <p className="categoria-nombre">{nombreFormateado}</p>
                             </a>

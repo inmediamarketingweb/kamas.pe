@@ -1968,6 +1968,99 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/europeos/king/rucay/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL PRINCESA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/rucay/pedestales/coronas/brazos-rectos/princesa/1/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1429,
+            "precioVenta": 1099,
+            "stock": 23,
+            "sku": "K334225N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/arena.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

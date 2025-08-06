@@ -3,9 +3,7 @@ import { Helmet } from 'react-helmet';
 
 import './Agencias.css';
 
-import Header from '../../../Componentes/Header/Header';
 import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
-import Footer from '../../../Componentes/Footer/Footer';
 
 const useMobile = () => {
     const [isMobile, setIsMobile] = useState(false);
@@ -203,8 +201,6 @@ function Agencias(){
                 <meta property="og:url" content="https://kamas.pe/agencias-recomendadas/"/>
                 <link rel="canonical" href="https://kamas.pe/agencias-recomendadas/"/>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <section className='block-container'>
@@ -485,8 +481,6 @@ function Agencias(){
                     </div>
                 </section>
             </main>
-
-            <Footer/>
         </>
     );
 }

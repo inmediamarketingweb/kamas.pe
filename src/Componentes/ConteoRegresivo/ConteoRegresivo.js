@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import './ConteoRegresivo.css';
 
 function ConteoRegresivo({ onExpire }){
-    const defaultTargetDate = new Date('2025-08-05T00:00:00');
+    const defaultTargetDate = new Date('2025-08-31T00:00:00');
     const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
     const format = (num) => String(num).padStart(2, '0');
 

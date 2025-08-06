@@ -1,43 +1,30 @@
 import PropTypes from 'prop-types';
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 
 import './Producto.css';
 import './CSS/Favorite.css';
 
 import LazyImage from '../LazyImage';
 
-export function Producto({ producto = { id: null } , truncate }){
-    const [favorites, setFavorites] = useState([]);
+export function Producto({ producto, truncate, onToggleFavorite, isFavorite }){
     const [secondImageError, setSecondImageError] = useState(false);
-    const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
-
-    useEffect(() => {
-        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
-        setFavorites(favStorage);
-    }, []);
+    const descuento = Math.round(
+        ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal 
+    );
 
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+    const imageSize = isSmallScreen ? 140 : 200;
 
     useEffect(() => {
-        const handleResize = () => {
-            setIsSmallScreen(window.innerWidth < 600);
-        };
+        const handleResize = () => setIsSmallScreen(window.innerWidth < 600);
         window.addEventListener('resize', handleResize);
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
+        return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    const toggleFavorite = (producto) => {
-        const exists = favorites.some((fav) => fav.sku === producto.sku);
-        const updatedFavorites = exists ? favorites.filter((fav) => fav.sku !== producto.sku) : [...favorites, producto];
-        setFavorites(updatedFavorites);
-        localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
-    };
-
-    const tipoEnvioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis" : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente" : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado" : "";
-    const isFavorite = favorites.some( (fav) => fav.sku === producto.sku );
-    const imageSize = isSmallScreen ? 140 : 200;
+    const tipoEnvioClase = 
+    producto["tipo-de-envio"] === "Gratis" ? "envio-gratis" :
+    producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente" :
+    producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado" : "";
 
     return(
         <li className='product-card-li'>
@@ -56,11 +43,11 @@ export function Producto({ producto = { id: null } , truncate }){
                                     setSecondImageError(true);
                                 }
                             }}
-                            loading='lazy'
+                            loading="lazy"
                         />
                     </a>
 
-                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
+                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => onToggleFavorite(producto)} title="Agregar a favoritos">
                         <span className="material-icons">favorite</span>
                     </button>
                 </div>
@@ -83,7 +70,6 @@ export function Producto({ producto = { id: null } , truncate }){
                                     <div className="product-card-ofert">
                                         <span>En oferta 🔥</span>
                                     </div>
-
                                     <div className='d-flex-center-left margin-right product-card-separar'>
                                         <span className="material-icons">sell</span>
                                         <p>Separa con <b>S/.200</b></p>
@@ -96,7 +82,6 @@ export function Producto({ producto = { id: null } , truncate }){
                                     <div className="product-card-ofert">
                                         <span>En oferta 🔥</span>
                                     </div>
-
                                     <div className='d-flex-center-left margin-right product-card-separar'>
                                         <span className="material-icons">sell</span>
                                         <p>Separa con <b>S/.200</b></p>
@@ -104,17 +89,11 @@ export function Producto({ producto = { id: null } , truncate }){
                                 </>
                             )}
 
-                            {producto.novedades !== "si" &&
-                                producto["solo-por-horas"] !== "si" &&
-                                producto.oferta !== "si" && (
-                                    <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
-                                        <span>
-                                            {producto["tipo-de-envio"] === "Gratis"
-                                                ? "¡ Envío gratis 🚚 !"
-                                                : producto["tipo-de-envio"] || "No especificado"}
-                                        </span>
-                                    </div>
-                                )}
+                            {producto.novedades !== "si" && producto["solo-por-horas"] !== "si" && producto.oferta !== "si" && (
+                                <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
+                                    <span>{producto["tipo-de-envio"] === "Gratis" ? "¡ Envío gratis 🚚 !" : producto["tipo-de-envio"] || "No especificado"}</span>
+                                </div>
+                            )}
                         </>
                     )}
 
@@ -124,11 +103,11 @@ export function Producto({ producto = { id: null } , truncate }){
                     </div>
 
                     <div className="product-card-prices">
-                        <div className='d-flex-column'>
-                            <p>S/.{producto.precioRegular}</p>
-                            <p>S/.{producto.precioNormal}</p>
+                        <div className="d-flex-column">
+                            <span className="product-card-regular-price">S/.{producto.precioRegular}</span>
+                            <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
                         </div>
-                        <p>S/.{producto.precioVenta}</p>
+                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
                     </div>
                 </a>
             </div>
@@ -138,12 +117,19 @@ export function Producto({ producto = { id: null } , truncate }){
 
 Producto.propTypes = {
     producto: PropTypes.shape({
-        id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+        sku: PropTypes.string.isRequired,
         nombre: PropTypes.string.isRequired,
         ruta: PropTypes.string.isRequired,
         fotos: PropTypes.string.isRequired,
         precioNormal: PropTypes.number.isRequired,
         precioVenta: PropTypes.number.isRequired,
+        stock: PropTypes.number.isRequired,
+        "tipo-de-envio": PropTypes.string,
+        novedades: PropTypes.string,
+        oferta: PropTypes.string,
+        "solo-por-horas": PropTypes.string,
     }).isRequired,
     truncate: PropTypes.func.isRequired,
+    onToggleFavorite: PropTypes.func.isRequired,
+    isFavorite: PropTypes.bool.isRequired,
 };
