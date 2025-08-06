@@ -17,7 +17,7 @@ function SoloPorHoras() {
     const [productos, setProductos] = useState([]);
 
     useEffect(() => {
-        const productosDeseados = ['K3215211N10', 'K3215211N11', 'K3215211N12'];
+        const productosDeseados = ['K324233N18', 'K3215211N11', 'K3215211N12'];
 
         fetch('/assets/json/manifest.json')
             .then(res => res.json())

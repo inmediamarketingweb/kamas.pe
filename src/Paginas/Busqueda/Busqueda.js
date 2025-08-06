@@ -4,9 +4,6 @@ import Helmet from 'react-helmet';
 
 import './Busqueda.css';
 
-import Header from '../../Componentes/Header/Header';
-import Footer from '../../Componentes/Footer/Footer';
-
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
 
 function PaginaBusqueda() {
@@ -154,13 +151,11 @@ function PaginaBusqueda() {
                 <meta name='description' content="Resultados de búsqueda" />
             </Helmet>
 
-            <Header/>
-
             <main>
                 <div className='block-container'>
                     <section className='block-content'>
-                        <div className='block-title-container'>
-                            <h1 className='block-title'>Resultados para: {query}</h1>
+                        <div className='block-title-container d-flex-center-between'>
+                            <h1 className='block-title w-auto'>Resultados para: {query}</h1>
                             {filteredProductos.length > 0 && (
                                 <p className="block-subtitle">{totalItems} productos encontrados</p>
                             )}
@@ -168,7 +163,7 @@ function PaginaBusqueda() {
 
                         <div className='search-products-content gap-10'>
                             {filteredProductos.length > 0 ? (
-                                <>
+                                <div className='bg-component'>
                                     <ul className='search-products'>
                                         {currentProducts.map(producto => (
                                             <Producto key={producto.sku} producto={producto} truncate={truncate}/>
@@ -208,7 +203,7 @@ function PaginaBusqueda() {
                                             <span className="material-icons">chevron_right</span>
                                         </button>
                                     </div>
-                                </>
+                                </div>
                             ) : (
                                 <p>Intentalo de nuevo</p>
                             )}
@@ -216,8 +211,6 @@ function PaginaBusqueda() {
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

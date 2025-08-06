@@ -3,9 +3,6 @@ import { Helmet } from 'react-helmet';
 
 import "./Favoritos.css";
 
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
-
 function Favoritos(){
     const [favoritos, setFavoritos] = useState([]);
 
@@ -33,8 +30,6 @@ function Favoritos(){
                 <title>Mis favoritos | Kamas</title>
                 <meta name="description" content='Guarda tus productos favoritos de KAMAS en tu navegador.'/>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -84,8 +79,6 @@ function Favoritos(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

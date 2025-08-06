@@ -73,11 +73,10 @@ export default function MasProductos({ categoriaActual }) {
         return <SpinnerLoading />;
     }
 
-    const truncate = (str, maxLength) =>
-        str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
+    const truncate = (str, maxLength) => str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
 
     return (
-        <div className='block-container'>
+        <div className='block-container pagina-producto-mas-productos-block-container'>
             <div className='block-content'>
                 <div className='block-title-container'>
                     <h4 className='block-title'>Más productos</h4>

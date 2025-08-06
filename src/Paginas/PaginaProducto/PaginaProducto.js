@@ -2,8 +2,6 @@ import { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import { useLocation } from 'react-router-dom';
 
-import Header from '../../Componentes/Header/Header';
-
 import NoProducto from '../../Paginas/NoProducto/NoProducto';
 import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
@@ -20,8 +18,6 @@ import WhatsApp from './Componentes/WhatsApp/WhatsApp';
 import Descripcion from './Componentes/Descripcion/Descripcion';
 
 import MasProductos from './Componentes/MasProductos/MasProductos';
-
-import Footer from '../../Componentes/Footer/Footer';
 
 import './PaginaProducto.css';
 
@@ -203,9 +199,7 @@ function PaginaProducto(){
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
-            <Header/>
-
-            <main>
+            <main className='pagina-producto-main'>
                 <div className='block-container product-page-block-container'>
                     <section className='block-content product-page-block-content'>
                         <Jerarquia producto={producto} />
@@ -317,8 +311,6 @@ function PaginaProducto(){
 
                 <MasProductos categoriaActual={producto.categoria}/>
             </main>
-
-            <Footer/>
         </>
     );
 }

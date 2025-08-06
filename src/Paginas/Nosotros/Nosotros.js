@@ -1,8 +1,5 @@
 import { Helmet } from "react-helmet-async";
 
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
-
 function Nosotros(){
     return(
         <>
@@ -17,8 +14,6 @@ function Nosotros(){
                 <meta property="og:url" content="https://www.kamas.pe/nosotros/"/>
                 <meta property="og:image" content="https://kamas.pe/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className="block-container">
@@ -57,8 +52,6 @@ function Nosotros(){
                     </section>
                 </div>
             </main>
-
-            <Footer />
         </>
     );
 }

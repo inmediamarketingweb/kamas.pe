@@ -7,9 +7,6 @@ import 'react-datepicker/dist/react-datepicker.css';
 
 import './Citas.css';
 
-import Header from '../../../Componentes/Header/Header';
-import Footer from '../../../Componentes/Footer/Footer';
-
 function Citas() {
     const [formData, setFormData] = useState({
         nombres: '',
@@ -77,8 +74,6 @@ function Citas() {
 
     return(
         <>
-            <Header/>
-
             <main className='main'>
                 <section className='block-container mapa-block-container'>
                     <div className='block-content mapa-block-content'>
@@ -145,8 +140,6 @@ function Citas() {
                     </div>
                 </section>           
             </main>
-
-            <Footer/>
         </>
     );
 }

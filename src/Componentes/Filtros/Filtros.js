@@ -3,6 +3,8 @@ import { useLocation, useNavigate } from 'react-router-dom';
 
 import './Filtros.css';
 
+import './Componentes/Top/Top';
+
 function Filtros({ onCambiarPrecio, isOpen, onClose }){
     const [rangosSeleccionados, setRangosSeleccionados] = useState([]);
     const [filtros, setFiltros] = useState([]);
@@ -181,7 +183,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
 
                         {categoriaSeleccionada && filtros.length > 0 && (
                             <div className='filtros-detalles-container d-flex-column margin-top-20'>
-                                <p className='title margin-bottom-10'>Detalles del Producto</p>
+                                {/* <p className='title margin-bottom-10'>Detalles del Producto</p> */}
                                 {filtros.map((filtroObj, index) => {
                                     const filtroKey = Object.keys(filtroObj)[0];
                                     const opciones = filtroObj[filtroKey];

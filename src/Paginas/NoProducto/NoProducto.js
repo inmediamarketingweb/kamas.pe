@@ -2,9 +2,6 @@ import { Helmet } from 'react-helmet';
 
 import './NoProducto.css';
 
-import Header from '../../Componentes/Header/Header';
-import Footer from '../../Componentes/Footer/Footer';
-
 function NoProducto(){
     return(
         <>
@@ -12,8 +9,6 @@ function NoProducto(){
                 <title>Producto no encontrado | Kamas</title>
                 <meta name="description" content="No hemos encontrado este producto"/>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container margin-auto'>
@@ -30,8 +25,6 @@ function NoProducto(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

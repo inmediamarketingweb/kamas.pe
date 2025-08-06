@@ -1,20 +1,14 @@
 import { Helmet } from 'react-helmet';
 
-import Header from '../../Componentes/Header/Header';
-
 import Slider from './Componentes/Slider/Slider';
 import Categorias from './Componentes/Categorias/Categorias';
 import SoloPorHoras from './Componentes/SoloPorHoras/SoloPorHoras';
 import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
-// import Ofertas from './Componentes/Ofertas/Ofertas';
 import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
 import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
 import ModalDatos from './Componentes/ModalDatos/ModalDatos';
 
-import Footer from '../../Componentes/Footer/Footer';
-
 import Promocion from './Componentes/Promocion/Promocion';
-// import CategoriasNew from './Componentes/CategoriasNew/Categorias';
 
 import './PaginaPrincipal.css';
 
@@ -36,20 +30,14 @@ function PaginaPrincipal(){
                 <link rel="preload" as="image" href="https://kamas.pe/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp" />
             </Helmet>
 
-            <Header/>
-
             <main className='main-pagina-principal d-flex-column gap-10'>
                 <Slider/>
 
                 <Categorias/>
 
-                {/* <CategoriasNew/> */}
-
                 <UltimasNovedades/>
 
                 <SoloPorHoras/>
-                
-                {/* <Ofertas/> */}
 
                 <Promocion/>
 
@@ -58,11 +46,28 @@ function PaginaPrincipal(){
                 <section className='block-container'>
                     <div className='block-content d-flex-column gap-10'>
                         <div className='d-grid-2-1fr gap-10'>
-                            <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/>
-                            <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
-                            {/* <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/> */}
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/>
+                            </a>
+
+                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=2-plazas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
+                            </a>
                         </div>
-                        <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="" className='page-banner-img'/>
+
+                        <a className='d-flex w-100' href='/productos/dormitorios/?línea=premium'>
+                            <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="" className='page-banner-img'/>
+                        </a>
+
+                        <div className='d-grid-2-1fr gap-10'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="" className='page-banner-img'/>
+                            </a>
+
+                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=2-plazas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
+                            </a>
+                        </div>
                     </div>
                 </section>
 
@@ -70,8 +75,6 @@ function PaginaPrincipal(){
 
                 <ModalDatos/>
             </main>
-
-            <Footer/>
         </>
     );
 }

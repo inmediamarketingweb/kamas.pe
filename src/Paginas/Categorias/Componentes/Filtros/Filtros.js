@@ -164,11 +164,13 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             <span className="material-icons">close</span>
                         </button>
                     </div>
+                    
+                    <div className="d-flex-column">
+                        <p className='block-title d-flex color-color-1'>Kamas</p>
+                        <p className='title uppercase'>¡Las mejores ofertas en muebles para el hogar 🔥🛌!</p>
+                    </div>
 
                     <div className="price-range d-flex-column">
-                        <div className="filter-title">
-                            <h3 className="title">Rangos de Precio:</h3>
-                        </div>
                         <ul className="d-flex-column">
                             {rangosDePrecio.map((rango) => (
                                 <li key={rango.id}>
@@ -179,7 +181,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                         </ul>
                     </div>
 
-                    <div className="filtro-envio-gratis">
+                    {/* <div className="filtro-envio-gratis">
                         <div className="d-flex gap-5">
                             <span className="material-icons">local_shipping</span>
                             <p>Envío gratis</p>
@@ -187,7 +189,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                         <button type="button" onClick={toggleEnvioGratisFilter} className={envioGratisSeleccionado ? "active" : ""} aria-pressed={envioGratisSeleccionado}>
                             <span></span>
                         </button>
-                    </div>
+                    </div> */}
 
                     {filtros.map((filtro) => (
                         <div className="filter d-flex-column gap-10" key={filtro.nombre}>
