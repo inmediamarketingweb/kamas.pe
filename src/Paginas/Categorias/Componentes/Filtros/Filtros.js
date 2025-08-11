@@ -29,8 +29,8 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
         const url = `/assets/json/categorias/${categoria}/filtros.json`;
         fetch(url, { signal })
-            .then((response) => 
-                response.ok ? response.json() : Promise.reject(`Error ${response.status}`)
+            .then(
+                (response) => response.ok ? response.json() : Promise.reject(`Error ${response.status}`)
             )
             .then((data) => setFiltros(Array.isArray(data) ? data : []))
             .catch((error) => {
@@ -126,10 +126,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         setRangoDePrecioSeleccionado((prev) => prev === rangoId ? null : rangoId);
     };
 
-    const toggleEnvioGratisFilter = () => {
-        setEnvioGratisSeleccionado((prev) => !prev);
-    };
-
     const actualizarURL = useCallback((filtrosActuales) => {
         const params = new URLSearchParams();
         Object.keys(filtrosActuales).forEach((categoriaFiltro) => {
@@ -180,16 +176,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             ))}
                         </ul>
                     </div>
-
-                    {/* <div className="filtro-envio-gratis">
-                        <div className="d-flex gap-5">
-                            <span className="material-icons">local_shipping</span>
-                            <p>Envío gratis</p>
-                        </div>
-                        <button type="button" onClick={toggleEnvioGratisFilter} className={envioGratisSeleccionado ? "active" : ""} aria-pressed={envioGratisSeleccionado}>
-                            <span></span>
-                        </button>
-                    </div> */}
 
                     {filtros.map((filtro) => (
                         <div className="filter d-flex-column gap-10" key={filtro.nombre}>

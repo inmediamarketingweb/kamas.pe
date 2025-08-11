@@ -3,8 +3,8 @@
         {
             "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp",
             "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp",
-            "link": "/productos/dormitorios/",
-            "alt": "Dormitorios | Kamas"
+            "link": "/productos/dormitorios/?línea=premium",
+            "alt": "Dormitorios premium | Kamas"
         },
         {
             "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-2.webp",

@@ -78,12 +78,10 @@ export default function MasProductos({ categoriaActual }) {
     return (
         <div className='block-container pagina-producto-mas-productos-block-container'>
             <div className='block-content'>
-                <div className='block-title-container'>
-                    <h4 className='block-title'>Más productos</h4>
-                </div>
+                <div className='d-flex-column gap-10'>
+                    <div className="product-page-more-products-container d-flex-column gap-10">
+                        <p className='title'>Productos relacionados:</p>
 
-                <div className='d-flex-column gap-20'>
-                    <div className="product-page-more-products-container">
                         <nav className="product-page-more-products-content">
                             <ul className='d-grid-5-3-2fr gap-10'>
                                 {products.map((producto) => (

@@ -5,7 +5,8 @@ import Categorias from './Componentes/Categorias/Categorias';
 import SoloPorHoras from './Componentes/SoloPorHoras/SoloPorHoras';
 import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
 import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
-import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
+// import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
+import Perfiles from './Componentes/Perfiles/Perfiles';
 import ModalDatos from './Componentes/ModalDatos/ModalDatos';
 
 import Promocion from './Componentes/Promocion/Promocion';
@@ -46,21 +47,21 @@ function PaginaPrincipal(){
                 <section className='block-container'>
                     <div className='block-content d-flex-column gap-10'>
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/>
                             </a>
 
-                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=2-plazas'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
                             </a>
                         </div>
 
-                        <a className='d-flex w-100' href='/productos/dormitorios/?línea=premium'>
+                        <a className='d-flex w-100' href='/productos/dormitorios/?modelo-de-colch%C3%B3n=der-prinz%2Bthameo-pocket%2Bramat%2Bkonig%2Byurmale%2Bthaleo-pocket%2Bsafynnte'>
                             <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="" className='page-banner-img'/>
                         </a>
 
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="" className='page-banner-img'/>
                             </a>
 
@@ -71,7 +72,9 @@ function PaginaPrincipal(){
                     </div>
                 </section>
 
-                <Distribuidores/>
+                <Perfiles/>
+
+                {/* <Distribuidores/> */}
 
                 <ModalDatos/>
             </main>

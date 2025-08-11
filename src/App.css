@@ -15,14 +15,16 @@
 
     --header: #FFFFFF;
 
-    --body: #FFFFFF;
+    --body: #F8F8F8;
 
     --white: #FFFFFF;
-    --component: #F6F6F6;
+    --component: #FFF;
     --gray: #434343;
     --black: #000000;
 
     --whatsapp: #25D366;
+
+    --producto: #FFFFFF;
 
     --text: #333333;
     --f-size-small: 14px;
@@ -86,7 +88,7 @@ main{
 }
 
 .block-title{
-    width: 100%;
+    /* width: 100%; */
     word-spacing: 2px;
     letter-spacing: -2px;
     text-transform: uppercase;
@@ -94,6 +96,12 @@ main{
     font-weight: bold;
     font-size: 28px;
     color: #333333;
+    position: relative;
+}
+
+.block-title-sub{
+    padding-bottom: 5px;
+    border-bottom: 2px solid var(--color-1);
 }
 
 .block-title-buttons{
@@ -165,6 +173,14 @@ button{
 
 .bg-loading{
     background: #F8F8F8;
+}
+
+.bg-component{
+    background: var(--component);
+}
+
+.border-r-6{
+    border-radius: 6px !important;
 }
 
 .color-red{
@@ -280,6 +296,8 @@ button{
 
 .w-auto{
     width: auto !important;
+    min-width: none !important;
+    max-width: none !important;
 }
 
 .w-100{
@@ -376,6 +394,10 @@ button{
 
 .margin-bottom-10{
     margin-bottom: 10px;
+}
+
+.padding-10{
+    padding: 10px;
 }
 
 .padding-right-20-to-0{

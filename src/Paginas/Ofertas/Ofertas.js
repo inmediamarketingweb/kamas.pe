@@ -12,6 +12,8 @@ import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
 function Ofertas(){
     const [filtrosPrecio, setFiltrosPrecio] = useState([]);
     const [productos, setProductos] = useState([]);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
     const location = useLocation();
     const searchParams = new URLSearchParams(location.search);
     const categoriaParam = searchParams.get('categoria');
@@ -21,22 +23,48 @@ function Ofertas(){
 
     useEffect(() => {
         const cargarProductos = async () => {
-            try{
+            try {
+                const ofertasResponse = await fetch('/assets/json/ofertas.json');
+                if (!ofertasResponse.ok) {
+                    throw new Error('No se pudo cargar ofertas.json');
+                }
+
+                const skusOfertas = await ofertasResponse.json();
+
+                if (!Array.isArray(skusOfertas)) {
+                    throw new Error('El formato de ofertas.json no es válido. Se esperaba un array de SKUs.');
+                }
+
+                if (skusOfertas.length === 0) {
+                    setProductos([]);
+                    setLoading(false);
+                    return;
+                }
+
+                const skusBuscados = new Set(skusOfertas);
+
                 const manifestResponse = await fetch('/assets/json/manifest.json');
+                if (!manifestResponse.ok) {
+                    throw new Error('No se pudo cargar manifest.json');
+                }
                 const manifestData = await manifestResponse.json();
                 const archivos = manifestData.files || [];
+                
                 const productosPromesas = archivos.map(async (url) => {
                     const response = await fetch(url);
                     const data = await response.json();
-                    return data.productos.filter(p => p["oferta"] === "si");
+                    return data.productos.filter(p => skusBuscados.has(p.sku));
                 });
 
                 const productosPorArchivo = await Promise.all(productosPromesas);
                 const productosFiltrados = productosPorArchivo.flat();
 
                 setProductos(productosFiltrados);
+                setLoading(false);
             } catch (error) {
                 console.error("Error cargando productos:", error);
+                setError(error.message);
+                setLoading(false);
             }
         };
 
@@ -75,6 +103,23 @@ function Ofertas(){
         return true;
     });
 
+    if (loading){
+        return (
+            <div className="cargando">
+                <p>Cargando ofertas...</p>
+            </div>
+        );
+    }
+
+    if (error){
+        return (
+            <div className="error">
+                <p>Error: {error}</p>
+                <p>Por favor intenta recargar la página.</p>
+            </div>
+        );
+    }
+
     return(
         <>
             <Helmet>
@@ -102,11 +147,17 @@ function Ofertas(){
                             <ul className="products-list">
                                 {productosFiltrados.length === 0 ? (
                                     <div className='no-hay-productos d-flex-column w-100'>
-                                        <p className='text'>Lo sentimos, las ofertas para esta categoría se han agotado 😢</p>
+                                        <p className='text'>Lo sentimos, no hay ofertas disponibles en este momento 😢</p>
                                     </div>
                                 ) : (
                                     productosFiltrados.map(producto => (
-                                        <Producto key={producto.sku} producto={producto} truncate={truncate} />
+                                        <Producto 
+                                            key={producto.sku} 
+                                            producto={producto} 
+                                            truncate={truncate} 
+                                            onToggleFavorite={() => {}} 
+                                            isFavorite={false}
+                                        />
                                     ))
                                 )}
                             </ul>

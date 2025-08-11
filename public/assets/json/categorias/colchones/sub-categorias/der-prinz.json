@@ -1,6 +1,72 @@
 {
     "productos":[
         {
+            "id": 0,
+            "categoria": "colchones",
+            "modelo": "der pinz",
+            "ruta": "/productos/colchones/der-prinz/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
+            "precioRegular": 720,
+            "precioNormal": 599,
+            "precioVenta": 399,
+            "sku": "K117N10",
+            "stock": 24,
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Super ortopédico",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/der-prinz/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/der-prinz/queen/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/der-prinz/king/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Super ortopédico",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "11 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
             "id": 1,
             "categoria": "colchones",
             "modelo": "der pinz",
@@ -27,6 +93,10 @@
                 }
             ],
             "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza/"
+                },
                 {
                     "nombre": "2 plazas",
                     "ruta": "/productos/colchones/der-prinz/2-plazas/"
@@ -90,6 +160,10 @@
             ],
             "tamaños-disponibles":[
                 {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza/"
+                },
+                {
                     "nombre": "1 plaza y media",
                     "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
                 },
@@ -151,6 +225,10 @@
                 }
             ],
             "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza/"
+                },
                 {
                     "nombre": "1 plaza y media",
                     "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"
@@ -217,6 +295,10 @@
                 }
             ],
             "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza/"
+                },
                 {
                     "nombre": "1 plaza y media",
                     "ruta": "/productos/colchones/der-prinz/1-plaza-y-media/"

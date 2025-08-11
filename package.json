@@ -29,8 +29,8 @@
         "yocto-queue": "^1.2.0"
     },
     "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
+        "start": "react-scripts start --no-source-maps start",
+        "build": "react-scripts build --no-source-maps build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },

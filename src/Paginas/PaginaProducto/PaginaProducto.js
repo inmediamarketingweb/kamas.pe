@@ -16,7 +16,7 @@ import Envios from './Componentes/Envios/Envios';
 import TiposDeEnvio from './Componentes/TiposDeEnvio/TiposDeEnvio';
 import WhatsApp from './Componentes/WhatsApp/WhatsApp';
 import Descripcion from './Componentes/Descripcion/Descripcion';
-
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
 import MasProductos from './Componentes/MasProductos/MasProductos';
 
 import './PaginaProducto.css';
@@ -31,10 +31,29 @@ function PaginaProducto(){
     const [imagenes, setImagenes] = useState([]);
     const [selectedColor, setSelectedColor] = useState(null);
     const [quantity, setQuantity] = useState(1);
+    const [skusOfertas, setSkusOfertas] = useState([]);
+    const [cargandoOfertas, setCargandoOfertas] = useState(true);
 
     const [userName, setUserName] = useState(
         typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : ''
     );
+
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/Ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+                setCargandoOfertas(false);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+                setCargandoOfertas(false);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
 
     useEffect(() => {
         const fetchProducto = async () => {
@@ -109,17 +128,37 @@ function PaginaProducto(){
         return () => window.removeEventListener('storage', handleStorageChange);
     }, []);
 
+    // Función para calcular precio ajustado
+    const calcularPrecioAjustado = (precioOriginal) => {
+        // Aplicar 10% de descuento
+        const precioConDescuento = precioOriginal * 0.9;
+        
+        // Redondear al 9 más cercano
+        const precioRedondeado = Math.round(precioConDescuento);
+        return Math.floor(precioRedondeado / 10) * 10 - 1;
+    };
+
     if (error){
         return(
             <NoProducto/>
         )
     }
 
-    if (!producto){
+    if (!producto || cargandoOfertas){
         return(
             <SpinnerLoading/>
         );
     }
+
+    // Determinar si el producto está en ofertas
+    const estaEnOfertas = skusOfertas.includes(producto.sku);
+    
+    // Calcular precio final
+    const precioFinal = estaEnOfertas ? 
+        calcularPrecioAjustado(producto.precioVenta) : 
+        producto.precioVenta;
+
+    const mostrarConteo = estaEnOfertas;
 
     const handleContinuarClick = (e) => {
         if(!selectedShipping.tipo){
@@ -173,7 +212,7 @@ function PaginaProducto(){
             "@type": "Offer",
             "url": `https://kamas.pe${producto.ruta}`,
             "priceCurrency": "PEN",
-            "price": cleanPrice(producto.precioVenta),
+            "price": cleanPrice(precioFinal), // Usar precioFinal
             "priceValidUntil": getValidUntilDate(),
             "itemCondition": "https://schema.org/NewCondition",
             "availability": producto.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
@@ -199,14 +238,31 @@ function PaginaProducto(){
                 <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
             </Helmet>
 
-            <main className='pagina-producto-main'>
+            <main className='pagina-producto-main d-flex-column gap-10'>
+                {mostrarConteo &&
+                    <div className='conteo-regresivo'>
+                        <div className='d-flex-column gap-10'>
+                            <p className='block-title color-white w-auto text-left'>¡Producto en oferta 🔥!</p>
+                            <p className='title color-white'>{producto.nombre}</p>
+                            <p className='text color-white'>Su precio es más bajo de lo regular, aprovecha y llévatelo ahora</p>
+                        </div>
+
+                        <ConteoRegresivo/>
+                    </div>
+                }
+
                 <div className='block-container product-page-block-container'>
                     <section className='block-content product-page-block-content'>
                         <Jerarquia producto={producto} />
 
                         <div className='product-page-container'>
-                            <div className='product-page-target product-page-target-1'>
-                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} />
+                            <div className='product-page-target product-page-target-1 gap-10'>
+                                <Imagenes 
+                                    imagenes={imagenes} 
+                                    producto={producto} 
+                                    onSelectColor={setSelectedColor} 
+                                    skusOfertas={skusOfertas} 
+                                />
                             </div>
 
                             <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
@@ -218,9 +274,26 @@ function PaginaProducto(){
 
                                 <div className='d-grid-2-1fr gap-20'>
                                     <div className='d-flex-column gap-20'>
-                                        <div className='page-product-prices'>
+                                        <div className='page-product-prices d-flex-column'>
                                             <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
-                                            <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
+                                            
+                                            {estaEnOfertas ? (
+                                                <div className='d-flex-column'>
+                                                    <div className="d-flex-column gap-5 align-center">
+                                                        <p className='page-product-sale-price text-striked'>
+                                                            Ahora: S/.{producto.precioVenta}
+                                                        </p>
+                                                        {/* <p className='text font-14 color-green'>
+                                                            ¡Descuento adicional aplicado! Ahorras S/.{producto.precioVenta - precioFinal}
+                                                        </p> */}
+                                                        <p className='page-product-sale-price page-product-offer-price color-red'>
+                                                            En oferta: S/.{precioFinal}
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            ) : (
+                                                <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
+                                            )}
                                         </div>
 
                                         <Regalos producto={producto} />
@@ -247,34 +320,66 @@ function PaginaProducto(){
                                     </div>
 
                                     <div className='d-flex-column gap-20'>
-                                        <Envios producto={producto} onConfirm={(data) => {
-                                            setShippingInfo(data); setShippingOptions(data.shippingOptions);
+                                        <Envios 
+                                            producto={producto} 
+                                            onConfirm={(data) => {
+                                                setShippingInfo(data); 
+                                                setShippingOptions(data.shippingOptions);
 
-                                            if (data.shippingOptions.length === 1) {setSelectedShipping({
-                                                    tipo: data.shippingOptions[0].tipo,
-                                                    precio: data.shippingOptions[0].precio
-                                                });
-                                            }
-                                        }}/>
+                                                if (data.shippingOptions.length === 1) {
+                                                    setSelectedShipping({
+                                                        tipo: data.shippingOptions[0].tipo,
+                                                        precio: data.shippingOptions[0].precio
+                                                    });
+                                                }
+                                            }}
+                                        />
 
-                                        <TiposDeEnvio shippingOptions={shippingOptions} provincia={shippingInfo?.locationData?.provincia || ''} distrito={shippingInfo?.locationData?.distrito || ''} hasAgency={shippingInfo?.hasAgency} selectedTipo={selectedShipping.tipo} onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} />
+                                        <TiposDeEnvio 
+                                            shippingOptions={shippingOptions} 
+                                            provincia={shippingInfo?.locationData?.provincia || ''} 
+                                            distrito={shippingInfo?.locationData?.distrito || ''} 
+                                            hasAgency={shippingInfo?.hasAgency} 
+                                            selectedTipo={selectedShipping.tipo} 
+                                            onSelect={(tipo, precio) => setSelectedShipping({ tipo, precio })} 
+                                        />
 
                                         <div className='product-page-user-name-container d-flex-column gap-5'>
                                             <p className='text'><b className='color-red'>*</b> Nombres</p>
-                                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}onChange={(e) => {setUserName(e.target.value);localStorage.setItem('nombre', e.target.value);}} />
+                                            <input 
+                                                type='text' 
+                                                placeholder='Nombres' 
+                                                className='product-page-user-name' 
+                                                value={userName}
+                                                onChange={(e) => {
+                                                    setUserName(e.target.value);
+                                                    localStorage.setItem('nombre', e.target.value);
+                                                }} 
+                                            />
                                         </div>
 
                                         <div className='d-flex-column gap-5'>
                                             <p className='title text'>Detalles:</p>
 
                                             {!selectedColor ? (
-                                                <p className='d-flex gap-5'><b className='color-red'>*</b>Sin variación de color</p>
+                                                <p className='d-flex gap-5'>
+                                                    <b className='color-red'>*</b>Sin variación de color
+                                                </p>
                                             ) : (
                                                 <div className='d-flex-column gap-5'>
-                                                    <p className='bold color-black d-flex gap-5'><b className='color-red'>*</b>Color seleccionado:</p>
+                                                    <p className='bold color-black d-flex gap-5'>
+                                                        <b className='color-red'>*</b>Color seleccionado:
+                                                    </p>
                                                     <div className='d-flex-center-left gap-5'>
                                                         <span className='first-uppercase'>{selectedColor.color}</span>
-                                                        <img width={26} height={18} src={selectedColor.img} alt={selectedColor.color} loading="lazy" style={{ borderRadius: '10%' }} />
+                                                        <img 
+                                                            width={26} 
+                                                            height={18} 
+                                                            src={selectedColor.img} 
+                                                            alt={selectedColor.color} 
+                                                            loading="lazy" 
+                                                            style={{ borderRadius: '10%' }} 
+                                                        />
                                                     </div>
                                                 </div>
                                             )}
@@ -283,17 +388,33 @@ function PaginaProducto(){
                                         <div className='d-flex-center-center gap-10'>
                                             <div className='d-flex-column gap-10'>
                                                 <div className='quantity'>
-                                                    <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
+                                                    <button 
+                                                        type="button" 
+                                                        onClick={handleRemove} 
+                                                        disabled={quantity <= 1}
+                                                    >
                                                         <span className="material-icons">remove</span>
                                                     </button>
                                                     <div className="quantity-input">{quantity}</div>
-                                                    <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
+                                                    <button 
+                                                        type="button" 
+                                                        onClick={handleAdd} 
+                                                        disabled={quantity >= 10}
+                                                    >
                                                         <span className="material-icons">add</span>
                                                     </button>
                                                 </div>
                                             </div>
 
-                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick}/>
+                                            <WhatsApp 
+                                                producto={producto} 
+                                                selectedShipping={selectedShipping} 
+                                                shippingInfo={shippingInfo} 
+                                                selectedColor={selectedColor} 
+                                                quantity={quantity} 
+                                                handleContinuarClick={handleContinuarClick}
+                                                precioFinal={precioFinal}
+                                            />
                                         </div>
 
                                         <div className='whatsapp-message d-flex d-flex-column gap-5'>
@@ -309,7 +430,10 @@ function PaginaProducto(){
                     </section>
                 </div>
 
-                <MasProductos categoriaActual={producto.categoria}/>
+                <MasProductos 
+                    categoriaActual={producto.categoria} 
+                    skusOfertas={skusOfertas} 
+                />
             </main>
         </>
     );
