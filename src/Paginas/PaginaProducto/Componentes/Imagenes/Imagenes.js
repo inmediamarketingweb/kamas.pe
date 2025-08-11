@@ -5,7 +5,8 @@ import Colores from '../Colores/Colores';
 
 import './Imagenes.css';
 
-function Imagenes({ imagenes, producto, onSelectColor }){
+function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
+    const estaEnOfertas = skusOfertas.includes(producto.sku);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isDragging, setIsDragging] = useState(false);
     const [dragStartX, setDragStartX] = useState(0);
@@ -53,7 +54,7 @@ function Imagenes({ imagenes, producto, onSelectColor }){
     const descuento = Math.round(((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal);
 
     return(
-        <div className={`position-relative ${producto.stock === 0 ? 'sin-stock' : ''}`}>
+        <div className={`position-relative product-page-images-global ${producto.stock === 0 ? 'sin-stock' : ''}`}>
             <span className="product-page-discount">-{descuento}%</span>
 
             <div className='sin-stock-message'>Agotado</div>
@@ -93,7 +94,9 @@ function Imagenes({ imagenes, producto, onSelectColor }){
                 </ul>
             </div>
 
-            {producto.colores && <Colores producto={producto} onSelectColor={onSelectColor} />}
+            {!estaEnOfertas && producto.colores && (
+                <Colores producto={producto} onSelectColor={onSelectColor} />
+            )}
         </div>
     );
 }

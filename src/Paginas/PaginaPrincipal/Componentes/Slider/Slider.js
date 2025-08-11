@@ -47,7 +47,7 @@ function Slider() {
         (currentIndex + 1) % sliderItems.length
     ];
 
-    if (sliderItems.length === 0) return null; // o un loader/spinner
+    if (sliderItems.length === 0) return null;
 
     return (
         <div className="slider-general-container d-flex-column">

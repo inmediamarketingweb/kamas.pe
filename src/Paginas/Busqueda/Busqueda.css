@@ -1,7 +1,6 @@
-/* .search-products-content{
-    display: grid;
-    grid-template-columns: 280px 1fr;
-} */
+.search-products-content > div{
+    border-radius: 6px;
+}
 
 .filters-container{
     display: flex;
@@ -10,22 +9,9 @@
 }
 
 .search-products{
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
     gap: 10px;
-}
-
-.search-products li{
-    display: flex;
-    flex: 1 1 clamp(100px, calc(calc(100% / 5) - calc(40px / 5)), 100%) !important;
-    max-width: calc(calc(100% / 5) - calc(40px / 5)) !important;
-    height: 400px;
-}
-
-.search-products li .product-card{
-    width: 100% !important;
-    height: 100% !important;
-    max-width: none !important;
 }
 
 @media screen and (max-width: 600px){

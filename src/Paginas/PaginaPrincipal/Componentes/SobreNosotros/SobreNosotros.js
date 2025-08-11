@@ -3,8 +3,8 @@ import './SobreNosotros.css';
 function SobreNosotros(){
     return(
         <section className='block-container sobre-nosotros-block-container'>
-            <div className='block-content sobre-nosotros-block-content'>
-                <img src='/assets/imagenes/paginas/nosotros/sobre-nosotros.jpg' alt='Kamas | Sobre nosotros'/>
+            <div className='block-content sobre-nosotros-block-content gap-10'>
+                <img src='/assets/imagenes/paginas/nosotros/sobre-nosotros.jpg' alt='Kamas | Sobre nosotros' className='page-banner-img'/>
                 <div className='d-flex-column'>
                     <h3 className='block-title text-left margin-bottom-10'>¿Quiénes somos?</h3>
                     <p className='text'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia innovando en diseños, modelos y sobre todo en brindarte comodidad.</p>

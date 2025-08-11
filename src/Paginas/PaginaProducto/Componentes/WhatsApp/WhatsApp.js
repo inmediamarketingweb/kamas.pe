@@ -1,20 +1,20 @@
 import './WhatsApp.css';
 
-function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quantity, handleContinuarClick}) {
+function WhatsApp({producto, selectedShipping, shippingInfo, selectedColor, quantity, handleContinuarClick, precioFinal}) {
     if (!producto) return null;
 
     const getWhatsAppLink = () => {
         if (!selectedShipping.tipo) return "#";
 
         const numeroWhatsApp = "+51917013610";
-        const userName = localStorage.getItem('nombre') || ''; // Corrected key
+        const userName = localStorage.getItem('nombre') || '';
 
         const mensaje = `Hola Kamas, estoy interesad@ en adquirir este/os producto/s:\n`
             + `*${producto.nombre}*\n`
             + `https://kamas.pe${producto.ruta}\n`
             + `Tela: ${selectedColor ? selectedColor.tela : 'Sin variación'}\n`
             + `Color: ${selectedColor ? selectedColor.color : 'Sin variación'}\n`
-            + `Precio: S/.${producto.precioVenta}\n\n`
+            + `Precio: S/.${precioFinal}\n\n`
             + `Cantidad: ${quantity}\n\n`
             + `Cliente: ${userName}\n`
             + `Departamento: ${shippingInfo?.locationData?.departamento || ''}\n`

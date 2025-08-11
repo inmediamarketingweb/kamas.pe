@@ -16,7 +16,7 @@ function Categorias(){
                     </li>
                     <li>
                         <a href='/productos/colchones/' className='' title=''>
-                            <img src='/assets/imagenes/paginas/pagina-principal/categorias/colchones-1.png' alt='' />
+                            <img src='/assets/imagenes/paginas/pagina-principal/categorias/colchones.png' alt='' />
                             <p className='title'>Colchones</p>
                         </a>
                     </li>
@@ -46,7 +46,7 @@ function Categorias(){
                     </li>
                     <li>
                         <a href='/productos/complementos/' className='' title=''>
-                            <img src='/assets/imagenes/paginas/pagina-principal/categorias/colchones-1.png' alt='' />
+                            <img src='/assets/imagenes/paginas/pagina-principal/categorias/complementos.png' alt='' />
                             <p className='title'>Complementos</p>
                         </a>
                     </li>
