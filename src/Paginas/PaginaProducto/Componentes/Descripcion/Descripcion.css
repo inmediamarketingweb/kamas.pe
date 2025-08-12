@@ -1,3 +1,7 @@
+.product-page-about-buttons{
+    margin-bottom: 20px;
+}
+
 .product-page-about-button{
     display: flex;
     align-items: center;

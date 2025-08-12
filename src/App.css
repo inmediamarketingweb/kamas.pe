@@ -15,10 +15,10 @@
 
     --header: #FFFFFF;
 
-    --body: #F8F8F8;
+    --body: #e9e9e9;
 
     --white: #FFFFFF;
-    --component: #FFF;
+    --component: #FFFFFF;
     --gray: #434343;
     --black: #000000;
 
@@ -83,12 +83,11 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     grid-column: 1/-1;
 }
 
 .block-title{
-    /* width: 100%; */
     word-spacing: 2px;
     letter-spacing: -2px;
     text-transform: uppercase;
@@ -217,11 +216,15 @@ button{
 }
 
 .lowercase{
-    text-transform: unset !important;
+    text-transform: lowercase !important;
 }
 
 .uppercase{
     text-transform: uppercase !important;
+}
+
+.text-transform-unset{
+    text-transform: unset !important;
 }
 
 .italic{
@@ -509,6 +512,22 @@ button{
 
 .button-link-5:hover .button-link-text{
     text-decoration: underline;
+}
+
+.button-link-6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto !important;
+    height: 44px;
+    padding: 0 !important;
+    border-radius: 4px;
+    background: #2F74F5;
+}
+
+.button-link-6 .button-link-text,
+.button-link-6 span{
+    color: var(--white);
 }
 
 .filter-button-open{

@@ -127,7 +127,7 @@ function Perfiles(){
                                 <p className='profile-card-sales'>+155 vendidos</p>
                             </div>
 
-                            <p><a href='' title=''>Homesleep</a> es distribuidor oficial</p>
+                            <p><a href='https://homesleep.pe/' title='Homesleep es distribuidor autorizado de Kamas'>Homesleep</a> es distribuidor autorizado</p>
                         </div>
                     </li>
 
@@ -148,7 +148,7 @@ function Perfiles(){
                                 <p className='profile-card-sales'>+109 vendidos</p>
                             </div>
 
-                            <p><a href='' title=''>Vitai</a> es distribuidor oficial</p>
+                            <p><a href='https://vitai.pe/' title='Vitai es distribuidor autorizado de Kamas'>Vitai</a> es distribuidor autorizado</p>
                         </div>
                     </li>
 
@@ -169,7 +169,7 @@ function Perfiles(){
                                 <p className='profile-card-sales'>+202 vendidos</p>
                             </div>
 
-                            <p><a href='https://dormihogar.pe/' title='Dormihogar es distribuidor autorizado de Kamas'>Dormihogar</a> es distribuidor oficial</p>
+                            <p><a href='https://dormihogar.pe/' title='Dormihogar es distribuidor autorizado de Kamas'>Dormihogar</a> es distribuidor autorizado</p>
                         </div>
                     </li>
                 </ul>

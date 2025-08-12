@@ -5,7 +5,6 @@ import Categorias from './Componentes/Categorias/Categorias';
 import SoloPorHoras from './Componentes/SoloPorHoras/SoloPorHoras';
 import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
 import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
-// import Distribuidores from '../../Componentes/Distribuidores/Distribuidores';
 import Perfiles from './Componentes/Perfiles/Perfiles';
 import ModalDatos from './Componentes/ModalDatos/ModalDatos';
 
@@ -45,24 +44,24 @@ function PaginaPrincipal(){
                 <SobreNosotros/>
 
                 <section className='block-container'>
-                    <div className='block-content d-flex-column gap-10'>
+                    <div className='homepage-banners block-content d-flex-column gap-10'>
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="" className='page-banner-img'/>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si' title='Ofertas en dormitorios europeos 2 plazas | Kamas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="Ofertas en dormitorios europeos 2 plazas | Kamas" className='page-banner-img'/>
                             </a>
 
-                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen' title='Ofertas en dormitorios queen americanos | Kamas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas" className='page-banner-img'/>
                             </a>
                         </div>
 
-                        <a className='d-flex w-100' href='/productos/dormitorios/?modelo-de-colch%C3%B3n=der-prinz%2Bthameo-pocket%2Bramat%2Bkonig%2Byurmale%2Bthaleo-pocket%2Bsafynnte'>
-                            <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="" className='page-banner-img'/>
+                        <a className='d-flex w-100' href='/productos/dormitorios/?modelo-de-colch%C3%B3n=der-prinz%2Bthameo-pocket%2Bramat%2Bkonig%2Byurmale%2Bthaleo-pocket%2Bsafynnte' title='Dormitorios confort premium | Kamas'>
+                            <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="Dormitorios confort premium | Kamas" className='page-banner-img'/>
                         </a>
 
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="" className='page-banner-img'/>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king' title='Ofertas en dormitorios king europeos | Kamas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="Ofertas en dormitorios king europeos | Kamas" className='page-banner-img'/>
                             </a>
 
                             <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=2-plazas'>
@@ -73,8 +72,6 @@ function PaginaPrincipal(){
                 </section>
 
                 <Perfiles/>
-
-                {/* <Distribuidores/> */}
 
                 <ModalDatos/>
             </main>

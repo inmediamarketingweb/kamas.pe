@@ -1,9 +1,3 @@
-.ultimas-novedades-block-content{
-    padding: 10px;
-    background: var(--component);
-    border-radius: 6px;
-}
-
 .ultimas-novedades-products{
     width: 100%;
     display: grid;

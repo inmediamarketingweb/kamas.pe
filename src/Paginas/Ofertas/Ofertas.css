@@ -1,17 +1,17 @@
-.solo-por-horas-page-content{
+.ofertas-content{
     display: grid;
     grid-template-columns: 320px 1fr;
     gap: 10px;
 }
 
-.solo-por-horas-productos .products-list{
+.ofertas-productos .products-list{
     width: 100%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
 }
 
-.solo-por-horas-productos .products-list > li .product-card .product-card-stock{
+.ofertas-productos .products-list > li .product-card .product-card-stock{
     display: none !important;
 }
 
@@ -32,24 +32,17 @@
     border-radius: 3px;
 }
 
-/* .solo-por-horas-productos .products-list{
-    width: 100%;
-    padding: 10px;
-    background: #f8f8f8;
-    border-radius: 6px;
-} */
-
 .no-hay-productos{
     width: 100%;
     grid-column: 1/-1;
 }
 
 @media screen and (max-width: 600px){
-    .solo-por-horas-page-content{
+    .ofertas-content{
         grid-template-columns: 1fr;
     }
 
-    .solo-por-horas-productos .products-list{
+    .ofertas-productos .products-list{
         grid-template-columns: repeat(2, 1fr);
     }
 
