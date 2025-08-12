@@ -47,7 +47,7 @@ export default function MasProductos({ categoriaActual }) {
                     ];
                 }
 
-                const selected = categoryProducts.slice(0, 10);
+                const selected = categoryProducts.slice(0, 20);
 
                 setProducts(selected);
             } catch (err) {

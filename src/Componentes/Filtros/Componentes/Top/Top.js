@@ -9,7 +9,7 @@ function Top({
         setSortOption = () => {},
     }){
     return(
-        <div className='filters-top d-flex-center-between bg-loading w-100 h-70-px'>
+        <div className='filters-top d-flex-center-between w-100'>
             <div className='d-flex gap-10'>
                 <button
                     type='button'

@@ -20,6 +20,22 @@ function Ofertas(){
     const categoria = categoriaParam ? categoriaParam.replace(/-/g, ' ') : null;
     const detallesParam = searchParams.get('detalles-del-producto');
     const detalles = detallesParam ? JSON.parse(detallesParam) : {};
+    const [skusOfertas, setSkusOfertas] = useState([]);
+
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/Ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
 
     useEffect(() => {
         const cargarProductos = async () => {
@@ -137,8 +153,8 @@ function Ofertas(){
                         <div className='d-flex-column gap-10 solo-por-horas-productos'>
                             <div className='d-flex-center-between banner-top-ofertas gap-20'>
                                 <div className='d-flex-column'>
-                                    <p className='block-title text-left color-white'>Cyber Kamas</p>
-                                    <p className='title color-white'>¡Aprovecha hasta el <b className='font-bold color-red'>35% de descuento</b> en dormitorios seleccionados! 🔥</p>
+                                    <p className='block-title text-left color-white'>Ofertas Kamas</p>
+                                    <p className='title color-white'>¡Aprovecha hasta el <b className='font-bold color-red'>30% de descuento</b> en dormitorios seleccionados! 🔥</p>
                                 </div>
 
                                 <ConteoRegresivo/>
@@ -157,6 +173,7 @@ function Ofertas(){
                                             truncate={truncate} 
                                             onToggleFavorite={() => {}} 
                                             isFavorite={false}
+                                            skusOfertas={skusOfertas}
                                         />
                                     ))
                                 )}

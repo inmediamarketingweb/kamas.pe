@@ -128,14 +128,15 @@ function PaginaProducto(){
         return () => window.removeEventListener('storage', handleStorageChange);
     }, []);
 
-    // Función para calcular precio ajustado
     const calcularPrecioAjustado = (precioOriginal) => {
-        // Aplicar 10% de descuento
         const precioConDescuento = precioOriginal * 0.9;
-        
-        // Redondear al 9 más cercano
         const precioRedondeado = Math.round(precioConDescuento);
-        return Math.floor(precioRedondeado / 10) * 10 - 1;
+        const decenaInferior = Math.floor(precioRedondeado / 10) * 10 - 1;
+        const decenaSuperior = Math.ceil(precioRedondeado / 10) * 10 - 1;
+        const diferenciaInferior = Math.abs(precioRedondeado - decenaInferior);
+        const diferenciaSuperior = Math.abs(decenaSuperior - precioRedondeado);
+
+        return diferenciaInferior < diferenciaSuperior ? decenaInferior : decenaSuperior;
     };
 
     if (error){
@@ -150,14 +151,8 @@ function PaginaProducto(){
         );
     }
 
-    // Determinar si el producto está en ofertas
     const estaEnOfertas = skusOfertas.includes(producto.sku);
-    
-    // Calcular precio final
-    const precioFinal = estaEnOfertas ? 
-        calcularPrecioAjustado(producto.precioVenta) : 
-        producto.precioVenta;
-
+    const precioFinal = estaEnOfertas ? calcularPrecioAjustado(producto.precioVenta) : producto.precioVenta;
     const mostrarConteo = estaEnOfertas;
 
     const handleContinuarClick = (e) => {
@@ -181,11 +176,8 @@ function PaginaProducto(){
     const cleanPrice = (price) => {
         if (typeof price === 'number') return price;
 
-        const cleaned = price.toString()
-            .replace('S/.', '')
-            .replace(/,/g, '')
-            .trim();
-        
+        const cleaned = price.toString().replace('S/.', '').replace(/,/g, '').trim();
+
         return parseFloat(cleaned) || 0;
     };
 
@@ -212,7 +204,7 @@ function PaginaProducto(){
             "@type": "Offer",
             "url": `https://kamas.pe${producto.ruta}`,
             "priceCurrency": "PEN",
-            "price": cleanPrice(precioFinal), // Usar precioFinal
+            "price": cleanPrice(precioFinal),
             "priceValidUntil": getValidUntilDate(),
             "itemCondition": "https://schema.org/NewCondition",
             "availability": producto.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
@@ -257,12 +249,7 @@ function PaginaProducto(){
 
                         <div className='product-page-container'>
                             <div className='product-page-target product-page-target-1 gap-10'>
-                                <Imagenes 
-                                    imagenes={imagenes} 
-                                    producto={producto} 
-                                    onSelectColor={setSelectedColor} 
-                                    skusOfertas={skusOfertas} 
-                                />
+                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} skusOfertas={skusOfertas}/>
                             </div>
 
                             <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
@@ -279,16 +266,12 @@ function PaginaProducto(){
                                             
                                             {estaEnOfertas ? (
                                                 <div className='d-flex-column'>
-                                                    <div className="d-flex-column gap-5 align-center">
-                                                        <p className='page-product-sale-price text-striked'>
-                                                            Ahora: S/.{producto.precioVenta}
-                                                        </p>
+                                                    <div className="d-flex-column align-center">
+                                                        <p className='page-product-sale-price page-product-sale-price-line'>Ahora: S/.{producto.precioVenta}</p>
                                                         {/* <p className='text font-14 color-green'>
                                                             ¡Descuento adicional aplicado! Ahorras S/.{producto.precioVenta - precioFinal}
                                                         </p> */}
-                                                        <p className='page-product-sale-price page-product-offer-price color-red'>
-                                                            En oferta: S/.{precioFinal}
-                                                        </p>
+                                                        <p className='page-product-sale-price page-product-offer-price color-red'>Oferta: S/.{precioFinal}</p>
                                                     </div>
                                                 </div>
                                             ) : (
@@ -430,10 +413,7 @@ function PaginaProducto(){
                     </section>
                 </div>
 
-                <MasProductos 
-                    categoriaActual={producto.categoria} 
-                    skusOfertas={skusOfertas} 
-                />
+                <MasProductos categoriaActual={producto.categoria} skusOfertas={skusOfertas} />
             </main>
         </>
     );
