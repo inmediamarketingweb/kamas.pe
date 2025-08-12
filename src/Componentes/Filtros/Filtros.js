@@ -5,21 +5,26 @@ import './Filtros.css';
 
 import './Componentes/Top/Top';
 
-function Filtros({ onCambiarPrecio, isOpen, onClose }){
+function Filtros({ onCambiarPrecio, isOpen, onClose }) {
     const [rangosSeleccionados, setRangosSeleccionados] = useState([]);
     const [filtros, setFiltros] = useState([]);
     const [categorias, setCategorias] = useState([]);
     const location = useLocation();
     const navigate = useNavigate();
     const searchParams = new URLSearchParams(location.search);
-    
+
     const parseParam = (param) => {
         return param ? param.replace(/-/g, ' ') : null;
     };
 
     const categoriaSeleccionada = parseParam(searchParams.get('categoria'));
-    const detallesProductoParam = searchParams.get('detalles-del-producto');
-    const detallesSeleccionados = detallesProductoParam ? JSON.parse(detallesProductoParam) : {};
+
+    const detallesSeleccionados = {};
+    searchParams.forEach((value, key) => {
+        if (key !== 'categoria') {
+            detallesSeleccionados[key] = value;
+        }
+    });
 
     const opcionesPrecio = [
         { label: 'Hasta S/.500', value: '0-500' },
@@ -30,10 +35,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
     ];
 
     const togglePrecio = (valor) => {
-        const yaExiste = rangosSeleccionados.includes(valor);
-        const nuevos = yaExiste
-            ? rangosSeleccionados.filter(v => v !== valor)
-            : [...rangosSeleccionados, valor];
+        const nuevos = rangosSeleccionados.includes(valor) ? rangosSeleccionados.filter(v => v !== valor) : [...rangosSeleccionados, valor];
 
         setRangosSeleccionados(nuevos);
         onCambiarPrecio(nuevos);
@@ -92,20 +94,14 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
 
     const handleSelectDetalle = (detalleKey, valor) => {
         const newSearchParams = new URLSearchParams(location.search);
-        const detallesActuales = { ...detallesSeleccionados };
+        const valorFormateado = valor.replace(/\s+/g, '-').toLowerCase();
+
+        if (newSearchParams.get(detalleKey) === valorFormateado) {
+            newSearchParams.delete(detalleKey);
+        } else {
+            newSearchParams.set(detalleKey, valorFormateado);
+        }
         
-        if (detallesActuales[detalleKey] === valor) {
-            delete detallesActuales[detalleKey];
-        } else {
-            detallesActuales[detalleKey] = valor;
-        }
-
-        if (Object.keys(detallesActuales).length === 0) {
-            newSearchParams.delete('detalles-del-producto');
-        } else {
-            newSearchParams.set('detalles-del-producto', JSON.stringify(detallesActuales));
-        }
-
         navigate({
             pathname: location.pathname,
             search: newSearchParams.toString()
@@ -113,15 +109,16 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
     };
 
     const isDetalleSeleccionado = (detalleKey, valor) => {
-        return detallesSeleccionados[detalleKey] === valor;
+        const valorActual = detallesSeleccionados[detalleKey] || '';
+        return valorActual.toLowerCase() === valor.replace(/\s+/g, '-').toLowerCase();
     };
 
     const limpiarFiltros = () => {
         const newSearchParams = new URLSearchParams();
-        if(categoriaSeleccionada){
-            const transformedCategoria = categoriaSeleccionada.replace(/\s+/g, '-');
-            newSearchParams.set('categoria', transformedCategoria);
-        }
+
+        setRangosSeleccionados([]);
+        onCambiarPrecio([]);
+
         navigate({
             pathname: location.pathname,
             search: newSearchParams.toString()
@@ -130,24 +127,17 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
 
     return(
         <>
-            <div 
-                className={`filtros-layer ${isOpen ? 'active' : ''}`} 
-                onClick={onClose}
-            ></div>
+            <div className={`filtros-layer ${isOpen ? 'active' : ''}`} onClick={onClose}></div>
 
             <div className={`filtros-container-global d-flex-column ${isOpen ? 'active' : ''}`}>
                 <div className='filtros-container'>
                     <div className='filtros-top d-flex-column'>
-                        <button 
-                            type='button' 
-                            className='filtros-button-close margin-left'
-                            onClick={onClose}
-                        >
+                        <button type='button' className='filtros-button-close margin-left' onClick={onClose}>
                             <span className="material-icons">close</span>
                         </button>
 
                         <p className='block-title d-flex color-color-1'>Kamas</p>
-                        <p className='title uppercase'>¡Las mejores ofertas en muebles para el hogar 🔥🛌!</p>
+                        <p className='title uppercase'>Las mejores ofertas en muebles para el hogar 🛌</p>
                     </div>
 
                     <div className='filtros-content'>
@@ -156,7 +146,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
                             <ul className='filtro-items'>
                                 {categorias.map((categoria, idx) => (
                                     <li key={idx}>
-                                        <button type='button' className={categoriaSeleccionada === categoria ? 'active' : ''}  onClick={() => handleSelectCategoria(categoria)}>
+                                        <button type='button' className={categoriaSeleccionada === categoria ? 'active' : ''} onClick={() => handleSelectCategoria(categoria)}>
                                             <span className='first-uppercase'>{categoria}</span>
                                         </button>
                                     </li>
@@ -166,7 +156,6 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
 
                         <div className='filtros-prices-container d-flex-column gap-10'>
                             <p className='title'>Precio</p>
-
                             <div className='d-flex-column gap-5'>
                                 {opcionesPrecio.map((rango, idx) => (
                                     <label key={idx} className="d-flex align-center gap-5">
@@ -183,7 +172,6 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
 
                         {categoriaSeleccionada && filtros.length > 0 && (
                             <div className='filtros-detalles-container d-flex-column margin-top-20'>
-                                {/* <p className='title margin-bottom-10'>Detalles del Producto</p> */}
                                 {filtros.map((filtroObj, index) => {
                                     const filtroKey = Object.keys(filtroObj)[0];
                                     const opciones = filtroObj[filtroKey];
@@ -210,7 +198,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }){
                         )}
                     </div>
 
-                    <button type='button' className='button-link button-link-2'onClick={limpiarFiltros}>
+                    <button type='button' className='button-link button-link-2' onClick={limpiarFiltros}>
                         <span className="material-icons">delete</span>
                         <p className='button-link-text'>Limpiar filtros</p>
                     </button>

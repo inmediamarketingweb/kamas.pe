@@ -35,8 +35,6 @@
 
 .product-page-container{
     width: 100%;
-    /* height: 900px; */
-    /* background: orange; */
     display: grid;
     grid-template-columns: 680px 1fr;
     gap: 20px;
@@ -193,6 +191,10 @@
 }
 
 @media screen and (max-width: 600px){
+    .pagina-producto-main .conteo-regresivo{
+        width: calc(100% - 20px);
+    }
+
     .product-page-container{
         display: flex;
         flex-direction: column;

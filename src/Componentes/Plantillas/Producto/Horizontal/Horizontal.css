@@ -82,3 +82,9 @@
     font-size: 28px;
     color: var(--color-1);
 }
+
+@media screen and (max-width: 600px){
+    .product-card-hori{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

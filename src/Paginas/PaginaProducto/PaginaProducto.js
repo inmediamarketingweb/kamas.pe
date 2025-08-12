@@ -234,12 +234,18 @@ function PaginaProducto(){
                 {mostrarConteo &&
                     <div className='conteo-regresivo'>
                         <div className='d-flex-column gap-10'>
-                            <p className='block-title color-white w-auto text-left'>¡Producto en oferta 🔥!</p>
-                            <p className='title color-white'>{producto.nombre}</p>
-                            <p className='text color-white'>Su precio es más bajo de lo regular, aprovecha y llévatelo ahora</p>
+                            <p className='title uppercase color-white w-auto text-left'>Producto en oferta 🔥</p>
+                            <p className='title lowercase color-white'>{producto.nombre}</p>
+                            {/* <p className='text color-white'>Su precio es más bajo de lo regular, aprovecha y llévatelo ahora</p> */}
                         </div>
 
-                        <ConteoRegresivo/>
+                        <div className='d-flex-column gap-10'>
+                            <ConteoRegresivo/>
+
+                            <a href='' title='' className='button-link button-link-6'>
+                                <p className='button-link-text'>Separar oferta con <b className='font-bold'>S/100</b></p>
+                            </a>
+                        </div>
                     </div>
                 }
 

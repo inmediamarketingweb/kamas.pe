@@ -17,7 +17,7 @@ function Descripcion({ producto }) {
                     <p className='block-title w-auto'>Sobre el producto</p>
 
                     <div className='product-page-about-container'>
-                        <div className='product-page-about-content d-flex-column gap-20'>
+                        <div className='product-page-about-content d-flex-column'>
                             <div className='product-page-about-buttons w-100 d-flex'>
                                 <button type='button' className={`product-page-about-button product-page-about-button-1 ${activeTab === 'detalles' ? 'active' : ''}`} onClick={() => handleTabChange('detalles')}>
                                     <p className='text'>Detalles</p>
@@ -86,7 +86,7 @@ function Descripcion({ producto }) {
                     <p className='block-title w-auto'>Sobre el producto</p>
 
                     <div className='product-page-about-container'>
-                        <div className='product-page-about-content d-flex-column gap-10'>
+                        <div className='product-page-about-content d-flex-column'>
                             <div className='product-page-about-buttons w-100 d-flex'>
                                 <button type='button' className={`product-page-about-button product-page-about-button-1 ${activeTab === 'detalles' ? 'active' : ''}`} onClick={() => handleTabChange('detalles')}>
                                     <p className='text'>Detalles</p>

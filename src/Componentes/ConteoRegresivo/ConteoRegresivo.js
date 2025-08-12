@@ -72,7 +72,7 @@ function ConteoRegresivo({ onExpire }) {
         const interval = setInterval(() => {
             const now = new Date();
             const diffInMs = targetDate - now;
-            
+
             if (diffInMs <= 0) {
                 const newCycle = calculateCurrentCycle();
                 setCyclePhase(newCycle.phase);
@@ -83,7 +83,7 @@ function ConteoRegresivo({ onExpire }) {
                 }
                 return;
             }
-            
+
             setTimeLeft(calculateTimeLeft());
         }, 1000);
         
@@ -97,7 +97,6 @@ function ConteoRegresivo({ onExpire }) {
                     <h2>¡Las ofertas terminaron</h2>
                     <p>Pronto, nuevas ofertas</p>
                     <div className="sale-time">
-                        {/* <p>Próximas ofertas en:</p> */}
                         <div className="time-unit">
                             <span>{format(timeLeft.days)}</span>
                             <p>Días</p>
