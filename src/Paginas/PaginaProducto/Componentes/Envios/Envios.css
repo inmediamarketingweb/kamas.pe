@@ -5,14 +5,15 @@
     grid-template-columns: 1fr auto;
     gap: 5px;
     padding: 10px;
-    border: 1px solid var(--gray);
+    background: var(--white);
+    /* border: 1px solid var(--gray); */
     border-radius: 4px;
     transition: var(--t-200ms-linear);
 }
 
 .envios-button-open:hover{
     background: rgba(0 0 0 / 0.05);
-    border: 1px solid transparent;
+    /* border: 1px solid transparent; */
 }
 
 .envios-button-open p,

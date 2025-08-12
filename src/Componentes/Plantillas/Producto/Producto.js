@@ -93,7 +93,7 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
 
                                     <div className='d-flex-center-left margin-right product-card-separar'>
                                         <span className="material-icons">sell</span>
-                                        <p>Separalo con <b>S/.100</b></p>
+                                        <p>Separa con <b>S/.100</b></p>
                                     </div>
                                 </>
                             )}
