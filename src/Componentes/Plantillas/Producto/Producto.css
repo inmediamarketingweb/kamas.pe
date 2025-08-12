@@ -95,7 +95,7 @@
 }
 
 .product-card-ofert span{
-    font-size: 13px;
+    font-size: 11px;
     color: var(--white);
     font-weight: bold;
 }
@@ -117,7 +117,7 @@
 
 .product-card-regular-price{
     font-size: 14px;
-    color: crimson;
+    color: #999;
 }
 
 .product-card-regular-price,
@@ -137,23 +137,36 @@
     margin-left: auto;
 }
 
+.product-card-sale-price-offer{
+    text-decoration: line-through;
+    font-size: 17px;
+}
+
+.product-card-sale-price-final{
+    color: crimson;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: auto;
+}
+
 .product-card-tipo-de-envio{
     margin-left: auto;
     display: flex;
-    padding: 3px 8px;
+    padding: 3px 6px;
     border-radius: 3px;
 }
 
 .product-card-tipo-de-envio span{
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .product-card-tipo-de-envio.envio-gratis{
-    background: rgba(144 238 144 / 0.5);
+    background: #06CA65;
 }
 
 .product-card-tipo-de-envio.envio-gratis span{
-    color: green;
+    color: var(--white);
+    font-weight: bold;
 }
 
 .product-card-tipo-de-envio.envio-preferente{
@@ -161,7 +174,7 @@
 }
 
 .product-card-tipo-de-envio.envio-preferente span{
-    color: white;
+    color: var(--white);
 }
 
 .product-card-tipo-de-envio.envio-aplicado{
@@ -169,7 +182,7 @@
 }
 
 .product-card-tipo-de-envio.envio-aplicado span{
-    color: white;
+    color: var(--white);
 }
 
 .product-card-separar{

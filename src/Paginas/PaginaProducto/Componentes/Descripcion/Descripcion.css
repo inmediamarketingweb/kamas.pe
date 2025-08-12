@@ -1,42 +1,77 @@
-.product-details-container{
-    min-width: 360px;
-}
-
-.product-details-container ul,
-.descripcion-list-container ul{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-}
-
-.product-details-container ul li,
-.descripcion-list-container ul li{
+.product-page-about-button{
     display: flex;
     align-items: center;
-    justify-content: left;
-    gap: 5px;
+    justify-content: center;
+    width: auto;
+    padding: 0 10px;
+    height: 36px;
+    position: relative;
 }
 
-.product-details-container ul li span,
-.descripcion-list-container ul li span{
-    color: var(--color-1);
+.product-page-about-button::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 3px;
+    background: rgba(0 0 0 / 0.075);
+    transition: var(--t-200ms-linear);
+}
+
+.product-page-about-button:hover::before,
+.product-page-about-button.active::before{
+    background: var(--color-1);
+}
+
+.product-page-about-button-1::before{
+    border-radius: 1px 0 0 1px;
+}
+
+.product-page-about-button-2::before{
+    border-radius: 0 1px 1px 0;
+}
+
+.product-page-about-list ul p.title{
+    margin-bottom: 5px;
+    color: var(--text);
     font-size: 18px;
 }
 
-.product-details-container ul li > div,
-.descripcion-list-container ul li > div{
+.product-page-about-list ul li span{
+    font-size: 16px;
+    color: var(--color-1);
+}
+
+.product-page-about-list ul li div{
     display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 5px;
 }
 
-.product-details-container ul li > div div strong,
-.descripcion-list-container ul li > div div strong{
-    color: var(--black-0);
+.product-page-about-list ul li div strong{
     font-weight: bold;
     display: inline-block;
+    color: var(--text);
 }
 
-.product-details-container ul li > div div strong::first-letter,
-.descripcion-list-container ul li > div div strong::first-letter{
+.product-page-about-list ul li div strong::first-letter{
     text-transform: uppercase;
+}
+
+.product-page-about-list-2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .product-page-about-buttons button{
+        width: 100%;
+    }
+
+    .product-page-about-list-2{
+        grid-template-columns: 1fr;
+    }
 }

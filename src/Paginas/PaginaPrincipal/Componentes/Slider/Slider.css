@@ -1,7 +1,9 @@
 .slider-general-container{
+    display: flex;
     width: 100%;
     max-width: var(--container-mx-width);
     margin: 0 auto;
+    height: 600px;
 }
 
 .slider-general-container > img{
@@ -168,6 +170,10 @@
 }
 
 @media screen and (max-width: 600px){
+    .slider-general-container{
+        height: 180px;
+    }
+
     .slider-general-container > img{
         width: 100%;
         height: auto;

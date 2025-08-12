@@ -22,7 +22,7 @@ function Perfiles(){
                                 <p className='profile-card-sales'>+75 vendidos</p>
                             </div>
 
-                            <p>Somos tienda oficial en <a href='https://www.falabella.com.pe/falabella-pe/search?Ntt=kamas' title='Falabella | Kamas'>Falabella.pe</a></p>
+                            <p>Somos tienda oficial en <a href='https://www.falabella.com.pe/falabella-pe/search?Ntt=kamas' title='Falabella | Kamas'>Falabella</a></p>
                         </div>
                     </li>
 
@@ -64,7 +64,7 @@ function Perfiles(){
                                 <p className='profile-card-sales'>+75 vendidos</p>
                             </div>
 
-                            <p>Somos tienda oficial en <a href='' title=''>Falabella.pe</a></p>
+                            <p>Somos tienda oficial en <a href='' title=''>Plaza vea</a></p>
                         </div>
                     </li>
 
@@ -163,13 +163,13 @@ function Perfiles(){
                                     <span class="material-icons">star</span>
                                     <span class="material-icons">star</span>
                                     <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span class="material-icons">star</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+202 vendidos</p>
                             </div>
 
-                            <p><a href='' title=''>Dormihogar</a> es distribuidor oficial</p>
+                            <p><a href='https://dormihogar.pe/' title='Dormihogar es distribuidor autorizado de Kamas'>Dormihogar</a> es distribuidor oficial</p>
                         </div>
                     </li>
                 </ul>

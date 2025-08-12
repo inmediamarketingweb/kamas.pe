@@ -163,7 +163,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                     
                     <div className="d-flex-column">
                         <p className='block-title d-flex color-color-1'>Kamas</p>
-                        <p className='title uppercase'>¡Las mejores ofertas en muebles para el hogar 🔥🛌!</p>
+                        <p className='title uppercase'>Las mejores ofertas en muebles para el hogar</p>
                     </div>
 
                     <div className="price-range d-flex-column">

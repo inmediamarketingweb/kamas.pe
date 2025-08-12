@@ -1,8 +1,4 @@
 .profiles{
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap; */
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
@@ -10,7 +6,6 @@
 
 .profile{
     width: 100%;
-    /* max-width: 400px; */
     position: relative;
     display: flex;
     flex-direction: column;
@@ -38,10 +33,10 @@
 }
 
 .profile-card-stars{
-    width: 100%;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: right;
+    flex-direction: column;
     gap: 3px;
 }
 
@@ -57,16 +52,12 @@
 
 .profile-card-content{
     width: 100%;
-    margin-top: 15px;
-    /* padding: 20px 10px; */
+    margin-top: 25px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between !important;
+    flex-direction: row-reverse !important;
     gap: 5px;
-}
-
-.profile-card-content p{
-    text-align: center;
 }
 
 .profile-card-content p a{
@@ -92,5 +83,13 @@
         left: 20px;
         width: 50px;
         border: 3px solid var(--component);
+    }
+
+    .profile-card-content{
+        flex-direction: column !important;
+    }
+
+    .profile-card-stars{
+        flex-direction: row-reverse !important;
     }
 }
