@@ -211,6 +211,8 @@ function PaginaProducto(){
         }
     };
 
+    const hasMedidas = producto["tamaños-disponibles"] && Array.isArray(producto["tamaños-disponibles"]) && producto["tamaños-disponibles"].length > 0;
+
     return(
         <>
             <Helmet>
@@ -236,13 +238,12 @@ function PaginaProducto(){
                         <div className='d-flex-column gap-10'>
                             <p className='title uppercase color-white w-auto text-left'>Producto en oferta 🔥</p>
                             <p className='title lowercase color-white'>{producto.nombre}</p>
-                            {/* <p className='text color-white'>Su precio es más bajo de lo regular, aprovecha y llévatelo ahora</p> */}
                         </div>
 
                         <div className='d-flex-column gap-10'>
                             <ConteoRegresivo/>
 
-                            <a href='' title='' className='button-link button-link-6'>
+                            <a href='/' title='| Kamas' className='button-link button-link-6'>
                                 <p className='button-link-text'>Separar oferta con <b className='font-bold'>S/100</b></p>
                             </a>
                         </div>
@@ -253,7 +254,7 @@ function PaginaProducto(){
                     <section className='block-content product-page-block-content'>
                         <Jerarquia producto={producto} />
 
-                        <div className='product-page-container'>
+                        <div className='product-page-container bg-white border-r-6 padding-10'>
                             <div className='product-page-target product-page-target-1 gap-10'>
                                 <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} skusOfertas={skusOfertas}/>
                             </div>
@@ -265,8 +266,8 @@ function PaginaProducto(){
                                     <Sku producto={producto} />
                                 </div>
 
-                                <div className='d-grid-2-1fr gap-20'>
-                                    <div className='d-flex-column gap-20'>
+                                <div className='d-grid-2-1fr gap-10'>
+                                    <div className='d-flex-column gap-10'>
                                         <div className='page-product-prices d-flex-column'>
                                             <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
                                             
@@ -274,9 +275,6 @@ function PaginaProducto(){
                                                 <div className='d-flex-column'>
                                                     <div className="d-flex-column align-center">
                                                         <p className='page-product-sale-price page-product-sale-price-line'>Ahora: S/.{producto.precioVenta}</p>
-                                                        {/* <p className='text font-14 color-green'>
-                                                            ¡Descuento adicional aplicado! Ahorras S/.{producto.precioVenta - precioFinal}
-                                                        </p> */}
                                                         <p className='page-product-sale-price page-product-offer-price color-red'>Oferta: S/.{precioFinal}</p>
                                                     </div>
                                                 </div>
@@ -287,9 +285,10 @@ function PaginaProducto(){
 
                                         <Regalos producto={producto} />
 
-                                        <div className='d-grid-2-1fr gap-20'>
+                                        {/* SECCIÓN MODIFICADA CON LÓGICA CONDICIONAL */}
+                                        <div className='d-flex gap-10'>
                                             <Resumen producto={producto} />
-                                            <Medidas producto={producto} />
+                                            {hasMedidas && <Medidas producto={producto} />}
                                         </div>
 
                                         <Video producto={producto} />
@@ -308,10 +307,8 @@ function PaginaProducto(){
                                         <Beneficios/>
                                     </div>
 
-                                    <div className='d-flex-column gap-20'>
-                                        <Envios 
-                                            producto={producto} 
-                                            onConfirm={(data) => {
+                                    <div className='d-flex-column gap-10'>
+                                        <Envios producto={producto} onConfirm={(data) => {
                                                 setShippingInfo(data); 
                                                 setShippingOptions(data.shippingOptions);
 
@@ -335,11 +332,7 @@ function PaginaProducto(){
 
                                         <div className='product-page-user-name-container d-flex-column gap-5'>
                                             <p className='text'><b className='color-red'>*</b> Nombres</p>
-                                            <input 
-                                                type='text' 
-                                                placeholder='Nombres' 
-                                                className='product-page-user-name' 
-                                                value={userName}
+                                            <input type='text' placeholder='Nombres' className='product-page-user-name' value={userName}
                                                 onChange={(e) => {
                                                     setUserName(e.target.value);
                                                     localStorage.setItem('nombre', e.target.value);
@@ -361,14 +354,7 @@ function PaginaProducto(){
                                                     </p>
                                                     <div className='d-flex-center-left gap-5'>
                                                         <span className='first-uppercase'>{selectedColor.color}</span>
-                                                        <img 
-                                                            width={26} 
-                                                            height={18} 
-                                                            src={selectedColor.img} 
-                                                            alt={selectedColor.color} 
-                                                            loading="lazy" 
-                                                            style={{ borderRadius: '10%' }} 
-                                                        />
+                                                        <img width={26} height={18} src={selectedColor.img} alt={selectedColor.color} loading="lazy" style={{ borderRadius: '10%' }} />
                                                     </div>
                                                 </div>
                                             )}
@@ -376,34 +362,20 @@ function PaginaProducto(){
 
                                         <div className='d-flex-center-center gap-10'>
                                             <div className='d-flex-column gap-10'>
-                                                <div className='quantity'>
-                                                    <button 
-                                                        type="button" 
-                                                        onClick={handleRemove} 
-                                                        disabled={quantity <= 1}
-                                                    >
+                                                <div className='quantity bg-white'>
+                                                    <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
                                                         <span className="material-icons">remove</span>
                                                     </button>
+
                                                     <div className="quantity-input">{quantity}</div>
-                                                    <button 
-                                                        type="button" 
-                                                        onClick={handleAdd} 
-                                                        disabled={quantity >= 10}
-                                                    >
+
+                                                    <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
                                                         <span className="material-icons">add</span>
                                                     </button>
                                                 </div>
                                             </div>
 
-                                            <WhatsApp 
-                                                producto={producto} 
-                                                selectedShipping={selectedShipping} 
-                                                shippingInfo={shippingInfo} 
-                                                selectedColor={selectedColor} 
-                                                quantity={quantity} 
-                                                handleContinuarClick={handleContinuarClick}
-                                                precioFinal={precioFinal}
-                                            />
+                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick} precioFinal={precioFinal}/>
                                         </div>
 
                                         <div className='whatsapp-message d-flex d-flex-column gap-5'>
