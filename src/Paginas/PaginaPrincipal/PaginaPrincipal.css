@@ -1,6 +1,5 @@
 .homepage-banners div{
     width: 100%;
-    display: flex;
 }
 
 .homepage-banners div a{
@@ -30,5 +29,9 @@
     }
     .homepage-categories li a div{
         padding: 10px;
+    }
+    .homepage-banners div{
+        display: grid;
+        grid-template-columns: 1fr !important;
     }
 }

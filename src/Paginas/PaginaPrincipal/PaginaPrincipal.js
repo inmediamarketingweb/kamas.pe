@@ -46,11 +46,11 @@ function PaginaPrincipal(){
                 <section className='block-container'>
                     <div className='homepage-banners block-content d-flex-column gap-10'>
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si' title='Ofertas en dormitorios europeos 2 plazas | Kamas'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si' title='Oferta en dormitorios europeos 2 plazas | Kamas'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="Ofertas en dormitorios europeos 2 plazas | Kamas" className='page-banner-img'/>
                             </a>
 
-                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen' title='Ofertas en dormitorios queen americanos | Kamas'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen' title='Oferta en dormitorios queen americanos | Kamas'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas" className='page-banner-img'/>
                             </a>
                         </div>
@@ -60,12 +60,12 @@ function PaginaPrincipal(){
                         </a>
 
                         <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king' title='Ofertas en dormitorios king europeos | Kamas'>
+                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king' title='Oferta en dormitorios king europeos | Kamas'>
                                 <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="Ofertas en dormitorios king europeos | Kamas" className='page-banner-img'/>
                             </a>
 
-                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=2-plazas'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="" className='page-banner-img'/>
+                            <a className='d-flex' href='/productos/complementos/?sub-categoría=veladores' title='Oferta en veladores | Kamas'>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-5.webp" alt="" className='page-banner-img'/>
                             </a>
                         </div>
                     </div>
