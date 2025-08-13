@@ -55,78 +55,6 @@
     position: relative;
 }
 
-/* .slider li:nth-child(1)::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    background: #DC1424;
-    z-index: 0;
-}
-
-.slider li:nth-child(2)::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: flex;
-    width: 50%;
-    height: 100%;
-    background: #54041c;
-    z-index: 0;
-}
-
-.slider li:nth-child(2)::after{
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 0;
-    display: flex;
-    width: 50%;
-    height: 100%;
-    background: #f4f4f4;
-    z-index: 0;
-}
-
-.slider li:nth-child(3)::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: flex;
-    width: 50%;
-    height: 100%;
-    background: #f7f7f7;
-    z-index: 0;
-}
-
-.slider li:nth-child(3)::after{
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 0;
-    display: flex;
-    width: 50%;
-    height: 100%;
-    background: #e9e9e7;
-    z-index: 0;
-}
-
-.slider li:nth-child(4)::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    background: #5698eb;
-    z-index: 0;
-} */
-
 .slider li a{
     width: 100%;
     height: 100%;
@@ -140,7 +68,6 @@
     max-width: var(--container-mx-width);
     height: 100%;
     object-fit: cover;
-    /* object-fit: contain; */
 }
 
 .hero-slider-button{
@@ -150,23 +77,27 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 48px;
-    height: 48px;
-    border-radius: 100%;
-    background: var(--color-1);
+    transition: var(--t-200ms-linear);
+    width: 40px;
+    height: 100%;
     z-index: 10;
 }
 
+.hero-slider-button:hover{
+    background: rgba(0 0 0 / 0.025);
+}
+
 .hero-slider-button span{
-    color: var(--white);
+    color: var(--color-1);
+    font-size: 44px !important;
 }
 
 .hero-slider-button-1{
-    left: 20px;
+    left: 0;
 }
 
 .hero-slider-button-2{
-    right: 20px;
+    right: 0;
 }
 
 @media screen and (max-width: 600px){
@@ -189,8 +120,12 @@
         display: flex;
         transition: var(--t-200ms-linear);
     }
-/*     
-    .slider li img{
-        object-fit: contain;
-    } */
+
+    .hero-slider-button{
+        width: 30px;
+    }
+
+    .hero-slider-button span{
+        font-size: 24px !important;
+    }
 }
