@@ -106,17 +106,13 @@ function Ofertas(){
         cargarProductos();
     }, []);
 
-    // Función para alternar favoritos
     const toggleFavorite = (producto) => {
         setFavoritos(prevFavoritos => {
-            // Verificar si el producto ya está en favoritos
             const existe = prevFavoritos.some(fav => fav.sku === producto.sku);
             
             if (existe) {
-                // Si existe, lo eliminamos
                 return prevFavoritos.filter(fav => fav.sku !== producto.sku);
             } else {
-                // Si no existe, lo agregamos
                 return [...prevFavoritos, producto];
             }
         });
