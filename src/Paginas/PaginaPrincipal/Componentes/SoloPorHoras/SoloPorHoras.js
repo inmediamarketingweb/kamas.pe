@@ -76,7 +76,7 @@ function SoloPorHoras(){
         
         if (productos.length > 1) {
             elementos.push(
-                <Horizontal key={`dinamico-2-${productos[1].sku}`} producto={productos[1]} truncate={truncate} />
+                <Producto key={`dinamico-2-${productos[1].sku}`} producto={productos[1]} truncate={truncate} />
             );
         }
 

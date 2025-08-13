@@ -45,6 +45,16 @@
     grid-row: 1/-1;
 }
 
+.block-content-solo-por-horas > ul > li:nth-child(4){
+    grid-column: 3/4;
+    grid-row: 1/-1;
+}
+
+.block-content-solo-por-horas > ul > li:nth-child(7){
+    grid-column: 5/6;
+    grid-row: 1/-1;
+}
+
 .block-content-solo-por-horas > ul > li .product-card{
     background: var(--white);
     width: 100%;
@@ -144,28 +154,19 @@
 }
 
 @media screen and (max-width: 600px){
+    .block-content-solo-por-horas .block-title-container{
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+
     .block-content-solo-por-horas > ul{
         grid-template-columns: repeat(2, 1fr) !important;
         grid-template-rows: repeat(5, auto) !important;
     }
 
     .block-content-solo-por-horas > ul > li:nth-child(1){
-        grid-column: 1/2;
-        grid-row: 2/3;
-    }
-
-    .block-content-solo-por-horas > ul > li:nth-child(2){
-        grid-column: 2/3;
-        grid-row: 2/3;
-    }
-
-    .block-content-solo-por-horas > ul > li:nth-child(3){
         grid-column: 1/-1;
         grid-row: 1/2;
-    }
-
-    .block-content-solo-por-horas > ul > li:nth-child(3) .product-card{
-        flex-direction: row;
     }
 
     .block-content-solo-por-horas > ul > li:nth-child(4){
@@ -173,22 +174,28 @@
         grid-row: 3/4;
     }
 
-    .block-content-solo-por-horas > ul > li:nth-child(5){
-        grid-column: 1/2;
-        grid-row: 4/5;
-    }
-
-    .block-content-solo-por-horas > ul > li:nth-child(6){
-        grid-column: 2/3;
-        grid-row: 4/5;
-    }
-
     .block-content-solo-por-horas > ul > li:nth-child(7){
         grid-column: 1/-1;
         grid-row: 5/6;
     }
 
+    .block-content-solo-por-horas > ul > li:nth-child(1) .product-card,
+    .block-content-solo-por-horas > ul > li:nth-child(4) .product-card,
     .block-content-solo-por-horas > ul > li:nth-child(7) .product-card{
-        flex-direction: row;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(1) .product-card .product-card-images,
+    .block-content-solo-por-horas > ul > li:nth-child(4) .product-card .product-card-images,
+    .block-content-solo-por-horas > ul > li:nth-child(7) .product-card .product-card-images{
+        height: 100% !important;
+    }
+
+    .block-content-solo-por-horas > ul > li:nth-child(1) .product-card .product-card-content,
+    .block-content-solo-por-horas > ul > li:nth-child(4) .product-card .product-card-content,
+    .block-content-solo-por-horas > ul > li:nth-child(7) .product-card .product-card-content{
+        height: 100%;
+        padding: 10px 10px 10px 0 !important;
     }
 }
