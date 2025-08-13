@@ -44,6 +44,12 @@ function SoloPorHoras(){
     const renderizarElementos = () => {
         const elementos = [];
 
+        if (productos.length > 0) {
+            elementos.push(
+                <Producto key={`dinamico-1-${productos[0].sku}`} producto={productos[0]} truncate={truncate}  />
+            );
+        }
+
         elementos.push(
             <li key="colchones">
                 <a href='/ofertas/?categoria=colchones' title='Colchones | Kamas' className='product-card-miniature'>
@@ -67,12 +73,6 @@ function SoloPorHoras(){
                 </a>
             </li>
         );
-
-        if (productos.length > 0) {
-            elementos.push(
-                <Producto key={`dinamico-1-${productos[0].sku}`} producto={productos[0]} truncate={truncate} />
-            );
-        }
         
         if (productos.length > 1) {
             elementos.push(
