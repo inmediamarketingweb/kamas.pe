@@ -41,7 +41,7 @@ function PaginaProducto(){
     useEffect(() => {
         const cargarOfertas = async () => {
             try {
-                const response = await fetch('/assets/json/Ofertas.json');
+                const response = await fetch('/assets/json/ofertas.json');
                 const data = await response.json();
                 setSkusOfertas(data);
                 setCargandoOfertas(false);
