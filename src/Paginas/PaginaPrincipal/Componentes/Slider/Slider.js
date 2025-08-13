@@ -62,7 +62,7 @@ function Slider() {
                                             <img
                                                 width={isSmallScreen ? 400 : 2000}
                                                 height={isSmallScreen ? 180 : 600}
-                                                src={isSmallScreen ? slide["foto-desktop"] : slide["foto-desktop"]}
+                                                src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]}
                                                 alt={slide.alt}
                                                 {...(index !== 0 ? { loading: "lazy" } : {})}
                                             />

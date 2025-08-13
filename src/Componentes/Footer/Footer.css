@@ -1,12 +1,13 @@
 .whatsapp-button{
     position: fixed;
     right: 20px;
-    bottom: 200px;
+    bottom: 138.44px;
     display: flex;
     width: 60px;
     height: 60px;
     background: var(--whatsapp);
     border-radius: 100%;
+    box-shadow: 0 0 5px rgba(0 0 0 / 0.5);
     z-index: 98;
 }
 
@@ -210,6 +211,11 @@ footer{
 }
 
 @media screen and (max-width: 600px){
+    .whatsapp-button{
+        right: 10px;
+        bottom: 156px;
+    }
+
     footer{
         gap: 0 !important;
     }
