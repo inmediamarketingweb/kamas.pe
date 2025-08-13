@@ -126,18 +126,21 @@ function Envios({ producto, onConfirm }){
             : null;
 
         const shippingOptions = [];
+
         if (productShippingCost !== null) {
             shippingOptions.push({ 
                 tipo: producto['tipo-de-envio'], 
                 precio: productShippingCost 
             });
         }
+
         if (envioDirectoObj) {
             shippingOptions.push({ 
                 tipo: envioDirectoObj['tipo-de-envio'], 
                 precio: envioDirectoObj.precio || envioDirectoObj.costos || 0 
             });
         }
+
         if (envioExpressObj) {
             shippingOptions.push({ 
                 tipo: envioExpressObj['tipo-de-envio'], 

@@ -434,6 +434,7 @@ button{
 .button-link-text,
 .button-link span{
     transition: var(--t-200ms-linear);
+    z-index: 1;
 }
 
 .button-link-1{

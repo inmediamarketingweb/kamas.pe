@@ -1,0 +1,35 @@
+.pagina-producto-main .conteo-regresivo > div:nth-child(2) .button-link.active{
+    filter: unset;
+    position: relative;
+    overflow: hidden;
+    pointer-events: unset;
+    user-select: unset;
+}
+
+.pagina-producto-main .conteo-regresivo > div:nth-child(2) .button-link.active::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    width: 110%;
+    height: auto;
+    aspect-ratio: 1/1;
+    display: flex;
+    border-radius: 100%;
+    background: #2266e6;
+    transition: var(--t-200ms-linear);
+    scale: 0;
+    z-index: 0;
+}
+
+.pagina-producto-main .conteo-regresivo > div:nth-child(2) .button-link:hover::before{
+    scale: 1;
+}
+
+.pagina-producto-main .conteo-regresivo > div:nth-child(2) .button-link.disabled{
+    filter: grayscale(1);
+    cursor: not-allowed;
+    pointer-events: none;
+    user-select: none;
+}

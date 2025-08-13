@@ -2,8 +2,11 @@ import { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import { useLocation } from 'react-router-dom';
 
+import './PaginaProducto.css';
+
 import NoProducto from '../../Paginas/NoProducto/NoProducto';
 import SpinnerLoading from '../../Componentes/SpinnerLoading/SpinnerLoading';
+import Separar from './Componentes/Separar/Separar';
 import Jerarquia from './Componentes/Jerarquia/Jerarquia';
 import Sku from './Componentes/Sku/Sku';
 import Imagenes from './Componentes/Imagenes/Imagenes';
@@ -18,8 +21,6 @@ import WhatsApp from './Componentes/WhatsApp/WhatsApp';
 import Descripcion from './Componentes/Descripcion/Descripcion';
 import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
 import MasProductos from './Componentes/MasProductos/MasProductos';
-
-import './PaginaProducto.css';
 
 function PaginaProducto(){
     const [shippingInfo, setShippingInfo] = useState(null);
@@ -237,15 +238,13 @@ function PaginaProducto(){
                     <div className='conteo-regresivo'>
                         <div className='d-flex-column gap-10'>
                             <p className='title uppercase color-white w-auto text-left'>Producto en oferta 🔥</p>
-                            <p className='title lowercase color-white'>{producto.nombre}</p>
+                            <p className='title color-white'>{producto.nombre}</p>
                         </div>
 
                         <div className='d-flex-column gap-10'>
                             <ConteoRegresivo/>
 
-                            <a href='/' title='| Kamas' className='button-link button-link-6'>
-                                <p className='button-link-text'>Separar oferta con <b className='font-bold'>S/100</b></p>
-                            </a>
+                            <Separar producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick} precioFinal={precioFinal}/>
                         </div>
                     </div>
                 }
@@ -285,7 +284,6 @@ function PaginaProducto(){
 
                                         <Regalos producto={producto} />
 
-                                        {/* SECCIÓN MODIFICADA CON LÓGICA CONDICIONAL */}
                                         <div className='d-flex gap-10'>
                                             <Resumen producto={producto} />
                                             {hasMedidas && <Medidas producto={producto} />}
