@@ -102,6 +102,12 @@
     right: 0;
 }
 
+@media screen and (max-width: 800px){
+    .slider-general-container{
+        height: 320px;
+    }
+}
+
 @media screen and (max-width: 600px){
     .slider-general-container{
         height: 180px;

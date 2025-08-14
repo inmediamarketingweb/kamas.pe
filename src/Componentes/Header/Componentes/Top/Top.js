@@ -7,6 +7,7 @@ function Top(){
                 <ul className='header-top-left d-flex-center-left gap-10'>
                     <li>
                         <p>Atención de lunes a sábados de 08:00 am a 08:00 pm</p>
+                        <p>Atención de L-V de 08:00 am a 08:00 pm</p>
                     </li>
                     <li>
                         <p>|</p>
@@ -16,13 +17,13 @@ function Top(){
 
                         <ul className='d-flex-center-left gap-5'>
                             <li>
-                                <a href='tel: +51943469911' title="Llamar" className='d-flex-center-center gap-5'>
+                                <a href='tel: +51943469911' title="Llamar | Kamas" className='d-flex-center-center gap-5'>
                                     <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Kamas" />
                                     <h2>943469911</h2>
                                 </a>
                             </li>
                             <li>
-                                <a href='tel: +51917013610' title="" className='d-flex-center-center gap-5'>
+                                <a href='tel: +51917013610' title="Llamar | Kamas" className='d-flex-center-center gap-5'>
                                     <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Kamas" />
                                     <h2>917013610</h2>
                                 </a>

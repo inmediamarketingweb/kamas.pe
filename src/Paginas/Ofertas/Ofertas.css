@@ -37,13 +37,19 @@
     grid-column: 1/-1;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .ofertas-content{
-        grid-template-columns: 1fr;
+        grid-template-columns: 240px 1fr;
     }
 
     .ofertas-productos .products-list{
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 600px){
+    .ofertas-content{
+        grid-template-columns: 1fr;
     }
 
     .banner-top-ofertas{

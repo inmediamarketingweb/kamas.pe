@@ -1,64 +1,3 @@
-/* .homepage-categories{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-}
-
-.homepage-categories li a{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 10px;
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-    transition: var(--t-200ms);
-}
-
-.homepage-categories li a div{
-    display: flex;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 1/1;
-    border: 1px solid var(--gray);
-    border-radius: 100%;
-    transition: var(--t-200ms);
-    overflow: hidden;
-    padding: 20px;
-}
-
-.homepage-categories li a:hover div{
-    border: 1px solid var(--color-1);
-}
-
-.homepage-categories li a div img{
-    margin: auto;
-    aspect-ratio: 1/1;
-}
-
-.homepage-categories li a p{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-    font-weight: bold;
-}
-
-.homepage-categories li a:hover p{
-    color: var(--color-1);
-} */
-
-/* .categories-block-content{
-    width: 100%;
-    border-radius: 8px;
-    background: #222;
-    padding: 20px;
-} */
-
 .categories{
     width: 100%;
     display: grid;
@@ -73,13 +12,8 @@
     height: 100%;
     overflow: hidden;
     border-radius: 6px;
-    /* border: 1px solid transparent; */
     transition: var(--t-200ms-linear);
 }
-
-/* .categories li:hover{
-    border: 1px solid #999;
-} */
 
 .categories li a{
     display: flex;
@@ -104,7 +38,6 @@
 
 .categories li a:hover::before{
     opacity: 0.8;
-    /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 50%); */
 }
 
 .categories li a img{
@@ -132,13 +65,26 @@
 .categories li a > div .text.color-white{
     display: flex;
     width: calc(100% - 20px);
-    /* background: orange; */
 }
 
 .categories li:nth-child(1){
-    /* background: orange; */
     grid-column: 1/2;
     grid-row: 1/-1;
+}
+
+@media screen and (max-width: 800px){
+    .categories{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr repeat(2, 140px);
+        grid-template-rows: repeat(3, 80px);
+        gap: 10px;
+    }
+
+    .categories li a > .title{
+        left: 10px;
+        font-size: 16px;
+    }
 }
 
 @media screen and (max-width: 600px){
@@ -157,9 +103,4 @@
         grid-column: 1/-1;
         grid-row: 1/2;
     }
-
-    /* .categories li a > .title,
-    .categories li a > div .title{
-        font-size: 16px;
-    } */
 }

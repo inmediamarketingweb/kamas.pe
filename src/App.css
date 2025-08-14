@@ -651,17 +651,23 @@ button{
     }
 }
 
-@media screen and (max-width: 600px){
-    *{
-        cursor: none !important;
+@media screen and (max-width: 800px){
+    main{
+        margin-top: 142px !important;
     }
 
     .block-container{
         padding: 0 10px;
     }
+}
+
+@media screen and (max-width: 600px){
+    *{
+        cursor: none !important;
+    }
 
     main{
-        margin-top: 210px;
+        margin-top: 202px !important;
     }
 
     .block-title{

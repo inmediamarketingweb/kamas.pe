@@ -258,7 +258,17 @@
     color: var(--black);
 }
 
+@media screen and (max-width: 800px){
+    .product-card{
+        min-height: 340px;
+    }
+}
+
 @media screen and (max-width: 600px){
+    .product-card{
+        min-height: 300px;
+    }
+
     .product-card-prices > div p:nth-child(1){
         font-size: 13px;
     }

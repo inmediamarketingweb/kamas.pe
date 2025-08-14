@@ -9,6 +9,12 @@
     display: none !important;
 }
 
+@media screen and (max-width: 800px){
+    .ultimas-novedades-products{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media screen and (max-width: 600px){
     .ultimas-novedades-products{
         grid-template-columns: repeat(2, 1fr);

@@ -4,13 +4,40 @@
     border-radius: 6px;
     display: grid;
     grid-template-columns: 1fr 460px;
-    gap: 20px;
+    grid-template-rows: auto 1fr;
+    gap: 10px;
 }
 
-.featured-product-content div img{
+.featured-product-content .block-title{
+    grid-column: 1/2;
+}
+
+.featured-product-content > div{
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+.featured-product-content img{
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 6px;
+    grid-column: 2/3;
+    grid-row: 1/-1;
+}
+
+@media screen and (max-width: 800px){
+    .featured-product-content{
+        grid-template-columns: 1fr 280px;
+    }
+
+    .featured-product-content .block-title{
+        grid-column: 1/-1;
+        grid-row: 1/2;
+    }
+
+    .featured-product-content img{
+        grid-row: 2/3;
+    }
 }
 
 @media screen and (max-width: 600px){

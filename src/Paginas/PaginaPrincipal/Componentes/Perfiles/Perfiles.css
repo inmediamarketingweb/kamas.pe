@@ -69,11 +69,13 @@
     text-decoration: underline;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .profiles{
         grid-template-columns: repeat(2, 1fr);
     }
+}
 
+@media screen and (max-width: 600px){
     .profile-card-banner{
         height: 80px;
     }

@@ -53,10 +53,14 @@ function Center(){
     return(
         <div className='header-center-container d-flex w-100'>
             <section className='header-center'>
-                <div className='d-flex-center-left gap-20'>
+                <div className='d-flex-center-left gap-10'>
                     <a href='https://kamas.pe' title='Kamas | Fabricantes de camas' className='header-logo'>
                         <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={185} height={42} alt="Kamas"/>
                     </a>
+
+                    <div className='search-bar-tablet'>
+                        <SearchBar/>
+                    </div>
 
                     <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
                         <p>Menu</p>
@@ -141,7 +145,9 @@ function Center(){
                     </nav>
                 </div>
 
-                <SearchBar/>
+                <div className='search-bar-mobile margin-left d-flex-center-right'>
+                    <SearchBar/>
+                </div>
             </section>
         </div>
     )

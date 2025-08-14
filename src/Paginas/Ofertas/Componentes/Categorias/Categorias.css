@@ -65,10 +65,10 @@
     font-weight: bold;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .page-top-categories{
         overflow-x: scroll;
-        height: 80px;
+        height: 70px;
     }
 
     .page-top-categories::-webkit-scrollbar{
@@ -77,5 +77,11 @@
 
     .page-top-categories ul li{
         width: 150px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .page-top-categories{
+        height: 80px !important;
     }
 }
