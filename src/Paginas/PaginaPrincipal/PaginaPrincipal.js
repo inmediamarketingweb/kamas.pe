@@ -47,25 +47,25 @@ function PaginaPrincipal(){
                     <div className='homepage-banners block-content d-flex-column gap-10'>
                         <div className='d-grid-2-1fr gap-10'>
                             <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si' title='Oferta en dormitorios europeos 2 plazas | Kamas'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="Ofertas en dormitorios europeos 2 plazas | Kamas" className='page-banner-img'/>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="Ofertas en dormitorios europeos 2 plazas | Kamas" className='page-banner-img' loading='lazy'/>
                             </a>
 
                             <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen' title='Oferta en dormitorios queen americanos | Kamas'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas" className='page-banner-img'/>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas" className='page-banner-img' loading='lazy'/>
                             </a>
                         </div>
 
                         <a className='d-flex w-100' href='/productos/dormitorios/?modelo-de-colch%C3%B3n=der-prinz%2Bthameo-pocket%2Bramat%2Bkonig%2Byurmale%2Bthaleo-pocket%2Bsafynnte' title='Dormitorios confort premium | Kamas'>
-                            <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="Dormitorios confort premium | Kamas" className='page-banner-img'/>
+                            <img src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="Dormitorios confort premium | Kamas" className='page-banner-img' loading='lazy'/>
                         </a>
 
                         <div className='d-grid-2-1fr gap-10'>
                             <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king' title='Oferta en dormitorios king europeos | Kamas'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="Ofertas en dormitorios king europeos | Kamas" className='page-banner-img'/>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="Ofertas en dormitorios king europeos | Kamas" className='page-banner-img' loading='lazy'/>
                             </a>
 
                             <a className='d-flex' href='/productos/complementos/?sub-categoría=veladores' title='Oferta en veladores | Kamas'>
-                                <img src="/assets/imagenes/paginas/pagina-principal/banner-5.webp" alt="" className='page-banner-img'/>
+                                <img src="/assets/imagenes/paginas/pagina-principal/banner-5.webp" alt="Ofertas en veladores | Kamas" className='page-banner-img' loading='lazy'/>
                             </a>
                         </div>
                     </div>
