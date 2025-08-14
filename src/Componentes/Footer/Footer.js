@@ -12,7 +12,7 @@ function Footer(){
                     <section className='footer-block-content'>
                         <nav className='footer-targets'>
                             <div className='footer-target footer-target-1'>
-                                <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" alt="logo de kamas"/>
+                                <img width="auto" height={36} src="/assets/imagenes/componentes/footer/kamas-blanco.png" loading='lazy' alt="logo de kamas en blanco" className='footer-logo'/>
 
                                 <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia innovando en diseños, modelos y sobre todo en brindarte comodidad.</p>
                                 
