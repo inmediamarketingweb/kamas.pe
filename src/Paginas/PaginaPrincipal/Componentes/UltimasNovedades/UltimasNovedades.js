@@ -6,6 +6,49 @@ import './UltimasNovedades.css';
 
 function UltimasNovedades() {
     const [productos, setProductos] = useState([]);
+    // Cambiamos a objeto para manejar favoritos por SKU
+    const [favorites, setFavorites] = useState({});
+    const [skusOfertas, setSkusOfertas] = useState([]);
+
+    // Cargar favoritos como OBJETO desde localStorage
+    useEffect(() => {
+        // Cargar como objeto de productos
+        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
+        setFavorites(favStorage);
+    }, []);
+
+    // Función unificada para manejar favoritos
+    const handleToggleFavorite = (producto) => {
+        setFavorites(prev => {
+            const newFavorites = { ...prev };
+            
+            if (newFavorites[producto.sku]) {
+                // Eliminar si ya existe
+                delete newFavorites[producto.sku];
+            } else {
+                // Guardar objeto completo
+                newFavorites[producto.sku] = producto;
+            }
+            
+            localStorage.setItem("favoritos", JSON.stringify(newFavorites));
+            return newFavorites;
+        });
+    };
+
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
 
     useEffect(() => {
         const skusDeseados = [
@@ -64,18 +107,23 @@ function UltimasNovedades() {
                 <div className="block-title-container d-flex-column">
                     <h2 className="block-title w-auto margin-right">Últimas novedades</h2>
 
-                    <a href='/productos/' className='button-link button-link-5 margin-right'>
+                    <a href='/productos/' title='Productos | Kamas' className='button-link button-link-5 margin-right'>
                         <p className='button-link-text'>Ver todos los productos</p>
                     </a>
                 </div>
 
                 <div className="ultimas-novedades">
                     <ul className="ultimas-novedades-products">
-                        {productos.map(producto => {
-                            return(
-                                <Producto key={producto.sku} producto={producto} truncate={truncate}/>
-                            );
-                        })}
+                        {productos.map(producto => (
+                            <Producto
+                                key={producto.sku} 
+                                producto={producto} 
+                                truncate={truncate} 
+                                onToggleFavorite={handleToggleFavorite} // Función corregida
+                                isFavorite={!!favorites[producto.sku]} // Acceso correcto por SKU
+                                skusOfertas={skusOfertas}
+                            />
+                        ))}
                     </ul>
                 </div>
             </section>
@@ -84,4 +132,3 @@ function UltimasNovedades() {
 }
 
 export default UltimasNovedades;
-

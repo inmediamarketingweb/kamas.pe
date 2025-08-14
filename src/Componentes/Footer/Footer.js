@@ -10,14 +10,11 @@ function Footer(){
             <footer className='w-100 d-flex-column gap-20'>
                 <div className='footer-block-container'>
                     <section className='footer-block-content'>
-                        <div className='block-title-container'>
-                            <p className='block-title'>En KAMAS diseñamos tus sueños</p>
-                        </div>
-
                         <nav className='footer-targets'>
                             <div className='footer-target footer-target-1'>
-                                <p className='title'>Acerca de KAMAS</p>
-                                <p className='text color-white'>Más información sobre la empresa, un breve resumen del rubro, historia o mensaje promocional y redes sociales.</p>
+                                <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" alt="logo de kamas"/>
+
+                                <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia innovando en diseños, modelos y sobre todo en brindarte comodidad.</p>
                                 
                                 <div className='d-flex-column gap-10'>
                                     <p className='title color-white'>Suscribete</p>
@@ -98,37 +95,37 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/garantia-de-productos/' title=''>
+                                        <a href='/servicio-al-cliente/garantia-de-productos/' title='Garantía de productos | Kamas'>
                                             <p>Garantía de productos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title=''>
+                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title='Recomendaciones de uso | Kamas'>
                                             <p>Recomendaciones de uso</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title=''>
+                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title='Política de cambios y devoluciones | Kamas'>
                                             <p>Política de cambios y devoluciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title=''>
+                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title='Privacidad y seguridad | Kamas'>
                                             <p>Privacidad y seguridad</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title=''>
+                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title='Términos y condiciones | Kamas'>
                                             <p>Términos y condiciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title=''>
+                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title='Horarios de entrega y envíos | Kamas'>
                                             <p>Horarios de entrega y envíos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title=''>
+                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title='Manual de instalación | Kamas'>
                                             <p>Manual de instalación</p>
                                         </a>
                                     </li>

@@ -11,7 +11,7 @@ function SobreNosotros(){
                     <p className='text'>Creamos experiencias que inician desde el primer contacto y culminan con la satisfacción de recibir tu dormitorio completo, personalizado y en tiempo récord.</p>
                     <a href='/nosotros/' className='button-link button-link-2 margin-left margin-top-10'>
                         <p className='button-link-text'>Conocer más</p>
-                        <span class="material-icons">keyboard_arrow_right</span>
+                        <span className="material-icons">keyboard_arrow_right</span>
                     </a>
                 </div>
             </div>

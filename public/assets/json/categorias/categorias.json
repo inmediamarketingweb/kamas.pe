@@ -19,19 +19,16 @@
             ],
             "subCategorias":[
                 {
-                    "id": 1,
                     "subcategoria": "Adel",
                     "metaTitulo": "Colchones - Adel | Kamas",
                     "ruta": "/productos/colchones/adel/"
                 },
                 {
-                    "id": 2,
                     "subcategoria": "Rucay",
                     "metaTitulo": "Colchones - Rucay | Kamas",
                     "ruta": "/productos/colchones/rucay/"
                 },
                 {
-                    "id": 3,
                     "subcategoria": "Sarki",
                     "metaTitulo": "Colchones - Sarki | Kamas",
                     "ruta": "/productos/colchones/sarki/"
@@ -43,55 +40,46 @@
                     "ruta": "/productos/colchones/safynnte/"
                 },
                 {
-                    "id": 5,
                     "subcategoria": "Der Prinz",
                     "metaTitulo": "Colchones - Der Prinz | Kamas",
                     "ruta": "/productos/colchones/der-prinz/"
                 },
                 {
-                    "id": 6,
                     "subcategoria": "Thameo pocket",
                     "metaTitulo": "Colchones - Thameo pocket | Kamas",
                     "ruta": "/productos/colchones/thameo-pocket/"
                 },
                 {
-                    "id": 7,
                     "subcategoria": "Ramat",
                     "metaTitulo": "Colchones - Ramat | Kamas",
                     "ruta": "/productos/colchones/ramat/"
                 },
                 {
-                    "id": 8,
                     "subcategoria": "Nesie",
                     "metaTitulo": "Colchones - Nesie | Kamas",
                     "ruta": "/productos/colchones/nesie/"
                 },
                 {
-                    "id": 9,
                     "subcategoria": "Norole",
                     "metaTitulo": "Colchones - Norole | Kamas",
                     "ruta": "/productos/colchones/norole/"
                 },
                 {
-                    "id": 10,
                     "subcategoria": "Thaleo",
                     "metaTitulo": "Colchones - Thaleo | Kamas",
                     "ruta": "/productos/colchones/thaleo/"
                 },
                 {
-                    "id": 11,
                     "subcategoria": "Konig",
                     "metaTitulo": "Colchones - Konig | Kamas",
                     "ruta": "/productos/colchones/konig/"
                 },
                 {
-                    "id": 12,
                     "subcategoria": "Yurmale",
                     "metaTitulo": "Colchones - Yurmale | Kamas",
                     "ruta": "/productos/colchones/yurmale/"
                 },
                 {
-                    "id": 13,
                     "subcategoria": "Ver todos",
                     "metaTitulo": "Colchones | Kamas",
                     "ruta": "/productos/colchones/"
@@ -99,32 +87,26 @@
             ],
             "medidas":[
                 {
-                    "id": 1,
                     "medida": "1 plaza",
                     "ruta": "/productos/colchones?tamaño=1-plaza"
                 },
                 {
-                    "id": 2,
                     "medida": "1 plaza y media",
                     "ruta": "/productos/colchones?tamaño=1-plaza-y-media"
                 },
                 {
-                    "id": 3,
                     "medida": "2 plazas",
                     "ruta": "/productos/colchones?tamaño=2-plazas"
                 },
                 {
-                    "id": 4,
                     "medida": "Queen",
                     "ruta": "/productos/colchones?tamaño=queen"
                 },
                 {
-                    "id": 5,
                     "medida": "King",
                     "ruta": "/productos/colchones?tamaño=king"
                 },
                 {
-                    "id": 6,
                     "medida": "Ver todos",
                     "ruta": "/productos/colchones/"
                 }
@@ -155,31 +137,26 @@
             ],
             "subCategorias":[
                 {
-                    "id": 1,
                     "subcategoria": "Clásica",
                     "metaTitulo": "Camas box tarimas - Clásicas | Kamas",
                     "ruta": "/productos/camas-box-tarimas/clasicas/"
                 },
                 {
-                    "id": 2,
                     "subcategoria": "Americanas",
                     "metaTitulo": "Camas box tarimas - Americanas | Kamas",
                     "ruta": "/productos/camas-box-tarimas/americanas/"
                 },
                 {
-                    "id": 3,
                     "subcategoria": "Europeas",
                     "metaTitulo": "Camas box tarimas - Europeas | Kamas",
                     "ruta": "/productos/camas-box-tarimas/europeas/"
                 },
                 {
-                    "id": 4,
                     "subcategoria": "Madera natural",
                     "metaTitulo": "Camas box tarimas - Madera natural | Kamas",
                     "ruta": "/productos/camas-box-tarimas/madera-natural/"
                 },
                 {
-                    "id": 3,
                     "subcategoria": "Premium",
                     "metaTitulo": "Camas box tarimas - Premium | Kamas",
                     "ruta": "/productos/camas-box-tarimas/premium/"
@@ -187,32 +164,26 @@
             ],
             "medidas":[
                 {
-                    "id": 1,
                     "medida": "1 plaza",
                     "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza"
                 },
                 {
-                    "id": 2,
                     "medida": "1 plaza y media",
                     "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza-y-media"
                 },
                 {
-                    "id": 3,
                     "medida": "2 plazas",
                     "ruta": "/productos/camas-box-tarimas?tamaño=2-plazas"
                 },
                 {
-                    "id": 4,
                     "medida": "Queen",
                     "ruta": "/productos/camas-box-tarimas?tamaño=queen"
                 },
                 {
-                    "id": 5,
                     "medida": "King",
                     "ruta": "/productos/camas-box-tarimas?tamaño=king"
                 },
                 {
-                    "id": 6,
                     "medida": "Ver todos",
                     "ruta": "/productos/camas-box-tarimas/"
                 }
@@ -225,7 +196,6 @@
             ]
         },
         {
-            "id": 3,
             "icono": "/assets/imagenes/componentes/header/cama-box-tarimas.svg",
             "iconoAlt": "dormitorio vector",
             "categoria": "Dormitorios",
@@ -243,49 +213,41 @@
             ],
             "subCategorias":[
                 {
-                    "id": 1,
                     "subcategoria": "Clásicos",
                     "metaTitulo": "Dormitorios - Clásicos | Kamas",
                     "ruta": "/productos/dormitorios/?línea=clásica"
                 },
                 {
-                    "id": 2,
                     "subcategoria": "Clásicos con cajones",
                     "metaTitulo": "Dormitorios - Clásicos con cajones | Kamas",
                     "ruta": "/productos/dormitorios/?línea=clásica&cajones=si"
                 },
                 {
-                    "id": 3,
                     "subcategoria": "Americanos",
                     "metaTitulo": "Dormitorios - Americanos | Kamas",
                     "ruta": "/productos/dormitorios/?línea=americano"
                 },
                 {
-                    "id": 4,
                     "subcategoria": "Americanos con cajones",
                     "metaTitulo": "Dormitorios - Americanos con cajones | Kamas",
                     "ruta": "/productos/dormitorios/?línea=americano&cajones=si"
                 },
                 {
-                    "id": 5,
                     "subcategoria": "Europeos",
                     "metaTitulo": "Dormitorios - Europeos | Kamas",
                     "ruta": "/productos/dormitorios/?línea=europeo"
                 },
                 {
-                    "id": 6,
                     "subcategoria": "Europeos con cajones",
                     "metaTitulo": "Dormitorios - Europeos con cajones | Kamas",
                     "ruta": "/productos/dormitorios/?línea=europeo&cajones=si"
                 },
                 {
-                    "id": 7,
                     "subcategoria": "Premium",
                     "metaTitulo": "Dormitorios - Premium | Kamas",
                     "ruta": "/productos/dormitorios/?línea=premium"
                 },
                 {
-                    "id": 8,
                     "subcategoria": "Ver todos",
                     "metaTitulo": "Cama box tarimas | Kamas",
                     "ruta": "/productos/dormitorios/"
@@ -293,32 +255,30 @@
             ],
             "medidas":[
                 {
-                    "id": 1,
                     "medida": "1 plaza",
                     "ruta": "/productos/dormitorios?tamaño=1-plaza"
                 },
                 {
-                    "id": 2,
                     "medida": "1 plaza y media",
                     "ruta": "/productos/dormitorios?tamaño=1-plaza-y-media"
                 },
                 {
-                    "id": 3,
                     "medida": "2 plazas",
                     "ruta": "/productos/dormitorios?tamaño=2-plazas"
                 },
                 {
-                    "id": 4,
                     "medida": "Queen",
                     "ruta": "/productos/dormitorios?tamaño=queen"
                 },
                 {
-                    "id": 5,
                     "medida": "King",
                     "ruta": "/productos/dormitorios?tamaño=king"
                 },
                 {
-                    "id": 6,
+                    "medida": "4 plazas",
+                    "ruta": "/productos/dormitorios?tamaño=4-plazas"
+                },
+                {
                     "medida": "Ver todos",
                     "ruta": "/productos/dormitorios/"
                 }

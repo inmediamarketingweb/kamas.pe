@@ -12,11 +12,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+75 vendidos</p>
@@ -33,11 +33,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+1 vendidos</p>
@@ -54,11 +54,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+75 vendidos</p>
@@ -75,11 +75,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 {/* <p className='profile-card-sales'>+75 vendidos</p> */}
@@ -96,11 +96,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 {/* <p className='profile-card-sales'>+75 vendidos</p> */}
@@ -117,11 +117,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+155 vendidos</p>
@@ -138,11 +138,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star_half</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star_half</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+109 vendidos</p>
@@ -159,11 +159,11 @@ function Perfiles(){
                         <div className='profile-card-content d-flex-column'>
                             <div className='profile-card-stars'>
                                 <div className='d-flex-center-center'>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
-                                    <span class="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
+                                    <span className="material-icons">star</span>
                                 </div>
 
                                 <p className='profile-card-sales'>+202 vendidos</p>

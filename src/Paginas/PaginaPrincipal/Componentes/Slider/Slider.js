@@ -1,11 +1,14 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, useCallback } from 'react';
+
 import './Slider.css';
 
-function Slider() {
+function Slider(){
     const [sliderItems, setSliderItems] = useState([]);
-    const [currentIndex, setCurrentIndex] = useState(0);
+    const [currentIndex, setCurrentIndex] = useState(1); // Comienza en el primer slide real
+    const [isTransitionEnabled, setIsTransitionEnabled] = useState(true);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const sliderRef = useRef(null);
+    const isTransitioningRef = useRef(false);
 
     useEffect(() => {
         fetch('/assets/json/paginas/principal/slider.json')
@@ -26,59 +29,128 @@ function Slider() {
         return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCurrentIndex((prevIndex) => (prevIndex + 1) % sliderItems.length);
-        }, 10000);
-        return () => clearInterval(interval);
+    const extendedItems = sliderItems.length > 0 ? [
+        sliderItems[sliderItems.length - 1],
+        ...sliderItems,
+        sliderItems[0]
+    ] : [];
+
+    const totalSlides = extendedItems.length;
+
+    const goToSlide = useCallback((newIndex) => {
+        if (isTransitioningRef.current || sliderItems.length <= 1) return;
+        isTransitioningRef.current = true;
+        setIsTransitionEnabled(true);
+        setCurrentIndex(newIndex);
     }, [sliderItems.length]);
 
-    const goToNextSlide = () => {
-        setCurrentIndex((prevIndex) => (prevIndex + 1) % sliderItems.length);
-    };
+    const goToNextSlide = useCallback(() => {
+        if (sliderItems.length <= 1) return;
 
-    const goToPrevSlide = () => {
-        setCurrentIndex((prevIndex) => (prevIndex - 1 + sliderItems.length) % sliderItems.length);
-    };
+        const newIndex = currentIndex + 1;
+        if (newIndex === totalSlides - 1) {
+            goToSlide(newIndex);
+        } else {
+            goToSlide(newIndex);
+        }
+    }, [currentIndex, sliderItems.length, goToSlide, totalSlides]);
 
-    const visibleIndexes = [
-        (currentIndex - 1 + sliderItems.length) % sliderItems.length,
-        currentIndex,
-        (currentIndex + 1) % sliderItems.length
-    ];
+    const goToPrevSlide = useCallback(() => {
+        if (sliderItems.length <= 1) return;
+
+        const newIndex = currentIndex - 1;
+        if (newIndex === 0) {
+            goToSlide(newIndex);
+        } else {
+            goToSlide(newIndex);
+        }
+    }, [currentIndex, sliderItems.length, goToSlide]);
+
+    useEffect(() => {
+        if (sliderItems.length <= 1) return;
+
+        const interval = setInterval(() => {
+            goToNextSlide();
+        }, 10000);
+
+        return () => clearInterval(interval);
+    }, [sliderItems.length, goToNextSlide]);
+
+    useEffect(() => {
+        const handleTransitionEnd = () => {
+            isTransitioningRef.current = false;
+
+            if (currentIndex === totalSlides - 1) {
+                setIsTransitionEnabled(false);
+                setCurrentIndex(1);
+            }
+
+            else if (currentIndex === 0) {
+                setIsTransitionEnabled(false);
+                setCurrentIndex(totalSlides - 2);
+            }
+        };
+
+        const sliderElement = sliderRef.current;
+        if (sliderElement) {
+            sliderElement.addEventListener('transitionend', handleTransitionEnd);
+            return () => {
+                sliderElement.removeEventListener('transitionend', handleTransitionEnd);
+            };
+        }
+    }, [currentIndex, totalSlides]);
+
+    useEffect(() => {
+        if (sliderRef.current && totalSlides > 0) {
+            sliderRef.current.style.transform = `translateX(-${currentIndex * (100 / totalSlides)}%)`;
+            sliderRef.current.style.transition = isTransitionEnabled ? 'transform 500ms ease-in-out' : 'none';
+
+            if (!isTransitionEnabled) {
+                requestAnimationFrame(() => {
+                    setIsTransitionEnabled(true);
+                });
+            }
+        }
+    }, [currentIndex, isTransitionEnabled, totalSlides]);
 
     if (sliderItems.length === 0) return null;
 
-    return (
+    return(
         <div className="slider-general-container d-flex-column">
             <div className="hero-container">
                 <section className="hero">
                     <div className="slider-container">
-                        <ul className="slider" ref={sliderRef} style={{ marginLeft: `-${currentIndex * 100}%` }}>
-                            {sliderItems.map((slide, index) => (
-                                <li key={index}>
-                                    {visibleIndexes.includes(index) && (
-                                        <a href={slide.link} aria-label={slide.alt}>
-                                            <img
-                                                width={isSmallScreen ? 400 : 2000}
-                                                height={isSmallScreen ? 180 : 600}
-                                                src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]}
-                                                alt={slide.alt}
-                                                {...(index !== 0 ? { loading: "lazy" } : {})}
-                                            />
-                                        </a>
-                                    )}
+                        <ul className="slider" ref={sliderRef} style={{
+                                width: `${totalSlides * 100}%`,
+                                transform: `translateX(-${currentIndex * (100 / totalSlides)}%)`,
+                                transition: isTransitionEnabled 
+                                    ? 'transform 500ms ease-in-out' 
+                                    : 'none'
+                            }}
+                        >
+                            {extendedItems.map((slide, index) => (
+                                <li key={`slide-${index}`} style={{ width: `${100 / totalSlides}%` }}>
+                                    <a href={slide.link} aria-label={slide.alt}>
+                                        <img width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
+                                            src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]} 
+                                            title={slide.alt}
+                                            alt={slide.alt}
+                                            loading={
+                                                (index >= currentIndex - 1 && index <= currentIndex + 1) ? "eager" : "lazy"
+                                            }
+                                        />
+                                    </a>
                                 </li>
                             ))}
                         </ul>
                     </div>
                 </section>
 
-                <button type="button" className="hero-slider-button hero-slider-button-1" onClick={goToPrevSlide}>
+                <button type="button" className="hero-slider-button hero-slider-button-1" onClick={goToPrevSlide} aria-label="Slide anterior">
                     <span className="material-icons">chevron_left</span>
                 </button>
 
-                <button type="button" className="hero-slider-button hero-slider-button-2" onClick={goToNextSlide}>
+                <button type="button" className="hero-slider-button hero-slider-button-2" onClick={goToNextSlide} aria-label="Slide siguiente">
                     <span className="material-icons">chevron_right</span>
                 </button>
             </div>
@@ -87,4 +159,3 @@ function Slider() {
 }
 
 export default Slider;
-

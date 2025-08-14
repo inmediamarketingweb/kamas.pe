@@ -6,7 +6,7 @@ import './CSS/Favorite.css';
 
 import LazyImage from '../LazyImage';
 
-export function Producto({ producto, truncate, onToggleFavorite, isFavorite, skusOfertas }){
+export function Producto({ producto, truncate, onToggleFavorite, isFavorite, skusOfertas = [] }){
     const [secondImageError, setSecondImageError] = useState(false);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const estaEnOfertas = skusOfertas.includes(producto.sku);
@@ -159,9 +159,5 @@ Producto.propTypes = {
     truncate: PropTypes.func.isRequired,
     onToggleFavorite: PropTypes.func.isRequired,
     isFavorite: PropTypes.bool.isRequired,
-    skusOfertas: PropTypes.arrayOf(PropTypes.string).isRequired,
-};
-
-Producto.defaultProps = {
-    skusOfertas: [],
+    skusOfertas: PropTypes.arrayOf(PropTypes.string),
 };

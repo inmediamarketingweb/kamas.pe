@@ -34,14 +34,29 @@ function PaginaDeCategoria(){
     const [skusOfertas, setSkusOfertas] = useState([]);
 
     useEffect(() => {
-        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
-        setFavorites(favStorage);
+        // Verificar y corregir que favorites sea siempre un array
+        try {
+            const stored = localStorage.getItem("favoritos");
+            let favStorage = [];
+            
+            if (stored) {
+                const parsed = JSON.parse(stored);
+                // Validar si es un array antes de asignar
+                if (Array.isArray(parsed)) {
+                    favStorage = parsed;
+                }
+            }
+            setFavorites(favStorage);
+        } catch (error) {
+            console.error("Error parsing favorites:", error);
+            setFavorites([]); // Asegurar que sea array vacío en caso de error
+        }
     }, []);
 
     useEffect(() => {
         const cargarOfertas = async () => {
             try {
-                const response = await fetch('/assets/json/Ofertas.json');
+                const response = await fetch('/assets/json/ofertas.json');
                 const data = await response.json();
                 setSkusOfertas(data);
             } catch (error) {
@@ -199,7 +214,7 @@ function PaginaDeCategoria(){
                                     <>
                                         <ul className="category-page-products">
                                             {currentProducts.map((producto) => {
-                                                const isFavorite = favorites.some((fav) => fav.sku === producto.sku);
+                                                const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
                                                 return(
                                                     <Producto 
                                                         key={producto.sku} 
