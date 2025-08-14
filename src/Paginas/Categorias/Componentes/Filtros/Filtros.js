@@ -23,7 +23,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
     useEffect(() => {
         if (!categoria) return;
-        
+
         const controller = new AbortController();
         const signal = controller.signal;
 
@@ -45,7 +45,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
     useEffect(() => {
         if (!searchParams) return;
-        
+
         const filtrosDesdeURL = {};
         searchParams.forEach((value, key) => {
             const opciones = value.split("+").map((op) => decodeURIComponent(op).toLowerCase());
@@ -104,7 +104,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         setFiltrosSeleccionados((prev) => {
             const nuevoEstado = { ...prev };
             const opciones = new Set(nuevoEstado[categoriaFiltro] || []);
-            
+
             if (opciones.has(opcionNormalizada)) {
                 opciones.delete(opcionNormalizada);
             } else {
@@ -148,7 +148,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         setActiveFilter((prev) => (prev === filterName ? null : filterName));
     };
 
-    return (
+    return(
         <>
             <div className={`filters-layer ${filtersActive ? "active" : ""}`} onClick={onClose} aria-hidden={!filtersActive}/>
 
@@ -160,7 +160,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             <span className="material-icons">close</span>
                         </button>
                     </div>
-                    
+
                     <div className="d-flex-column">
                         <p className='block-title d-flex color-color-1'>Kamas</p>
                         <p className='title uppercase'>Las mejores ofertas en muebles para el hogar</p>

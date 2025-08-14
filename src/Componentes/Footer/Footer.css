@@ -210,6 +210,12 @@ footer{
     text-decoration: underline;
 }
 
+.footer-logo{
+    width: auto;
+    height: 36px;
+    object-fit: contain;
+}
+
 @media screen and (max-width: 600px){
     .whatsapp-button{
         right: 10px;
