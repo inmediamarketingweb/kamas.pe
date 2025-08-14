@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: right;
-    max-width: 320px;
+    width: 280px;
     position: relative;
 }
 
@@ -79,7 +79,6 @@
 
 .search-bar-items li a{
     width: auto;
-    /* height: 60px; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -104,8 +103,6 @@
     border-radius: 3px;
 }
 
-/**/
-
 .search-bar-layer{
     position: fixed;
     left: 0;
@@ -127,11 +124,20 @@
     user-select: unset;
 }
 
-/**/
+@media screen and (max-width: 800px){
+    .search-bar input{
+        height: 40px;
+    }
+
+    .search-bar-layer{
+        top: 102px;
+        height: calc(100vh - 102px);
+    }
+}
 
 @media screen and (max-width: 600px){
     .search-bar-container{
-        max-width: none;
+        width: 100%;
     }
 
     .search-bar-items-container{
@@ -147,8 +153,6 @@
     .search-bar-items li a img{
         width: 80px;
     }
-
-    /**/
 
     .search-bar-layer{
         top: 160px;

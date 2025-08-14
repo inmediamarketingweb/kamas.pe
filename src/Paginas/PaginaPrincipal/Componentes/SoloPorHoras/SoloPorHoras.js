@@ -93,8 +93,8 @@ function SoloPorHoras(){
             <li key="colchones">
                 <a href='/ofertas/?categoria=colchones' title='Colchones | Kamas' className='product-card-miniature'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-1.webp' alt='Colchones | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-2.webp' alt='Colchones | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-1.webp' loading='lazy' alt='Colchones | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-2.webp' loading='lazy' alt='Colchones | Kamas'/></li>
                     </ul>
                     <p className='text'>Colchones</p>
                 </a>
@@ -105,8 +105,8 @@ function SoloPorHoras(){
             <li key="sofas">
                 <a href='/ofertas/?categoria=sofás' title='Sofás | Kamas' className='product-card-miniature product-card-miniature-2'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-1.webp' alt='Sofás | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-2.webp' alt='Sofás | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-1.webp' loading='lazy' alt='Sofás | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-2.webp' loading='lazy' alt='Sofás | Kamas'/></li>
                     </ul>
                     <p className='text'>Sofás</p>
                 </a>
@@ -128,10 +128,10 @@ function SoloPorHoras(){
 
         elementos.push(
             <li key="veladores">
-                <a href='/ofertas/?categoria=complementos&detalles-del-producto=%7B"subcategoría"%3A"Veladores"%7D' className='product-card-miniature product-card-miniature-2'>
+                <a href='/ofertas/?categoria=complementos&subcategoría=veladores' className='product-card-miniature product-card-miniature-2'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' alt='Veladores | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' alt='Veladores | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' loading='lazy' alt='Veladores | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' loading='lazy' alt='Veladores | Kamas'/></li>
                     </ul>
                     <p className='text'>Veladores</p>
                 </a>
@@ -142,8 +142,8 @@ function SoloPorHoras(){
             <li key="cabeceras">
                 <a href='/ofertas/?categoria=cabeceras' className='product-card-miniature'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' alt='Cabeceras | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' alt='Cabeceras | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
                     </ul>
                     <p className='text'>Cabeceras</p>
                 </a>

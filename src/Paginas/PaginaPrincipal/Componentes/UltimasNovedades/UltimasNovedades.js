@@ -4,32 +4,26 @@ import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 
 import './UltimasNovedades.css';
 
-function UltimasNovedades() {
+function UltimasNovedades(){
     const [productos, setProductos] = useState([]);
-    // Cambiamos a objeto para manejar favoritos por SKU
     const [favorites, setFavorites] = useState({});
     const [skusOfertas, setSkusOfertas] = useState([]);
 
-    // Cargar favoritos como OBJETO desde localStorage
     useEffect(() => {
-        // Cargar como objeto de productos
         const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
         setFavorites(favStorage);
     }, []);
 
-    // Función unificada para manejar favoritos
     const handleToggleFavorite = (producto) => {
         setFavorites(prev => {
             const newFavorites = { ...prev };
-            
+
             if (newFavorites[producto.sku]) {
-                // Eliminar si ya existe
                 delete newFavorites[producto.sku];
             } else {
-                // Guardar objeto completo
                 newFavorites[producto.sku] = producto;
             }
-            
+
             localStorage.setItem("favoritos", JSON.stringify(newFavorites));
             return newFavorites;
         });
@@ -52,16 +46,9 @@ function UltimasNovedades() {
 
     useEffect(() => {
         const skusDeseados = [
-            'K147N10',
-            'K234223N11',
-            'K324236N92',
-            'K324235N42',
-            'K334233N12',
-            'K223123N13',
-            'K41212N16',
-            'K6122N10',
-            'K712N11',
-            'K77112N10'
+            'K147N10', 'K234223N11', 'K324236N92',
+            'K324235N42', 'K334233N12', 'K223123N13',
+            'K41212N16', 'K6122N10', 'K712N11', 'K77112N10'
         ];
 
         fetch('/assets/json/manifest.json').then(res => res.json()).then(
@@ -119,8 +106,8 @@ function UltimasNovedades() {
                                 key={producto.sku} 
                                 producto={producto} 
                                 truncate={truncate} 
-                                onToggleFavorite={handleToggleFavorite} // Función corregida
-                                isFavorite={!!favorites[producto.sku]} // Acceso correcto por SKU
+                                onToggleFavorite={handleToggleFavorite}
+                                isFavorite={!!favorites[producto.sku]}
                                 skusOfertas={skusOfertas}
                             />
                         ))}

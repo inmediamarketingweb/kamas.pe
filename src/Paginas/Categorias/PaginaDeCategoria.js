@@ -34,14 +34,12 @@ function PaginaDeCategoria(){
     const [skusOfertas, setSkusOfertas] = useState([]);
 
     useEffect(() => {
-        // Verificar y corregir que favorites sea siempre un array
         try {
             const stored = localStorage.getItem("favoritos");
             let favStorage = [];
             
             if (stored) {
                 const parsed = JSON.parse(stored);
-                // Validar si es un array antes de asignar
                 if (Array.isArray(parsed)) {
                     favStorage = parsed;
                 }
@@ -49,7 +47,7 @@ function PaginaDeCategoria(){
             setFavorites(favStorage);
         } catch (error) {
             console.error("Error parsing favorites:", error);
-            setFavorites([]); // Asegurar que sea array vacío en caso de error
+            setFavorites([]);
         }
     }, []);
 

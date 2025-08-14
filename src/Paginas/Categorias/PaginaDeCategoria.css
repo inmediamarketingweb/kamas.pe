@@ -71,6 +71,25 @@
     color: var(--white);
 }
 
+@media screen and (max-width: 800px){
+    .main-category{
+        margin-top: 200px;
+    }
+
+    .category-page-container{
+        display: grid;
+        grid-template-columns: 240px 1fr;
+    }
+
+    .filters-content{
+        gap: 10px !important;
+    }
+
+    .category-page-products{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 @media screen and (max-width: 600px){
     :root{
         --product-card-images-height: 160px;
