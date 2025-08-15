@@ -26,7 +26,7 @@ footer{
 
 .footer-block-container{
     width: 100%;
-    /* padding: 40px 20px; */
+    padding: 40px 20px;
     display: flex;
 }
 
@@ -211,9 +211,11 @@ footer{
 }
 
 .footer-logo{
+    margin-right: auto;
     width: auto;
     height: 36px;
     object-fit: contain;
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 800px){
@@ -225,12 +227,12 @@ footer{
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .footer-logo{
-        margin-bottom: 20px;
-    }
-
     .footer-bottom-container{
         padding: 16px 10px;
+    }
+
+    .footer-logo{
+        margin-bottom: 10px;
     }
 
     .footer-bottom{

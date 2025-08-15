@@ -1,7 +1,5 @@
 import { useState, useEffect } from 'react';
 
-import './MasProductos.css';
-
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
 
@@ -11,7 +9,7 @@ export default function MasProductos({ categoriaActual }) {
     const [refreshTrigger, setRefreshTrigger] = useState(0);
 
     useEffect(() => {
-        async function fetchRandomProducts() {
+        async function fetchRandomProducts(){
             try {
                 const manifestRes = await fetch('/assets/json/manifest.json');
                 const manifest = await manifestRes.json();
@@ -80,7 +78,7 @@ export default function MasProductos({ categoriaActual }) {
             <div className='block-content'>
                 <div className='d-flex-column gap-10'>
                     <div className="product-page-more-products-container d-flex-column gap-10">
-                        <p className='title'>Productos relacionados:</p>
+                        <p className='block-title w-auto margin-right'>Productos relacionados</p>
 
                         <nav className="product-page-more-products-content">
                             <ul className='d-grid-5-3-2fr gap-10'>

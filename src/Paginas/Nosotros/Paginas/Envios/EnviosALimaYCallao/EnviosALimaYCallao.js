@@ -1,9 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 
-import Footer from '../../../../../Componentes/Footer/Footer';
-import Header from '../../../../../Componentes/Header/Header';
-
 import './EnviosALimaYCallao.css'
 
 function EnviosALimaYCallao(){
@@ -43,8 +40,6 @@ function EnviosALimaYCallao(){
                 <title>Envíos para Lima y Callao | Kamas</title>
             </Helmet>
 
-            <Header />
-
             <main>
                 <div className="block-container">
                     <section className="block-content d-flex-column gap-20">
@@ -79,8 +74,6 @@ function EnviosALimaYCallao(){
                     </section>
                 </div>
             </main>
-
-            <Footer />
         </>
     );
 }

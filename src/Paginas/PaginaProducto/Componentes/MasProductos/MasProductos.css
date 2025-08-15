@@ -1,9 +1,0 @@
-/* .pagina-producto-mas-productos-block-container .block-content{
-    max-width: 1600px !important;
-} */
-
-.product-page-more-products-container{
-    padding: 10px;
-    background: var(--component);
-    border-radius: 6px;
-}

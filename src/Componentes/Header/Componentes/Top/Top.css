@@ -12,6 +12,10 @@
     max-width: 1600px;
 }
 
+.header-top-left > li:nth-child(1) p:nth-child(2){
+    display: none;
+}
+
 .header-top-left li > p,
 .header-top-left > li > a h2,
 .header-top-left > li > ul li a h2{
@@ -60,6 +64,10 @@
 
     .header-top-left > li:nth-child(1) p:nth-child(1){
         display: none;
+    }
+
+    .header-top-left > li:nth-child(1) p:nth-child(2){
+        display: unset;
     }
 
     .header-top-left > li:nth-child(3) > ul > li a h2{

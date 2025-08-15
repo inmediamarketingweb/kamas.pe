@@ -4,8 +4,9 @@ function Bottom(){
     return(
         <div className='header-bottom-container'>
             <section className='header-bottom'>
-                <p className='w-100 d-flex-center-center'><a href='/productos/dormitorios/' title='Hasta -30% de descuento en todo dormitorios king 🛌' className='color-white'>Hasta -30% de descuento en todo dormitorios king 🛌</a></p>
-            
+                <p className='d-flex-center-center'><a href='/productos/dormitorios/?tamaño=king' title='Hasta -30% de descuento en todo dormitorios king 🛌' className='color-white'>Hasta -30% de descuento en todo dormitorios king 🛌</a></p>
+                <p className='d-flex-center-center'><a href='/productos/dormitorios/?tamaño=king' title='-30% en dormitorios king 🛌' className='color-white'>-30% en dormitorios king 🛌</a></p>
+
                 <ul className='d-flex-center-center gap-10'>
                     <li>
                         <a href="/nosotros/" title='Acerca de nosotros | Kamas'>
