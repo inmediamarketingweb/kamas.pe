@@ -30143,7 +30143,7 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/americanos/king/sarki/190/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA VORTEX - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/vortex/1/",
             "colores": "si",
             "precioRegular": 2549,
@@ -30168,7 +30168,7 @@
                     "tamaño": "King",
                     "modelo-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Vortex"
+                    "modelo-de-cabecera": "Tortun"
                 }
             ],
             "detalles-del-producto":[
@@ -30181,7 +30181,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Vortex"
+                    "modelo-de-cabecera": "Tortun"
                 }
             ],
             "descripciones":[
@@ -56531,7 +56531,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/americanos/queen/sarki/190/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA VORTEX - NEGRO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/vortex/1/",
             "colores": "si",
             "precioRegular": 2549,
@@ -56556,7 +56556,7 @@
                     "tamaño": "queen",
                     "modelo-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Vortex"
+                    "modelo-de-cabecera": "Tortun"
                 }
             ],
             "detalles-del-producto":[
@@ -56569,7 +56569,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Vortex"
+                    "modelo-de-cabecera": "Tortun"
                 }
             ],
             "descripciones":[
@@ -60354,6 +60354,398 @@
                     "descripcion":[
                         {
                             "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 325,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/americanos/king/sarki/191/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/vortex/2/",
+            "colores": "si",
+            "precioRegular": 2549,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K324236N99",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/beige.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/arena-claro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 326,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/americanos/king/sarki/192/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU - CUERO CAMEL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/otros-modelos/1/",
+            "colores": "si",
+            "precioRegular": 2549,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K324236N100",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/cuero-camel.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/cuero-camel.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 327,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/americanos/king/sarki/193/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA BLOQUES - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/otros-modelos/2/",
+            "colores": "si",
+            "precioRegular": 2549,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K324236N102",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/gris-plata.webp"
+                },
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/gris.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 328,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/americanos/king/sarki/194/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA BLOQUES",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/otros-modelos/3/",
+            "colores": "si",
+            "precioRegular": 2549,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K324236N103",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/azul.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
                             "densidad-de-espuma": "18kg/m3",
