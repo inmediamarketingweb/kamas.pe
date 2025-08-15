@@ -73,15 +73,15 @@ function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
                             </li>
                         ))}
                     </ul>
+
+                    <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
+                        <span className="material-icons">chevron_left</span>
+                    </button>
+
+                    <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
+                        <span className="material-icons">chevron_right</span>
+                    </button>
                 </div>
-
-                <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
-                    <span className="material-icons">chevron_left</span>
-                </button>
-
-                <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
-                    <span className="material-icons">chevron_right</span>
-                </button>
             </div>
 
             <div className="product-page-images-miniatures-container">

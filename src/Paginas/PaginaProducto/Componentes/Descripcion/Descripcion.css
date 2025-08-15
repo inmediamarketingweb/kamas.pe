@@ -70,12 +70,14 @@
     gap: 10px;
 }
 
+@media screen and (max-width: 800px){
+    .product-page-about-list-2{
+        grid-template-columns: 1fr;
+    }
+}
+
 @media screen and (max-width: 600px){
     .product-page-about-buttons button{
         width: 100%;
-    }
-
-    .product-page-about-list-2{
-        grid-template-columns: 1fr;
     }
 }

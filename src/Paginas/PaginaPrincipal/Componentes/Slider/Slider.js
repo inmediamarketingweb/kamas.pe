@@ -4,7 +4,7 @@ import './Slider.css';
 
 function Slider(){
     const [sliderItems, setSliderItems] = useState([]);
-    const [currentIndex, setCurrentIndex] = useState(1); // Comienza en el primer slide real
+    const [currentIndex, setCurrentIndex] = useState(1);
     const [isTransitionEnabled, setIsTransitionEnabled] = useState(true);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const sliderRef = useRef(null);

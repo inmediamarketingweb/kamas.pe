@@ -78,14 +78,7 @@ function SoloPorHoras(){
 
         if (productos.length > 0) {
             elementos.push(
-                <Producto 
-                    key={`dinamico-1-${productos[0].sku}`} 
-                    producto={productos[0]} 
-                    truncate={truncate} 
-                    onToggleFavorite={handleToggleFavorite}
-                    isFavorite={!!favorites[productos[0].sku]}
-                    skusOfertas={skusOfertas}
-                />
+                <Producto key={`dinamico-1-${productos[0].sku}`} producto={productos[0]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[0].sku]} skusOfertas={skusOfertas} />
             );
         }
 
@@ -112,23 +105,16 @@ function SoloPorHoras(){
                 </a>
             </li>
         );
-        
+
         if (productos.length > 1) {
             elementos.push(
-                <Producto 
-                    key={`dinamico-2-${productos[1].sku}`} 
-                    producto={productos[1]} 
-                    truncate={truncate} 
-                    onToggleFavorite={handleToggleFavorite}
-                    isFavorite={!!favorites[productos[1].sku]}
-                    skusOfertas={skusOfertas}
-                />
+                <Producto key={`dinamico-2-${productos[1].sku}`} producto={productos[1]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[1].sku]} skusOfertas={skusOfertas} />
             );
         }
 
         elementos.push(
             <li key="veladores">
-                <a href='/ofertas/?categoria=complementos&subcategoría=veladores' className='product-card-miniature product-card-miniature-2'>
+                <a href='/ofertas/?categoria=complementos&subcategoría=veladores' title='Veladores | Kamas' className='product-card-miniature product-card-miniature-2'>
                     <ul>
                         <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' loading='lazy' alt='Veladores | Kamas'/></li>
                         <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' loading='lazy' alt='Veladores | Kamas'/></li>
@@ -140,7 +126,7 @@ function SoloPorHoras(){
 
         elementos.push(
             <li key="cabeceras">
-                <a href='/ofertas/?categoria=cabeceras' className='product-card-miniature'>
+                <a href='/ofertas/?categoria=cabeceras' title='Cabeceras | Kamas' className='product-card-miniature'>
                     <ul>
                         <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
                         <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
@@ -152,14 +138,7 @@ function SoloPorHoras(){
 
         if (productos.length > 2) {
             elementos.push(
-                <Producto 
-                    key={`dinamico-3-${productos[2].sku}`} 
-                    producto={productos[2]} 
-                    truncate={truncate} 
-                    onToggleFavorite={handleToggleFavorite}
-                    isFavorite={!!favorites[productos[2].sku]}
-                    skusOfertas={skusOfertas}
-                />
+                <Producto key={`dinamico-3-${productos[2].sku}`} producto={productos[2]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[2].sku]} skusOfertas={skusOfertas}/>
             );
         }
 
@@ -173,7 +152,7 @@ function SoloPorHoras(){
                     <div className='d-flex-column gap-5'>
                         <h2 className="block-title text-left text-transform-unset">Por pocos días 🔥</h2>
                         <p className='color-white'>Ofertas invatibles en productos seleccionados, solo aquí en Kamas</p>
-                        <a href='/ofertas/' className='margin-right w-auto button-link button-link-5'>
+                        <a href='/ofertas/' title='Ofertas | Kamas' className='margin-right w-auto button-link button-link-5'>
                             <p className='button-link-text color-white'>Ver todas las ofertas</p>
                         </a>
                     </div>

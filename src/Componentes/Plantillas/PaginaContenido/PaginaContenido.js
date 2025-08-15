@@ -1,8 +1,5 @@
 import { Helmet } from "react-helmet-async";
 
-import Header from "../../../Componentes/Header/Header";
-import Footer from "../../../Componentes/Footer/Footer";
-
 import './PaginaContenido.css';
 
 function PaginaContenido({ data }){
@@ -23,8 +20,6 @@ function PaginaContenido({ data }){
                 <meta property="og:url" content={window.location.href} />
                 {banner?.banner && ( <meta property="og:image" content={banner.banner} /> )}
             </Helmet>
-
-            <Header />
 
             <main>
                 <div className="block-container">
@@ -75,8 +70,6 @@ function PaginaContenido({ data }){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

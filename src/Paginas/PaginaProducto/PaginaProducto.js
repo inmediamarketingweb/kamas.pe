@@ -256,6 +256,10 @@ function PaginaProducto(){
                         <div className='product-page-container bg-white border-r-6 padding-10'>
                             <div className='product-page-target product-page-target-1 gap-10'>
                                 <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} skusOfertas={skusOfertas}/>
+
+                                <div className='beneficios-tablet'>
+                                    <Beneficios/>
+                                </div>
                             </div>
 
                             <div className='product-page-target product-page-target-2 d-flex-column gap-20'>
@@ -302,7 +306,9 @@ function PaginaProducto(){
                                             </div>
                                         </div>
 
-                                        <Beneficios/>
+                                        <div className='beneficios-desktop'>
+                                            <Beneficios/>
+                                        </div>
                                     </div>
 
                                     <div className='d-flex-column gap-10'>
