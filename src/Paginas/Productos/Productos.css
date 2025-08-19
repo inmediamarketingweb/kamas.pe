@@ -16,13 +16,6 @@
     gap: 10px;
 }
 
-.pagina-productos-content .products-list{
-    width: 100%;
-    padding: 10px;
-    background: #f8f8f8;
-    border-radius: 6px;
-}
-
 .no-hay-productos{
     width: 100%;
     grid-column: 1/-1;
@@ -70,6 +63,10 @@
 
 .pagina-productos-navigation-button-arrow span{
     color: var(--white);
+}
+
+.productos-main .conteo-container{
+    display: none !important;
 }
 
 @media screen and (max-width: 600px){

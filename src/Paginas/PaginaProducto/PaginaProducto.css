@@ -221,6 +221,7 @@
     }
 
     .product-page-container{
+        height: unset !important;
         display: flex;
         flex-direction: column;
     }

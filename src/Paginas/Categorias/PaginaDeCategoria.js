@@ -6,6 +6,7 @@ import "./PaginaDeCategoria.css";
 
 import Filtros from "./Componentes/Filtros/Filtros";
 import Top from '../../Componentes/Filtros/Componentes/Top/Top.js';
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto.js';
 
 function shuffleArray(array) {
@@ -32,6 +33,9 @@ function PaginaDeCategoria(){
     const [productosFiltradosPorFiltros, setProductosFiltradosPorFiltros] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [skusOfertas, setSkusOfertas] = useState([]);
+    const [isOfferActive, setIsOfferActive] = useState(true);
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
 
     useEffect(() => {
         try {
@@ -127,7 +131,9 @@ function PaginaDeCategoria(){
         }
 
         if (enOferta) {
-            resultado = resultado.filter(producto => producto.oferta === "si");
+            resultado = resultado.filter(producto => 
+                producto.oferta === "si" || skusOfertas.includes(producto.sku)
+            );
         }
 
         if (sortOption === 'precio-asc') {
@@ -180,6 +186,21 @@ function PaginaDeCategoria(){
 
     const truncate = (str, maxLength) => str.length <= maxLength ? str : str.slice(0, maxLength) + "...";
 
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
+
     return (
         <>
             <Helmet>
@@ -214,7 +235,11 @@ function PaginaDeCategoria(){
                                             {currentProducts.map((producto) => {
                                                 const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
                                                 return(
-                                                    <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite} isFavorite={isFavorite} skusOfertas={skusOfertas}/>
+                                                    <Producto 
+                                                    key={producto.sku} producto={producto} 
+                                                    truncate={truncate} onToggleFavorite={toggleFavorite} 
+                                                    isFavorite={isFavorite} skusOfertas={skusOfertas}
+                                                    isOfferActive={isOfferActive}/>
                                                 );
                                             })}
                                         </ul>
@@ -250,6 +275,8 @@ function PaginaDeCategoria(){
                         </div>
                     </section>
                 </div>
+
+                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
             </main>
         </>
     );

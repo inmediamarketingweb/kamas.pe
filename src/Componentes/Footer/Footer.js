@@ -14,7 +14,7 @@ function Footer(){
                             <div className='footer-target footer-target-1'>
                                 <img width="auto" height={36} src="/assets/imagenes/componentes/footer/kamas-blanco.png" loading='lazy' alt="logo de kamas en blanco" className='footer-logo'/>
 
-                                <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia innovando en diseños, modelos y sobre todo en brindarte comodidad.</p>
+                                <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia en calidad, innovación y diseño para elevar tu descanso a otro nivel.</p>
                                 
                                 <div className='d-flex-column gap-10'>
                                     <p className='title color-white'>Suscribete</p>

@@ -58,6 +58,7 @@ import Error404 from "./Paginas/Error404/Error404";
 //Páginas para los vendedores
 import Colores from './Paginas/Vendedores/Colores/Colores';
 import Agencias from './Paginas/Vendedores/Agencias/Agencias';
+import Cotizador from './Paginas/Vendedores/Cotizador/Cotizador';
 
 //*Servicio al cliente*
 import Citas from './Paginas/ServicioAlCliente/Citas/Citas';
@@ -94,6 +95,7 @@ function App(){
                         <Route path="/nosotros/razones-para-comprar/" element={<RazonesParaComprar/>}/>
                         <Route path="/nosotros/propiedad-intelectual/" element={<PropiedadIntelectual/>}/>
                         <Route path="/paleta-de-colores/" element={<Colores/>} />
+                        <Route path="/vendedores/cotizador/" element={<Cotizador/>}/>
                         <Route path="/agencias-recomendadas/" element={<Agencias/>} />
                         <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
                         <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>

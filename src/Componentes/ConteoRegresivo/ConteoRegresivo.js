@@ -1,13 +1,14 @@
 import { useEffect, useState, useMemo, useCallback } from 'react';
+import PropTypes from 'prop-types';
+
 import './ConteoRegresivo.css';
 
-function ConteoRegresivo({ onExpire }) {
-    const globalStartDate = useMemo(() => new Date('2025-08-01T00:00:00'), []);
-    
-    const activeDuration = 5 * 24 * 60 * 60 * 1000;
-    const restingDuration = 3 * 60 * 60 * 1000;
+function ConteoRegresivo({ onTerminar }){
+    const activeDuration = 6 * 60 * 60 * 24 * 1000;
+    const restingDuration = 12 * 60 * 60 * 1000;
     const totalCycleDuration = activeDuration + restingDuration;
-    
+    const globalStartDate = useMemo(() => new Date('2025-08-01T00:00:00'), []);
+
     const [cyclePhase, setCyclePhase] = useState('active');
     const [targetDate, setTargetDate] = useState(null);
     const [timeLeft, setTimeLeft] = useState({ 
@@ -22,7 +23,6 @@ function ConteoRegresivo({ onExpire }) {
     const calculateCurrentCycle = useCallback(() => {
         const now = new Date();
         const timeSinceStart = now - globalStartDate;
-
         const fullCycles = Math.floor(timeSinceStart / totalCycleDuration);
         const timeInCurrentCycle = timeSinceStart % totalCycleDuration;
 
@@ -68,33 +68,41 @@ function ConteoRegresivo({ onExpire }) {
 
     useEffect(() => {
         if (!targetDate) return;
-        
+
         const interval = setInterval(() => {
             const now = new Date();
             const diffInMs = targetDate - now;
 
             if (diffInMs <= 0) {
+                onTerminar && onTerminar();
+
                 const newCycle = calculateCurrentCycle();
                 setCyclePhase(newCycle.phase);
                 setTargetDate(newCycle.targetDate);
-                
-                if (cyclePhase === 'active') {
-                    onExpire && onExpire();
-                }
                 return;
             }
 
             setTimeLeft(calculateTimeLeft());
         }, 1000);
-        
+
         return () => clearInterval(interval);
-    }, [targetDate, cyclePhase, onExpire, calculateCurrentCycle, calculateTimeLeft]);
+    }, [targetDate, calculateCurrentCycle, calculateTimeLeft, onTerminar]);
+
+    useEffect(() => {
+        const currentCycle = calculateCurrentCycle();
+        setCyclePhase(currentCycle.phase);
+        setTargetDate(currentCycle.targetDate);
+
+        if (currentCycle.phase === 'resting') {
+            onTerminar && onTerminar();
+        }
+    }, [calculateCurrentCycle, onTerminar]);
 
     return(
         <div className="conteo-container">
             {cyclePhase === 'resting' ? (
                 <div className="resting-message">
-                    <h2>¡Las ofertas terminaron</h2>
+                    <h2>¡El tiempo se agotó!</h2>
                     <p>Pronto, nuevas ofertas</p>
                     <div className="sale-time">
                         <div className="time-unit">
@@ -138,5 +146,9 @@ function ConteoRegresivo({ onExpire }) {
         </div>
     );
 }
+
+ConteoRegresivo.propTypes = {
+    onTerminar: PropTypes.func,
+};
 
 export default ConteoRegresivo;
