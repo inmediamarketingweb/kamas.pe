@@ -5,7 +5,7 @@ function Perfiles(){
         <section className='block-container'>
             <div className='block-content'>
                 <div className='d-flex-column gap-10'>
-                    <p className='title uppercase text'>Distribuidores exclusivos</p>
+                    <p className='title uppercase text'>Calidad y respaldo presentes en las principales tiendas del Perú</p>
                     <ul className='profiles'>
                         <li className='profile'>
                             <img src="/assets/imagenes/paginas/pagina-principal/perfiles/homesleep.webp" alt="Homesleep" className='profile-card-banner' />
@@ -24,7 +24,7 @@ function Perfiles(){
                                     <p className='profile-card-sales'>+12800 vendidos</p>
                                 </div>
 
-                                <p><a href='https://homesleep.pe/' title='Homesleep es distribuidor exclusivo autorizado kamas'>Homesleep</a> es distribuidor exclusivo autorizado kamas</p>
+                                <p>Encuentra nuestros productos en <a href='https://homesleep.pe/' title='Homesleep'>Homesleep</a></p>
                             </div>
                         </li>
 
@@ -45,7 +45,7 @@ function Perfiles(){
                                     <p className='profile-card-sales'>+10500 vendidos</p>
                                 </div>
 
-                                <p><a href='https://vitai.pe/' title='Vitai es distribuidor exclusivo autorizado kamas'>Vitai</a> es distribuidor exclusivo autorizado kamas</p>
+                                <p>Encuentra nuestros productos en <a href='https://vitai.pe/' title='Vitai'>Vitai</a></p>
                             </div>
                         </li>
 
@@ -66,15 +66,10 @@ function Perfiles(){
                                     <p className='profile-card-sales'>+15000 vendidos</p>
                                 </div>
 
-                                <p><a href='https://dormihogar.pe/' title='Dormihogar es distribuidor exclusivo autorizado kamas'>Dormihogar</a> es distribuidor exclusivo autorizado kamas</p>
+                                <p>Encuentra nuestros productos en <a href='https://dormihogar.pe/' title='Dormihogar'>Dormihogar</a></p>
                             </div>
                         </li>
-                    </ul>
-                </div>
 
-                <div className='d-flex-column gap-10'>
-                    <p className='title uppercase text'>Marketplaces y retailers</p>
-                    <ul className='profiles'>
                         <li className='profile'>
                             <img src="/assets/imagenes/paginas/pagina-principal/perfiles/falabella.webp" alt="Falabella" className='profile-card-banner' />
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Kamas" className='profile-card-logo' />
