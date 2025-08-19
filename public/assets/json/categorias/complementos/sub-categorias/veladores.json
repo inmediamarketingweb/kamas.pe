@@ -398,7 +398,7 @@
             "id": 11,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/ofertas/productos/complementos/veladores/11/",
+            "ruta": "/productos/complementos/veladores/11/",
             "nombre": "VELADOR VINTAGE 2 CAJONES NEW - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/8/",
             "precioRegular": 579,
@@ -406,7 +406,6 @@
             "precioVenta": 329,
             "stock": 14,
             "sku": "K7112N10",
-            "oferta": "si",
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {

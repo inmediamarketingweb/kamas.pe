@@ -15,11 +15,15 @@ function Ofertas(){
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [favoritos, setFavoritos] = useState([]);
+    const [tiempoAgotado, setTiempoAgotado] = useState(false);
     const location = useLocation();
     const searchParams = new URLSearchParams(location.search);
     const categoriaParam = searchParams.get('categoria');
     const categoria = categoriaParam ? categoriaParam.replace(/-/g, ' ') : null;
     const filtrosDetalles = {};
+    const [isOfferActive, setIsOfferActive] = useState(true);
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
 
     searchParams.forEach((value, key) => {
         if (key !== 'categoria') {
@@ -202,22 +206,31 @@ function Ofertas(){
                                     <p className='title color-white'>Aprovecha hasta el <b className='font-bold color-red'>30% de descuento</b> en dormitorios seleccionados</p>
                                 </div>
 
-                                <ConteoRegresivo/>
+                                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate} onTerminar={() => setTiempoAgotado(true)} />
                             </div>
 
-                            <ul className="products-list">
-                                {productosFiltrados.length === 0 ? (
-                                    <div className='no-hay-productos d-flex-column w-100'>
-                                        <p className='text'>Lo sentimos, no hay ofertas disponibles en este momento 😢</p>
-                                    </div>
-                                ) : (
-                                    productosFiltrados.map(
+                            {tiempoAgotado ? (
+                                <div className='tiempo-agotado d-flex-column w-100'>
+                                    <p className='text'>¡El tiempo se agotó! Pero más ofertas están en camino.</p>
+                                </div>
+                            ) : productosFiltrados.length === 0 ? (
+                                <div className='no-hay-productos d-flex-column w-100'>
+                                    <p className='text'>Lo sentimos, no hay ofertas disponibles en este momento 😢</p>
+                                </div>
+                            ) : (
+                                <ul className="products-list">
+                                    {productosFiltrados.map(
                                         producto => (
-                                            <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite} isFavorite={favoritos.some(fav => fav.sku === producto.sku)} skusOfertas={skusOfertas}/>
+                                            <Producto key={producto.sku} producto={producto}
+                                            truncate={truncate} onToggleFavorite={toggleFavorite}
+                                            isFavorite={favoritos.some(fav => fav.sku === producto.sku)}
+                                            skusOfertas={skusOfertas}
+                                            isOfferActive={isOfferActive}
+                                            />
                                         )
-                                    )
-                                )}
-                            </ul>
+                                    )}
+                                </ul>
+                            )}
                         </div>
                     </div>
                 </section>

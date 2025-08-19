@@ -7,6 +7,7 @@ import './Productos.css';
 import Filtros from '../../Componentes/Filtros/Filtros';
 import Top from '../../Componentes/Filtros/Componentes/Top/Top';
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
 
 function Productos(){
     const [filtrosPrecio, setFiltrosPrecio] = useState([]);
@@ -18,11 +19,16 @@ function Productos(){
     const [enOferta, setEnOferta] = useState(false);
     const [loading, setLoading] = useState(true);
     const [filtrosOpen, setFiltrosOpen] = useState(false);
+    const [favoritos, setFavoritos] = useState([]);
     const location = useLocation();
     const searchParams = new URLSearchParams(location.search);
     const categoriaParam = searchParams.get('categoria');
     const categoria = useMemo(() => categoriaParam ? categoriaParam.replace(/-/g, ' ') : null, [categoriaParam]);
     const detallesParam = searchParams.get('detalles-del-producto');
+    const [isOfferActive, setIsOfferActive] = useState(true);
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
+
     const detalles = useMemo(() => {
         try {
             return detallesParam ? JSON.parse(detallesParam) : {};
@@ -31,6 +37,37 @@ function Productos(){
             return {};
         }
     }, [detallesParam]);
+
+    const toggleFavorite = (producto) => {
+        setFavoritos(prevFavoritos => {
+            const existe = prevFavoritos.some(fav => fav.sku === producto.sku);
+            
+            if (existe) {
+                return prevFavoritos.filter(fav => fav.sku !== producto.sku);
+            } else {
+                return [...prevFavoritos, producto];
+            }
+        });
+    };
+
+    // Estado para los SKUs en oferta
+    const [skusOfertas, setSkusOfertas] = useState([]);
+
+    // Cargar ofertas.json
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
 
     const cargarProductos = useCallback(async () => {
         try{
@@ -145,17 +182,16 @@ function Productos(){
                 return false;
             }
 
+            // CAMBIO PRINCIPAL: Solo verificar SKUs en lista de ofertas
             if (enOferta) {
-                const oferta = normalizarTexto(producto.oferta || '');
-                const soloPorHoras = normalizarTexto(producto["oferta"] || '');
-                if (oferta !== "si" && soloPorHoras !== "si") {
+                if (!skusOfertas.includes(producto.sku)) {
                     return false;
                 }
             }
 
             return true;
         });
-    }, [productos, categoria, detalles, filtrosPrecio, envioGratis, enOferta]);
+    }, [productos, categoria, detalles, filtrosPrecio, envioGratis, enOferta, skusOfertas]);
 
     const productosOrdenados = useMemo(() => {
         if (sortOption === 'precio-asc') {
@@ -217,7 +253,7 @@ function Productos(){
                 <meta name="description" content="Explora nuestra amplia selección de productos" />
             </Helmet>
 
-            <main>
+            <main className='productos-main'>
                 <section className="block-container pagina-productos-container">
                     <div className="block-content pagina-productos-content">
                         <Filtros 
@@ -260,7 +296,13 @@ function Productos(){
                                             </div>
                                         ) : (
                                             currentProducts.map(producto => (
-                                                <Producto key={producto.sku} producto={producto} truncate={truncate}/>
+                                                // <Producto key={producto.sku} producto={producto} truncate={truncate}/>
+                                                <Producto key={producto.sku} producto={producto}
+                                                truncate={truncate} onToggleFavorite={toggleFavorite}
+                                                isFavorite={favoritos.some(fav => fav.sku === producto.sku)}
+                                                skusOfertas={skusOfertas}
+                                                isOfferActive={isOfferActive}
+                                                />
                                             ))
                                         )}
                                     </ul>
@@ -319,6 +361,8 @@ function Productos(){
                         </div>
                     </div>
                 </section>
+                
+                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
             </main>
         </>
     );

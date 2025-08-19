@@ -70,6 +70,10 @@
     color: var(--white);
 }
 
+.main-category .conteo-container{
+    display: none !important;
+}
+
 @media screen and (max-width: 800px){
     .main-category{
         margin-top: 200px;

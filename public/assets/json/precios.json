@@ -1,0 +1,176 @@
+{
+    "precios":[
+        {
+            "cama-box-tarima":[
+                {
+                    "tamaño":[
+                        {
+                            "king":[
+                                {
+                                    "línea":[
+                                        {
+                                            "americana": 919,
+                                            "adicionales":[
+                                                {
+                                                    "cajón": 50
+                                                },
+                                                {
+                                                    "base-encajonada": 70
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "europea": 1169,
+                                            "adicionales":[
+                                                {
+                                                    "cajón": 75
+                                                },
+                                                {
+                                                    "base-encajonada": 70
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "cabecera":[
+                                        {
+                                            "tipo-de-cabecera":[
+                                                {
+                                                    "aérea-sin-patas": 0,
+                                                    "aérea-con-patas": 0,
+                                                    "pedestal-sin-brazos": 100,
+                                                    "pedestal-con-brazos-rectos": 100,
+                                                    "pedestal-con-brazos-curvos": 120
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "diseño":[
+                                                {
+                                                    "clásica": 0,
+                                                    "americana": 0,
+                                                    "bloques": 100,
+                                                    "corona": 150
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "modelos-especiales":[
+                                                {
+                                                    "moki": 100,
+                                                    "pisac": 150,
+                                                    "egypt": 200
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "complementos":[
+                                        {
+                                            "veladores":[
+                                                {
+                                                    "clásico-1": 150
+                                                },
+                                                {
+                                                    "clásico-1-x2": 280
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dormitorio":[
+                {
+                    "tamaño":[
+                        {
+                            "king":[
+                                {
+                                    "línea":[
+                                        {
+                                            "americana": 919,
+                                            "adicionales":[
+                                                {
+                                                    "cajón": 50
+                                                },
+                                                {
+                                                    "base-encajonada": 70
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "europea": 1169,
+                                            "adicionales":[
+                                                {
+                                                    "cajón": 75
+                                                },
+                                                {
+                                                    "base-encajonada": 70
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "colchón":[
+                                        {
+                                            "sarki": 680
+                                        },
+                                        {
+                                            "der-prinz": 830
+                                        }
+                                    ],
+                                    "cabecera":[
+                                        {
+                                            "tipo-de-cabecera":[
+                                                {
+                                                    "aérea-sin-patas": 0,
+                                                    "aérea-con-patas": 0,
+                                                    "pedestal-sin-brazos": 100,
+                                                    "pedestal-con-brazos-rectos": 100,
+                                                    "pedestal-con-brazos-curvos": 120
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "diseño":[
+                                                {
+                                                    "clásica": 0,
+                                                    "americana": 0,
+                                                    "bloques": 100,
+                                                    "corona": 150
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "modelos-especiales":[
+                                                {
+                                                    "moki": 100,
+                                                    "pisac": 150,
+                                                    "egypt": 200
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "complementos":[
+                                        {
+                                            "veladores":[
+                                                {
+                                                    "clásico-1": 150
+                                                },
+                                                {
+                                                    "clásico-1-x2": 280
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

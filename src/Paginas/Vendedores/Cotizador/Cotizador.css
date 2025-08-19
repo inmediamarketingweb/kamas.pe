@@ -1,0 +1,62 @@
+.cotizador-fieldset{
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.cotizador-fieldset > div{
+    width: calc(100% - 50px);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.cotizador-fieldset > div select{
+    width: 100%;
+    height: 40px;
+}
+
+.cotizador-fieldset > button{
+    display: flex;
+    width: 40px;
+    height: auto;
+    aspect-ratio: 1/1;
+    background: orange;
+    transition: var(--t-200ms-linear);
+    position: relative;
+    border-radius: 3px;
+}
+
+.cotizador-fieldset > button span{
+    transition: var(--t-200ms-linear);
+}
+
+.cotizador-fieldset > button:hover,
+.cotizador-fieldset > button.active{
+    background: var(--color-1);
+}
+
+.cotizador-fieldset > button:hover span,
+.cotizador-fieldset > button.active span{
+    color: var(--white);
+}
+
+.cotizador-fieldset > button span{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+}
+
+.cotizador-fieldset > button span:nth-child(2){
+    display: none;
+}
+
+.base-encajonada{
+    display: flex;
+    align-items: center;
+    justify-content: left !important;
+    flex-direction: row !important;
+}
