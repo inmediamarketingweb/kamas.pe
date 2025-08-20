@@ -59,3 +59,21 @@
 .filters-orden option{
     cursor: pointer;
 }
+
+@media screen and (max-width: 600px){
+    .filters-top{
+        flex-direction: column;
+    }
+
+    .filters-top > div{
+        width: 100%;
+    }
+
+    .filters-top > div button{
+        width: 100%;
+    }
+
+    .filters-top > div select{
+        width: 100%;
+    }
+}

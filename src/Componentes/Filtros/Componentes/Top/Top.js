@@ -9,7 +9,7 @@ function Top({
         setSortOption = () => {},
     }){
     return(
-        <div className='filters-top d-flex-center-between w-100'>
+        <div className='filters-top d-flex-center-between w-100 gap-10'>
             <div className='d-flex gap-10'>
                 <button type='button' className={`d-flex filter-button ${envioGratis ? 'active' : ''}`} onClick={() => setEnvioGratis(!envioGratis)}>
                     <span className="material-icons">local_shipping</span>
@@ -23,10 +23,12 @@ function Top({
             </div>
 
             <div>
-                <select className='filters-orden' value={sortOption} onChange={(e) => setSortOption(e.target.value)}>
-                    <option value="">Ordenar por</option>
-                    <option value="precio-asc">Precio de menor a mayor</option>
-                    <option value="precio-desc">Precio de mayor a menor</option>
+                <select id='filters-orden' name='filter-orden' className='filters-orden' value={sortOption} onChange={(e) => setSortOption(e.target.value)}>
+                    <option value="">
+                        <p className='text'>Ordenar precios</p>
+                    </option>
+                    <option value="precio-asc">Menor a mayor</option>
+                    <option value="precio-desc">Mayor a menor</option>
                 </select>
             </div>
         </div>

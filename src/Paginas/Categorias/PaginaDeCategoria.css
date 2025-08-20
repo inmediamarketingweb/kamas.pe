@@ -117,12 +117,17 @@
     }
 
     .open-filters{
+        position: fixed;
+        top: 332px;
+        right: 10px;
+        z-index: 9;
         width: auto;
         height: 40px;
         padding: 0 20px;
         transition: var(--t-200ms-linear);
         border-radius: 3px;
         border: 1px solid rgba(0 0 0 / 0.25);
+        background: var(--white);
     }
 
     .category-page-right-top button:hover{
@@ -134,5 +139,9 @@
     .category-page-right-top button:hover span{
         color: var(--white);
         transition: var(--t-200ms-linear);
+    }
+
+    .category-page-products{
+        margin-top: 40px;
     }
 }

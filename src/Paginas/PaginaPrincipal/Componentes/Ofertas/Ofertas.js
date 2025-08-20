@@ -16,6 +16,10 @@ function Ofertas(){
     const [productos, setProductos] = useState([]);
     const [favorites, setFavorites] = useState({});
     const [skusOfertas, setSkusOfertas] = useState([]);
+    const [isOfferActive, setIsOfferActive] = useState(true);
+
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
 
     useEffect(() => {
         const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
@@ -60,13 +64,19 @@ function Ofertas(){
                     .then(res => res.json())
                     .then(manifest =>
                         Promise.all(
-                            manifest.files.map(fileUrl => fetch(fileUrl).then(res => res.json()).then(json => json.productos || []).catch(() => [])
+                            manifest.files.map(fileUrl => 
+                                fetch(fileUrl)
+                                    .then(res => res.json())
+                                    .then(json => json.productos || [])
+                                    .catch(() => [])
                             )
                         )
                     )
                     .then(listaProductos => {
                         const todos = listaProductos.flat();
-                        const productosFiltrados = skusAleatorios.map(sku => todos.find(p => p.sku === sku)).filter(Boolean);
+                        const productosFiltrados = skusAleatorios.map(sku => 
+                            todos.find(p => p.sku === sku)
+                        ).filter(Boolean);
                         setProductos(productosFiltrados);
                     });
             })
@@ -74,11 +84,27 @@ function Ofertas(){
     }, []);
 
     const renderizarElementos = () => {
+        if (!isOfferActive) {
+            return (
+                <div className="d-grid-column-1-1 d-grid-row-1-1 w-100 d-flex-center-center bg-white h-50-px border-r-6">
+                    <p className='title uppercase'>El tiempo se agotó, más ofertas están en camino</p>
+                </div>
+            );
+        }
+
         const elementos = [];
 
         if (productos.length > 0) {
             elementos.push(
-                <Producto key={`dinamico-1-${productos[0].sku}`} producto={productos[0]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[0].sku]} skusOfertas={skusOfertas} />
+                <Producto 
+                    key={`dinamico-1-${productos[0].sku}`}
+                    producto={productos[0]} 
+                    truncate={truncate}
+                    onToggleFavorite={handleToggleFavorite}
+                    isFavorite={!!favorites[productos[0].sku]}
+                    skusOfertas={skusOfertas}
+                    isOfferActive={isOfferActive}
+                />
             );
         }
 
@@ -108,7 +134,15 @@ function Ofertas(){
 
         if (productos.length > 1) {
             elementos.push(
-                <Producto key={`dinamico-2-${productos[1].sku}`} producto={productos[1]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[1].sku]} skusOfertas={skusOfertas} />
+                <Producto 
+                    key={`dinamico-2-${productos[1].sku}`}
+                    producto={productos[1]} 
+                    truncate={truncate}
+                    onToggleFavorite={handleToggleFavorite}
+                    isFavorite={!!favorites[productos[1].sku]}
+                    skusOfertas={skusOfertas}
+                    isOfferActive={isOfferActive}
+                />
             );
         }
 
@@ -138,7 +172,15 @@ function Ofertas(){
 
         if (productos.length > 2) {
             elementos.push(
-                <Producto key={`dinamico-3-${productos[2].sku}`} producto={productos[2]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[2].sku]} skusOfertas={skusOfertas}/>
+                <Producto 
+                    key={`dinamico-3-${productos[2].sku}`}
+                    producto={productos[2]} 
+                    truncate={truncate}
+                    onToggleFavorite={handleToggleFavorite}
+                    isFavorite={!!favorites[productos[2].sku]}
+                    skusOfertas={skusOfertas}
+                    isOfferActive={isOfferActive}
+                />
             );
         }
 
@@ -157,7 +199,7 @@ function Ofertas(){
                         </a>
                     </div>
 
-                    <ConteoRegresivo />
+                    <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
                 </div>
 
                 <ul className='solo-por-horas-productos'>

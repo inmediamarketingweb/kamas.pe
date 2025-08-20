@@ -10,7 +10,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
     const [rangoPrecios, setRangoPrecios] = useState([0, 0]);
     const [valorThumb, setValorThumb] = useState(0);
     const [envioGratisSeleccionado, setEnvioGratisSeleccionado] = useState(false);
-    // const [activeFilter, setActiveFilter] = useState(null);
 
     const rangosDePrecio = useMemo(() => [
         { id: "rango-1", titulo: "S/.0 - S/500", min: 0, max: 500 },
@@ -92,7 +91,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
         const filtrosDesdeURL = {};
         searchParams.forEach((value, key) => {
-            // Para selección única, solo tomamos el primer valor (no usamos split("+"))
             const opcion = decodeURIComponent(value).toLowerCase();
             filtrosDesdeURL[key] = new Set([opcion]);
         });
@@ -144,18 +142,15 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         }
     }, [filtrarProductos, filtrosSeleccionados, productos, valorThumb, rangoDePrecioSeleccionado, envioGratisSeleccionado]);
 
-    // MODIFICACIÓN PRINCIPAL: Cambio a selección única
     const handleFiltroChange = (categoriaFiltro, opcion) => {
         const opcionNormalizada = opcion.toLowerCase().replace(/\s+/g, "-");
-        
+
         setFiltrosSeleccionados((prev) => {
             const nuevoEstado = { ...prev };
-            
-            // Si ya está seleccionada, la quitamos (toggle)
+
             if (nuevoEstado[categoriaFiltro] && nuevoEstado[categoriaFiltro].has(opcionNormalizada)) {
                 delete nuevoEstado[categoriaFiltro];
             } else {
-                // Si no, la seleccionamos (y eliminamos cualquier otra selección en esta categoría)
                 nuevoEstado[categoriaFiltro] = new Set([opcionNormalizada]);
             }
 
@@ -171,7 +166,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
     const actualizarURL = useCallback((filtrosActuales) => {
         const params = new URLSearchParams();
         Object.keys(filtrosActuales).forEach((categoriaFiltro) => {
-            // Para selección única, solo añadimos el primer valor del Set
             const valor = [...filtrosActuales[categoriaFiltro]][0];
             params.set(categoriaFiltro, valor);
         });
@@ -206,11 +200,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                             <ul className="filtro-items">
                                 {rangosDePrecio.map((rango) => (
                                     <li key={rango.id}>
-                                        <button 
-                                            type="button" 
-                                            className={rangoDePrecioSeleccionado === rango.id ? "active" : ""}
-                                            onClick={() => handleCambioRangoPrecio(rango.id)}
-                                        >
+                                        <button type="button" className={rangoDePrecioSeleccionado === rango.id ? "active" : ""} onClick={() => handleCambioRangoPrecio(rango.id)}>
                                             <span>{rango.titulo}</span>
                                         </button>
                                     </li>
@@ -233,9 +223,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                                     );
                                                     return (
                                                         <li key={opcion.id}>
-                                                            <button type="button" className={isActive ? "active" : ""}
-                                                                onClick={() => handleFiltroChange(filtro.nombre, opcion.nombre)}
-                                                            >
+                                                            <button type="button" className={isActive ? "active" : ""} onClick={() => handleFiltroChange(filtro.nombre, opcion.nombre)}>
                                                                 <span className="first-uppercase">{opcion.nombre}</span>
                                                             </button>
                                                         </li>
