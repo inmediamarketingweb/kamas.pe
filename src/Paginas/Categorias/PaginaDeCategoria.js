@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet-async";
 
 import "./PaginaDeCategoria.css";
 
-import Filtros from "./Componentes/Filtros/Filtros";
+import Filtros from "./Filtros/Filtros";
 import Top from '../../Componentes/Filtros/Componentes/Top/Top.js';
 import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto.js';

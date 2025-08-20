@@ -31,7 +31,9 @@ function Center(){
     }, []);
 
     if(error){
-        return <div className="error-message">Error al cargar el menú: {error}</div>;
+        return <div className="d-flex-center-center w-100 h-70-px bg-loading">
+            <p className='text'>Error al cargar el menú: <b className='color-color-1'>{error}</b></p>
+        </div>;
     }
 
     if(!categories){

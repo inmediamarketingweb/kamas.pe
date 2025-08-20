@@ -5,11 +5,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
     background: var(--color-1);
 }
 
-.sale-time div{
+.time-unit{
     width: 48px;
     display: flex;
     align-items: center;
@@ -18,13 +17,21 @@
     font-weight: bold;
 }
 
-.sale-time div span{
-    font-size: 30px;
+.time-unit span{
+    font-size: 28px;
     font-weight: bold;
     color: var(--white);
 }
 
-.sale-time div p{
+.time-unit p{
     color: var(--white);
     font-size: 12px;
+}
+
+.resting-message{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-direction: column;
+    gap: 10px;
 }
