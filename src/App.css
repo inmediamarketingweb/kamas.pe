@@ -167,7 +167,7 @@ button{
 }
 
 .bg-white{
-    background: #FFFFFF;
+    background: #FFFFFF !important;
 }
 
 .bg-loading{
@@ -689,6 +689,10 @@ input[type="checkbox"]{
         padding: 0 10px;
     }
 
+    .block-title{
+        font-size: 25px;
+    }
+
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(3, 1fr) !important;
     }
@@ -704,7 +708,7 @@ input[type="checkbox"]{
     }
 
     .block-title{
-        font-size: 24px;
+        font-size: 22px;
         margin-right: auto;
     }
 

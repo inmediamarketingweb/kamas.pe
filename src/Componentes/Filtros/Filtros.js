@@ -35,8 +35,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
     ];
 
     const togglePrecio = (valor) => {
-        const nuevos = rangosSeleccionados.includes(valor) ? rangosSeleccionados.filter(v => v !== valor) : [...rangosSeleccionados, valor];
-
+        const nuevos = rangosSeleccionados.includes(valor) ? [] : [valor];
         setRangosSeleccionados(nuevos);
         onCambiarPrecio(nuevos);
     };
@@ -129,7 +128,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
         <>
             <div className={`filtros-layer ${isOpen ? 'active' : ''}`} onClick={onClose}></div>
 
-            <div className={`filtros-container-global d-flex-column ${isOpen ? 'active' : ''}`}>
+            <div className={`filtros-container-global ${isOpen ? 'active' : ''}`}>
                 <div className='filtros-container'>
                     <div className='filtros-top d-flex-column'>
                         <button type='button' className='filtros-button-close margin-left' onClick={onClose}>
@@ -156,14 +155,15 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
 
                         <div className='filtros-prices-container d-flex-column gap-10'>
                             <p className='title'>Precio</p>
-                            <div className='d-flex-column gap-5'>
+                            <ul className='filtro-items'>
                                 {opcionesPrecio.map((rango, idx) => (
-                                    <label key={idx} className="d-flex align-center gap-5">
-                                        <input type='checkbox' checked={rangosSeleccionados.includes(rango.value)} onChange={() => togglePrecio(rango.value)}/>
-                                        <p>{rango.label}</p>
-                                    </label>
+                                    <li key={idx}>
+                                        <button type='button' className={rangosSeleccionados.includes(rango.value) ? 'active' : ''} onClick={() => togglePrecio(rango.value)}>
+                                            <span>{rango.label}</span>
+                                        </button>
+                                    </li>
                                 ))}
-                            </div>
+                            </ul>
                         </div>
 
                         {categoriaSeleccionada && filtros.length === 0 && (
@@ -171,7 +171,9 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
                         )}
 
                         {categoriaSeleccionada && filtros.length > 0 && (
-                            <div className='filtros-detalles-container d-flex-column margin-top-20'>
+                            <div className='filtros-detalles-container d-flex-column gap-10 margin-top-20'>
+                                <p className='title'>Detalles</p>
+
                                 {filtros.map((filtroObj, index) => {
                                     const filtroKey = Object.keys(filtroObj)[0];
                                     const opciones = filtroObj[filtroKey];

@@ -2,7 +2,7 @@ import { Helmet } from 'react-helmet';
 
 import Slider from './Componentes/Slider/Slider';
 import Categorias from './Componentes/Categorias/Categorias';
-import SoloPorHoras from './Componentes/SoloPorHoras/SoloPorHoras';
+import Ofertas from './Componentes/Ofertas/Ofertas';
 import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
 import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
 import Perfiles from './Componentes/Perfiles/Perfiles';
@@ -37,7 +37,7 @@ function PaginaPrincipal(){
 
                 <UltimasNovedades/>
 
-                <SoloPorHoras/>
+                <Ofertas/>
 
                 <Promocion/>
 

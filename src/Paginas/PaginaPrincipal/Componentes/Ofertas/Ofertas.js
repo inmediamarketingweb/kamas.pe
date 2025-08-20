@@ -1,150 +1,170 @@
-import { useCallback, useRef, useEffect } from 'react';
-
-import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
+import { useEffect, useState } from 'react';
+import ConteoRegresivo from '../../../../Componentes/ConteoRegresivo/ConteoRegresivo';
+import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 
 import './Ofertas.css';
 
-function Ofertas(){
-    const scrollRef = useRef(null);
-    const autoSlideIntervalRef = useRef(null);
-    const autoSlideTimeoutRef = useRef(null);
-    const autoDirRef = useRef("right");
+import '../../../../Componentes/Plantillas/Producto/Horizontal/Horizontal';
+import '../../../../Componentes/Plantillas/Producto/Miniatura/Miniatura.css';
 
-    const scrollSmooth = (direction) => {
-        const container = scrollRef.current;
-        if (!container) return;
-        const scrollAmount = 290;
-        container.scrollBy({
-            left: direction === 'right' ? scrollAmount : -scrollAmount,
-            behavior: 'smooth',
+const truncate = (str, maxLength) => {
+    if (!str) return '';
+    return str.length > maxLength ? str.substring(0, maxLength) + '...' : str;
+};
+
+function Ofertas(){
+    const [productos, setProductos] = useState([]);
+    const [favorites, setFavorites] = useState({});
+    const [skusOfertas, setSkusOfertas] = useState([]);
+
+    useEffect(() => {
+        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
+        setFavorites(favStorage);
+    }, []);
+
+    const handleToggleFavorite = (producto) => {
+        setFavorites(prev => {
+            const newFavorites = {
+                ...prev,
+                [producto.sku]: !prev[producto.sku]
+            };
+            localStorage.setItem("favoritos", JSON.stringify(newFavorites));
+            return newFavorites;
         });
     };
 
-    const autoScroll = useCallback(() => {
-        const container = scrollRef.current;
-        if (!container) return;
-        if (
-            autoDirRef.current === "right" &&
-            container.scrollLeft >= container.scrollWidth - container.clientWidth
-        ) {
-            autoDirRef.current = "left";
-        } else if (autoDirRef.current === "left" && container.scrollLeft <= 0) {
-            autoDirRef.current = "right";
-        }
-        scrollSmooth(autoDirRef.current);
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
     }, []);
 
-    const startAutoSlide = useCallback(() => {
-        if (autoSlideIntervalRef.current) clearInterval(autoSlideIntervalRef.current);
-        autoSlideIntervalRef.current = setInterval(() => {
-            autoScroll();
-        }, 2000);
-    }, [autoScroll]);
-
-    const pauseAutoSlide = () => {
-        if (autoSlideIntervalRef.current) {
-            clearInterval(autoSlideIntervalRef.current);
-            autoSlideIntervalRef.current = null;
-        }
-        if (autoSlideTimeoutRef.current) clearTimeout(autoSlideTimeoutRef.current);
-        autoSlideTimeoutRef.current = setTimeout(() => {
-            startAutoSlide();
-        }, 2000);
-    };
-
-    const handleLeftButtonClick = () => {
-        autoDirRef.current = "left";
-        scrollSmooth("left");
-        pauseAutoSlide();
-    };
-
-    const handleRightButtonClick = () => {
-        autoDirRef.current = "right";
-        scrollSmooth("right");
-        pauseAutoSlide();
-    };
-
     useEffect(() => {
-        startAutoSlide();
-        return () => {
-            if (autoSlideIntervalRef.current) clearInterval(autoSlideIntervalRef.current);
-            if (autoSlideTimeoutRef.current) clearTimeout(autoSlideTimeoutRef.current);
-        };
-    }, [startAutoSlide]);
+        fetch('/assets/json/ofertas.json')
+            .then(res => res.json())
+            .then(skus => {
+                const skusAleatorios = [...skus]
+                    .sort(() => 0.5 - Math.random())
+                    .slice(0, 3);
 
-    useEffect(() => {
-        const container = scrollRef.current;
-        if (!container) return;
-        let isDown = false;
-        let startX;
-        let scrollLeft;
-
-        const handleMouseDown = (e) => {
-            isDown = true;
-            container.classList.add('dragging');
-            startX = e.pageX - container.offsetLeft;
-            scrollLeft = container.scrollLeft;
-        };
-
-        const handleMouseLeave = () => {
-            isDown = false;
-            container.classList.remove('dragging');
-        };
-
-        const handleMouseUp = () => {
-            isDown = false;
-            container.classList.remove('dragging');
-        };
-
-        const handleMouseMove = (e) => {
-            if (!isDown) return;
-            e.preventDefault();
-            const x = e.pageX - container.offsetLeft;
-            const walk = (x - startX) * 1.5;
-            container.scrollLeft = scrollLeft - walk;
-        };
-
-        container.addEventListener('mousedown', handleMouseDown);
-        container.addEventListener('mouseleave', handleMouseLeave);
-        container.addEventListener('mouseup', handleMouseUp);
-        container.addEventListener('mousemove', handleMouseMove);
-
-        return () => {
-            container.removeEventListener('mousedown', handleMouseDown);
-            container.removeEventListener('mouseleave', handleMouseLeave);
-            container.removeEventListener('mouseup', handleMouseUp);
-            container.removeEventListener('mousemove', handleMouseMove);
-        };
+                return fetch('/assets/json/manifest.json')
+                    .then(res => res.json())
+                    .then(manifest =>
+                        Promise.all(
+                            manifest.files.map(fileUrl => fetch(fileUrl).then(res => res.json()).then(json => json.productos || []).catch(() => [])
+                            )
+                        )
+                    )
+                    .then(listaProductos => {
+                        const todos = listaProductos.flat();
+                        const productosFiltrados = skusAleatorios.map(sku => todos.find(p => p.sku === sku)).filter(Boolean);
+                        setProductos(productosFiltrados);
+                    });
+            })
+            .catch(err => console.error('Error:', err));
     }, []);
 
-    return (
-        <div className='block-container'>
-            <section className='block-content homepage-ofertas-content'>
-                <div className='block-title-container'>
-                    <h2 className='block-title'>Ofertas</h2>
-                </div>
+    const renderizarElementos = () => {
+        const elementos = [];
 
-                <div className='homepage-offers-container' ref={scrollRef}>
-                    <ul className='homepage-offers-content'>
-                        {[1, 2, 3, 4, 5, 6].map((n) => (
-                            <li key={n}>
-                                <a href='/productos/dormitorios/?tama%C3%B1o=king&modelo-de-colchón=sarki' title='Ver ofertas'>
-                                    <LazyImage width={280} height={400} src={`/assets/imagenes/paginas/pagina-principal/ofertas/${n}.webp`} alt="Ofertas | Kamas"/>
-                                </a>
-                            </li>
-                        ))}
+        if (productos.length > 0) {
+            elementos.push(
+                <Producto key={`dinamico-1-${productos[0].sku}`} producto={productos[0]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[0].sku]} skusOfertas={skusOfertas} />
+            );
+        }
+
+        elementos.push(
+            <li key="colchones">
+                <a href='/ofertas/?categoria=colchones' title='Colchones | Kamas' className='product-card-miniature'>
+                    <ul>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-1.webp' loading='lazy' alt='Colchones | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-2.webp' loading='lazy' alt='Colchones | Kamas'/></li>
                     </ul>
+                    <p className='text'>Colchones</p>
+                </a>
+            </li>
+        );
+
+        elementos.push(
+            <li key="sofas">
+                <a href='/ofertas/?categoria=sofás' title='Sofás | Kamas' className='product-card-miniature product-card-miniature-2'>
+                    <ul>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-1.webp' loading='lazy' alt='Sofás | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-2.webp' loading='lazy' alt='Sofás | Kamas'/></li>
+                    </ul>
+                    <p className='text'>Sofás</p>
+                </a>
+            </li>
+        );
+
+        if (productos.length > 1) {
+            elementos.push(
+                <Producto key={`dinamico-2-${productos[1].sku}`} producto={productos[1]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[1].sku]} skusOfertas={skusOfertas} />
+            );
+        }
+
+        elementos.push(
+            <li key="veladores">
+                <a href='/ofertas/?categoria=complementos&subcategoría=veladores' title='Veladores | Kamas' className='product-card-miniature product-card-miniature-2'>
+                    <ul>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' loading='lazy' alt='Veladores | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' loading='lazy' alt='Veladores | Kamas'/></li>
+                    </ul>
+                    <p className='text'>Veladores</p>
+                </a>
+            </li>
+        );
+
+        elementos.push(
+            <li key="cabeceras">
+                <a href='/ofertas/?categoria=cabeceras' title='Cabeceras | Kamas' className='product-card-miniature'>
+                    <ul>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
+                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
+                    </ul>
+                    <p className='text'>Cabeceras</p>
+                </a>
+            </li>
+        );
+
+        if (productos.length > 2) {
+            elementos.push(
+                <Producto key={`dinamico-3-${productos[2].sku}`} producto={productos[2]} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[productos[2].sku]} skusOfertas={skusOfertas}/>
+            );
+        }
+
+        return elementos;
+    };
+
+    return(
+        <section className="block-container block-container-solo-por-horas">
+            <div className="block-content block-content-solo-por-horas d-flex-column gap-20">
+                <div className="block-title-container d-flex d-flex-center-between">
+                    <div className='d-flex-column gap-5'>
+                        <h2 className="block-title text-left text-transform-unset">Por pocos días 🔥</h2>
+                        <p className='color-white'>Ofertas invatibles en productos seleccionados, solo aquí en Kamas</p>
+                        <a href='/ofertas/' title='Ofertas | Kamas' className='margin-right w-auto button-link button-link-5'>
+                            <p className='button-link-text color-white'>Ver todas las ofertas</p>
+                        </a>
+                    </div>
+
+                    <ConteoRegresivo />
                 </div>
 
-                <button type='button' onClick={handleLeftButtonClick} className='homepage-ofertas-button homepage-ofertas-button-1'>
-                    <span className="material-icons">chevron_left</span>
-                </button>
-
-                <button type='button' onClick={handleRightButtonClick} className='homepage-ofertas-button homepage-ofertas-button-2'>
-                    <span className="material-icons">chevron_right</span>
-                </button>
-            </section>
-        </div>
+                <ul className='solo-por-horas-productos'>
+                    {renderizarElementos()}
+                </ul>
+            </div>
+        </section>
     );
 }
 

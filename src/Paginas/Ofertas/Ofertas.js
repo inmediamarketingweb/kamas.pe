@@ -169,7 +169,7 @@ function Ofertas(){
     });
 
     if (loading){
-        return (
+        return(
             <div className="cargando">
                 <p>Cargando ofertas...</p>
             </div>
@@ -210,22 +210,28 @@ function Ofertas(){
                             </div>
 
                             {tiempoAgotado ? (
-                                <div className='tiempo-agotado d-flex-column w-100'>
-                                    <p className='text'>¡El tiempo se agotó! Pero más ofertas están en camino.</p>
+                                <div className='d-flex-center-center gap-10 w-100 h-70-px bg-white border-r-6'>
+                                    <p className='title text'>El tiempo se agotó, pero más ofertas están en camino.</p>
+                                    <a href='/ofertas/' className='button-link button-link-5' title='Ofertas | Kamas'>
+                                        <p className='button-link-text'>Ver más</p>
+                                    </a>
                                 </div>
                             ) : productosFiltrados.length === 0 ? (
-                                <div className='no-hay-productos d-flex-column w-100'>
-                                    <p className='text'>Lo sentimos, no hay ofertas disponibles en este momento 😢</p>
+                                <div className='d-flex-center-center gap-10 w-100 h-70-px bg-white border-r-6'>
+                                    <p className='title text'>Lo sentimos no contamos ofertas disponibles para la categoría seleccionada.</p>
+                                    <a href='/ofertas/' className='button-link button-link-5' title='Ofertas | Kamas'>
+                                        <p className='button-link-text'>Ver más</p>
+                                    </a>
                                 </div>
                             ) : (
                                 <ul className="products-list">
                                     {productosFiltrados.map(
                                         producto => (
                                             <Producto key={producto.sku} producto={producto}
-                                            truncate={truncate} onToggleFavorite={toggleFavorite}
-                                            isFavorite={favoritos.some(fav => fav.sku === producto.sku)}
-                                            skusOfertas={skusOfertas}
-                                            isOfferActive={isOfferActive}
+                                                truncate={truncate} onToggleFavorite={toggleFavorite}
+                                                isFavorite={favoritos.some(fav => fav.sku === producto.sku)}
+                                                skusOfertas={skusOfertas}
+                                                isOfferActive={isOfferActive}
                                             />
                                         )
                                     )}

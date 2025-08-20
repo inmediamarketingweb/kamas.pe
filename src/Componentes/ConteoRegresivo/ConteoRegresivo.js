@@ -8,16 +8,9 @@ function ConteoRegresivo({ onTerminar }){
     const restingDuration = 12 * 60 * 60 * 1000;
     const totalCycleDuration = activeDuration + restingDuration;
     const globalStartDate = useMemo(() => new Date('2025-08-01T00:00:00'), []);
-
     const [cyclePhase, setCyclePhase] = useState('active');
     const [targetDate, setTargetDate] = useState(null);
-    const [timeLeft, setTimeLeft] = useState({ 
-        days: 0,
-        hours: 0,
-        minutes: 0,
-        seconds: 0 
-    });
-
+    const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
     const format = useCallback((num) => String(num).padStart(2, '0'), []);
 
     const calculateCurrentCycle = useCallback(() => {
@@ -102,8 +95,8 @@ function ConteoRegresivo({ onTerminar }){
         <div className="conteo-container">
             {cyclePhase === 'resting' ? (
                 <div className="resting-message">
-                    <h2>¡El tiempo se agotó!</h2>
-                    <p>Pronto, nuevas ofertas</p>
+                    <p className='color-white'>El tiempo se agotó 😢</p>
+
                     <div className="sale-time">
                         <div className="time-unit">
                             <span>{format(timeLeft.days)}</span>
@@ -122,6 +115,8 @@ function ConteoRegresivo({ onTerminar }){
                             <p>Seg.</p>
                         </div>
                     </div>
+
+                    <p className='color-white'>Nuevas ofertas, pronto 🎉</p>
                 </div>
             ) : (
                 <div className="sale-time">
