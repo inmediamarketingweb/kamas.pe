@@ -5,7 +5,7 @@
             "categoria": "colchones",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/konig/1-plaza-y-media/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICOS KONIG 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
             "precioRegular": 1649,
             "precioNormal": 1399,
@@ -22,7 +22,7 @@
                 {
                     "modelo-de-colchón": "Konig",
                     "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme"
                 }
             ],
@@ -45,7 +45,7 @@
                 {
                     "modelo-de-colchón": "Konig",
                     "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -67,7 +67,7 @@
             "categoria": "colchones",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/konig/2-plazas/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICOS KONIG 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
             "precioRegular": 1790,
             "precioNormal": 1599,
@@ -84,7 +84,7 @@
                 {
                     "modelo-de-colchón": "Konig",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme"
                 }
             ],
@@ -108,7 +108,7 @@
                     "sku": "K1211MFN10",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -130,7 +130,7 @@
             "categoria": "colchones",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/konig/queen/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG QUEEN",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICOS KONIG QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
             "precioRegular": 2245,
             "precioNormal": 2199,
@@ -147,7 +147,7 @@
                 {
                     "modelo-de-colchón": "Konig",
                     "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme"
                 }
             ],
@@ -171,7 +171,7 @@
                     "sku": "K137MCN10",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "Queen",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -197,7 +197,7 @@
             "categoria": "colchones",
             "subcategoria": "konig",
             "ruta": "/productos/colchones/konig/king/",
-            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICOS KONIG KING",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
             "precioRegular": 2800,
             "precioNormal": 2499,
@@ -214,7 +214,7 @@
                 {
                     "modelo-de-colchón": "Konig",
                     "tamaño": "King",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme"
                 }
             ],
@@ -238,7 +238,7 @@
                     "sku": "K1411MFN10",
                     "modelo-de-colchón": "Konig",
                     "tamaño": "King",
-                    "línea-de-colchón": "Extra ortopédico",
+                    "línea-de-colchón": "Extra ortopédicos",
                     "nivel-de-confort": "Muy firme",
                     "tipo-de-resorte": "Bonell"
                 }
