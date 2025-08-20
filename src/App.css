@@ -318,6 +318,10 @@ button{
     height: 100%;
 }
 
+.h-50-px{
+    height: 50px;
+}
+
 .h-70-px{
     height: 70px;
 }
@@ -372,6 +376,10 @@ button{
 
 .d-grid-column-2-3{
     grid-column: 2/3;
+}
+
+.d-grid-row-1-1{
+    grid-row: 1/-1;
 }
 
 .margin-auto{

@@ -517,18 +517,15 @@
         "categoria": "cabeceras",
         "filtros":[
             {
-                "linea":[
+                "línea":[
                     {
-                        "linea": "Clásica"
+                        "línea": "Clásica"
                     },
                     {
-                        "linea": "Americana"
+                        "línea": "Americana"
                     },
                     {
-                        "linea": "Madera natural"
-                    },
-                    {
-                        "linea": "Premium"
+                        "línea": "Premium"
                     }
                 ]
             },

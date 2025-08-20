@@ -1,0 +1,42 @@
+.page-layer{
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--white);
+    pointer-events: none;
+    user-select: none;
+
+    animation: layer 500ms linear;
+    opacity: 0;
+}
+
+@keyframes layer{
+    0%, 90%{
+        opacity: 1;
+    }
+}
+
+.page-layer img{
+    display: flex;
+    width: calc(100% - 40px);
+    height: 60px;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 800px){
+    .page-layer img{
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .page-layer img{
+        height: 40px;
+    }
+}

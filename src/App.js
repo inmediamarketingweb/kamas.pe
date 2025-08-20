@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { HelmetProvider } from 'react-helmet-async';
 
-import LimpiarRutas from "./Componentes/LimpiarRutas/LimpiarRutas";
+import LimpiarRutas from "./Componentes/LimpiarRutas";
 
 //
 import Layout from "./Componentes/Layout";
