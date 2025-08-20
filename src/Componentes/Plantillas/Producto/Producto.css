@@ -189,27 +189,33 @@
 .product-card-separar{
     position: absolute;
     left: 10px;
-    bottom: 100%;
+    bottom: calc(100% + 5px);
     display: flex;
     align-items: center;
     justify-content: center;
+    width: auto;
+    height: 26px;
+    padding: 0 6px;
+    border-radius: 3px;
     z-index: 15;
-    gap: 3px;
+    gap: 5px;
+    background: #2f74f5;
 }
 
 .product-card-separar span{
+    line-height: normal !important;
     aspect-ratio: 1/1;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 18px;
-    color: #2f74f5;
+    font-size: 16px;
+    color: var(--white);
 }
 
 .product-card-separar p,
 .product-card-separar p b{
-    font-size: 15px;
-    color: #2f74f5;
+    font-size: 13px;
+    color: var(--white);
 }
 
 .product-card-prices{

@@ -1,8 +1,6 @@
 import { useCallback, useEffect, useState, useMemo } from "react";
 import { useSearchParams, useParams } from "react-router-dom";
 
-// import './Filtros.css';
-
 function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
     const { categoria } = useParams();
     const [searchParams, setSearchParams] = useSearchParams();
@@ -12,7 +10,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
     const [rangoPrecios, setRangoPrecios] = useState([0, 0]);
     const [valorThumb, setValorThumb] = useState(0);
     const [envioGratisSeleccionado, setEnvioGratisSeleccionado] = useState(false);
-    const [activeFilter, setActiveFilter] = useState(null);
+    // const [activeFilter, setActiveFilter] = useState(null);
 
     const rangosDePrecio = useMemo(() => [
         { id: "rango-1", titulo: "S/.0 - S/500", min: 0, max: 500 },
@@ -20,6 +18,17 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         { id: "rango-3", titulo: "S/.1000 - S/2000", min: 1000, max: 2000 },
         { id: "rango-4", titulo: "Desde S/ 2000", min: 2000, max: Infinity },
     ], []);
+
+    const handleClearFilterCategory = (categoriaFiltro) => {
+        setFiltrosSeleccionados(prev => {
+            const nuevoEstado = { ...prev };
+            if (nuevoEstado[categoriaFiltro]) {
+                delete nuevoEstado[categoriaFiltro];
+            }
+            actualizarURL(nuevoEstado);
+            return nuevoEstado;
+        });
+    };
 
     useEffect(() => {
         if (!categoria) return;
@@ -224,9 +233,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                                     );
                                                     return (
                                                         <li key={opcion.id}>
-                                                            <button 
-                                                                type="button" 
-                                                                className={isActive ? "active" : ""}
+                                                            <button type="button" className={isActive ? "active" : ""}
                                                                 onClick={() => handleFiltroChange(filtro.nombre, opcion.nombre)}
                                                             >
                                                                 <span className="first-uppercase">{opcion.nombre}</span>
@@ -237,6 +244,12 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                             ) : (
                                                 <p>Sin opciones disponibles</p>
                                             )}
+
+                                            <li>
+                                                <button type="button" className='' onClick={() => handleClearFilterCategory(filtro.nombre)}>
+                                                    <span className="first-uppercase">Ver todos</span>
+                                                </button>
+                                            </li>
                                         </ul>
                                     </div>
                                 ))}

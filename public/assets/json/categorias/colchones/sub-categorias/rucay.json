@@ -5,7 +5,7 @@
             "categoria": "colchones",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/rucay/1-plaza-y-media/",
-            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 1 PLAZA Y MEDIA",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICOS RUCAY 1 PLAZA Y MEDIA",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
             "precioRegular": 500,
             "precioNormal": 449,
@@ -23,7 +23,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -49,7 +49,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -71,7 +71,7 @@
             "categoria": "colchones",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/rucay/2-plazas/",
-            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 2 PLAZAS",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICOS RUCAY 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
             "precioRegular": 579,
             "precioNormal": 499,
@@ -88,7 +88,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicos",
+                    "línea-de-colchón": "Anátomicoss",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -115,7 +115,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicos",
+                    "línea-de-colchón": "Anátomicoss",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -137,7 +137,7 @@
             "categoria": "colchones",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/rucay/queen/",
-            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY QUEEN",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICOS RUCAY QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
             "precioRegular": 747,
             "precioNormal": 679,
@@ -154,7 +154,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "Queen",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -180,7 +180,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "Queen",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -204,7 +204,7 @@
             "categoria": "colchones",
             "subcategoria": "rucay",
             "ruta": "/productos/colchones/rucay/king/",
-            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY KING",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICOS RUCAY KING",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
             "precioRegular": 945,
             "precioNormal": 899,
@@ -222,7 +222,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "King",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -248,7 +248,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "King",
-                    "línea-de-colchón": "Anátomico",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
