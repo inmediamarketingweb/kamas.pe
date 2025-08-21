@@ -20,5 +20,4 @@ function Layout(){
 
 export default Layout;
 
-// Esta es la plantilal general del proyecto, cada una de las páginas del proyecto consume
-// esta plantilla
+// Esta es la plantilla general del proyecto, cada una de las páginas del proyecto consume esta plantilla
