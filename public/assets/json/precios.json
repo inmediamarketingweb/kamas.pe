@@ -1,176 +1,204 @@
 {
-    "precios":[
-        {
-            "cama-box-tarima":[
-                {
-                    "tamaño":[
-                        {
-                            "king":[
-                                {
-                                    "línea":[
-                                        {
-                                            "americana": 919,
-                                            "adicionales":[
-                                                {
-                                                    "cajón": 50
-                                                },
-                                                {
-                                                    "base-encajonada": 70
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "europea": 1169,
-                                            "adicionales":[
-                                                {
-                                                    "cajón": 75
-                                                },
-                                                {
-                                                    "base-encajonada": 70
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "cabecera":[
-                                        {
-                                            "tipo-de-cabecera":[
-                                                {
-                                                    "aérea-sin-patas": 0,
-                                                    "aérea-con-patas": 0,
-                                                    "pedestal-sin-brazos": 100,
-                                                    "pedestal-con-brazos-rectos": 100,
-                                                    "pedestal-con-brazos-curvos": 120
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "diseño":[
-                                                {
-                                                    "clásica": 0,
-                                                    "americana": 0,
-                                                    "bloques": 100,
-                                                    "corona": 150
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "modelos-especiales":[
-                                                {
-                                                    "moki": 100,
-                                                    "pisac": 150,
-                                                    "egypt": 200
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "complementos":[
-                                        {
-                                            "veladores":[
-                                                {
-                                                    "clásico-1": 150
-                                                },
-                                                {
-                                                    "clásico-1-x2": 280
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+    "precios": {
+        "cama-box-tarima": {
+            "1-plaza-y-media": {
+                "línea": {
+                    "clásica": {
+                        "precio": 490,
+                        "adicionales": {
+                            "cajón": 50,
+                            "base-encajonada": 40
                         }
-                    ]
+                    },
+                    "americana": {
+                        "precio": 510,
+                        "adicionales": {
+                            "cajón": 50,
+                            "base-encajonada": 40
+                        }
+                    },
+                    "europea": {
+                        "precio": 610,
+                        "adicionales": {
+                            "cajón": 75,
+                            "base-encajonada": 40
+                        }
+                    },
+                    "madera-cedro": {
+                        "precio": 1999
+                    }
+                },
+                "cabecera": {
+                    "tipo-de-cabecera": {
+                        "aérea-sin-patas": 0,
+                        "aérea-con-patas": 0,
+                        "pedestal-sin-brazos": 80,
+                        "pedestal-con-brazos-rectos": 100,
+                        "pedestal-con-brazos-curvos": 200,
+                        "pedestal-con-brazos-p": 150,
+                        "pedestal-brazos-sea-horse": 250
+                    },
+                    "diseño": {
+                        "clásica": 0,
+                        "americana": 0,
+                        "bloques": 100,
+                        "corona": 50
+                    },
+                    "modelos-especiales": {
+                        "moki": 35,
+                        "pisac": 50,
+                        "egypt": 70
+                    }
+                },
+                "complementos": {
+                    "veladores": {
+                        "clásico-1": 150,
+                        "clásico-1-x2": 280,
+                        "clásico-1-x3": 399,
+                        "clasico-2": 180,
+                        "clasico-2-x2": 300,
+                        "shelter-beige": 380,
+                        "shelter-beige-x2": 700,
+                        "shelter-negro": 380,
+                        "shelter-negro-x2": 700
+                    }
                 }
-            ]
+            },
+            "2-plazas": {
+                "línea": {
+                    "clásica": {
+                        "precio": 500,
+                        "adicionales": {
+                            "cajón": 50,
+                            "base-encajonada": 40
+                        }
+                    },
+                    "americana": {
+                        "precio": 510,
+                        "adicionales": {
+                            "cajón": 50,
+                            "base-encajonada": 40
+                        }
+                    },
+                    "europea": {
+                        "precio": 610,
+                        "adicionales": {
+                            "cajón": 75,
+                            "base-encajonada": 40
+                        }
+                    },
+                    "madera-cedro": {
+                        "precio": 1999
+                    }
+                },
+                "cabecera": {
+                    "tipo-de-cabecera": {
+                        "aérea-sin-patas": 0,
+                        "aérea-con-patas": 0,
+                        "pedestal-sin-brazos": 80,
+                        "pedestal-con-brazos-rectos": 100,
+                        "pedestal-con-brazos-curvos": 200,
+                        "pedestal-con-brazos-p": 150,
+                        "pedestal-brazos-sea-horse": 250
+                    },
+                    "diseño": {
+                        "clásica": 0,
+                        "americana": 0,
+                        "bloques": 100,
+                        "corona": 50
+                    },
+                    "modelos-especiales": {
+                        "moki": 35,
+                        "pisac": 50,
+                        "egypt": 70
+                    }
+                },
+                "complementos": {
+                    "veladores": {
+                        "clásico-1": 150,
+                        "clásico-1-x2": 280,
+                        "clásico-1-x3": 399,
+                        "clasico-2": 180,
+                        "clasico-2-x2": 300,
+                        "shelter-beige": 380,
+                        "shelter-beige-x2": 700,
+                        "shelter-negro": 380,
+                        "shelter-negro-x2": 700
+                    }
+                }
+            }
         },
-        {
-            "dormitorio":[
-                {
-                    "tamaño":[
-                        {
-                            "king":[
-                                {
-                                    "línea":[
-                                        {
-                                            "americana": 919,
-                                            "adicionales":[
-                                                {
-                                                    "cajón": 50
-                                                },
-                                                {
-                                                    "base-encajonada": 70
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "europea": 1169,
-                                            "adicionales":[
-                                                {
-                                                    "cajón": 75
-                                                },
-                                                {
-                                                    "base-encajonada": 70
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "colchón":[
-                                        {
-                                            "sarki": 680
-                                        },
-                                        {
-                                            "der-prinz": 830
-                                        }
-                                    ],
-                                    "cabecera":[
-                                        {
-                                            "tipo-de-cabecera":[
-                                                {
-                                                    "aérea-sin-patas": 0,
-                                                    "aérea-con-patas": 0,
-                                                    "pedestal-sin-brazos": 100,
-                                                    "pedestal-con-brazos-rectos": 100,
-                                                    "pedestal-con-brazos-curvos": 120
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "diseño":[
-                                                {
-                                                    "clásica": 0,
-                                                    "americana": 0,
-                                                    "bloques": 100,
-                                                    "corona": 150
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "modelos-especiales":[
-                                                {
-                                                    "moki": 100,
-                                                    "pisac": 150,
-                                                    "egypt": 200
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "complementos":[
-                                        {
-                                            "veladores":[
-                                                {
-                                                    "clásico-1": 150
-                                                },
-                                                {
-                                                    "clásico-1-x2": 280
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+        "dormitorio": {
+            "king": {
+                "línea": {
+                    "americana": {
+                        "precio": 919,
+                        "adicionales": {
+                            "cajón": 50,
+                            "base-encajonada": 70,
+                            "3-cuerpos": 150
                         }
-                    ]
+                    },
+                    "europea": {
+                        "precio": 1169,
+                        "adicionales": {
+                            "cajón": 75,
+                            "base-encajonada": 70,
+                            "3-cuerpos": 150
+                        }
+                    },
+                    "madera-cedro": {
+                        "precio": 1999
+                    }
+                },
+                "colchón": {
+                    "rucay": 630,
+                    "sarki": 680,
+                    "safynnte": 780,
+                    "der-prinz": 830,
+                    "thameo-pocket": 880,
+                    "nesie": 880,
+                    "ramat": 930,
+                    "norole": 1130,
+                    "taleo-pocket": 1280,
+                    "konig": 1480,
+                    "yurmale-pocket": 1680
+                },
+                "cabecera": {
+                    "tipo-de-cabecera": {
+                        "aérea-sin-patas": 0,
+                        "aérea-con-patas": 0,
+                        "pedestal-sin-brazos": 100,
+                        "pedestal-con-brazos-rectos": 100,
+                        "pedestal-con-brazos-curvos": 120,
+                        "pedestal-brazos-sea-horse": 200
+                    },
+                    "diseño": {
+                        "clásica": 0,
+                        "americana": 0,
+                        "bloques": 100,
+                        "corona": 150
+                    },
+                    "modelos-especiales": {
+                        "moki": 35,
+                        "pisac": 50,
+                        "egypt": 70
+                    }
+                },
+                "complementos": {
+                    "veladores": {
+                        "clásico-1": 150,
+                        "clásico-1-x2": 280,
+                        "clásico-1-x3": 399,
+                        "clasico-2": 180,
+                        "clasico-2-x2": 300,
+                        "shelter-beige": 380,
+                        "shelter-beige-x2": 700,
+                        "shelter-negro": 380,
+                        "shelter-negro-x2": 700
+                    }
                 }
-            ]
+            }
         }
-    ]
+    }
 }

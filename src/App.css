@@ -49,6 +49,7 @@
 }
 
 body{
+    width: 100%;
     background: var(--body);
     transition: var(--t-200ms-linear);
 }
@@ -60,7 +61,7 @@ body::-webkit-scrollbar{
 
 main{
     width: 100%;
-    min-height: 50vh;
+    min-height: 500px !important;
     margin-top: 150px;
     padding: 10px 0;
 }
@@ -176,6 +177,10 @@ button{
 
 .bg-component{
     background: var(--component);
+}
+
+.border-r-4{
+    border-radius: 4px !important;
 }
 
 .border-r-6{
@@ -318,6 +323,10 @@ button{
     height: 100%;
 }
 
+.h-40-px{
+    height: 40px;
+}
+
 .h-50-px{
     height: 50px;
 }
@@ -343,6 +352,16 @@ button{
 .d-grid-3-1fr{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+
+.d-grid-3-1fr-2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.d-grid-auto-1fr-auto{
+    display: grid;
+    grid-template-columns: auto 1fr auto;
 }
 
 .d-grid-auto-1fr{
@@ -588,6 +607,10 @@ input[type="checkbox"]{
     aspect-ratio: 1/1;
 }
 
+.border-1-gray{
+    border: 1px solid var(--gray);
+}
+
 .button-icon-1{
     background: var(--color-1);
 }
@@ -731,6 +754,7 @@ input[type="checkbox"]{
         grid-template-columns: 1fr;
     }
 
+    .d-grid-3-1fr-2,
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(2, 1fr) !important;
     }

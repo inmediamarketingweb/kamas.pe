@@ -1,14 +1,29 @@
 import { Helmet } from "react-helmet-async";
 import { useForm } from '@formspree/react';
+import { useState, useEffect, useRef } from "react";
 
 import './Contacto.css';
 
 function Contacto(){
     const [state, handleSubmit] = useForm("xanoeplr");
+    const [showSuccess, setShowSuccess] = useState(false);
+    const formRef = useRef(null); // referencia al formulario
 
-    if(state.succeeded) {
-        return <p>Thanks for joining!</p>;
-    }
+    useEffect(() => {
+        if(state.succeeded){
+            setShowSuccess(true);
+
+            if(formRef.current){
+                formRef.current.reset();
+            }
+
+            const timer = setTimeout(() => {
+                setShowSuccess(false);
+            }, 4000);
+
+            return () => clearTimeout(timer);
+        }
+    }, [state.succeeded]);
 
     return(
         <>
@@ -22,6 +37,13 @@ function Contacto(){
                         <div className='block-title-container'>
                             <h1 className='block-title'>Contáctanos</h1>
                         </div>
+
+                        {showSuccess && (
+                            <div className="contact-form-sended d-flex-column gap-10">
+                                <p className="title">Datos enviados</p>
+                                <p className="text">Hemos recibido tu mensaje, pronto nos pondremos en contacto contigo.</p>
+                            </div>
+                        )}
 
                         <div className="d-grid-2-1fr gap-20">
                             <div className="d-flex-column gap-20">
@@ -69,7 +91,7 @@ function Contacto(){
                                 </div>
 
                                 <div className="d-flex-column gap-20">
-                                    <p className="title">Siguenos</p>
+                                    <p className="title">Síguenos</p>
 
                                     <ul className="contact-social-networks">
                                         <li>
@@ -91,39 +113,41 @@ function Contacto(){
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.youtube.com/@Kamas_Peru" target="_blank" rel="noopener noreferrer" title="Facebook | Kamas">
+                                            <a href="https://www.youtube.com/@Kamas_Peru" target="_blank" rel="noopener noreferrer" title="YouTube | Kamas">
                                                 <img src="/assets/imagenes/iconos/youtube-blanco.svg" alt="youtube"/>
-                                                <p>You Tube</p>
+                                                <p>YouTube</p>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
 
-                            <form onSubmit={handleSubmit} className="contact-form">
-                                <fieldset>
-                                    <label>Nombres:</label>
-                                    <input type="text" placeholder="" name="Nombres"></input>
-                                    <span></span>
-                                </fieldset>
-                                <fieldset>
-                                    <label>Teléfono:</label>
-                                    <input type="text" placeholder="" name="Teléfono"></input>
-                                    <span></span>
-                                </fieldset>
+                            <form ref={formRef} onSubmit={handleSubmit} className="w-100 contact-form">
+                                <div className="d-grid-2-1fr gap-10">
+                                    <fieldset>
+                                        <label>Nombres:</label>
+                                        <input type="text" placeholder="" name="Nombres" required />
+                                        <span></span>
+                                    </fieldset>
+                                    <fieldset>
+                                        <label>Teléfono:</label>
+                                        <input type="number" placeholder="" name="Teléfono" required />
+                                        <span></span>
+                                    </fieldset>
+                                </div>
                                 <fieldset>
                                     <label>Correo electrónico:</label>
-                                    <input type="text" placeholder="" name="Correo"></input>
+                                    <input type="text" placeholder="" name="Correo" required />
                                     <span></span>
                                 </fieldset>
                                 <fieldset>
                                     <label>Ciudad:</label>
-                                    <input type="text" placeholder="" name="Ciudad"></input>
+                                    <input type="text" placeholder="" name="Ciudad" required />
                                     <span></span>
                                 </fieldset>
                                 <fieldset>
                                     <label>Mensaje:</label>
-                                    <textarea placeholder="" name="Mensaje"></textarea>
+                                    <textarea placeholder="" name="Mensaje" required></textarea>
                                     <span></span>
                                 </fieldset>
 
