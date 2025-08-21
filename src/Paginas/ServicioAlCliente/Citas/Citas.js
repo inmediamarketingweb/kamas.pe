@@ -79,7 +79,7 @@ function Citas() {
                     <div className='block-content mapa-block-content'>
                         <div className='cita-content'>
                             <div className='d-flex-column gap-20'>
-                                <div className='d-flex-column gap-10'>
+                                <div className='bg-white padding-10 border-r-6 border-1-gray d-flex-column gap-10'>
                                     <p className='block-title text-left color-color-1'>Agenda una visita con nosotros y descubre la variedad de productos y modelos que tenemos para ofrecerte</p>
                                     <p className='title'>En nuestra sala de exhibición podrás armar el dormitorio con el que tanto sueñas, contamos con alta variedad de modelos en box, colchones y más de 100 modelos en cabeceras que puedes escoger a tu gusto. </p>
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
