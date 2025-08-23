@@ -206,24 +206,6 @@ function Productos(){
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }, []);
 
-    const getPageNumbers = useCallback(() => {
-        const pageNumbers = [];
-        const maxPagesToShow = 3;
-
-        let startPage = Math.max(1, currentPage - Math.floor(maxPagesToShow / 2));
-        let endPage = Math.min(totalPages, startPage + maxPagesToShow - 1);
-
-        if (endPage - startPage < maxPagesToShow - 1) {
-            startPage = Math.max(1, endPage - maxPagesToShow + 1);
-        }
-
-        for (let i = startPage; i <= endPage; i++) {
-            pageNumbers.push(i);
-        }
-
-        return pageNumbers;
-    }, [currentPage, totalPages]);
-
     const truncate = useCallback((str, maxLength) => {
         return str.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str;
     }, []);
@@ -231,6 +213,22 @@ function Productos(){
     useEffect(() => {
         setCurrentPage(1);
     }, [categoria, filtros, filtrosPrecio, envioGratis, enOferta, sortOption]);
+
+    const getVisiblePages = useCallback(() => {
+        const visiblePages = [];
+        if (totalPages <= 5) {
+            for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
+        } else {
+            if (currentPage <= 3) { 
+                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            } else if (currentPage >= totalPages - 2) {
+                visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
+            } else {
+                visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
+            }
+        }
+        return visiblePages;
+    }, [currentPage, totalPages]);
 
     return(
         <>
@@ -294,53 +292,25 @@ function Productos(){
                                     </ul>
 
                                     {productosOrdenados.length > productsPerPage && (
-                                        <nav className='pagina-productos-navigation'>
-                                            <ul>
-                                                <li>
-                                                    <button type='button' className='pagina-productos-navigation-button-arrow' onClick={() => paginate(Math.max(1, currentPage - 1))} disabled={currentPage === 1}>
-                                                        <span className='material-icons'>chevron_left</span>
-                                                    </button>
-                                                </li>
-                                                
-                                                {currentPage > 2 && totalPages > 3 && (
-                                                    <li>
-                                                        <button type='button' className='pagina-productos-navigation-button' onClick={() => paginate(1)}>
-                                                            <span>1</span>
-                                                        </button>
-                                                    </li>
-                                                )}
+                                        <div className="pagination-controls">
+                                            <button className="pagination-arrow" onClick={() => paginate(Math.max(1, currentPage - 1))} disabled={currentPage === 1}>
+                                                <span className="material-icons">chevron_left</span>
+                                            </button>
 
-                                                {currentPage > 3 && totalPages > 4 && (
-                                                    <li className='pagina-productos-navigation-ellipsis'>...</li>
+                                            <div className="d-flex-center-center gap-5">
+                                                {getVisiblePages().map((page, index) => 
+                                                    typeof page === 'number' ? (
+                                                        <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => paginate(page)}>{page}</button>
+                                                    ) : (
+                                                        <span key={index} className="pagination-ellipsis">...</span>
+                                                    )
                                                 )}
-                                                
-                                                {getPageNumbers().map(number => (
-                                                    <li key={number}>
-                                                        <button type='button' className={`pagina-productos-navigation-button ${currentPage === number ? 'active' : ''}`} onClick={() => paginate(number)}>
-                                                            <span>{number}</span>
-                                                        </button>
-                                                    </li>
-                                                ))}
+                                            </div>
 
-                                                {currentPage < totalPages - 2 && totalPages > 4 && (
-                                                    <li className='pagina-productos-navigation-ellipsis'>...</li>
-                                                )}
-
-                                                {currentPage < totalPages - 1 && totalPages > 2 && (
-                                                    <li>
-                                                        <button type='button' className='pagina-productos-navigation-button' onClick={() => paginate(totalPages)}>
-                                                            <span>{totalPages}</span>
-                                                        </button>
-                                                    </li>
-                                                )}
-
-                                                <li>
-                                                    <button type='button' className='pagina-productos-navigation-button-arrow' onClick={() => paginate(Math.min(totalPages, currentPage + 1))} disabled={currentPage === totalPages}>
-                                                        <span className='material-icons'>chevron_right</span>
-                                                    </button>
-                                                </li>
-                                            </ul>
-                                        </nav>
+                                            <button className="pagination-arrow" onClick={() => paginate(Math.min(totalPages, currentPage + 1))} disabled={currentPage === totalPages}>
+                                                <span className="material-icons">chevron_right</span>
+                                            </button>
+                                        </div>
                                     )}
                                 </div>
                             )}
