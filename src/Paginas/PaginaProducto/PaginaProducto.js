@@ -273,8 +273,8 @@ function PaginaProducto(){
                                 <div className='d-grid-2-1fr gap-10'>
                                     <div className='d-flex-column gap-10'>
                                         <div className='page-product-prices d-flex-column'>
-                                            <p className='page-product-regular-price'>Regular: S/.{producto.precioRegular}</p>
-                                            <p className='page-product-normal-price'>Antes: S/.{producto.precioNormal}</p>
+                                            <p className='page-product-regular-price'>Antes: S/.{producto.precioRegular}</p>
+                                            <p className='page-product-normal-price'>Regular: S/.{producto.precioNormal}</p>
                                             
                                             {estaEnOfertas && ofertaActiva ? (
                                                 <div className='d-flex-column'>
