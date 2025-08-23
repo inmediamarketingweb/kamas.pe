@@ -88,23 +88,27 @@
             "medidas":[
                 {
                     "medida": "1 plaza",
-                    "ruta": "/productos/colchones?tamaño=1-plaza"
+                    "ruta": "/productos/colchones/1-plaza/"
                 },
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/colchones?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/colchones/1-plaza-y-media/"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/colchones?tamaño=2-plazas"
+                    "ruta": "/productos/colchones/2-plazas/"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/colchones?tamaño=queen"
+                    "ruta": "/productos/colchones/queen/"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/colchones?tamaño=king"
+                    "ruta": "/productos/colchones/king/"
+                },
+                {
+                    "medida": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/"
                 },
                 {
                     "medida": "Ver todos",

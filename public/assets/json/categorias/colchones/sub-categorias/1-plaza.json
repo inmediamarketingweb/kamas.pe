@@ -1,0 +1,192 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "subcategoria": "adel",
+            "ruta": "/productos/colchones/1-plaza/adel/",
+            "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 1 PLAZA",
+            "fotos": "/assets/imagenes/productos/colchones/adel/",
+            "precioRegular": 425,
+            "precioNormal": 379,
+            "precioVenta": 249,
+            "stock": 99,
+            "sku": "K111CN10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Adel",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/adel/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/adel/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Adel",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "45kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "modelo": "der pinz",
+            "ruta": "/productos/colchones/1-plaza/der-prinz/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ 1 PLAZA",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
+            "precioRegular": 720,
+            "precioNormal": 599,
+            "precioVenta": 379,
+            "sku": "K117N10",
+            "stock": 24,
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/der-prinz/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/der-prinz/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/der-prinz/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "11 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/1-plaza/sarki/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 1 PLAZA",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/",
+            "precioRegular": 575,
+            "precioNormal": 499,
+            "precioVenta": 319,
+            "stock": 99,
+            "sku": "K1153CN10",
+            "regalos":{
+                "texto": "1 almohada",
+                "foto": "/assets/imagenes/productos/almohada.png"
+            },
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "1 plaza",
+                    "linea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/sarki/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                "modelo-de-colchón": "Sarki",
+                "tamaño": "1 plaza y media",
+                "línea-de-colchón": "Ortopédico",
+                "nivel-de-confort": "Confortable",
+                "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                "resortes": "9 filas",
+                "tela": "Algodón tejido en punto",
+                "densidad-de-espuma": "18kg/m3",
+                "tipo-de-uso": "Ambos lados",
+                "marco": "Sellado",
+                "soporte-de-peso": "65kg. por persona",
+                "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

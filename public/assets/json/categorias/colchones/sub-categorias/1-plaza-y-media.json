@@ -1,0 +1,755 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "subcategoria": "adel",
+            "ruta": "/productos/colchones/adel/1-plaza-y-media/",
+            "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/adel/",
+            "precioRegular": 425,
+            "precioNormal": 379,
+            "precioVenta": 249,
+            "stock": 99,
+            "sku": "K1151CN10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Adel",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/adel/1-plaza/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/adel/2-plazas/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Adel",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "55kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "rucay",
+            "ruta": "/productos/colchones/1-plaza-y-media/rucay/",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/",
+            "precioRegular": 500,
+            "precioNormal": 449,
+            "precioVenta": 289,
+            "stock": 99,
+            "sku": "K1152CN10",
+            "regalos":[
+                {
+                    "id": 1,
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Anátomicos",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "id": 1,
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rucay/"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rucay/"
+                },
+                {
+                    "id": 3,
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rucay/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Anátomicos",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "60kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/1-plaza-y-media/sarki/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/",
+            "precioRegular": 575,
+            "precioNormal": 499,
+            "precioVenta": 319,
+            "stock": 99,
+            "sku": "K1153CN10",
+            "regalos":{
+                "texto": "1 almohada",
+                "foto": "/assets/imagenes/productos/almohada.png"
+            },
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "1 plaza y media",
+                    "linea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/sarki/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                "modelo-de-colchón": "Sarki",
+                "tamaño": "1 plaza y media",
+                "línea-de-colchón": "Ortopédico",
+                "nivel-de-confort": "Confortable",
+                "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                "resortes": "9 filas",
+                "tela": "Algodón tejido en punto",
+                "densidad-de-espuma": "18kg/m3",
+                "tipo-de-uso": "Ambos lados",
+                "marco": "Sellado",
+                "soporte-de-peso": "65kg. por persona",
+                "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "safynnte",
+            "ruta": "/productos/colchones/1-plaza-y-media/safynnte/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO SAFYNNTE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 369,
+            "stock": 99,
+            "sku": "K1156IN10",
+            "regalos":[
+                {
+                    "id": 1,
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "1 plaza y media",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Súper ortopédico"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/saffynte/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/saffynte/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/King/saffynte/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "1 plaza y media",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Súper ortopédico",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "10 filas",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "modelo": "der pinz",
+            "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO DER PRINZ 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
+            "precioRegular": 720,
+            "precioNormal": 599,
+            "precioVenta": 399,
+            "sku": "K1157N10",
+            "stock": 24,
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/der-prinz/1-plaza/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/der-prinz/2-plazas/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/der-prinz/queen/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/der-prinz/king/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "11 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "thameo pocket",
+            "ruta": "/productos/colchones/1-plaza-y-media/thameo-pocket/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO THAMEO POCKET 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/",
+            "precioRegular": 899,
+            "precioNormal": 579,
+            "precioVenta": 449,
+            "stock": 99,
+            "sku": "K1158N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/thameo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thameo-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/thameo-pocket/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "364 resortes pocket",
+                    "tela": "Tejido en punto",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "18kg/m3",
+                    "marco": "sellado",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "5 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "ramat",
+            "ruta": "/productos/colchones/1-plaza-y-media/ramat/",
+            "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO RAMAT 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/",
+            "precioRegular": 999,
+            "precioNormal": 849,
+            "precioVenta": 549,
+            "stock": 99,
+            "sku": "K1155MCN10",
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.png"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/ramat/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/ramat/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "11 filas",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "nesie",
+            "ruta": "/productos/colchones/1-plaza-y-media/nesie/",
+            "nombre": "COLCHÓN KAMAS HOTELERO NESIE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/",
+            "precioRegular": 999,
+            "precioNormal": 849,
+            "precioVenta": 499,
+            "stock": 99,
+            "sku": "K1154N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Hotelero",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/nesie/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/nesie/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/nesie/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Hotelero",
+                    "nivel-de-confort": "Firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "11 filas en forma vertical",
+                    "tela": "Tela jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/1-plaza-y-media/norole/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/norole/",
+            "precioRegular": 1349,
+            "precioNormal": 1199,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K1159MFN10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/norole/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/norole/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/norole/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "12 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/1-plaza-y-media/thaleo-pocket/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO THALEO POCKET 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/",
+            "precioRegular": 1349,
+            "precioNormal": 1019,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "K11510N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/thaleo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thaleo-pocket/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/thaleo-pocket/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "364 resorte pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "konig",
+            "ruta": "/productos/colchones/1-plaza-y-media/konig/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/konig/",
+            "precioRegular": 1649,
+            "precioNormal": 1399,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "K11511MFN10",
+            "incluye":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/konig/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/konig"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/konig/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "12 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "100kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "yurmale",
+            "ruta": "/productos/colchones/1-plaza-y-media/yurmale/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO YURMALE 1 PLAZA Y MEDIA",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/",
+            "precioRegular": 1799,
+            "precioNormal": 1379,
+            "precioVenta": 999,
+            "stock": 99,
+            "sku": "K11512N10",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Yurmale",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/yurmale/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/yurmale/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/yurmale/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Yurmale",
+                    "tamaño": "1 plaza y media",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "364 resortes pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

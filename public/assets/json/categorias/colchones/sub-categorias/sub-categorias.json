@@ -1,76 +1,34 @@
 {
     "subcategorias":[
         {
-            "id": 1,
-            "subcategoria": "Adel",
-            "metaTitulo": "Colchones - Adel | Kamas",
-            "ruta": "/productos/colchones/adel/"
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Colchones - 1 plaza | Kamas",
+            "ruta": "/productos/colchones/1-plaza/"
         },
         {
-            "id": 2,
-            "subcategoria": "Rucay",
-            "metaTitulo": "Colchones - Rucay | Kamas",
-            "ruta": "/productos/colchones/rucay/"
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Colchones - 1 plaza y media | Kamas",
+            "ruta": "/productos/colchones/1-plaza-y-media/"
         },
         {
-            "id": 3,
-            "subcategoria": "Sarki",
-            "metaTitulo": "Colchones - Sarki | Kamas",
-            "ruta": "/productos/colchones/sarki/"
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Colchones - 2 plazas | Kamas",
+            "ruta": "/productos/colchones/2-plazas/"
         },
         {
-            "id": 4,
-            "subcategoria": "Safynnte",
-            "metaTitulo": "Colchones - Safynnte | Kamas",
-            "ruta": "/productos/colchones/safynnte/"
+            "subcategoria": "Queen",
+            "metaTitulo": "Colchones - Queen | Kamas",
+            "ruta": "/productos/colchones/queen/"
         },
         {
-            "id": 5,
-            "subcategoria": "Der Prinz",
-            "metaTitulo": "Colchones - Der Prinz | Kamas",
-            "ruta": "/productos/colchones/der-prinz/"
+            "subcategoria": "King",
+            "metaTitulo": "Colchones - King | Kamas",
+            "ruta": "/productos/colchones/king/"
         },
         {
-            "id": 6,
-            "subcategoria": "Thameo Pocket",
-            "metaTitulo": "Colchones - Thameo Pocket | Kamas",
-            "ruta": "/productos/colchones/thameo-pocket/"
-        },
-        {
-            "id": 7,
-            "subcategoria": "Ramat",
-            "metaTitulo": "Colchones - Ramat | Kamas",
-            "ruta": "/productos/colchones/ramat/"
-        },
-        {
-            "id": 8,
-            "subcategoria": "Nesie",
-            "metaTitulo": "Colchones - Nesie | Kamas",
-            "ruta": "/productos/colchones/nesie/"
-        },
-        {
-            "id": 9,
-            "subcategoria": "Norole",
-            "metaTitulo": "Colchones - Norole | Kamas",
-            "ruta": "/productos/colchones/norole/"
-        },
-        {
-            "id": 10,
-            "subcategoria": "Thaleo Pocket",
-            "metaTitulo": "Colchones - Thaleo Pocket | Kamas",
-            "ruta": "/productos/colchones/thaleo-pocket/"
-        },
-        {
-            "id": 11,
-            "subcategoria": "Konig",
-            "metaTitulo": "Colchones - Konig | Kamas",
-            "ruta": "/productos/colchones/konig/"
-        },
-        {
-            "id": 12,
-            "subcategoria": "Yurmale",
-            "metaTitulo": "Colchones - Yurmale | Kamas",
-            "ruta": "/productos/colchones/yurmale/"
+            "subcategoria": "4 plazas",
+            "metaTitulo": "Colchones - 4 plazas | Kamas",
+            "ruta": "/productos/colchones/4-plazas/"
         }
     ]
 }
