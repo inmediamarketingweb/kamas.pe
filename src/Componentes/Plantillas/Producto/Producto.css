@@ -194,8 +194,8 @@
     align-items: center;
     justify-content: center;
     width: auto;
-    height: 26px;
-    padding: 0 6px;
+    height: 24px;
+    padding: 0 5px;
     border-radius: 3px;
     z-index: 15;
     gap: 5px;
@@ -208,13 +208,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 16px;
+    font-size: 15px;
     color: var(--white);
 }
 
 .product-card-separar p,
 .product-card-separar p b{
-    font-size: 13px;
+    font-size: 12px;
     color: var(--white);
 }
 

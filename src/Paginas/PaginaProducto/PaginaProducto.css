@@ -88,9 +88,16 @@
     font-weight: bold;
 }
 
+.page-product-regular-price{
+    font-size: 14px;
+    color: #999;
+    text-decoration: line-through;
+}
+
 .page-product-normal-price{
     color: var(--gray);
     text-decoration: line-through;
+    font-size: 19px;
 }
 
 .page-product-sale-price{

@@ -9,16 +9,15 @@
     align-items: center;
     justify-content: center;
     background: var(--white);
-    transition: var(--t-200ms-linear);
     pointer-events: none;
     user-select: none;
 
-    animation: layer 1s ease-in-out;
+    animation: layer 2s ease-in-out;
     opacity: 0;
 }
 
 @keyframes layer{
-    0%, 99%{
+    0%, 90%{
         pointer-events: unset;
         user-select: unset;
         opacity: 1;
