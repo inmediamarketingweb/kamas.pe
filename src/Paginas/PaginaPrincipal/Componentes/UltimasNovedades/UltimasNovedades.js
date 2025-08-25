@@ -102,12 +102,8 @@ function UltimasNovedades(){
                 <div className="ultimas-novedades">
                     <ul className="ultimas-novedades-products">
                         {productos.map(producto => (
-                            <Producto
-                                key={producto.sku} 
-                                producto={producto} 
-                                truncate={truncate} 
-                                onToggleFavorite={handleToggleFavorite}
-                                isFavorite={!!favorites[producto.sku]}
+                            <Producto key={producto.sku} producto={producto} truncate={truncate} 
+                                onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[producto.sku]}
                                 skusOfertas={skusOfertas}
                             />
                         ))}
