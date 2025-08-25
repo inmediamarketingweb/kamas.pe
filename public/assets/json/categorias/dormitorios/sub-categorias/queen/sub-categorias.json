@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicos",
+            "metaTitulo": "Dormitorios - Queen clásicos | Kamas",
+            "ruta": "/productos/dormitorios/queen/clasicos/"
+        },
+        {
+            "subcategoria": "Americanos",
+            "metaTitulo": "Dormitorios - Queen americanos | Kamas",
+            "ruta": "/productos/dormitorios/queen/americanos/"
+        },
+        {
+            "subcategoria": "Americanos con cajones",
+            "metaTitulo": "Dormitorios - Queen americanos con cajones | Kamas",
+            "ruta": "/productos/dormitorios/queen/americanos-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeos",
+            "metaTitulo": "Dormitorios - Queen europeos | Kamas",
+            "ruta": "/productos/dormitorios/queen/europeos/"
+        },
+        {
+            "subcategoria": "Europeos con cajones",
+            "metaTitulo": "Dormitorios - Queen europeos con cajones | Kamas",
+            "ruta": "/productos/dormitorios/queen/europeos-con-cajones/"
+        },
+        {
+            "subcategoria": "Premium",
+            "metaTitulo": "Dormitorios - Queen premium | Kamas",
+            "ruta": "/productos/dormitorios/queen/premium/"
+        }
+    ]
+}

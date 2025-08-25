@@ -3,18 +3,18 @@
         {
             "id": 1,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/sarki/1/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - ARENA",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
             "precioRegular": 2599,
-            "precioNormal": 2599,
-            "precioVenta": 2049,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K334133N10",
+            "sku": "K334233N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -23,7 +23,7 @@
                 },
                 {
                     "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/arena.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/turquesa-opalo.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -31,21 +31,21 @@
                     "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -55,11 +55,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -76,7 +74,6 @@
                             "tipo-de-uso": "Ambos lados",
                             "refuerzos": "Centrales",
                             "marco": "Sellado",
-                            "grosor": "26cm",
                             "soporte-de-peso": "80kg. por persona",
                             "garantía": "2 años"
                         }
@@ -101,18 +98,18 @@
         {
             "id": 2,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/sarki/2/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 1 PUFF - NEGRO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/2/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
             "colores": "si",
             "precioRegular": 2599,
-            "precioNormal": 2599,
-            "precioVenta": 2049,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K334133N11",
+            "sku": "K334233N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -121,11 +118,7 @@
                 },
                 {
                     "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/negro.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/arena.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -133,21 +126,21 @@
                     "línea": "Europea",
                     "tamaño": "King",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -157,11 +150,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -178,7 +169,6 @@
                             "tipo-de-uso": "Ambos lados",
                             "refuerzos": "Centrales",
                             "marco": "Sellado",
-                            "grosor": "26cm",
                             "soporte-de-peso": "80kg. por persona",
                             "garantía": "2 años"
                         }
@@ -203,42 +193,46 @@
         {
             "id": 3,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
-            "tamaño": "2 plazas",
-            "modelo": "ramat",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/2-plazas/ramat/1/",
-            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - PLOMO AZULADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/2-plazas/ramat/pedestales/americanas/sin-brazos/capitoneado/1/",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/3/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
             "colores": "si",
             "precioRegular": 2599,
-            "precioNormal": 1839,
-            "precioVenta": 1449,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K332173N10",
+            "sku": "K334233N12",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/beige.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
-                    "tamaño": "2 plazas",
-                    "cajones": "Si",
+                    "tamaño": "King",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
@@ -251,11 +245,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -265,14 +257,15 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "15 filas",
-                            "tela": "Jacquard",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña":  "Si",
-                            "marco": "Refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
                         }
                     ]
                 },
@@ -295,45 +288,49 @@
         {
             "id": 4,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/1/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - HUESO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/4/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K334153N10",
+            "sku": "K334233N13",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/palo-rosa.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -343,11 +340,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -357,17 +352,15 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
                         }
                     ]
                 },
@@ -390,45 +383,49 @@
         {
             "id": 5,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/2/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/5/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K334153N11",
+            "sku": "K334233N14",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/melon.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -438,11 +435,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -452,17 +447,15 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
                         }
                     ]
                 },
@@ -485,45 +478,49 @@
         {
             "id": 6,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/3/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - BEIGE OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/europeos/king/sarki/6/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 2099,
+            "precioVenta": 1749,
             "stock": 23,
-            "sku": "K334153N12",
+            "sku": "K334233N16",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
                 }
             ],
             "descripciones":[
@@ -533,106 +530,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
-                            "espuma": "Zebra de alta densidad",
-                            "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
                             "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/4/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - MORADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/4/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
-            "stock": 23,
-            "sku": "K334153N13",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -642,17 +542,15 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
                         }
                     ]
                 },
@@ -675,45 +573,49 @@
         {
             "id": 8,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/5/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - ROSADO BEBÉ",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/1/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
             "stock": 23,
-            "sku": "K334153N14",
+            "sku": "K3342116N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo-oscuro.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "descripciones":[
@@ -723,11 +625,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -737,17 +637,17 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
+                            "resortes": "20 filas",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
                         }
                     ]
                 },
@@ -770,45 +670,49 @@
         {
             "id": 9,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/6/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/2/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/2/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
             "stock": 23,
-            "sku": "K334153N15",
+            "sku": "K3342116N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/rojo.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "descripciones":[
@@ -818,11 +722,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -832,17 +734,17 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
+                            "resortes": "20 filas en forma vertical",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
                         }
                     ]
                 },
@@ -865,45 +767,49 @@
         {
             "id": 10,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/7/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - TURQUESA ÓPALO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/3/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/3/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
             "stock": 23,
-            "sku": "K334153N16",
+            "sku": "K3342116N12",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/fucsia.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "descripciones":[
@@ -913,11 +819,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -927,17 +831,17 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
+                            "resortes": "20 filas en forma vertical",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
                         }
                     ]
                 },
@@ -960,45 +864,49 @@
         {
             "id": 11,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/8/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - MORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/4/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - LILA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/4/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
             "stock": 23,
-            "sku": "K334153N17",
+            "sku": "K3342116N13",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/violeta.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "descripciones":[
@@ -1008,11 +916,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -1022,17 +928,17 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
+                            "resortes": "20 filas en forma vertical",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
                         }
                     ]
                 },
@@ -1055,45 +961,49 @@
         {
             "id": 12,
             "categoria": "dormitorios",
-            "subcategoria": "europeos con cajones",
+            "subcategoria": "europeos",
             "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/king/der-prinz/9/",
-            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
-            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/9/",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/5/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/5/",
             "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2789,
-            "precioVenta": 2229,
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
             "stock": 23,
-            "sku": "K334153N18",
+            "sku": "K3342116N14",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
                 }
             ],
             "resumen-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
                     "tamaño": "King",
-                    "cajones": "Si",
+                    "cajones": "No",
                     "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
+                    "modelo-de-colchón": "Konig",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ],
             "descripciones":[
@@ -1103,11 +1013,9 @@
                         {
                             "madera": "Pino radiata seco al horno.",
                             "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF brasileño de 3mm.",
+                            "láminas": "MDF de 3mm.",
                             "espuma": "Zebra de alta densidad",
                             "tela": "Piel de potro",
-                            "rieles": "Telescópicos pesados",
-                            "gavetas": "Melamina 18mm.",
                             "patas": "Cromadas",
                             "garantía": "2 años"
                         }
@@ -1117,17 +1025,304 @@
                     "titulo": "Colchón",
                     "descripcion":[
                         {
-                            "resortes": "19 filas",
+                            "resortes": "20 filas en forma vertical",
                             "material-de-resorte": "Acero templado",
                             "tela": "Algodón tejido en punto",
-                            "densidad-de-la-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "incorpora": "Sistema one size",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
                             "refuerzos": "Centrales",
-                            "marco": "Marco de espuma",
-                            "grosor": "30cm.",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/6/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - AZUL ELÉCTRICO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/6/",
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
+            "stock": 23,
+            "sku": "K3342116N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-electrico.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "20 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/europeos/king/konig/7/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/7/",
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 3519,
+            "precioVenta": 2549,
+            "stock": 23,
+            "sku": "K3342116N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/rojo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "20 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "25kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "44cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "130kg. por persona",
+                            "garantía": "10 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/europeos/king/rucay/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL PRINCESA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/rucay/pedestales/coronas/brazos-rectos/princesa/1/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1429,
+            "precioVenta": 1099,
+            "stock": 23,
+            "sku": "K334225N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                },
+                {
+                    "texto": "1 puff",
+                    "foto": "/assets/imagenes/productos/regalos/puff/arena.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
                         }
                     ]
                 },
