@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Aereas",
+            "metaTitulo": "Cabeceras - Queen aéreas | Kamas",
+            "ruta": "/productos/cabeceras/queen/aereas/"
+        },
+        {
+            "subcategoria": "Aereas con patas",
+            "metaTitulo": "Cabeceras - Queen aéreas con patas | Kamas",
+            "ruta": "/productos/cabeceras/queen/aereas-con-patas/"
+        },
+        {
+            "subcategoria": "Pedestales",
+            "metaTitulo": "Cabeceras - Queen pedestales | Kamas",
+            "ruta": "/productos/cabeceras/queen/pedestales/"
+        }
+    ]
+}

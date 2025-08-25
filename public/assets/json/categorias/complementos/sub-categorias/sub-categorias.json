@@ -1,25 +1,21 @@
 {
     "subcategorias":[
         {
-            "id": 1,
             "subcategoria": "Veladores",
             "metaTitulo": "Complementos - Veladores | Kamas",
             "ruta": "/productos/complementos/veladores/"
         },
         {
-            "id": 3,
             "subcategoria": "Base sola",
             "metaTitulo": "Complementos - Base sola | Kamas",
             "ruta": "/productos/complementos/base-sola/"
         },
         {
-            "id": 4,
             "subcategoria": "Puffs",
             "metaTitulo": "Complementos - Puffs | Kamas",
             "ruta": "/productos/complementos/puffs/"
         },
         {
-            "id": 7,
             "subcategoria": "Cama perro",
             "metaTitulo": "Complementos - Cama perro | Kamas",
             "ruta": "/productos/complementos/cama-perro/"

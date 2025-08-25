@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Aereas",
+            "metaTitulo": "Cabeceras - 2 plazas aéreas | Kamas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas/"
+        },
+        {
+            "subcategoria": "Aereas con patas",
+            "metaTitulo": "Cabeceras - 2 plazas aéreas con patas | Kamas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/"
+        },
+        {
+            "subcategoria": "Pedestales",
+            "metaTitulo": "Cabeceras - 2 plazas pedestales | Kamas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/"
+        }
+    ]
+}

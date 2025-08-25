@@ -1,0 +1,396 @@
+{
+    "productos":[
+        {
+            "id": 108,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/28/",
+            "nombre": "CABECERA PEDESTAL QUEEN EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K53221N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/29/",
+            "nombre": "CABECERA PEDESTAL QUEEN EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K53221N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/30/",
+            "nombre": "CABECERA PEDESTAL QUEEN EMPERATRIZ - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K53221N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/31/",
+            "nombre": "CABECERA PEDESTAL QUEEN EMPERATRIZ - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K53221N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/1/",
+            "nombre": "CABECERA PEDESTAL QUEEN CUADROS 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/bloques/brazos-rectos/cuadros-2/1/",
+            "colores": "si",
+            "precioRegular": 1119,
+            "precioNormal": 969,
+            "precioVenta": 749,
+            "stock": 9,
+            "sku": "K53251N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                   "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/1/",
+            "nombre": "CABECERA PEDESTAL QUEEN CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/coronas/brazos-curvos/corona/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 999,
+            "precioVenta": 779,
+            "stock": 9,
+            "sku": "K53242N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/2/",
+            "nombre": "CABECERA PEDESTAL QUEEN MAJESTAD - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/coronas/brazos-curvos/majestad/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 999,
+            "precioVenta": 779,
+            "stock": 9,
+            "sku": "K53242N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "queen",
+            "ruta": "/productos/cabeceras/pedestales/queen/3/",
+            "nombre": "CABECERA PEDESTAL QUEEN MAJESTAD - AZUL ELECTRICO",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/coronas/brazos-curvos/majestad/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 999,
+            "precioVenta": 779,
+            "stock": 9,
+            "sku": "K53242N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {   
+                   "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

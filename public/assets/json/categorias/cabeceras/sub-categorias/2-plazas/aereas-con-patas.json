@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "cabeceras",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",
@@ -50,7 +49,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "cabeceras",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",

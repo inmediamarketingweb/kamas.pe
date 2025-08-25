@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Aereas",
+            "metaTitulo": "Cabeceras - King aéreas | Kamas",
+            "ruta": "/productos/cabeceras/king/aereas/"
+        },
+        {
+            "subcategoria": "Aereas con patas",
+            "metaTitulo": "Cabeceras - King aéreas con patas | Kamas",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/"
+        },
+        {
+            "subcategoria": "Pedestales",
+            "metaTitulo": "Cabeceras - King pedestales | Kamas",
+            "ruta": "/productos/cabeceras/king/pedestales/"
+        }
+    ]
+}
