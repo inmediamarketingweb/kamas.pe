@@ -58,6 +58,57 @@ function Ofertas(){
 
         cargarOfertas();
     }, []);
+    //     const cargarProductos = async () => {
+    //         try {
+    //             const ofertasResponse = await fetch('/assets/json/ofertas.json');
+    //             if (!ofertasResponse.ok) {
+    //                 throw new Error('No se pudo cargar ofertas.json');
+    //             }
+
+    //             const skusOfertas = await ofertasResponse.json();
+
+    //             if (!Array.isArray(skusOfertas)) {
+    //                 throw new Error('El formato de ofertas.json no es válido. Se esperaba un array de SKUs.');
+    //             }
+
+    //             if (skusOfertas.length === 0) {
+    //                 setProductos([]);
+    //                 setLoading(false);
+    //                 return;
+    //             }
+
+    //             const skusBuscados = new Set(skusOfertas);
+
+    //             const manifestResponse = await fetch('/assets/json/manifest.json');
+    //             if (!manifestResponse.ok) {
+    //                 throw new Error('No se pudo cargar manifest.json');
+    //             }
+
+    //             const manifestData = await manifestResponse.json();
+    //             const archivos = manifestData.files || [];
+                
+    //             const productosPromesas = archivos.map(async (url) => {
+    //                 const response = await fetch(url);
+    //                 const data = await response.json();
+    //                 return data.productos.filter(p => skusBuscados.has(p.sku));
+    //             });
+
+    //             const productosPorArchivo = await Promise.all(productosPromesas);
+    //             const productosFiltrados = productosPorArchivo.flat();
+
+    //             setProductos(productosFiltrados);
+    //             setLoading(false);
+    //         } catch (error) {
+    //             console.error("Error cargando productos:", error);
+    //             setError(error.message);
+    //             setLoading(false);
+    //         }
+    //     };
+
+    //     cargarProductos();
+    // }, []);
+
+    // Reemplaza tu useEffect de carga de productos con este código:
 
     useEffect(() => {
         const cargarProductos = async () => {
@@ -67,10 +118,11 @@ function Ofertas(){
                     throw new Error('No se pudo cargar ofertas.json');
                 }
 
-                const skusOfertas = await ofertasResponse.json();
-
+                const ofertasData = await ofertasResponse.json();
+                const skusOfertas = ofertasData.skus || ofertasData;
+                
                 if (!Array.isArray(skusOfertas)) {
-                    throw new Error('El formato de ofertas.json no es válido. Se esperaba un array de SKUs.');
+                    throw new Error('El formato de ofertas.json no es válido.');
                 }
 
                 if (skusOfertas.length === 0) {
@@ -90,9 +142,22 @@ function Ofertas(){
                 const archivos = manifestData.files || [];
                 
                 const productosPromesas = archivos.map(async (url) => {
-                    const response = await fetch(url);
-                    const data = await response.json();
-                    return data.productos.filter(p => skusBuscados.has(p.sku));
+                    try {
+                        const response = await fetch(url);
+                        const data = await response.json();
+
+                        if (Array.isArray(data)) {
+                            return data.filter(p => skusBuscados.has(p.sku));
+                        }
+                        else if (data.productos && Array.isArray(data.productos)) {
+                            return data.productos.filter(p => skusBuscados.has(p.sku));
+                        }
+                        
+                        return [];
+                    } catch (error) {
+                        console.error(`Error cargando ${url}:`, error);
+                        return [];
+                    }
                 });
 
                 const productosPorArchivo = await Promise.all(productosPromesas);
@@ -136,7 +201,7 @@ function Ofertas(){
                 return Object.entries(detalleObj).some(([detalleKey, detalleValue]) => {
                     const normalizedKey = detalleKey.toLowerCase().replace(/[- ]/g, '');
                     const normalizedFilterKey = key.toLowerCase().replace(/[- ]/g, '');
-                    
+
                     if (normalizedKey === normalizedFilterKey) {
                         const normalizedDetalleValue = detalleValue.toString().toLowerCase().trim();
                         const normalizedFilterValue = value.toString().toLowerCase().trim();
@@ -145,12 +210,12 @@ function Ofertas(){
                     return false;
                 });
             });
-            
+
             if (!detalleEncontrado) {
                 return false;
             }
         }
-        
+
         if (filtrosPrecio.length > 0) {
             const precio = parseFloat(producto.precioVenta);
             if (isNaN(precio)) return false;
@@ -164,7 +229,7 @@ function Ofertas(){
                 return false;
             }
         }
-        
+
         return true;
     });
 
@@ -227,11 +292,8 @@ function Ofertas(){
                                 <ul className="products-list">
                                     {productosFiltrados.map(
                                         producto => (
-                                            <Producto key={producto.sku} producto={producto}
-                                                truncate={truncate} onToggleFavorite={toggleFavorite}
-                                                isFavorite={favoritos.some(fav => fav.sku === producto.sku)}
-                                                skusOfertas={skusOfertas}
-                                                isOfferActive={isOfferActive}
+                                            <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite}
+                                                isFavorite={favoritos.some(fav => fav.sku === producto.sku)} skusOfertas={skusOfertas} isOfferActive={isOfferActive}
                                             />
                                         )
                                     )}
