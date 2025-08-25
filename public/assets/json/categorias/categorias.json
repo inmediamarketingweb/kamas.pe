@@ -143,49 +143,44 @@
                 {
                     "subcategoria": "Clásica",
                     "metaTitulo": "Camas box tarimas - Clásicas | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/clasicas/"
+                    "ruta": "/productos/camas-box-tarimas/?línea=clásica"
                 },
                 {
-                    "subcategoria": "Americanas",
+                    "subcategoria": "Americana",
                     "metaTitulo": "Camas box tarimas - Americanas | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/americanas/"
+                    "ruta": "/productos/camas-box-tarimas/?línea=americana"
                 },
                 {
-                    "subcategoria": "Europeas",
+                    "subcategoria": "Europea",
                     "metaTitulo": "Camas box tarimas - Europeas | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/europeas/"
-                },
-                {
-                    "subcategoria": "Madera natural",
-                    "metaTitulo": "Camas box tarimas - Madera natural | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/madera-natural/"
+                    "ruta": "/productos/camas-box-tarimas/?línea=europea"
                 },
                 {
                     "subcategoria": "Premium",
                     "metaTitulo": "Camas box tarimas - Premium | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/premium/"
+                    "ruta": "/productos/camas-box-tarimas/?línea=premium"
                 }
             ],
             "medidas":[
                 {
                     "medida": "1 plaza",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza"
+                    "ruta": "/productos/camas-box-tarimas/1-plaza/"
                 },
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=2-plazas"
+                    "ruta": "/productos/camas-box-tarimas/2-plazas/"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=queen"
+                    "ruta": "/productos/camas-box-tarimas/queen/"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/camas-box-tarimas?tamaño=king"
+                    "ruta": "/productos/camas-box-tarimas/king/"
                 },
                 {
                     "medida": "Ver todos",
@@ -222,29 +217,14 @@
                     "ruta": "/productos/dormitorios/?línea=clásica"
                 },
                 {
-                    "subcategoria": "Clásicos con cajones",
-                    "metaTitulo": "Dormitorios - Clásicos con cajones | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=clásica&cajones=si"
-                },
-                {
                     "subcategoria": "Americanos",
                     "metaTitulo": "Dormitorios - Americanos | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=americano"
-                },
-                {
-                    "subcategoria": "Americanos con cajones",
-                    "metaTitulo": "Dormitorios - Americanos con cajones | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=americano&cajones=si"
+                    "ruta": "/productos/dormitorios/?línea=americana"
                 },
                 {
                     "subcategoria": "Europeos",
                     "metaTitulo": "Dormitorios - Europeos | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=europeo"
-                },
-                {
-                    "subcategoria": "Europeos con cajones",
-                    "metaTitulo": "Dormitorios - Europeos con cajones | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=europeo&cajones=si"
+                    "ruta": "/productos/dormitorios/?línea=europea"
                 },
                 {
                     "subcategoria": "Premium",
@@ -253,34 +233,34 @@
                 },
                 {
                     "subcategoria": "Ver todos",
-                    "metaTitulo": "Cama box tarimas | Kamas",
+                    "metaTitulo": "Dormitorios | Kamas",
                     "ruta": "/productos/dormitorios/"
                 }
             ],
             "medidas":[
                 {
                     "medida": "1 plaza",
-                    "ruta": "/productos/dormitorios?tamaño=1-plaza"
+                    "ruta": "/productos/dormitorios/1-plaza/"
                 },
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/dormitorios?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/dormitorios/1-plaza-y-media/"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/dormitorios?tamaño=2-plazas"
+                    "ruta": "/productos/dormitorios/2-plazas/"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/dormitorios?tamaño=queen"
+                    "ruta": "/productos/dormitorios/queen/"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/dormitorios?tamaño=king"
+                    "ruta": "/productos/dormitorios/king/"
                 },
                 {
                     "medida": "4 plazas",
-                    "ruta": "/productos/dormitorios?tamaño=4-plazas"
+                    "ruta": "/productos/dormitorios/4-plazas/"
                 },
                 {
                     "medida": "Ver todos",
@@ -316,40 +296,34 @@
                     "id": 1,
                     "subcategoria": "Box espacios",
                     "metaTitulo": "Camas funcionales - Box espacios | Kamas",
-                    "ruta": "/productos/camas-funcionales/box-espacios/"
+                    "ruta": "/productos/camas-funcionales/?subcategoría=box-espacio"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Box con baúl",
                     "metaTitulo": "Camas funcionales - Box con baúl | Kamas",
-                    "ruta": "/productos/camas-funcionales/box-con-baul/"
+                    "ruta": "/productos/camas-funcionales/?subcategoría=box-con-baúl"
                 },
                 {
                     "id": 3,
                     "subcategoria": "Divanes",
                     "metaTitulo": "Camas funcionales - Divanes | Kamas",
-                    "ruta": "/productos/camas-funcionales/divanes/"
+                    "ruta": "/productos/camas-funcionales/?subcategoría=divanes"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Camarotes",
                     "metaTitulo": "Camas funcionales - Camarotes | Kamas",
-                    "ruta": "/productos/camas-funcionales/camarotes/"
+                    "ruta": "/productos/camas-funcionales/?subcategoría=camarotes"
                 },
                 {
                     "id": 5,
                     "subcategoria": "Cunas",
                     "metaTitulo": "Camas funcionales - Cunas | Kamas",
-                    "ruta": "/productos/camas-funcionales/cunas/"
+                    "ruta": "/productos/camas-funcionales/?subcategoría=cunas"
                 },
                 {
                     "id": 6,
-                    "subcategoria": "Camas infantiles",
-                    "metaTitulo": "Camas funcionales - Infantiles | Kamas",
-                    "ruta": "/productos/camas-funcionales/infantiles/"
-                },
-                {
-                    "id": 7,
                     "subcategoria": "Ver todos",
                     "metaTitulo": "Camas funcionales | Kamas",
                     "ruta": "/productos/camas-funcionales/"
@@ -378,27 +352,27 @@
                 {
                     "id": 1,
                     "medida": "1 plaza",
-                    "ruta": "/productos/cabeceras?tamaño=1-plaza"
+                    "ruta": "/productos/cabeceras/1-plaza/"
                 },
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/cabeceras?tamaño=1-plaza-y-media"
+                    "ruta": "/productos/cabeceras/1-plaza-y-media/"
                 },
                 {
                     "id": 3,
                     "medida": "2 plazas",
-                    "ruta": "/productos/cabeceras?tamaño=2-plazas"
+                    "ruta": "/productos/cabeceras/2-plazas/"
                 },
                 {
                     "id": 4,
                     "medida": "Queen",
-                    "ruta": "/productos/cabeceras?tamaño=queen"
+                    "ruta": "/productos/cabeceras/queen/"
                 },
                 {
                     "id": 5,
                     "medida": "King",
-                    "ruta": "/productos/cabeceras?tamaño=king"
+                    "ruta": "/productos/cabeceras/king/"
                 },
                 {
                     "id": 6,
@@ -416,19 +390,19 @@
                     "id": 1,
                     "subcategoria": "Aereas",
                     "metaTitulo": "Cabeceras - Aéreas | Kamas",
-                    "ruta": "/productos/cabeceras/aereas/"
+                    "ruta": "/productos/cabeceras/?tipo-de-cabecera=aérea"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Aereas con patas",
                     "metaTitulo": "Cabeceras - Aéreas con patas | Kamas",
-                    "ruta": "/productos/cabeceras/aereas-con-patas/"
+                    "ruta": "/productos/cabeceras/?tipo-de-cabecera=aérea-con-patas"
                 },
                 {
                     "id": 3,
                     "subcategoria": "Pedestales",
                     "metaTitulo": "Cabeceras - Pedestales | Kamas",
-                    "ruta": "/productos/cabeceras/pedestales/"
+                    "ruta": "/productos/cabeceras/?tipo-de-cabecera=pedestal"
                 },
                 {
                     "id": 4,
@@ -466,43 +440,43 @@
                     "id": 1,
                     "subcategoria": "Juegos de sala",
                     "metaTitulo": "Sofás - Juegos de sala | Kamas",
-                    "ruta": "/productos/sofas/juegos-de-sala/"
+                    "ruta": "/productos/sofas/?modelo=juegos-de-sala"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Seccionales",
                     "metaTitulo": "Sofás - Seccionales | Kamas",
-                    "ruta": "/productos/sofas/seccionales/"
+                    "ruta": "/productos/sofas/?modelo=seccionales"
                 },
                 {
                     "id": 3,
                     "subcategoria": "Sofás camas",
                     "metaTitulo": "Sofás - Sofás camas | Kamas",
-                    "ruta": "/productos/sofas/sofas-camas/"
+                    "ruta": "/productos/sofas/?modelo=sófa-cama"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Reclinales",
                     "metaTitulo": "Sofás - Reclinables | Kamas",
-                    "ruta": "/productos/sofas/reclinables/"
+                    "ruta": "/productos/sofas/?modelo=reclinables"
                 },
                 {
                     "id": 5,
                     "subcategoria": "Sofás y sillones",
                     "metaTitulo": "Sofás - Sofás y sillones | Kamas",
-                    "ruta": "/productos/sofas/sofas-y-sillones/"
+                    "ruta": "/productos/sofas/?modelo=sofás-y-sillones"
                 },
                 {
                     "id": 6,
                     "subcategoria": "Mecedoras",
                     "metaTitulo": "Sofás - Mecedoras | Kamas",
-                    "ruta": "/productos/sofas/mecedoras/"
+                    "ruta": "/productos/sofas/?modelo=mecedoras"
                 },
                 {
                     "id": 7,
                     "subcategoria": "Butacas",
                     "metaTitulo": "Sofás - Butacas | Kamas",
-                    "ruta": "/productos/sofas/butacas/"
+                    "ruta": "/productos/sofas/?modelo=butacas"
                 },
                 {
                     "id": 8,
@@ -540,43 +514,43 @@
                     "id": 1,
                     "subcategoria": "Veladores",
                     "metaTitulo": "Complementos - Veladores | Kamas",
-                    "ruta": "/productos/complementos/veladores/"
+                    "ruta": "/productos/complementos/?subcategoría=veladores"
                 },
                 {
                     "id": 2,
                     "subcategoria": "Baúles",
                     "metaTitulo": "Complementos - Baúles | Kamas",
-                    "ruta": "/productos/complementos/baules/"
+                    "ruta": "/productos/complementos/?subcategoría=baúles"
                 },
                 {
                     "id": 3,
                     "subcategoria": "Base sola",
                     "metaTitulo": "Complementos - Base sola | Kamas",
-                    "ruta": "/productos/complementos/base-sola/"
+                    "ruta": "/productos/complementos/?subcategoría=base-sola"
                 },
                 {
                     "id": 4,
                     "subcategoria": "Puffs",
                     "metaTitulo": "Complementos - Puffs | Kamas",
-                    "ruta": "/productos/complementos/puffs/"
+                    "ruta": "/productos/complementos/?subcategoría=puffs"
                 },
                 {
                     "id": 5,
                     "subcategoria": "Almohadas",
                     "metaTitulo": "Complementos - Almohadas | Kamas",
-                    "ruta": "/productos/complementos/almohadas/"
+                    "ruta": "/productos/complementos/?subcategoría=almohadas"
                 },
                 {
                     "id": 6,
                     "subcategoria": "Sábanas y cobertores",
                     "metaTitulo": "Complementos - Sábanas y cobertores | Kamas",
-                    "ruta": "/productos/complementos/sabanas-y-cobertores/"
+                    "ruta": "/productos/complementos/?subcategoría=sábanas-y-cobertores"
                 },
                 {
                     "id": 7,
                     "subcategoria": "Cama perro",
                     "metaTitulo": "Complementos - Cama perro | Kamas",
-                    "ruta": "/productos/complementos/cama-perro/"
+                    "ruta": "/productos/complementos/?subcategoría=cama-perro"
                 },
                 {
                     "id": 8,
