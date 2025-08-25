@@ -2,27 +2,27 @@
     "subcategorias":[
         {
             "subcategoria": "1 plaza",
-            "metaTitulo": "Cama box tarimas - 1 plaza | Kamas",
+            "metaTitulo": "Camas box tarimas - 1 plaza | Kamas",
             "ruta": "/productos/camas-box-tarimas/1-plaza/"
         },
         {
             "subcategoria": "1 plaza y media",
-            "metaTitulo": "Cama box tarimas - 1 plaza y media | Kamas",
+            "metaTitulo": "Camas box tarimas - 1 plaza y media | Kamas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
         },
         {
             "subcategoria": "2 plazas",
-            "metaTitulo": "Cama box tarimas - 2 plazas | Kamas",
+            "metaTitulo": "Camas box tarimas - 2 plazas | Kamas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/"
         },
         {
             "subcategoria": "Queen",
-            "metaTitulo": "Cama box tarimas - Queen | Kamas",
+            "metaTitulo": "Camas box tarimas - Queen | Kamas",
             "ruta": "/productos/camas-box-tarimas/queen/"
         },
         {
             "subcategoria": "King",
-            "metaTitulo": "Cama box tarimas - King | Kamas",
+            "metaTitulo": "Camas box tarimas - King | Kamas",
             "ruta": "/productos/camas-box-tarimas/king/"
         }
     ]

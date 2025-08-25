@@ -1,0 +1,1327 @@
+{
+    "productos":[
+        {
+            "id": 80,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/1/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/2/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/3/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/3/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/4/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/4/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/5/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/5/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/6/",
+            "nombre": "CABECERA PEDESTAL KING CAPITONEADO - HUESO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/6/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 669,
+            "stock": 9,
+            "sku": "K54221N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/7/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/8/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/2/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/9/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/3/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/10/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/4/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/11/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/5/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/12/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/6/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/13/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/7/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N16",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/14/",
+            "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/8/",
+            "colores": "si",
+            "precioRegular": 1169,
+            "precioNormal": 1159,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54224N17",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/15/",
+            "nombre": "CABECERA PEDESTAL KING CON MARCO + 2 VELADORES - HUESO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/con-marco/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 2119,
+            "precioNormal": 1899,
+            "precioVenta": 1628,
+            "stock": 9,
+            "sku": "K54230N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/16/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/17/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/2/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/18/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/3/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/19/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/4/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/20/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/5/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/21/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/1/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/22/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - AZUL ELECTRICO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/2/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N16",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/23/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/3/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N17",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/24/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - TURQUESA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/4/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N18",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/25/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - LILA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/5/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N19",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/26/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - COBALTO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/6/",
+            "colores": "si",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N20",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/pedestales/king/27/",
+            "nombre": "CABECERA PEDESTAL KING PRINCESA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-rectos/princesa/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K54241N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

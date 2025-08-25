@@ -1,22 +1,24 @@
 {
     "subcategorias":[
         {
-            "id": 1,
-            "subcategoria": "Aereas",
-            "metaTitulo": "Cabeceras - Aéreas | Kamas",
-            "ruta": "/productos/cabeceras/aereas/"
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Cabeceras - 1 plaza y media | Kamas",
+            "ruta": "/productos/cabeceras/1-plaza-y-media/"
         },
         {
-            "id": 2,
-            "subcategoria": "Aereas con patas",
-            "metaTitulo": "Cabeceras - Aéreas con patas | Kamas",
-            "ruta": "/productos/cabeceras/aereas-con-patas/"
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Cabeceras - 2 plazas | Kamas",
+            "ruta": "/productos/cabeceras/2-plazas/"
         },
         {
-            "id": 3,
-            "subcategoria": "Pedestales",
-            "metaTitulo": "Cabeceras - Pedestales | Kamas",
-            "ruta": "/productos/cabeceras/pedestales/"
+            "subcategoria": "Queen",
+            "metaTitulo": "Cabeceras - Queen | Kamas",
+            "ruta": "/productos/cabeceras/queen/"
+        },
+        {
+            "subcategoria": "King",
+            "metaTitulo": "Cabeceras - King | Kamas",
+            "ruta": "/productos/cabeceras/king/"
         }
     ]
 }
