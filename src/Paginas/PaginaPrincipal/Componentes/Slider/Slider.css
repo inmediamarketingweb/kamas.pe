@@ -77,28 +77,30 @@
     justify-content: center;
     transition: var(--t-200ms-linear);
     width: 56px;
-    height: 100%;
+    height: calc(80% - 40px);
+    background: rgba(0 0 0 / 0.05);
+    border-radius: 6px;
     z-index: 10;
     border: none;
     cursor: pointer;
 }
 
 .hero-slider-button:hover{
-    background: rgba(0 0 0 / 0.05);
+    background: rgba(0 0 0 / 0.1);
 }
 
 .hero-slider-button span{
     color: var(--color-1);
-    font-size: 44px !important;
+    font-size: 40px !important;
     text-shadow: 0 2px 0 rgba(0 0 0 / 0.5);
 }
 
 .hero-slider-button-1{
-    left: 0;
+    left: 20px;
 }
 
 .hero-slider-button-2{
-    right: 0;
+    right: 20px;
 }
 
 @media screen and (max-width: 800px){

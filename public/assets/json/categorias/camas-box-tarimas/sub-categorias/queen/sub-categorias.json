@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicas",
+            "metaTitulo": "Cama box tarimas - Clásicas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama box tarimas - Americanas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama box tarimas - Americanas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama box tarimas - Europeas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama box tarimas - Europeas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/europeas-con-cajones/"
+        }
+    ]
+}

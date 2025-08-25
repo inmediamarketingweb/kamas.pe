@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "europeas",
+            "tamaño": "Queen",
+            "ruta": "/productos/camas-box-tarimas/queen/europeas/18/",
+            "nombre": "CAMA BOX TARIMA EUROPEA QUEEN + CABECERA PEDESTAL CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/queen/pedestales/americanas/sin-brazos/corona/1/",
+            "colores": "si",
+            "precioRegular": 1800,
+            "precioNormal": 1409,
+            "precioVenta": 1059,
+            "stock": 12,
+            "sku": "K233225N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata secado al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "productos":[
+   "productos":[
         {
             "id": 1,
             "categoria": "dormitorios",
@@ -1663,5 +1663,5 @@
                 }
             ]
         }
-    ]
+   ]
 }

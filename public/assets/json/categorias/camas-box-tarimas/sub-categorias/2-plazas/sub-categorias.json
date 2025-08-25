@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicas",
+            "metaTitulo": "Cama box tarimas - Clásicas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama box tarimas - Americanas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama box tarimas - Americanas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama box tarimas - Europeas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama box tarimas - Europeas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/europeas-con-cajones/"
+        }
+    ]
+}

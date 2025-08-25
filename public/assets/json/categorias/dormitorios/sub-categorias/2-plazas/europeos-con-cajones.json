@@ -1,0 +1,96 @@
+{
+    "productos":[
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos con cajones",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/europeos-con-cajones/2-plazas/ramat/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/2-plazas/ramat/pedestales/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 1839,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "K332173N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF brasileño de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "rieles": "Telescópicos pesados",
+                            "gavetas": "Melamina 18mm.",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "15 filas",
+                            "tela": "Jacquard",
+                            "densidad-de-la-espuma": "20kg/m3",
+                            "tipo-de-uso": "Un solo lado",
+                            "doble-pestaña":  "Si",
+                            "marco": "Refuerzo de marco sellado",
+                            "soporte-de-peso": "85kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
