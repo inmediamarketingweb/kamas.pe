@@ -78,13 +78,15 @@ function App(){
                         <Route path="/productos/" element={<Productos/>} />
                         <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
                         <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/" element={<PaginaDeCategoria/>} />
 
-                        <Route path="/productos/:categoria/:subcategoria/:linea/" element={<PaginaProducto/>} />
-
-                        <Route path="/productos/*" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:producto/" element={<PaginaProducto/>} />
 
                         <Route path="/ofertas/" element={<Ofertas/>} />
-                        <Route path="/ofertas/*" element={<PaginaProducto/>} />
+
+                        <Route path="/productos/*" element={<PaginaProducto/>} />
 
                         <Route path="/mis-favoritos/" element={<Favoritos/>} />
 
