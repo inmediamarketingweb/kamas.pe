@@ -56,64 +56,8 @@ function PaginaProducto(){
 
         cargarOfertas();
     }, []);
-    //     const fetchProducto = async () => {
-    //         try{
-    //             const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
-    //             let productoEncontrado = null;
 
-    //             for (const categoria of categorias){
-    //                 const subcategorias = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
-    //                     .then(response => response.json())
-    //                     .catch(() => ({ subcategorias: [] }));
-
-    //                 for (const subcat of subcategorias.subcategorias || []){
-    //                     const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-    //                     const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
-
-    //                     const data = await fetch(jsonPath).then(response => response.json()).catch(() => null);
-
-    //                     if (data && data.productos){
-    //                         const prod = data.productos.find(p => p.ruta === location.pathname);
-    //                         if (prod) {
-    //                             productoEncontrado = prod;
-    //                             break;
-    //                         }
-    //                     }
-    //                 }
-
-    //                 if (productoEncontrado) break;
-    //             }
-
-    //             if (productoEncontrado) {
-    //                 setProducto(productoEncontrado);
-    //                 cargarImagenes(productoEncontrado.fotos);
-    //             } else {
-    //                 setError(true);
-    //             }
-    //         } catch (error) {
-    //             console.error("Error al buscar el producto:", error);
-    //             setError(true);
-    //         }
-    //     };
-
-    //     const cargarImagenes = (carpetaFotos) => {
-    //         const imgs = [];
-    //         for (let i = 1; i <= 10; i++){
-    //             const path = `${carpetaFotos}${i}.jpg`;
-    //             const img = new Image();
-    //             img.src = path;
-    //             img.onload = () => {
-    //                 imgs.push(path);
-    //                 setImagenes([...imgs]);
-    //             };
-    //         }
-    //     };
-
-    //     fetchProducto();
-
-    // }, [location.pathname]);
-
-        useEffect(() => {
+    useEffect(() => {
         const fetchProducto = async () => {
             try{
                 const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];

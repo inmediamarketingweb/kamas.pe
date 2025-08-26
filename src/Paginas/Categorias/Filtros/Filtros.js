@@ -53,9 +53,7 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                         const clave = Object.keys(filtro)[0];
                         const opciones = filtro[clave];
                         
-                        const titulo = clave.replace(/-/g, ' ')
-                                            .replace(/\b\w/g, l => l.toUpperCase())
-                                            .replace(/De|Del|Y|En/g, match => match.toLowerCase());
+                        const titulo = clave.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()).replace(/De|Del|Y|En/g, match => match.toLowerCase());
                         
                         return {
                             id: index + 1,
