@@ -6,6 +6,8 @@ import './Ofertas.css';
 
 import '../../../../Componentes/Plantillas/Producto/Horizontal/Horizontal';
 import '../../../../Componentes/Plantillas/Producto/Miniatura/Miniatura.css';
+import '../../../../Componentes/Plantillas/LazyImage';
+import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
 
 const truncate = (str, maxLength) => {
     if (!str) return '';
@@ -53,22 +55,15 @@ function Ofertas(){
     }, []);
 
     useEffect(() => {
-        fetch('/assets/json/ofertas.json')
-            .then(res => res.json())
-            .then(skus => {
-                const skusAleatorios = [...skus]
-                    .sort(() => 0.5 - Math.random())
-                    .slice(0, 3);
+        fetch('/assets/json/ofertas.json').then(res => res.json()).then(skus => {
+                const skusAleatorios = [...skus].sort(() => 0.5 - Math.random()).slice(0, 3);
 
                 return fetch('/assets/json/manifest.json')
                     .then(res => res.json())
                     .then(manifest =>
                         Promise.all(
-                            manifest.files.map(fileUrl => 
-                                fetch(fileUrl)
-                                    .then(res => res.json())
-                                    .then(json => json.productos || [])
-                                    .catch(() => [])
+                            manifest.files.map(
+                                fileUrl => fetch(fileUrl).then(res => res.json()).then(json => json.productos || []).catch(() => [])
                             )
                         )
                     )
@@ -96,14 +91,11 @@ function Ofertas(){
 
         if (productos.length > 0) {
             elementos.push(
-                <Producto 
-                    key={`dinamico-1-${productos[0].sku}`}
-                    producto={productos[0]} 
-                    truncate={truncate}
+                <Producto key={`dinamico-1-${productos[0].sku}`}
+                    producto={productos[0]} truncate={truncate}
                     onToggleFavorite={handleToggleFavorite}
                     isFavorite={!!favorites[productos[0].sku]}
-                    skusOfertas={skusOfertas}
-                    isOfferActive={isOfferActive}
+                    skusOfertas={skusOfertas} isOfferActive={isOfferActive}
                 />
             );
         }
@@ -112,8 +104,12 @@ function Ofertas(){
             <li key="colchones">
                 <a href='/ofertas/?categoria=colchones' title='Colchones | Kamas' className='product-card-miniature'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-1.webp' loading='lazy' alt='Colchones | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-2.webp' loading='lazy' alt='Colchones | Kamas'/></li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-1.webp' alt='Colchones | Kamas'/>
+                        </li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/colchones-2.webp' alt='Colchones | Kamas'/>
+                        </li>
                     </ul>
                     <p className='text'>Colchones</p>
                 </a>
@@ -124,8 +120,12 @@ function Ofertas(){
             <li key="sofas">
                 <a href='/ofertas/?categoria=sofás' title='Sofás | Kamas' className='product-card-miniature product-card-miniature-2'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-1.webp' loading='lazy' alt='Sofás | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-2.webp' loading='lazy' alt='Sofás | Kamas'/></li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-1.webp' alt='Sofás | Kamas'/>
+                        </li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/sofas-2.webp' alt='Sofás | Kamas'/>
+                        </li>
                     </ul>
                     <p className='text'>Sofás</p>
                 </a>
@@ -150,8 +150,12 @@ function Ofertas(){
             <li key="veladores">
                 <a href='/ofertas/?categoria=complementos&subcategoría=veladores' title='Veladores | Kamas' className='product-card-miniature product-card-miniature-2'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' loading='lazy' alt='Veladores | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' loading='lazy' alt='Veladores | Kamas'/></li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-1.webp' alt='Veladores | Kamas'/>
+                        </li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/veladores-2.webp' alt='Veladores | Kamas'/>
+                        </li>
                     </ul>
                     <p className='text'>Veladores</p>
                 </a>
@@ -162,8 +166,12 @@ function Ofertas(){
             <li key="cabeceras">
                 <a href='/ofertas/?categoria=cabeceras' title='Cabeceras | Kamas' className='product-card-miniature'>
                     <ul>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
-                        <li><img src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' loading='lazy' alt='Cabeceras | Kamas'/></li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-1.webp' alt='Cabeceras | Kamas'/>
+                        </li>
+                        <li>
+                            <LazyImage src='/assets/imagenes/paginas/pagina-principal/solo-por-horas/cabeceras-2.webp' alt='Cabeceras | Kamas'/>
+                        </li>
                     </ul>
                     <p className='text'>Cabeceras</p>
                 </a>
@@ -174,8 +182,7 @@ function Ofertas(){
             elementos.push(
                 <Producto 
                     key={`dinamico-3-${productos[2].sku}`}
-                    producto={productos[2]} 
-                    truncate={truncate}
+                    producto={productos[2]} truncate={truncate}
                     onToggleFavorite={handleToggleFavorite}
                     isFavorite={!!favorites[productos[2].sku]}
                     skusOfertas={skusOfertas}
