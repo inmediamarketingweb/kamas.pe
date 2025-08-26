@@ -29,6 +29,7 @@ function Productos(){
     const handleActivate = () => setIsOfferActive(true);
 
     const filtros = useMemo(() => {
+        const searchParams = new URLSearchParams(location.search);
         const filtrosObj = {};
         searchParams.forEach((value, key) => {
             if (key !== 'categoria') {
