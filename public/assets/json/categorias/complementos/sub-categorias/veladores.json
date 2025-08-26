@@ -29,7 +29,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "6"
                 }
             ],
             "descripciones":[
@@ -74,7 +75,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "6"
                 }
             ],
             "descripciones":[
@@ -112,7 +114,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -150,7 +153,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -182,13 +186,14 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Ghost",
-                    "cantidad-de-cajones": 1
+                    "cantidad-de-cajones": "1"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
                 }
             ],
             "descripciones":[
@@ -226,7 +231,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -264,7 +270,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -302,7 +309,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -340,7 +348,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -378,7 +387,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -416,7 +426,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -454,7 +465,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -492,7 +504,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -530,7 +543,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -568,7 +582,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -606,7 +621,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -644,7 +660,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "descripciones":[
@@ -682,7 +699,8 @@
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "descripciones":[
@@ -714,13 +732,14 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Ghost",
-                    "cantidad-de-cajones": 1
+                    "cantidad-de-cajones": "1"
                 }
             ],
             "detalles-del-producto":[
                 {
                     "subcategoría": "Veladores",
-                    "cajones": "Si"
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
                 }
             ],
             "descripciones":[
