@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "camas funcionales",
             "subcategoría": "divanes",
             "tamaño": "2 plazas",
@@ -70,7 +69,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "camas funcionales",
             "subcategoría": "divanes",
             "tamaño": "2 plazas",
