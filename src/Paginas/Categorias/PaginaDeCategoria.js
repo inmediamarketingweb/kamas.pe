@@ -180,6 +180,12 @@ function PaginaDeCategoria(){
             resultado = resultado.filter(producto => producto["tipo-de-envio"] === "Gratis");
         }
 
+        if (enOferta) {
+            resultado = resultado.filter(producto => 
+                producto.oferta === "si" || skusOfertas.includes(producto.sku)
+            );
+        }
+
         if (sortOption === 'precio-asc') {
             resultado.sort((a, b) => a.precioVenta - b.precioVenta);
         } else if (sortOption === 'precio-desc') {
@@ -280,9 +286,10 @@ function PaginaDeCategoria(){
                                                 const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
                                                 return(
                                                     <Producto 
-                                                        key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite} 
-                                                        isFavorite={isFavorite} skusOfertas={skusOfertas} isOfferActive={isOfferActive}
-                                                    />
+                                                    key={producto.sku} producto={producto} 
+                                                    truncate={truncate} onToggleFavorite={toggleFavorite} 
+                                                    isFavorite={isFavorite} skusOfertas={skusOfertas}
+                                                    isOfferActive={isOfferActive}/>
                                                 );
                                             })}
                                         </ul>

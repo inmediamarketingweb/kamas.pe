@@ -84,9 +84,11 @@ function App(){
                         <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
                         <Route path="/productos/:categoria/:producto/" element={<PaginaProducto/>} />
 
-                        <Route path="/ofertas/" element={<Ofertas/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
 
                         <Route path="/productos/*" element={<PaginaProducto/>} />
+
+                        <Route path="/ofertas/" element={<Ofertas/>} />
 
                         <Route path="/mis-favoritos/" element={<Favoritos/>} />
 

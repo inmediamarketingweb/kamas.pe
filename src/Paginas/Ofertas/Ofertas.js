@@ -58,57 +58,6 @@ function Ofertas(){
 
         cargarOfertas();
     }, []);
-    //     const cargarProductos = async () => {
-    //         try {
-    //             const ofertasResponse = await fetch('/assets/json/ofertas.json');
-    //             if (!ofertasResponse.ok) {
-    //                 throw new Error('No se pudo cargar ofertas.json');
-    //             }
-
-    //             const skusOfertas = await ofertasResponse.json();
-
-    //             if (!Array.isArray(skusOfertas)) {
-    //                 throw new Error('El formato de ofertas.json no es válido. Se esperaba un array de SKUs.');
-    //             }
-
-    //             if (skusOfertas.length === 0) {
-    //                 setProductos([]);
-    //                 setLoading(false);
-    //                 return;
-    //             }
-
-    //             const skusBuscados = new Set(skusOfertas);
-
-    //             const manifestResponse = await fetch('/assets/json/manifest.json');
-    //             if (!manifestResponse.ok) {
-    //                 throw new Error('No se pudo cargar manifest.json');
-    //             }
-
-    //             const manifestData = await manifestResponse.json();
-    //             const archivos = manifestData.files || [];
-                
-    //             const productosPromesas = archivos.map(async (url) => {
-    //                 const response = await fetch(url);
-    //                 const data = await response.json();
-    //                 return data.productos.filter(p => skusBuscados.has(p.sku));
-    //             });
-
-    //             const productosPorArchivo = await Promise.all(productosPromesas);
-    //             const productosFiltrados = productosPorArchivo.flat();
-
-    //             setProductos(productosFiltrados);
-    //             setLoading(false);
-    //         } catch (error) {
-    //             console.error("Error cargando productos:", error);
-    //             setError(error.message);
-    //             setLoading(false);
-    //         }
-    //     };
-
-    //     cargarProductos();
-    // }, []);
-
-    // Reemplaza tu useEffect de carga de productos con este código:
 
     useEffect(() => {
         const cargarProductos = async () => {
