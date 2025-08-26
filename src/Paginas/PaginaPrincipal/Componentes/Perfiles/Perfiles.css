@@ -42,7 +42,7 @@
 }
 
 .profile-card-sales{
-    color: gray;
+    color: var(--text);
     font-size: 10px;
 }
 
