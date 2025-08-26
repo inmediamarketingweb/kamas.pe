@@ -118,7 +118,7 @@
 
 .product-card-regular-price{
     font-size: 14px;
-    color: #999;
+    color: #000;
 }
 
 .product-card-regular-price,
@@ -162,7 +162,7 @@
 }
 
 .product-card-tipo-de-envio.envio-gratis{
-    background: #06CA65;
+    background: #07A754;
 }
 
 .product-card-tipo-de-envio.envio-gratis span{

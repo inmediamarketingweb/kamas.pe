@@ -2,6 +2,8 @@ import { useState, useRef, useEffect, useCallback } from 'react';
 
 import './Slider.css';
 
+import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
+
 function Slider(){
     const [sliderItems, setSliderItems] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(1);
@@ -131,7 +133,7 @@ function Slider(){
                             {extendedItems.map((slide, index) => (
                                 <li key={`slide-${index}`} style={{ width: `${100 / totalSlides}%` }}>
                                     <a href={slide.link} aria-label={slide.alt}>
-                                        <img width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
+                                        <LazyImage width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
                                             src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]} 
                                             title={slide.alt}
                                             alt={slide.alt}

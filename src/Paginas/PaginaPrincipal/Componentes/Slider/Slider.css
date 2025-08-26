@@ -76,17 +76,17 @@
     align-items: center;
     justify-content: center;
     transition: var(--t-200ms-linear);
-    width: 56px;
-    height: calc(80% - 40px);
+    width: 36px;
+    height: 72px;
     background: rgba(0 0 0 / 0.05);
-    border-radius: 6px;
+    border-radius: 4px;
     z-index: 10;
     border: none;
     cursor: pointer;
 }
 
 .hero-slider-button:hover{
-    background: rgba(0 0 0 / 0.1);
+    background: rgba(0 0 0 / 0.25);
 }
 
 .hero-slider-button span{
