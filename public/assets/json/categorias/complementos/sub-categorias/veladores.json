@@ -17,7 +17,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Shelter",
-                    "cajones": 6
+                    "cantidad-de-cajones": "6"
                 }
             ],
             "video":[
@@ -62,7 +62,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Shelter",
-                    "cajones": 6
+                    "cantidad-de-cajones": "6"
                 }
             ],
             "video":[
@@ -106,7 +106,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -144,7 +144,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "2 en 1",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -182,7 +182,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Ghost",
-                    "cajones": 1
+                    "cantidad-de-cajones": 1
                 }
             ],
             "detalles-del-producto":[
@@ -205,7 +205,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": "6",
             "categoria": "complementos",
             "subcategoria": "veladores",
             "ruta": "/productos/complementos/veladores/6/",
@@ -220,7 +220,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Yanira",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -258,7 +258,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -296,7 +296,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -334,7 +334,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -372,7 +372,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -410,7 +410,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Vintage 2 new",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -448,7 +448,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Vintage 2 moderno",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -486,7 +486,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Vintage 2 moderno",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -524,7 +524,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Cube",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -562,7 +562,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Vintage 2",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -600,7 +600,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Atlanta",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -638,7 +638,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Clásico 3",
-                    "cajones": 3
+                    "cantidad-de-cajones": "3"
                 }
             ],
             "detalles-del-producto":[
@@ -676,7 +676,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Rob",
-                    "cajones": 2
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -714,7 +714,7 @@
             "resumen-del-producto":[
                 {
                     "modelo": "Ghost",
-                    "cajones": 1
+                    "cantidad-de-cajones": 1
                 }
             ],
             "detalles-del-producto":[
@@ -740,7 +740,7 @@
             "categoria": "complementos",
             "subcategoria": "veladores",
             "ruta": "/productos/complementos/veladores/20/",
-            "nombre": "VELADOR CLASICO 2 - MARRÓN",
+            "nombre": "VELADOR CLÁSICO 2 - MARRÓN",
             "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/1/",
             "precioRegular": 399,
             "precioNormal": 329,
@@ -750,8 +750,8 @@
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
-                    "modelo": "Ghost",
-                    "cajones": 1
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
                 }
             ],
             "detalles-del-producto":[
@@ -766,6 +766,132 @@
                     "titulo": "Velador",
                     "descripcion":[
                         {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/21/",
+            "nombre": "VELADOR CLÁSICO 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/3/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/22/",
+            "nombre": "VELADOR CLÁSICO 2 - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/4/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/23/",
+            "nombre": "VELADOR CLÁSICO 1 - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/2/",
+            "precioRegular": 389,
+            "precioNormal": 319,
+            "precioVenta": 239,
+            "stock": 14,
+            "sku": "K731N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 1",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
                             "material": "Melamina 18mm.",
                             "rieles": "Telecópicos pesados",
                             "garantía": "1 año"

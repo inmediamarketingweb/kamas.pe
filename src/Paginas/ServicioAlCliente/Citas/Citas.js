@@ -85,7 +85,7 @@ function Citas() {
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
                                 </div>
 
-                                <iframe className='mapa' src="https://surl.li/qvlpsb" width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe title='Ubicación Kamas' className='mapa' src="https://surl.li/qvlpsb" width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
 
                             <div className='d-flex-column gap-20'>

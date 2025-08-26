@@ -180,12 +180,6 @@ function PaginaDeCategoria(){
             resultado = resultado.filter(producto => producto["tipo-de-envio"] === "Gratis");
         }
 
-        if (enOferta) {
-            resultado = resultado.filter(producto => 
-                producto.oferta === "si" || skusOfertas.includes(producto.sku)
-            );
-        }
-
         if (sortOption === 'precio-asc') {
             resultado.sort((a, b) => a.precioVenta - b.precioVenta);
         } else if (sortOption === 'precio-desc') {
