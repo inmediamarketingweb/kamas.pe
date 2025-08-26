@@ -735,6 +735,44 @@
                     ]
                 }
             ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/20/",
+            "nombre": "VELADOR CLASICO 2 - MARRÓN",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/1/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Ghost",
+                    "cajones": 1
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

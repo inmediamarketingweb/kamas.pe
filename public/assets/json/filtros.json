@@ -715,6 +715,22 @@
                         "cajones": "No"
                     }
                 ]
+            },
+            {
+                "cantidad-de-cajones":[
+                    {
+                        "cantidad-de-cajones": "1"
+                    },
+                    {
+                        "cantidad-de-cajones": "2"
+                    },
+                    {
+                        "cantidad-de-cajones": "3"
+                    },
+                    {
+                        "cantidad-de-cajones": "6"
+                    }
+                ]
             }
         ]
     }
