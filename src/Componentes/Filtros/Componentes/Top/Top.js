@@ -24,9 +24,7 @@ function Top({
 
             <div>
                 <select id='filters-orden' name='filter-orden' className='filters-orden' value={sortOption} onChange={(e) => setSortOption(e.target.value)}>
-                    <option value="">
-                        <p className='text'>Ordenar precios</p>
-                    </option>
+                    <option value="">Ordenar precios</option>
                     <option value="precio-asc">Menor a mayor</option>
                     <option value="precio-desc">Mayor a menor</option>
                 </select>
