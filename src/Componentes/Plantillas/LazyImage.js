@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-function LazyImage({ src, alt, width, height }) {
+function LazyImage({ src, alt, width, height, className }) {
     const imgRef = useRef();
     const [isVisible, setIsVisible] = useState(false);
 
@@ -22,8 +22,8 @@ function LazyImage({ src, alt, width, height }) {
         return () => observer.disconnect();
     }, []);
 
-    return (
-        <img ref={imgRef} src={isVisible ? src : undefined} alt={alt} width={width} height={height} loading="lazy" style={{ backgroundColor: "#FFFFFF"}}/>
+    return(
+        <img ref={imgRef} src={isVisible ? src : undefined} alt={alt} width={width} height={height} loading="lazy" style={{ backgroundColor: "#FFFFFF"}} className={className}/>
     );
 }
 

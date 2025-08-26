@@ -78,7 +78,7 @@ footer{
 .footer-list{
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 10px;
 }
 
 .footer-list li{
