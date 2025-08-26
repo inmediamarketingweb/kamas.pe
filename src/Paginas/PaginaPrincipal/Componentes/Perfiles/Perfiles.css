@@ -61,7 +61,11 @@
     gap: 5px;
 }
 
-.profile-card-content p a{
+.profile-card-content > p{
+    width: calc(100% - 90px);
+}
+
+.profile-card-content > p a{
     color: var(--color-2);
 }
 

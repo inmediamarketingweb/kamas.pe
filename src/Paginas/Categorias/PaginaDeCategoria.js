@@ -286,10 +286,9 @@ function PaginaDeCategoria(){
                                                 const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
                                                 return(
                                                     <Producto 
-                                                    key={producto.sku} producto={producto} 
-                                                    truncate={truncate} onToggleFavorite={toggleFavorite} 
-                                                    isFavorite={isFavorite} skusOfertas={skusOfertas}
-                                                    isOfferActive={isOfferActive}/>
+                                                        key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite} 
+                                                        isFavorite={isFavorite} skusOfertas={skusOfertas} isOfferActive={isOfferActive}
+                                                    />
                                                 );
                                             })}
                                         </ul>
