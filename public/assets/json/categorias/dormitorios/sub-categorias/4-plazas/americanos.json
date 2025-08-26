@@ -1,0 +1,400 @@
+{
+    "productos":[
+        {
+            "id": 318,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/1/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/", 
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K325233N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 319,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/2/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/", 
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K325233N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-noche.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/azul-noche.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/3/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/3/", 
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K325233N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/verde-loro.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/verde-loro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/4/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/4/", 
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K325233N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/fucsia.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/fucsia.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -24,6 +24,11 @@
             "subcategoria": "King",
             "metaTitulo": "Dormitorios - King | Kamas",
             "ruta": "/productos/dormitorios/king/"
+        },
+        {
+            "subcategoria": "4 plazas",
+            "metaTitulo": "Dormitorios - 4 plazas | Kamas",
+            "ruta": "/productos/dormitorios/4-plazas/"
         }
     ]
 }
