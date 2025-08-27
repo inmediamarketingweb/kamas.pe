@@ -1,10 +1,11 @@
 {
     "files": [
-        "/assets/json/categorias/colchones/sub-categorias/1-plaza.json",
-        "/assets/json/categorias/colchones/sub-categorias/1-plaza-y-media.json",
-        "/assets/json/categorias/colchones/sub-categorias/2-plazas.json",
-        "/assets/json/categorias/colchones/sub-categorias/queen.json",
-        "/assets/json/categorias/colchones/sub-categorias/king.json",
+        "/assets/json/categorias/colchones/sub-categorias/1-plaza/1-plaza.json",
+        "/assets/json/categorias/colchones/sub-categorias/1-plaza-y-media/1-plaza-y-media.json",
+        "/assets/json/categorias/colchones/sub-categorias/2-plazas/2-plazas.json",
+        "/assets/json/categorias/colchones/sub-categorias/queen/queen.json",
+        "/assets/json/categorias/colchones/sub-categorias/king/king.json",
+        "/assets/json/categorias/colchones/sub-categorias/4-plazas/4-plazas.json",
 
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/1-plaza-y-media/americanas.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/1-plaza-y-media/americanas-con-cajones.json",

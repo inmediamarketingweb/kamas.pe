@@ -131,7 +131,7 @@
             "precioNormal": 499,
             "precioVenta": 319,
             "stock": 99,
-            "sku": "K1153CN10",
+            "sku": "K113CN10",
             "regalos":{
                 "texto": "1 almohada",
                 "foto": "/assets/imagenes/productos/almohada.png"
@@ -170,7 +170,7 @@
             "detalles-del-producto":[
                 {
                 "modelo-de-colchón": "Sarki",
-                "tamaño": "1 plaza y media",
+                "tamaño": "1 plaza",
                 "línea-de-colchón": "Ortopédico",
                 "nivel-de-confort": "Confortable",
                 "tipo-de-resorte": "Bonell"
