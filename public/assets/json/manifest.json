@@ -43,9 +43,13 @@
 
         "/assets/json/categorias/dormitorios/sub-categorias/4-plazas/americanos.json",
 
-        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios.json",
-        "/assets/json/categorias/camas-funcionales/sub-categorias/divanes.json",
-        "/assets/json/categorias/camas-funcionales/sub-categorias/camarotes.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/2-plazas.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/queen.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/divanes/2-plazas.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/camarotes/1-plaza-y-media.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/camarotes/mixtos.json",
 
         "/assets/json/categorias/cabeceras/sub-categorias/1-plaza-y-media/pedestales.json",
 
