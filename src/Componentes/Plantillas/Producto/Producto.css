@@ -90,7 +90,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #FF0000;
+    background: #AE0F30;
     padding: 3px 6px;
     border-radius: 3px;
 }
@@ -199,7 +199,8 @@
     border-radius: 3px;
     z-index: 15;
     gap: 5px;
-    background: #2f74f5;
+    /* background: #2f74f5; */
+    background: #0E57A4;
 }
 
 .product-card-separar span{
