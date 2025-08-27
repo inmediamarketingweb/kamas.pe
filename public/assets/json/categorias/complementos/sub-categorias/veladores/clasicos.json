@@ -1,102 +1,9 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "modelo": "shelter",
-            "ruta": "/productos/complementos/veladores/1/",
-            "nombre": "VELADOR SHELTER 6 CAJONES - BEIGE",
-            "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/1/",
-            "precioRegular": 499,
-            "precioNormal": 419,
-            "precioVenta": 399,
-            "stock": 14,
-            "sku": "K712N10",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "modelo": "Shelter",
-                    "cantidad-de-cajones": "6"
-                }
-            ],
-            "video":[
-                {
-                    "ruta": "/assets/imagenes/productos/complementos/veladores/shelter/1/video.mp4",
-                    "url": "https://www.tiktok.com/@kamas.pe/video/7303605519950826757"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "subcategoría": "Veladores",
-                    "cajones": "Si",
-                    "cantidad-de-cajones": "6"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
-            "modelo": "shelter",
-            "ruta": "/productos/complementos/veladores/2/",
-            "nombre": "VELADOR SHELTER 6 CAJONES - NEGRO",
-            "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/2/",
-            "precioRegular": 499,
-            "precioNormal": 419,
-            "precioVenta": 399,
-            "stock": 14,
-            "sku": "K712N11",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "modelo": "Shelter",
-                    "cantidad-de-cajones": "6"
-                }
-            ],
-            "video":[
-                {
-                    "ruta": "/assets/imagenes/productos/complementos/veladores/shelter/2/video.mp4",
-                    "url": "https://www.tiktok.com/@kamas.pe/video/7302050100581371142"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "subcategoría": "Veladores",
-                    "cajones": "Si",
-                    "cantidad-de-cajones": "6"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Velador",
-                    "descripcion":[
-                        {
-                            "material": "Melamina 18mm.",
-                            "rieles": "Telecópicos pesados",
-                            "garantía": "1 año"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "categoria": "complementos",
-            "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/3/",
+            "ruta": "/productos/complementos/veladores/clasicos/3/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - CAMELL",
             "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/3/",
             "precioRegular": 499,
@@ -135,7 +42,7 @@
             "id": 4,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/4/",
+            "ruta": "/productos/complementos/veladores/clasicos/4/",
             "nombre": "VELADOR MODELO 2 EN 1 - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/1/",
             "precioRegular": 519,
@@ -174,7 +81,7 @@
             "id": 5,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/5/",
+            "ruta": "/productos/complementos/veladores/clasicos/5/",
             "nombre": "VELADOR GHOST - CAFÉ",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/2/",
             "precioRegular": 1430,
@@ -213,7 +120,7 @@
             "id": "6",
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/6/",
+            "ruta": "/productos/complementos/veladores/clasicos/6/",
             "nombre": "VELADOR YANIRA 2 CAJONES - HUESO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/3/",
             "precioRegular": 589,
@@ -252,7 +159,7 @@
             "id": 7,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/7/",
+            "ruta": "/productos/complementos/veladores/clasicos/7/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/4/",
             "precioRegular": 589,
@@ -291,7 +198,7 @@
             "id": 8,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/8/",
+            "ruta": "/productos/complementos/veladores/clasicos/8/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/5/",
             "precioRegular": 589,
@@ -330,7 +237,7 @@
             "id": 9,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/9/",
+            "ruta": "/productos/complementos/veladores/clasicos/9/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - FUCSIA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/6/",
             "precioRegular": 589,
@@ -369,7 +276,7 @@
             "id": 10,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/10/",
+            "ruta": "/productos/complementos/veladores/clasicos/10/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/7/",
             "precioRegular": 589,
@@ -408,7 +315,7 @@
             "id": 11,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/11/",
+            "ruta": "/productos/complementos/veladores/clasicos/11/",
             "nombre": "VELADOR VINTAGE 2 CAJONES NEW - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/8/",
             "precioRegular": 579,
@@ -447,7 +354,7 @@
             "id": 12,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/12/",
+            "ruta": "/productos/complementos/veladores/clasicos/12/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/9/",
             "precioRegular": 579,
@@ -486,7 +393,7 @@
             "id": 13,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/13/",
+            "ruta": "/productos/complementos/veladores/clasicos/13/",
             "nombre": "VELADOR VINTAGE 2 MODERNO - ARENA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/10/",
             "precioRegular": 579,
@@ -525,7 +432,7 @@
             "id": 14,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/14/",
+            "ruta": "/productos/complementos/veladores/clasicos/14/",
             "nombre": "VELADOR CUBE - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/11/",
             "precioRegular": 469,
@@ -564,7 +471,7 @@
             "id": 15,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/15/",
+            "ruta": "/productos/complementos/veladores/clasicos/15/",
             "nombre": "VELADOR VINTAGE 2 CAJONES - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/13/",
             "precioRegular": 499,
@@ -603,7 +510,7 @@
             "id": 16,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/16/",
+            "ruta": "/productos/complementos/veladores/clasicos/16/",
             "nombre": "VELADOR ATLANTA - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/14/",
             "precioRegular": 489,
@@ -642,7 +549,7 @@
             "id": 17,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/17/",
+            "ruta": "/productos/complementos/veladores/clasicos/17/",
             "nombre": "VELADOR CLÁSICO 3 CAJONES - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/15/",
             "precioRegular": 489,
@@ -681,7 +588,7 @@
             "id": 18,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/18/",
+            "ruta": "/productos/complementos/veladores/clasicos/18/",
             "nombre": "VELADOR ROB - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/16/",
             "precioRegular": 489,
@@ -720,7 +627,7 @@
             "id": 19,
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/19/",
+            "ruta": "/productos/complementos/veladores/clasicos/19/",
             "nombre": "VELADOR GHOST - BLANCO",
             "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/17/",
             "precioRegular": 449,
@@ -758,7 +665,7 @@
         {
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/20/",
+            "ruta": "/productos/complementos/veladores/clasicos/20/",
             "nombre": "VELADOR CLÁSICO 2 - MARRÓN",
             "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/1/",
             "precioRegular": 399,
@@ -799,7 +706,7 @@
         {
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/21/",
+            "ruta": "/productos/complementos/veladores/clasicos/21/",
             "nombre": "VELADOR CLÁSICO 2 - PLATA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/3/",
             "precioRegular": 399,
@@ -840,7 +747,7 @@
         {
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/22/",
+            "ruta": "/productos/complementos/veladores/clasicos/22/",
             "nombre": "VELADOR CLÁSICO 2 - ARENA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/4/",
             "precioRegular": 399,
@@ -881,7 +788,7 @@
         {
             "categoria": "complementos",
             "subcategoria": "veladores",
-            "ruta": "/productos/complementos/veladores/23/",
+            "ruta": "/productos/complementos/veladores/clasicos/23/",
             "nombre": "VELADOR CLÁSICO 1 - ARENA",
             "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/2/",
             "precioRegular": 389,

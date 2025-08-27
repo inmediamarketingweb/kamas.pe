@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "categoria": "complementos",
+            "subcategoria": "cama perro",
+            "tamaño": "m",
+            "ruta": "/productos/complementos/cama-perro/m/1/",
+            "nombre": "CAMA PERRO M + CABECERA PEDESTAL - VINO CLARO",
+            "fotos": "/assets/imagenes/productos/complementos/cama-perro/2/",
+            "colores": "si",
+            "precioRegular": 249,
+            "precioNormal": 229,
+            "precioVenta": 179,
+            "stock": 14,
+            "sku": "K771512N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "M",
+                    "tipo-de-cabecera": "Pedestal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "cama perro",
+                    "línea": "Americana",
+                    "tamaño": "M",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

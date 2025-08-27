@@ -63,9 +63,17 @@
         "/assets/json/categorias/sofas/sub-categorias/seccionales.json",
         "/assets/json/categorias/sofas/sub-categorias/sofas-camas.json",
 
-        "/assets/json/categorias/complementos/sub-categorias/base-sola.json",
-        "/assets/json/categorias/complementos/sub-categorias/cama-perro.json",
-        "/assets/json/categorias/complementos/sub-categorias/puffs.json",
-        "/assets/json/categorias/complementos/sub-categorias/veladores.json"
+        "/assets/json/categorias/complementos/sub-categorias/base-sola/americanas.json",
+        "/assets/json/categorias/complementos/sub-categorias/base-sola/europeas.json",
+    
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/s.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/m.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/l.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/xxl.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/puffs/clasicos.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/veladores/shelter.json",
+        "/assets/json/categorias/complementos/sub-categorias/veladores/clasicos.json"
     ]
 }
