@@ -98,7 +98,7 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
 
                     <div className='d-flex-column'>
                         <span className="product-card-brand">KAMAS</span>
-                        <h4 className="product-card-name">{truncate(producto.nombre, 56)}</h4>
+                        <p className="product-card-name">{truncate(producto.nombre, 56)}</p>
                     </div>
 
                     <div className="product-card-prices">
