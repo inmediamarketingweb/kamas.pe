@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "id": 26,
+            "categoria": "camas funcionales",
+            "subcategoria": "box espacios",
+            "linea": "americanos",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-funcionales/box-espacios/queen/americanos/46/",
+            "nombre": "BOX ESPACIO AMERICANO QUEEN SIN CABECERA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/queen/sin-cabecera/1/",
+            "colores": "si",
+            "precioRegular": 1549,
+            "precioNormal": 1789,
+            "precioVenta": 1499,
+            "stock": 14,
+            "sku": "K4131N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "subcategoría": "box espacio",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Sin cabecera"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "subcategoría": "box espacio",
+                    "tamaño": "Queen",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Sin cabecera"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

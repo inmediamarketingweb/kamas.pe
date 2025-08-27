@@ -3,7 +3,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/4-plazas/king/",
+            "ruta": "/productos/colchones/4-plazas/sarki/1/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 4 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/sarki/",
             "precioRegular": 2399,
@@ -26,23 +26,23 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza",
-                    "ruta": "/productos/colchones/1-plaza/sarki/"
+                    "ruta": "/productos/colchones/1-plaza/sarki/1/"
                 },
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/1/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/sarki/"
+                    "ruta": "/productos/colchones/2-plazas/sarki/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/sarki/"
+                    "ruta": "/productos/colchones/queen/sarki/1/"
                 },
                 {
                     "nombre": "king",
-                    "ruta": "/productos/colchones/king/sarki/"
+                    "ruta": "/productos/colchones/king/sarki/1/"
                 }
             ],
             "tipo-de-envio": "Gratis",

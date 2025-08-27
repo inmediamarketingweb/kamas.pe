@@ -3,50 +3,8 @@
         {
             "categoria": "camas funcionales",
             "subcategoría": "camarotes",
-            "tamaño": "1 plaza y media",
-            "ruta": "/productos/camas-funcionales/camarotes/1-plaza-y-media/1/",
-            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA PINO - MIEL",
-            "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/1-plaza-y-media/1/",
-            "precioRegular": 1599,
-            "precioNormal": 1299,
-            "precioVenta": 849,
-            "stock": 9,
-            "sku": "K441N10",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "subcategoría": "camarotes",
-                    "tamaño": "1 plaza y media",
-                    "tipo-de-cabecera": "No aplica"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "subcategoría": "camarotes",
-                    "tamaño": "1 plaza y media",
-                    "cajones": "No",
-                    "base-encajonada": "No"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Camarote",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano.",
-                            "parrillas": "100% madera pino americano",
-                            "unión": "Encajonada y con pernos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "camas funcionales",
-            "subcategoría": "camarotes",
             "tamaño": "1 plaza y media + 2 plazas",
-            "ruta": "/productos/camas-funcionales/camarotes/1-plaza-y-media-2-plazas/1/",
+            "ruta": "/productos/camas-funcionales/camarotes/mixtos/1/",
             "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL OSCURO",
             "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/mixtos/1/",
             "precioRegular": 1899,
@@ -88,7 +46,7 @@
             "categoria": "camas funcionales",
             "subcategoría": "camarotes",
             "tamaño": "1 plaza y media + 2 plazas",
-            "ruta": "/productos/camas-funcionales/camarotes/1-plaza-y-media-2-plazas/2/",
+            "ruta": "/productos/camas-funcionales/camarotes/mixtos/2/",
             "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - MIEL",
             "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/mixtos/2/",
             "precioRegular": 1599,

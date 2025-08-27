@@ -3,7 +3,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "adel",
-            "ruta": "/productos/colchones/2-plazas/adel/",
+            "ruta": "/productos/colchones/2-plazas/adel/1/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/adel/",
             "precioRegular": 475,
@@ -28,11 +28,11 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza",
-                    "ruta": "/productos/colchones/1-plaza/adel/"
+                    "ruta": "/productos/colchones/1-plaza/adel/1/"
                 },
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/adel/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/adel/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -60,7 +60,7 @@
             "id": 2,
             "categoria": "colchones",
             "subcategoria": "rucay",
-            "ruta": "/productos/colchones/2-plazas/rucay/",
+            "ruta": "/productos/colchones/2-plazas/rucay/1/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
             "precioRegular": 579,
@@ -87,17 +87,17 @@
                 {
                     "id": 1,
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/rucay/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/rucay/1/"
                 },
                 {
                     "id": 2,
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/rucay/"
+                    "ruta": "/productos/colchones/queen/rucay/1/"
                 },
                 {
                     "id": 3,
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/rucay/"
+                    "ruta": "/productos/colchones/king/rucay/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -125,7 +125,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/2-plazas/sarki/",
+            "ruta": "/productos/colchones/2-plazas/sarki/1/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/sarki/",
             "precioRegular": 629,
@@ -152,19 +152,19 @@
                 },
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/sarki/"
+                    "ruta": "/productos/colchones/queen/sarki/1/"
                 },
                 {
                     "nombre": "king",
-                    "ruta": "/productos/colchones/king/sarki/"
+                    "ruta": "/productos/colchones/king/sarki/1/"
                 },
                 {
                     "nombre": "4 plazas",
-                    "ruta": "/productos/colchones/queen/sarki/"
+                    "ruta": "/productos/colchones/4-plazas/sarki/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -192,7 +192,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "safynnte",
-            "ruta": "/productos/colchones/2-plazas/safynnte/",
+            "ruta": "/productos/colchones/2-plazas/safynnte/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO SAFYNNTE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/safynnte/",
             "precioRegular": 775,
@@ -217,15 +217,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/safynnte/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/safynnte/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/safynnte/"
+                    "ruta": "/productos/colchones/queen/safynnte/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/King/safynnte/"
+                    "ruta": "/productos/colchones/King/safynnte/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -253,7 +253,7 @@
         {
             "categoria": "colchones",
             "modelo": "der prinz",
-            "ruta": "/productos/colchones/2-plazas/der-prinz/",
+            "ruta": "/productos/colchones/2-plazas/der-prinz/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO DER PRINZ 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
             "precioRegular": 920,
@@ -278,19 +278,19 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza",
-                    "ruta": "/productos/colchones/1-plaza/der-prinz/"
+                    "ruta": "/productos/colchones/1-plaza/der-prinz/1/"
                 },
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/der-prinz/"
+                    "ruta": "/productos/colchones/queen/der-prinz/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/der-prinz/"
+                    "ruta": "/productos/colchones/king/der-prinz/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -318,7 +318,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "thameo pocket",
-            "ruta": "/productos/colchones/2-plazas/thameo-pocket/",
+            "ruta": "/productos/colchones/2-plazas/thameo-pocket/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO THAMEO POCKET 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/",
             "precioRegular": 1009,
@@ -343,15 +343,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/thameo-pocket/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/thameo-pocket/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/thameo-pocket/"
+                    "ruta": "/productos/colchones/queen/thameo-pocket/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/thameo-pocket/"
+                    "ruta": "/productos/colchones/king/thameo-pocket/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -381,7 +381,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "ramat",
-            "ruta": "/productos/colchones/2-plazas/ramat/",
+            "ruta": "/productos/colchones/2-plazas/ramat/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO RAMAT 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/ramat/",
             "precioRegular": 1249,
@@ -406,15 +406,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/ramat/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/ramat/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/ramat/"
+                    "ruta": "/productos/colchones/queen/ramat/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/ramat/"
+                    "ruta": "/productos/colchones/king/ramat/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -443,7 +443,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "nesie",
-            "ruta": "/productos/colchones/2-plazas/nesie/",
+            "ruta": "/productos/colchones/2-plazas/nesie/1/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/nesie/",
             "precioRegular": 999,
@@ -468,15 +468,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/nesie/"
+                    "ruta": "/productos/colchones/queen/nesie/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/nesie/"
+                    "ruta": "/productos/colchones/king/nesie/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -504,7 +504,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "norole",
-            "ruta": "/productos/colchones/2-plazas/norole/",
+            "ruta": "/productos/colchones/2-plazas/norole/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/norole/",
             "precioRegular": 1469,
@@ -529,15 +529,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/norole/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/norole/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/norole/"
+                    "ruta": "/productos/colchones/queen/norole/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/norole/"
+                    "ruta": "/productos/colchones/king/norole/1/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -565,7 +565,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "thaleo pocket",
-            "ruta": "/productos/colchones/2-plazas/thaleo-pocket/",
+            "ruta": "/productos/colchones/2-plazas/thaleo-pocket/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO THALEO POCKET 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/",
             "precioRegular": 1369,
@@ -590,15 +590,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/thalo-pocket/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/thalo-pocket/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/thalo-pocket/"
+                    "ruta": "/productos/colchones/queen/thalo-pocket/1/"
                 },
                 {
                     "nombre": "king",
-                    "ruta": "/productos/colchones/king/thalo-pocket/"
+                    "ruta": "/productos/colchones/king/thalo-pocket/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -629,7 +629,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "konig",
-            "ruta": "/productos/colchones/2-plazas/konig/",
+            "ruta": "/productos/colchones/2-plazas/konig/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
             "precioRegular": 1790,
@@ -654,15 +654,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/konig/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/konig/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/konig"
+                    "ruta": "/productos/colchones/queen/konig/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/konig/"
+                    "ruta": "/productos/colchones/king/konig/1/"
                 }
             ],
             "tipo-de-envio": "Gratis",
@@ -691,7 +691,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "yurmale",
-            "ruta": "/productos/colchones/2-plazas/yurmale/",
+            "ruta": "/productos/colchones/2-plazas/yurmale/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO YURMALE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/yurmale/",
             "precioRegular": 1599,
@@ -716,15 +716,15 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/yurmale/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/yurmale/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/yurmale/"
+                    "ruta": "/productos/colchones/queen/yurmale/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/yurmale/"
+                    "ruta": "/productos/colchones/king/yurmale/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",

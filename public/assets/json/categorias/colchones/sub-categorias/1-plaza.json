@@ -3,7 +3,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "adel",
-            "ruta": "/productos/colchones/1-plaza/adel/",
+            "ruta": "/productos/colchones/1-plaza/adel/1/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 1 PLAZA",
             "fotos": "/assets/imagenes/productos/colchones/adel/",
             "precioRegular": 425,
@@ -28,11 +28,11 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/adel/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/adel/1/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/adel/"
+                    "ruta": "/productos/colchones/2-plazas/adel/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -59,7 +59,7 @@
         {
             "categoria": "colchones",
             "modelo": "der pinz",
-            "ruta": "/productos/colchones/1-plaza/der-prinz/",
+            "ruta": "/productos/colchones/1-plaza/der-prinz/1/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ 1 PLAZA",
             "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
             "precioRegular": 720,
@@ -84,19 +84,19 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/1/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/der-prinz/"
+                    "ruta": "/productos/colchones/2-plazas/der-prinz/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/der-prinz/"
+                    "ruta": "/productos/colchones/queen/der-prinz/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/der-prinz/"
+                    "ruta": "/productos/colchones/king/der-prinz/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
@@ -124,7 +124,7 @@
         {
             "categoria": "colchones",
             "subcategoria": "sarki",
-            "ruta": "/productos/colchones/1-plaza/sarki/",
+            "ruta": "/productos/colchones/1-plaza/sarki/1/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 1 PLAZA",
             "fotos": "/assets/imagenes/productos/colchones/sarki/",
             "precioRegular": 575,
@@ -147,23 +147,23 @@
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/"
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/1/"
                 },
                 {
                     "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/sarki/"
+                    "ruta": "/productos/colchones/2-plazas/sarki/1/"
                 },
                 {
                     "nombre": "Queen",
-                    "ruta": "/productos/colchones/queen/sarki/"
+                    "ruta": "/productos/colchones/queen/sarki/1/"
                 },
                 {
                     "nombre": "King",
-                    "ruta": "/productos/colchones/king/sarki/"
+                    "ruta": "/productos/colchones/king/sarki/1/"
                 },
                 {
                     "nombre": "4 plazas",
-                    "ruta": "/productos/colchones/4-plazas/sarki/"
+                    "ruta": "/productos/colchones/4-plazas/sarki/1/"
                 }
             ],
             "tipo-de-envio": "Envío preferente",
