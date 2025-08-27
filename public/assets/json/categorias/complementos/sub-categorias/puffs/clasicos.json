@@ -1,11 +1,10 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/1/",
+            "ruta": "/productos/complementos/puffs/clasicos/1/",
             "nombre": "PUFF CLÁSICO - ARENA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/1/",
             "colores": "si",
@@ -18,9 +17,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -28,9 +27,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -51,11 +50,10 @@
             ]
         },
         {
-            "id": 2,
-            "categoria": "complementos",
+             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/2/",
+            "ruta": "/productos/complementos/puffs/clasicos/2/",
             "nombre": "PUFF CLÁSICO - AZUL",
             "fotos": "/assets/imagenes/productos/complementos/puffs/2/",
             "colores": "si",
@@ -68,9 +66,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -78,9 +76,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -101,11 +99,10 @@
             ]
         },
         {
-            "id": 3,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/3/",
+            "ruta": "/productos/complementos/puffs/clasicos/3/",
             "nombre": "PUFF CLÁSICO - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/complementos/puffs/3/",
             "colores": "si",
@@ -118,9 +115,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -128,9 +125,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -151,11 +148,10 @@
             ]
         },
         {
-            "id": 4,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/4/",
+            "ruta": "/productos/complementos/puffs/clasicos/4/",
             "nombre": "PUFF CLÁSICO - BEIGE CLARO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/4/",
             "colores": "si",
@@ -168,9 +164,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -178,9 +174,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -201,11 +197,10 @@
             ]
         },
         {
-            "id": 5,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/5/",
+            "ruta": "/productos/complementos/puffs/clasicos/5/",
             "nombre": "PUFF CLÁSICO - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/5/",
             "colores": "si",
@@ -218,9 +213,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -228,9 +223,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -251,11 +246,10 @@
             ]
         },
         {
-            "id": 6,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/6/",
+            "ruta": "/productos/complementos/puffs/clasicos/6/",
             "nombre": "PUFF CLÁSICO - BEIGE",
             "fotos": "/assets/imagenes/productos/complementos/puffs/6/",
             "colores": "si",
@@ -268,9 +262,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -278,9 +272,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -301,11 +295,10 @@
             ]
         },
         {
-            "id": 7,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/7/",
+            "ruta": "/productos/complementos/puffs/clasicos/7/",
             "nombre": "PUFF CLÁSICO - COBALTO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/7/",
             "colores": "si",
@@ -318,9 +311,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -328,9 +321,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -351,11 +344,10 @@
             ]
         },
         {
-            "id": 8,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/8/",
+            "ruta": "/productos/complementos/puffs/clasicos/8/",
             "nombre": "PUFF CLÁSICO - FUCSIA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/8/",
             "colores": "si",
@@ -368,9 +360,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -378,9 +370,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -401,11 +393,10 @@
             ]
         },
         {
-            "id": 9,
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/9/",
+            "ruta": "/productos/complementos/puffs/clasicos/9/",
             "nombre": "PUFF CLÁSICO - LILA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/9/",
             "colores": "si",
@@ -418,9 +409,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -428,9 +419,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -455,7 +446,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/10/",
+            "ruta": "/productos/complementos/puffs/clasicos/10/",
             "nombre": "PUFF CLÁSICO - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/10/",
             "colores": "si",
@@ -468,9 +459,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -478,9 +469,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -505,7 +496,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/11/",
+            "ruta": "/productos/complementos/puffs/clasicos/11/",
             "nombre": "PUFF CLÁSICO - TURQUESA ÓPALO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/11/",
             "colores": "si",
@@ -518,9 +509,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -528,9 +519,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -555,7 +546,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/12/",
+            "ruta": "/productos/complementos/puffs/clasicos/12/",
             "nombre": "PUFF CLÁSICO - VERDE",
             "fotos": "/assets/imagenes/productos/complementos/puffs/12/",
             "colores": "si",
@@ -568,9 +559,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -578,9 +569,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -605,7 +596,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/13/",
+            "ruta": "/productos/complementos/puffs/clasicos/13/",
             "nombre": "PUFF CLÁSICO - VERDE LORO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/13/",
             "colores": "si",
@@ -618,9 +609,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -628,9 +619,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -655,7 +646,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/14/",
+            "ruta": "/productos/complementos/puffs/clasicos/14/",
             "nombre": "PUFF CLÁSICO - VINO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/14/",
             "colores": "si",
@@ -668,9 +659,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -678,9 +669,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -705,7 +696,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/15/",
+            "ruta": "/productos/complementos/puffs/clasicos/15/",
             "nombre": "PUFF CLÁSICO - MELÓN",
             "fotos": "/assets/imagenes/productos/complementos/puffs/15/",
             "colores": "si",
@@ -718,9 +709,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -728,9 +719,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -755,7 +746,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/16/",
+            "ruta": "/productos/complementos/puffs/clasicos/16/",
             "nombre": "PUFF CLÁSICO - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/complementos/puffs/16/",
             "colores": "si",
@@ -768,9 +759,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -778,9 +769,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -805,7 +796,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/17/",
+            "ruta": "/productos/complementos/puffs/clasicos/17/",
             "nombre": "PUFF CLÁSICO - NEGRO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/17/",
             "colores": "si",
@@ -818,9 +809,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -828,9 +819,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -855,7 +846,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/18/",
+            "ruta": "/productos/complementos/puffs/clasicos/18/",
             "nombre": "PUFF CLÁSICO - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/complementos/puffs/18/",
             "colores": "si",
@@ -868,9 +859,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -878,9 +869,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -905,7 +896,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/19/",
+            "ruta": "/productos/complementos/puffs/clasicos/19/",
             "nombre": "PUFF CLÁSICO - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/19/",
             "colores": "si",
@@ -918,9 +909,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -928,9 +919,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -955,7 +946,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/20/",
+            "ruta": "/productos/complementos/puffs/clasicos/20/",
             "nombre": "PUFF CLÁSICO - UVA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/20/",
             "colores": "si",
@@ -968,9 +959,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -978,9 +969,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -1005,7 +996,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/21/",
+            "ruta": "/productos/complementos/puffs/clasicos/21/",
             "nombre": "PUFF CLÁSICO - VERDE",
             "fotos": "/assets/imagenes/productos/complementos/puffs/21/",
             "colores": "si",
@@ -1018,9 +1009,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -1028,9 +1019,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -1055,7 +1046,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/22/",
+            "ruta": "/productos/complementos/puffs/clasicos/22/",
             "nombre": "PUFF CLÁSICO - PALO ROSA",
             "fotos": "/assets/imagenes/productos/complementos/puffs/22/",
             "colores": "si",
@@ -1068,9 +1059,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -1078,9 +1069,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -1105,7 +1096,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/23/",
+            "ruta": "/productos/complementos/puffs/clasicos/23/",
             "nombre": "PUFF CLÁSICO - ROJO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/23/",
             "colores": "si",
@@ -1118,9 +1109,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -1128,9 +1119,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[
@@ -1155,7 +1146,7 @@
             "categoria": "complementos",
             "subcategoria": "puffs",
             "modelo": "clásicos",
-            "ruta": "/productos/complementos/puffs/24/",
+            "ruta": "/productos/complementos/puffs/clasicos/24/",
             "nombre": "PUFF CLÁSICO - PLOMO",
             "fotos": "/assets/imagenes/productos/complementos/puffs/24/",
             "colores": "si",
@@ -1168,9 +1159,9 @@
             "resumen-del-producto":[
                 {
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "detalles-del-producto":[
@@ -1178,9 +1169,9 @@
                     "subcategoría": "Puffs",
                     "cajones": "No",
                     "modelo": "clásico",
-                    "alto": 37,
-                    "largo": 27,
-                    "ancho": 37
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
                 }
             ],
             "descripciones":[

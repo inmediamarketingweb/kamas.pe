@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "S",
+            "metaTitulo": "Complementos - Cama perro S | Kamas",
+            "ruta": "/productos/complementos/cama-perro/s/"
+        },
+        {
+            "subcategoria": "M",
+            "metaTitulo": "Complementos - Cama perro M | Kamas",
+            "ruta": "/productos/complementos/cama-perro/m/"
+        },
+        {
+            "subcategoria": "L",
+            "metaTitulo": "Complementos - Cama perro L | Kamas",
+            "ruta": "/productos/complementos/cama-perro/l/"
+        },
+        {
+            "subcategoria": "XL",
+            "metaTitulo": "Complementos - Cama perro XL | Kamas",
+            "ruta": "/productos/complementos/cama-perro/xl/"
+        },
+        {
+            "subcategoria": "XXL",
+            "metaTitulo": "Complementos - Cama perro XXL | Kamas",
+            "ruta": "/productos/complementos/cama-perro/xxl/"
+        }
+    ]
+}

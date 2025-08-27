@@ -1,0 +1,19 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clasicos",
+            "metaTitulo": "Complementos - Veladores clasicos | Kamas",
+            "ruta": "/productos/complementos/veladores/clasicos/"
+        },
+        {
+            "subcategoria": "Shelter",
+            "metaTitulo": "Complementos - Veladores Shelter | Kamas",
+            "ruta": "/productos/complementos/veladores/shelter/"
+        },
+        {
+            "subcategoria": "Vintage",
+            "metaTitulo": "Complementos - Veladores vintage | Kamas",
+            "ruta": "/productos/complementos/veladores/vintage/"
+        }
+    ]
+}
