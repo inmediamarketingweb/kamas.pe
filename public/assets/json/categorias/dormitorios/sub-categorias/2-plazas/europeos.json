@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 15,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -10,12 +9,12 @@
             "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/adel/pedestales/brazos-rectos/emperatriz/1/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 809,
-            "precioVenta": 949,
+            "precioRegular": 1499,
+            "precioNormal": 1199,
+            "precioVenta": 899,
             "stock": 23,
             "sku": "K332213N10",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
             "regalos":[
                 {
                     "texto": "1 almohada",
@@ -89,8 +88,8 @@
                 }
             ]
         },
+
         {
-            "id": 16,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -99,8 +98,8 @@
             "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1639,
+            "precioRegular": 1999,
+            "precioNormal": 1699,
             "precioVenta": 1299,
             "stock": 23,
             "sku": "K332273N10",
@@ -180,8 +179,8 @@
                 }
             ]
         },
+
         {
-            "id": 17,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -190,9 +189,9 @@
             "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CUADROS 1 CON MARCO - HUESO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/safynnte/aereas-con-patas/con-marco/sin-brazos/cuadros-2/1/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1439,
-            "precioVenta": 1099,
+            "precioRegular": 2009,
+            "precioNormal": 1519,
+            "precioVenta": 1119,
             "stock": 23,
             "sku": "K332244N10",
             "tipo-de-envio": "Gratis",
@@ -270,8 +269,8 @@
                 }
             ]
         },
+
         {
-            "id": 18,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -280,9 +279,9 @@
             "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - HUESO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-1/1/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1439,
-            "precioVenta": 1049,
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 1059,
             "stock": 23,
             "sku": "K332234N10",
             "tipo-de-envio": "Gratis",
@@ -360,8 +359,8 @@
                 }
             ]
         },
+
         {
-            "id": 19,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -451,7 +450,6 @@
             ]
         },
         {
-            "id": 20,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -541,7 +539,6 @@
             ]
         },
         {
-            "id": 21,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
@@ -631,7 +628,6 @@
             ]
         },
         {
-            "id": 22,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "2 plazas",
