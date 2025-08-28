@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 276,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -88,7 +87,6 @@
             ]
         },
         {
-            "id": 285,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -98,8 +96,8 @@
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/aereas-con-patas/americanas/sin-brazos/lineal/1/", 
             "colores": "si",
             "precioRegular": 1459,
-            "precioNormal": 1019,
-            "precioVenta": 729,
+            "precioNormal": 1029,
+            "precioVenta": 779,
             "stock": 13,
             "sku": "K3215223N10",
             "tipo-de-envio": "Gratis",
@@ -176,7 +174,6 @@
             ]
         },
         {
-            "id": 286,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -185,9 +182,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - UVA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/1/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N10",
             "tipo-de-envio": "Gratis",
@@ -264,7 +261,6 @@
             ]
         },
         {
-            "id": 287,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -273,9 +269,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/2/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N11",
             "tipo-de-envio": "Gratis",
@@ -352,7 +348,6 @@
             ]
         },
         {
-            "id": 288,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -361,9 +356,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/3/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N12",
             "tipo-de-envio": "Gratis",
@@ -440,7 +435,6 @@
             ]
         },
         {
-            "id": 289,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -449,9 +443,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VERDE JADE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/4/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N13",
             "tipo-de-envio": "Gratis",
@@ -528,7 +522,6 @@
             ]
         },
         {
-            "id": 290,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -537,9 +530,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/5/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N14",
             "tipo-de-envio": "Gratis",
@@ -616,7 +609,6 @@
             ]
         },
         {
-            "id": 291,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -625,9 +617,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/6/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N15",
             "tipo-de-envio": "Gratis",
@@ -704,7 +696,6 @@
             ]
         },
         {
-            "id": 292,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -713,9 +704,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/7/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N16",
             "tipo-de-envio": "Gratis",
@@ -792,7 +783,6 @@
             ]
         },
         {
-            "id": 293,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -801,9 +791,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/8/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N17",
             "tipo-de-envio": "Gratis",
@@ -880,7 +870,6 @@
             ]
         },
         {
-            "id": 294,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -889,9 +878,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/9/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1229,
-            "precioVenta": 929,
+            "precioRegular": 1549,
+            "precioNormal": 1299,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K3215225N18",
             "tipo-de-envio": "Gratis",
@@ -968,7 +957,6 @@
             ]
         },
         {
-            "id": 295,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -977,9 +965,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1219,
-            "precioVenta": 929,
+            "precioRegular": 1629,
+            "precioNormal": 1319,
+            "precioVenta": 999,
             "stock": 13,
             "sku": "K3215243N10",
             "tipo-de-envio": "Gratis",
@@ -1055,19 +1043,19 @@
                 }
             ]
         },
+
         {
-            "id": 296,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/1/",
-            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR SHELTER - ARENA",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 1 VELADOR SHELTER - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1649,
-            "precioVenta": 1219,
+            "precioRegular": 1699,
+            "precioNormal": 1489,
+            "precioVenta": 1079,
             "stock": 13,
             "sku": "K3215233N10",
             "tipo-de-envio": "Gratis",
@@ -1143,8 +1131,8 @@
                 }
             ]
         },
+
         {
-            "id": 297,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1153,9 +1141,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 2 VELADOR VINTAGE - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1519,
-            "precioVenta": 1118,
+            "precioRegular": 1659,
+            "precioNormal": 1469,
+            "precioVenta": 1119,
             "stock": 13,
             "sku": "K3215233N11",
             "tipo-de-envio": "Gratis",
@@ -1231,18 +1219,18 @@
                 }
             ]
         },
+
         {
-            "id": 298,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/3/",
-            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO - MORO",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/clasicas/sin-brazos/clasica-2/1/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
+            "precioRegular": 1499,
+            "precioNormal": 1259,
             "precioVenta": 839,
             "stock": 13,
             "sku": "K3215232N10",
@@ -1319,8 +1307,8 @@
                 }
             ]
         },
+
         {
-            "id": 299,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1329,9 +1317,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/coronas/sin-brazos/capitoneado/1/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 970,
+            "precioRegular": 1699,
+            "precioNormal": 1259,
+            "precioVenta": 919,
             "stock": 13,
             "sku": "K3215234N10",
             "tipo-de-envio": "Gratis",
@@ -1407,19 +1395,19 @@
                 }
             ]
         },
+
         {
-            "id": 300,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/5/",
-            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CuADROS 2 + 2 VELADORES VINTAGE - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CUADROS 2 + 2 VELADORES VINTAGE - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/bloques/brazos-rectos/cuadros-2/1/", 
             "colores": "si",
-            "precioRegular": 1859,
-            "precioNormal": 1629,
-            "precioVenta": 1239,
+            "precioRegular": 1769,
+            "precioNormal": 1639,
+            "precioVenta": 1279,
             "stock": 13,
             "sku": "K3215236N10",
             "tipo-de-envio": "Gratis",
@@ -1495,8 +1483,8 @@
                 }
             ]
         },
+
         {
-            "id": 301,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1505,9 +1493,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/1/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 779,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N11",
             "tipo-de-envio": "Gratis",
@@ -1584,7 +1572,6 @@
             ]
         },
         {
-            "id": 302,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1593,9 +1580,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/2/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N12",
             "tipo-de-envio": "Gratis",
@@ -1672,7 +1659,6 @@
             ]
         },
         {
-            "id": 303,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1681,9 +1667,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/3/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N13",
             "tipo-de-envio": "Gratis",
@@ -1760,7 +1746,6 @@
             ]
         },
         {
-            "id": 304,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1769,9 +1754,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/4/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N14",
             "tipo-de-envio": "Gratis",
@@ -1848,7 +1833,6 @@
             ]
         },
         {
-            "id": 305,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1857,9 +1841,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/5/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N15",
             "tipo-de-envio": "Gratis",
@@ -1936,7 +1920,6 @@
             ]
         },
         {
-            "id": 306,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -1945,9 +1928,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/6/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N16",
             "tipo-de-envio": "Gratis",
@@ -2024,18 +2007,17 @@
             ]
         },
         {
-            "id": 307,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/12/",
-            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSIA 1 - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - TURQUESA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/7/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N17",
             "tipo-de-envio": "Gratis",
@@ -2112,7 +2094,6 @@
             ]
         },
         {
-            "id": 308,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2121,9 +2102,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/8/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1159,
-            "precioVenta": 839,
+            "precioRegular": 1559,
+            "precioNormal": 1369,
+            "precioVenta": 939,
             "stock": 13,
             "sku": "K3215232N18",
             "tipo-de-envio": "Gratis",
@@ -2199,8 +2180,8 @@
                 }
             ]
         },
+
         {
-            "id": 309,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2209,9 +2190,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/1/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N10",
             "tipo-de-envio": "Gratis",
@@ -2288,7 +2269,6 @@
             ]
         },
         {
-            "id": 310,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2297,9 +2277,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/2/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N11",
             "tipo-de-envio": "Gratis",
@@ -2376,7 +2356,6 @@
             ]
         },
         {
-            "id": 311,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2385,9 +2364,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/3/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N12",
             "tipo-de-envio": "Gratis",
@@ -2464,7 +2443,6 @@
             ]
         },
         {
-            "id": 312,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2473,9 +2451,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/4/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N13",
             "tipo-de-envio": "Gratis",
@@ -2552,7 +2530,6 @@
             ]
         },
         {
-            "id": 313,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2561,9 +2538,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/5/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N14",
             "tipo-de-envio": "Gratis",
@@ -2640,7 +2617,6 @@
             ]
         },
         {
-            "id": 314,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2649,9 +2625,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/6/", 
             "colores": "si",
-            "precioRegular": 1759,
-            "precioNormal": 1319,
-            "precioVenta": 1029,
+            "precioRegular": 1459,
+            "precioNormal": 1339,
+            "precioVenta": 1039,
             "stock": 13,
             "sku": "K3215235N15",
             "tipo-de-envio": "Gratis",
@@ -2727,8 +2703,8 @@
                 }
             ]
         },
+    
         {
-            "id": 315,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2737,9 +2713,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL + 2 VELADOR SHELTER - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/1/", 
             "colores": "si",
-            "precioRegular": 1959,
-            "precioNormal": 2129,
-            "precioVenta": 1659,
+            "precioRegular": 2109,
+            "precioNormal": 1999,
+            "precioVenta": 1509,
             "stock": 13,
             "sku": "K3215235N16",
             "tipo-de-envio": "Gratis",
@@ -2816,7 +2792,6 @@
             ]
         },
         {
-            "id": 316,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "1 plaza y media",
@@ -2825,9 +2800,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL + 2 VELADOR SHELTER - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/2/", 
             "colores": "si",
-            "precioRegular": 1959,
-            "precioNormal": 2129,
-            "precioVenta": 1659,
+            "precioRegular": 2109,
+            "precioNormal": 1999,
+            "precioVenta": 1509,
             "stock": 13,
             "sku": "K3215235N17",
             "tipo-de-envio": "Gratis",
@@ -2904,18 +2879,16 @@
             ]
         },
         {
-            "id": 317,
             "categoria": "dormitorios",
             "linea": "americanos",
-            "tamaño": "1 plaza y media",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/22/",
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL + 2 VELADOR SHELTER - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/3/", 
             "colores": "si",
-            "precioRegular": 1959,
-            "precioNormal": 2129,
-            "precioVenta": 1659,
+            "precioRegular": 2109,
+            "precioNormal": 1999,
+            "precioVenta": 1509,
             "stock": 13,
             "sku": "K3215235N18",
             "tipo-de-envio": "Gratis",
