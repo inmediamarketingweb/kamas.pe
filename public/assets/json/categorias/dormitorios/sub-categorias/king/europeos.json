@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -10,9 +9,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - TURQUESA",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N10",
             "tipo-de-envio": "Gratis",
@@ -96,7 +95,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -105,9 +103,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N11",
             "tipo-de-envio": "Gratis",
@@ -191,7 +189,6 @@
             ]
         },
         {
-            "id": 3,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -200,9 +197,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N12",
             "tipo-de-envio": "Gratis",
@@ -286,7 +283,6 @@
             ]
         },
         {
-            "id": 4,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -295,9 +291,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N13",
             "tipo-de-envio": "Gratis",
@@ -381,7 +377,6 @@
             ]
         },
         {
-            "id": 5,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -390,9 +385,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N14",
             "tipo-de-envio": "Gratis",
@@ -476,7 +471,6 @@
             ]
         },
         {
-            "id": 6,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -485,9 +479,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2099,
-            "precioVenta": 1749,
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
             "stock": 23,
             "sku": "K334233N16",
             "tipo-de-envio": "Gratis",
@@ -570,8 +564,8 @@
                 }
             ]
         },
+
         {
-            "id": 8,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -580,9 +574,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/1/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N10",
             "tipo-de-envio": "Gratis",
@@ -668,7 +662,6 @@
             ]
         },
         {
-            "id": 9,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -677,9 +670,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/2/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N11",
             "tipo-de-envio": "Gratis",
@@ -765,7 +758,6 @@
             ]
         },
         {
-            "id": 10,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -774,9 +766,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/3/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N12",
             "tipo-de-envio": "Gratis",
@@ -862,7 +854,6 @@
             ]
         },
         {
-            "id": 11,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -871,9 +862,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - LILA",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/4/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N13",
             "tipo-de-envio": "Gratis",
@@ -1056,7 +1047,6 @@
             ]
         },
         {
-            "id": 13,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -1065,9 +1055,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - AZUL ELÉCTRICO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/6/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N15",
             "tipo-de-envio": "Gratis",
@@ -1153,7 +1143,6 @@
             ]
         },
         {
-            "id": 14,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -1162,9 +1151,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL BLOQUES - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/7/",
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 3519,
-            "precioVenta": 2549,
+            "precioRegular": 3299,
+            "precioNormal": 3099,
+            "precioVenta": 2649,
             "stock": 23,
             "sku": "K3342116N16",
             "tipo-de-envio": "Gratis",
@@ -1249,8 +1238,8 @@
                 }
             ]
         },
+
         {
-            "id": 23,
             "categoria": "dormitorios",
             "subcategoria": "europeos",
             "tamaño": "king",
@@ -1259,9 +1248,9 @@
             "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL PRINCESA - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/rucay/pedestales/coronas/brazos-rectos/princesa/1/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1429,
-            "precioVenta": 1099,
+            "precioRegular": 3289,
+            "precioNormal": 2799,
+            "precioVenta": 1979,
             "stock": 23,
             "sku": "K334225N10",
             "tipo-de-envio": "Gratis",
