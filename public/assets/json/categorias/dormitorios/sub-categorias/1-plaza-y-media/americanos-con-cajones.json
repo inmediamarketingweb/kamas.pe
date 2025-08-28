@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "1 plaza y media",
@@ -10,9 +9,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
-            "precioRegular": 1499,
-            "precioNormal": 1299,
-            "precioVenta": 949,
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 1039,
             "stock": 9,
             "sku": "K3215113N10",
             "tipo-de-envio": "Gratis",
@@ -89,7 +88,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "1 plaza y media",
@@ -98,9 +96,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/2/",
             "colores": "si",
-            "precioRegular": 1429,
+            "precioRegular": 1699,
             "precioNormal": 1399,
-            "precioVenta": 949,
+            "precioVenta": 1039,
             "stock": 9,
             "sku": "K3215113N11",
             "tipo-de-envio": "Gratis",
@@ -177,7 +175,6 @@
             ]
         },
         {
-            "id": 3,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "1 plaza y media",
@@ -186,9 +183,9 @@
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/3/",
             "colores": "si",
-            "precioRegular": 1429,
-            "precioNormal": 1249,
-            "precioVenta": 949,
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 1039,
             "stock": 9,
             "sku": "K3215113N12",
             "tipo-de-envio": "Gratis",
