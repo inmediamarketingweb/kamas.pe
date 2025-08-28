@@ -1,7 +1,791 @@
 {
    "productos":[
         {
-            "id": 1,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 1 - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/clasicas/sin-brazos/clasica-2/1/", 
+            "colores": "si",
+            "precioRegular": 1609,
+            "precioNormal": 1259,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K322232N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/6/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/1/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/7/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/2/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Cuero brescia",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/3/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/4/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/10/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/5/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Cuero brescia",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/11/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/6/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Cuero brescia",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/12/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/7/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/13/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/8/", 
+            "colores": "si",
+            "precioRegular": 1699,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322232N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -10,12 +794,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N10",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -88,7 +872,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -97,12 +880,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - MORADO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/2/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N11",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -175,7 +958,6 @@
             ]
         },
         {
-            "id": 3,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -184,12 +966,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/3/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N12",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -262,7 +1044,6 @@
             ]
         },
         {
-            "id": 4,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -271,12 +1052,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/4/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N13",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -349,7 +1130,6 @@
             ]
         },
         {
-            "id": 5,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -358,12 +1138,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/5/",
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N14",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -436,7 +1216,6 @@
             ]
         },
         {
-            "id": 6,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -445,12 +1224,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - TURQUESA",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/6/",
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N15",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -523,7 +1302,6 @@
             ]
         },
         {
-            "id": 7,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -532,12 +1310,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/7/",
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N16",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -610,7 +1388,6 @@
             ]
         },
         {
-            "id": 8,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -619,12 +1396,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - GRIS",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/8/",
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 849,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K312212N17",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -697,21 +1474,20 @@
             ]
         },
         {
-            "id": 9,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
             "modelo": "adel",
             "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/9/",
-            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AEREA CLASICA 2 - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CLÁSICA 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-2/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 959,
-            "precioVenta": 749,
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 699,
             "stock": 13,
             "sku": "K312212N18",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -783,8 +1559,8 @@
                 }
             ]
         },
+
         {
-            "id": 10,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -793,9 +1569,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/1/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N10",
             "tipo-de-envio": "Gratis",
@@ -872,7 +1648,6 @@
             ]
         },
         {
-            "id": 11,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -881,9 +1656,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/2/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N11",
             "tipo-de-envio": "Gratis",
@@ -960,7 +1735,6 @@
             ]
         },
         {
-            "id": 12,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -969,9 +1743,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/3/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N12",
             "tipo-de-envio": "Gratis",
@@ -1048,7 +1822,6 @@
             ]
         },
         {
-            "id": 13,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1057,9 +1830,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - VINO CLARO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/4/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N13",
             "tipo-de-envio": "Gratis",
@@ -1136,7 +1909,6 @@
             ]
         },
         {
-            "id": 14,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1145,9 +1917,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/5/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N14",
             "tipo-de-envio": "Gratis",
@@ -1224,7 +1996,6 @@
             ]
         },
         {
-            "id": 15,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1233,9 +2004,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/6/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N15",
             "tipo-de-envio": "Gratis",
@@ -1312,7 +2083,6 @@
             ]
         },
         {
-            "id": 16,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1321,9 +2091,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/7/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N16",
             "tipo-de-envio": "Gratis",
@@ -1400,7 +2170,6 @@
             ]
         },
         {
-            "id": 17,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1409,9 +2178,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/8/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N17",
             "tipo-de-envio": "Gratis",
@@ -1488,7 +2257,6 @@
             ]
         },
         {
-            "id": 18,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1497,9 +2265,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - TURQUESA",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/9/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N18",
             "tipo-de-envio": "Gratis",
@@ -1576,7 +2344,6 @@
             ]
         },
         {
-            "id": 19,
             "categoria": "dormitorios",
             "linea": "clásicos",
             "tamaño": "2 plazas",
@@ -1585,9 +2352,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/10/", 
             "colores": "si",
-            "precioRegular": 1479,
-            "precioNormal": 1159,
-            "precioVenta": 999,
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
             "stock": 13,
             "sku": "K312222N19",
             "tipo-de-envio": "Gratis",

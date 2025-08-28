@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 277,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -10,12 +9,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N10",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -88,7 +87,6 @@
             ]
         },
         {
-            "id": 278,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -97,12 +95,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/2/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N11",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -175,7 +173,6 @@
             ]
         },
         {
-            "id": 279,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -184,12 +181,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/3/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N12",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -262,7 +259,6 @@
             ]
         },
         {
-            "id": 280,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -271,12 +267,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/4/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N13",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -349,7 +345,6 @@
             ]
         },
         {
-            "id": 281,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -358,12 +353,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/5/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N14",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -436,7 +431,6 @@
             ]
         },
         {
-            "id": 282,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -445,12 +439,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/6/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N15",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -523,7 +517,6 @@
             ]
         },
         {
-            "id": 283,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -532,12 +525,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - UVA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/7/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 999,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
             "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N16",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -610,7 +603,6 @@
             ]
         },
         {
-            "id": 284,
             "categoria": "dormitorios",
             "linea": "americanos",
             "tamaño": "2 plazas",
@@ -619,12 +611,12 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES LATERALES - CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/pedestales/americanas/brazos-rectos/emperatriz/1/", 
             "colores": "si",
-            "precioRegular": 1459,
-            "precioNormal": 1119,
-            "precioVenta": 899,
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
             "stock": 13,
             "sku": "K322113N17",
-            "tipo-de-envio": "Gratis",
+            "tipo-de-envio": "Envío preferente",
               "regalos":[
                 {
                     "texto": "1 almohada",
@@ -696,8 +688,8 @@
                 }
             ]
         },
+    
         {
-            "id": 18,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -788,7 +780,6 @@
             ]
         },
         {
-            "id": 19,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -879,7 +870,6 @@
             ]
         },
         {
-            "id": 20,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -970,7 +960,6 @@
             ]
         },
         {
-            "id": 21,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1061,7 +1050,6 @@
             ]
         },
         {
-            "id": 22,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1152,7 +1140,6 @@
             ]
         },
         {
-            "id": 23,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1243,7 +1230,6 @@
             ]
         },
         {
-            "id": 24,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1334,7 +1320,6 @@
             ]
         },
         {
-            "id": 25,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1425,7 +1410,6 @@
             ]
         },
         {
-            "id": 26,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1516,7 +1500,6 @@
             ]
         },
         {
-            "id": 27 ,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1607,7 +1590,6 @@
             ]
         },
         {
-            "id": 28,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1698,7 +1680,6 @@
             ]
         },
         {
-            "id": 29,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1788,7 +1769,6 @@
             ]
         },
         {
-            "id": 30,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1878,8 +1858,8 @@
                 }
             ]
         },
+
         {
-            "id": 31,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -1890,7 +1870,7 @@
             "colores": "si",
             "precioRegular": 1829,
             "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322175N10",
             "tipo-de-envio": "Gratis",
@@ -3061,7 +3041,6 @@
             ]
         },
         {
-            "id": 44,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3151,8 +3130,8 @@
                 }
             ]
         },
+
         {
-            "id": 45,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3161,9 +3140,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N23",
             "tipo-de-envio": "Gratis",
@@ -3243,7 +3222,6 @@
             ]
         },
         {
-            "id": 46,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3252,9 +3230,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/2/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N24",
             "tipo-de-envio": "Gratis",
@@ -3334,7 +3312,6 @@
             ]
         },
         {
-            "id": 47,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3343,9 +3320,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N25",
             "tipo-de-envio": "Gratis",
@@ -3425,7 +3402,6 @@
             ]
         },
         {
-            "id": 48,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3434,9 +3410,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - LILA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N26",
             "tipo-de-envio": "Gratis",
@@ -3516,7 +3492,6 @@
             ]
         },
         {
-            "id": 49,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3525,9 +3500,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/5/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N27",
             "tipo-de-envio": "Gratis",
@@ -3607,7 +3582,6 @@
             ]
         },
         {
-            "id": 50,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3616,9 +3590,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1899,
+            "precioNormal": 1689,
+            "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N28",
             "tipo-de-envio": "Gratis",
@@ -3697,8 +3671,8 @@
                 }
             ]
         },
+
         {
-            "id": 51,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3707,9 +3681,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1819,
+            "precioNormal": 1159,
+            "precioVenta": 1149,
             "stock": 9,
             "sku": "K322143N10",
             "tipo-de-envio": "Gratis",
@@ -3788,7 +3762,6 @@
             ]
         },
         {
-            "id": 52,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3797,9 +3770,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/2/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1819,
+            "precioNormal": 1159,
+            "precioVenta": 1149,
             "stock": 9,
             "sku": "K322143N11",
             "tipo-de-envio": "Gratis",
@@ -3878,7 +3851,6 @@
             ]
         },
         {
-            "id": 53,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3887,9 +3859,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/3/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1819,
+            "precioNormal": 1159,
+            "precioVenta": 1149,
             "stock": 9,
             "sku": "K322143N12",
             "tipo-de-envio": "Gratis",
@@ -3968,7 +3940,6 @@
             ]
         },
         {
-            "id": 54,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -3977,9 +3948,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - ACERO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/4/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1819,
+            "precioNormal": 1159,
+            "precioVenta": 1149,
             "stock": 9,
             "sku": "K322143N13",
             "tipo-de-envio": "Gratis",
@@ -4058,7 +4029,6 @@
             ]
         },
         {
-            "id": 55,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4067,9 +4037,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/5/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1669,
-            "precioVenta": 1299,
+            "precioRegular": 1819,
+            "precioNormal": 1159,
+            "precioVenta": 1149,
             "stock": 9,
             "sku": "K322143N14",
             "tipo-de-envio": "Gratis",
@@ -4147,8 +4117,8 @@
                 }
             ]
         },
+
         {
-            "id": 56,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4157,9 +4127,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N10",
             "tipo-de-envio": "Gratis",
@@ -4238,7 +4208,6 @@
             ]
         },
         {
-            "id": 57,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4247,9 +4216,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N11",
             "tipo-de-envio": "Gratis",
@@ -4328,7 +4297,6 @@
             ]
         },
         {
-            "id": 58,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4337,9 +4305,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - PLOMO AZULADO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
             "colores": "si",
-            "precioRegular": 2129,
-            "precioNormal": 1829,
-            "precioVenta": 1419,
+            "precioRegular": 1829,
+            "precioNormal": 1689,
+            "precioVenta": 1349,
             "stock": 9,
             "sku": "K322133N12",
             "tipo-de-envio": "Gratis",
@@ -4418,7 +4386,6 @@
             ]
         },
         {
-            "id": 59,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4427,9 +4394,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N13",
             "tipo-de-envio": "Gratis",
@@ -4508,7 +4475,6 @@
             ]
         },
         {
-            "id": 60,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4517,9 +4483,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
             "colores": "si",
-            "precioRegular": 2129,
-            "precioNormal": 1829,
-            "precioVenta": 1419,
+            "precioRegular": 1829,
+            "precioNormal": 1689,
+            "precioVenta": 1349,
             "stock": 9,
             "sku": "K322133N14",
             "tipo-de-envio": "Gratis",
@@ -4598,7 +4564,6 @@
             ]
         },
         {
-            "id": 61,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4607,9 +4572,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N15",
             "tipo-de-envio": "Gratis",
@@ -4688,7 +4653,6 @@
             ]
         },
         {
-            "id": 62,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4697,9 +4661,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N16",
             "tipo-de-envio": "Gratis",
@@ -4778,7 +4742,6 @@
             ]
         },
         {
-            "id": 63,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4787,9 +4750,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
             "colores": "si",
-            "precioRegular": 2129,
-            "precioNormal": 1829,
-            "precioVenta": 1419,
+            "precioRegular": 1829,
+            "precioNormal": 1689,
+            "precioVenta": 1349,
             "stock": 9,
             "sku": "K322133N17",
             "tipo-de-envio": "Gratis",
@@ -4868,7 +4831,6 @@
             ]
         },
         {
-            "id": 64,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -4877,9 +4839,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/9/",
             "colores": "si",
-            "precioRegular": 1829,
-            "precioNormal": 1469,
-            "precioVenta": 1139,
+            "precioRegular": 1699,
+            "precioNormal": 1499,
+            "precioVenta": 1179,
             "stock": 9,
             "sku": "K322133N18",
             "tipo-de-envio": "Gratis",
@@ -4957,19 +4919,19 @@
                 }
             ]
         },
+
         {
-            "id": 65,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/10/",
-            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/1/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N10",
             "tipo-de-envio": "Gratis",
@@ -5048,7 +5010,6 @@
             ]
         },
         {
-            "id": 66,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5057,9 +5018,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/2/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N11",
             "tipo-de-envio": "Gratis",
@@ -5138,7 +5099,6 @@
             ]
         },
         {
-            "id": 67,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5147,9 +5107,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/3/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N12",
             "tipo-de-envio": "Gratis",
@@ -5237,9 +5197,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - LILA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/4/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N13",
             "tipo-de-envio": "Gratis",
@@ -5318,7 +5278,6 @@
             ]
         },
         {
-            "id": 69,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5327,9 +5286,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/5/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N14",
             "tipo-de-envio": "Gratis",
@@ -5408,7 +5367,6 @@
             ]
         },
         {
-            "id": 70,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5417,9 +5375,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/6/",
             "colores": "si",
-            "precioRegular": 1629,
-            "precioNormal": 1279,
-            "precioVenta": 999,
+            "precioRegular": 1969,
+            "precioNormal": 1479,
+            "precioVenta": 1049,
             "stock": 9,
             "sku": "K322134N15",
             "tipo-de-envio": "Gratis",
@@ -5497,8 +5455,8 @@
                 }
             ]
         },
+
         {
-            "id": 71,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5508,7 +5466,7 @@
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "colores": "si",
             "precioRegular": 1629,
-            "precioNormal": 1589,
+            "precioNormal": 1479,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322133N19",
@@ -5587,19 +5545,19 @@
                 }
             ]
         },
+
         {
-            "id": 72,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/17/",
-            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 2 VELADOR VINTAGE - NEGRO",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/2/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1979,
-            "precioVenta": 1549,
+            "precioRegular": 2099,
+            "precioNormal": 1949,
+            "precioVenta": 1439,
             "stock": 9,
             "sku": "K322133N20",
             "tipo-de-envio": "Gratis",
@@ -5678,7 +5636,6 @@
             ]
         },
         {
-            "id": 73,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5687,9 +5644,9 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 2 VELADOR VINTAGE - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/3/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1979,
-            "precioVenta": 1549,
+            "precioRegular": 2099,
+            "precioNormal": 1949,
+            "precioVenta": 1439,
             "stock": 9,
             "sku": "K322133N21",
             "tipo-de-envio": "Gratis",
@@ -5767,8 +5724,8 @@
                 }
             ]
         },
+
         {
-            "id": 74,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5777,8 +5734,8 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/4/",
             "colores": "si",
-            "precioRegular": 2589,
-            "precioNormal": 1979,
+            "precioRegular": 1629,
+            "precioNormal": 1479,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322133N22",
@@ -5858,7 +5815,6 @@
             ]
         },
         {
-            "id": 75,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5867,8 +5823,8 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/5/",
             "colores": "si",
-            "precioRegular": 1839,
-            "precioNormal": 1499,
+            "precioRegular": 1629,
+            "precioNormal": 1479,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322133N23",
@@ -5947,8 +5903,8 @@
                 }
             ]
         },
+
         {
-            "id": 76,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "2 plazas",
@@ -5957,8 +5913,8 @@
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/1/",
             "colores": "si",
-            "precioRegular": 1839,
-            "precioNormal": 1279,
+            "precioRegular": 1929,
+            "precioNormal": 1599,
             "precioVenta": 1199,
             "stock": 9,
             "sku": "K322133N24",
