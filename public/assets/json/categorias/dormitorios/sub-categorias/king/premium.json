@@ -1,7 +1,6 @@
 {
     "productos":[
         {
-            "id": 1,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -85,7 +84,6 @@
             ]
         },
         {
-            "id": 2,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -174,7 +172,6 @@
             ]
         },
         {
-            "id": 3,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -263,7 +260,6 @@
             ]
         },
         {
-            "id": 4,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -352,7 +348,6 @@
             ]
         },
         {
-            "id": 5,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -441,7 +436,6 @@
             ]
         },
         {
-            "id": 6,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -530,7 +524,6 @@
             ]
         },
         {
-            "id": 7,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -619,7 +612,6 @@
             ]
         },
         {
-            "id": 8,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -708,7 +700,6 @@
             ]
         },
         {
-            "id": 9,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -797,7 +788,6 @@
             ]
         },
         {
-            "id": 10,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -886,7 +876,6 @@
             ]
         },
         {
-            "id": 11,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
@@ -975,7 +964,6 @@
             ]
         },
         {
-            "id": 12,
             "categoria": "dormitorios",
             "linea": "premium",
             "madera": "cedro",
