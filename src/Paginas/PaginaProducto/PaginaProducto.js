@@ -153,7 +153,7 @@ function PaginaProducto(){
     }, []);
 
     const calcularPrecioAjustado = (precioOriginal) => {
-        const precioConDescuento = precioOriginal * 0.9;
+        const precioConDescuento = precioOriginal * 0.95;
         const precioRedondeado = Math.round(precioConDescuento);
         const decenaInferior = Math.floor(precioRedondeado / 10) * 10 - 1;
         const decenaSuperior = Math.ceil(precioRedondeado / 10) * 10 - 1;
