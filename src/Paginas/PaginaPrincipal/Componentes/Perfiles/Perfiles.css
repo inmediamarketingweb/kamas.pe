@@ -77,10 +77,19 @@
     .profiles{
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .profile-card-content > p{
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 600px){
+    .profile{
+        overflow: hidden;
+    }
+
     .profile-card-banner{
+        width: auto !important;
         height: 80px;
     }
 

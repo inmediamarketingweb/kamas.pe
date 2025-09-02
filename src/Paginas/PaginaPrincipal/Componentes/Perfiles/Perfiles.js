@@ -9,6 +9,7 @@ function Perfiles(){
             <div className='block-content'>
                 <div className='d-flex-column gap-10'>
                     <p className='block-title text-left text'>Calidad y respaldo presentes en las principales tiendas del Perú</p>
+
                     <ul className='profiles'>
                         <li className='profile'>
                             <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/homesleep.webp" alt="Homesleep" className="profile-card-banner"/>

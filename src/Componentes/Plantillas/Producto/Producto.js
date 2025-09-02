@@ -10,7 +10,7 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
     const [secondImageError, setSecondImageError] = useState(false);
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const estaEnOfertas = isOfferActive && skusOfertas.includes(producto.sku);
-    const precioFinal = estaEnOfertas ? Math.round(producto.precioVenta * 0.9) : producto.precioVenta;
+    const precioFinal = estaEnOfertas ? Math.round(producto.precioVenta * 0.95) : producto.precioVenta;
 
     const descuentoOriginal = Math.round(
         ((producto.precioNormal - producto.precioVenta) * 100 / producto.precioNormal
