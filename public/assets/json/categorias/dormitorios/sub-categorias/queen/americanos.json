@@ -1280,100 +1280,6 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/15/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/15/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1789,
-            "stock": 9,
-            "sku": "K323233N24",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos//regalos/cojines/rosado.webp"
-                },
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/16/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/16/",
@@ -1504,100 +1410,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/18/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - VINO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/18/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1789,
-            "stock": 9,
-            "sku": "K323233N27",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/18/cojines.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
                 }
             ],
             "descripciones":[
@@ -1839,7 +1651,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/21/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-1/3/",
             "colores": "si",
             "precioRegular": 2399,
@@ -2219,7 +2031,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/25/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-1/7/",
             "colores": "si",
             "precioRegular": 2399,
@@ -2409,7 +2221,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/27/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - COBALTO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-1/10/",
             "colores": "si",
             "precioRegular": 2399,
@@ -3161,7 +2973,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/35/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 1 PUFF - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 1 PUFF - ROSADO BEBE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/cuadros-2/4/",
             "colores": "si",
             "precioRegular": 2399,
@@ -3560,96 +3372,6 @@
                 {
                     "texto": "1 puff",
                     "foto": "/assets/imagenes/productos/regalos/puff/camell.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/40/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/cuadros-2/10/",
-            "colores": "si",
-            "precioRegular": 2399,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 9,
-            "sku": "K323236N17",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -4679,7 +4401,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/51/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - UVA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - LILA FANDANGO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-1/4/",
             "colores": "si",
             "precioRegular": 2399,
@@ -5266,104 +4988,6 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/57/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - MELÓN",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-1/10/",
-            "colores": "si",
-            "precioRegular": 2399,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 9,
-            "sku": "K323236N36",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/melon-1.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/melon.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/58/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - TURQUESA ÓPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-1/11/",
@@ -5659,7 +5283,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/61/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL + 1 PUFF - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-1/14/",
             "colores": "si",
             "precioRegular": 2399,
@@ -6622,104 +6246,6 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/70/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 + 1 PUFF - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-4/3/",
-            "colores": "si",
-            "precioRegular": 2399,
-            "precioNormal": 1999,
-            "precioVenta": 1449,
-            "stock": 9,
-            "sku": "K323236N51",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/fucsia.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/fucsia.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal 4"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal 4"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/71/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 + 1 PUFF - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-4/4/",
@@ -7179,96 +6705,6 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/76/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL HORI - ARENA CLARO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-hori/5/",
-            "colores": "si",
-            "precioRegular": 2499,
-            "precioNormal": 2099,
-            "precioVenta": 1549,
-            "stock": 9,
-            "sku": "K323236N57",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal hori"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal hori"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/77/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL HORI - CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-hori/6/",
@@ -7283,100 +6719,6 @@
                 {
                     "texto": "2 almohadas",
                     "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal hori"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal hori"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/78/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL HORI - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-hori/7/",
-            "colores": "si",
-            "precioRegular": 2499,
-            "precioNormal": 2099,
-            "precioVenta": 1549,
-            "stock": 9,
-            "sku": "K323236N60",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/uva.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -7642,7 +6984,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/81/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL HORI - ROSADO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL HORI - LILA IKER",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-hori/10/",
             "colores": "si",
             "precioRegular": 2499,
@@ -8101,7 +7443,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/86/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK - LILA OSCURO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK - PALO ROSA TEJIDO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/meshlock/4/",
             "colores": "si",
             "precioRegular": 2499,
@@ -8551,7 +7893,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/91/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/meshlock/9/",
             "colores": "si",
             "precioRegular": 2499,
@@ -8912,7 +8254,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/95/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - VERDE LORO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/pisac/1/",
             "colores": "si",
             "precioRegular": 2499,
@@ -9362,7 +8704,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/100/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - ROSADO",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - PALO ROSA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/pisac/6/",
             "colores": "si",
             "precioRegular": 2499,
@@ -9542,7 +8884,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/102/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/pisac/8/",
             "colores": "si",
             "precioRegular": 2499,
@@ -10895,98 +10237,8 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/119/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - ROSADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/8/",
-            "colores": "si",
-            "precioRegular": 2309,
-            "precioNormal": 1959,
-            "precioVenta": 1519,
-            "stock": 9,
-            "sku": "K323234N17",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Con marco",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/120/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/9/",
             "colores": "si",
             "stock": 9,
@@ -11343,98 +10595,8 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/124/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - ROSADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/4/",
-            "colores": "si",
-            "precioRegular": 2509,
-            "precioNormal": 2049,
-            "precioVenta": 1569,
-            "stock": 9,
-            "sku": "K323235N13",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Lineal"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Lineal"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/125/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/5/",
             "colores": "si",
             "precioRegular": 2509,
@@ -11704,7 +10866,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/128/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/8/",
             "colores": "si",
             "precioRegular": 2509,
@@ -12980,98 +12142,8 @@
             "subcategoria": "americanos",
             "tamaño": "queen",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/142/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/12/",
-            "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2109,
-            "precioVenta": 1599,
-            "stock": 9,
-            "sku": "K323233N52",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/143/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/13/",
             "colores": "si",
             "precioRegular": 2599,
@@ -13702,7 +12774,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/150/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/6/",
             "colores": "si",
             "precioRegular": 2999,
@@ -13710,276 +12782,6 @@
             "precioVenta": 1769,
             "stock": 9,
             "sku": "K323233N60",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos seahorse",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/151/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - VERDE LORO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/7/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1769,
-            "stock": 9,
-            "sku": "K323233N61",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos seahorse",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/152/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/8/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1769,
-            "stock": 9,
-            "sku": "K323233N62",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos seahorse",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/153/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - BEIGE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/9/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1769,
-            "stock": 9,
-            "sku": "K323233N63",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -14097,104 +12899,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/155/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - ROJO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/1/",
-            "colores": "si",
-            "precioRegular": 2999,
-            "precioNormal": 2399,
-            "precioVenta": 1769,
-            "stock": 9,
-            "sku": "K323235N20",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/rojo.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/rojo.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Vesso"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos curvos",
-                    "modelo-de-cabecera": "Vesso"
                 }
             ],
             "descripciones":[
@@ -14447,7 +13151,7 @@
             "tamaño": "queen",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/americanos/sarki/158/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - ROSADO BEBÉ",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - LILA IKER",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/4/",
             "colores": "si",
             "precioRegular": 2719,
@@ -14959,104 +13663,6 @@
                 {
                     "texto": "1 puff",
                     "foto": "/assets/imagenes/productos/regalos/puff/beige-claro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Princesa"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos P",
-                    "modelo-de-cabecera": "Princesa"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "queen",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/queen/americanos/sarki/176/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/5/",
-            "colores": "si",
-            "precioRegular": 2879,
-            "precioNormal": 2249,
-            "precioVenta": 1699,
-            "stock": 9,
-            "sku": "K323235N41",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/fucsia.webp"
-                },
-                {
-                    "texto": "1 puff",
-                    "foto": "/assets/imagenes/productos/regalos/puff/fucsia.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -15909,97 +14515,6 @@
             "linea": "americanos",
             "tamaño": "queen",
             "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/queen/americanos/der-prinz/3/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO AZULADO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
-            "colores": "si",
-            "precioRegular": 2329,
-            "precioNormal": 1999,
-            "precioVenta": 1599,
-            "stock": 9,
-            "sku": "K323253N12",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/americanos/der-prinz/5/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
@@ -16184,188 +14699,6 @@
             "linea": "americanos",
             "tamaño": "queen",
             "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/queen/americanos/der-prinz/7/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - FUCSIA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/1/", 
-            "colores": "si",
-            "precioRegular": 2499,
-            "precioNormal": 2109,
-            "precioVenta": 1599,
-            "stock": 9,
-            "sku": "K323253N15",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/queen/americanos/der-prinz/8/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/2/", 
-            "colores": "si",
-            "precioRegular": 2499,
-            "precioNormal": 2109,
-            "precioVenta": 1599,
-            "stock": 9,
-            "sku": "K323253N16",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/americanos/der-prinz/9/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/3/", 
@@ -16458,7 +14791,7 @@
             "tamaño": "queen",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/queen/americanos/der-prinz/10/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/4/", 
             "colores": "si",
             "precioRegular": 2499,
@@ -17742,7 +16075,7 @@
             "tamaño": "queen",
             "modelo": "konig",
             "ruta": "/productos/dormitorios/queen/americanos/konig/9/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/9/", 
             "colores": "si",
             "precioRegular": 3379,
@@ -18019,7 +16352,7 @@
             "tamaño": "queen",
             "modelo": "konig",
             "ruta": "/productos/dormitorios/queen/americanos/konig/12/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE- TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE- TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/3/", 
             "colores": "si",
             "precioRegular": 3819,
@@ -18665,7 +16998,7 @@
             "tamaño": "queen",
             "modelo": "konig",
             "ruta": "/productos/dormitorios/queen/americanos/konig/19/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/11/", 
             "colores": "si",
             "precioRegular": 3799,
@@ -19138,99 +17471,6 @@
             "precioVenta": 1649,
             "stock": 13,
             "sku": "K3232873N14",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Nesie",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "nesie",
-            "ruta": "/productos/dormitorios/queen/americanos/nesie/6/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/6/", 
-            "colores": "si",
-            "precioRegular": 2799,
-            "precioNormal": 2099,
-            "precioVenta": 1649,
-            "stock": 13,
-            "sku": "K3232873N15",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -19865,7 +18105,7 @@
             "tamaño": "queen",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/queen/americanos/ramat/1/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PALO ROSA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/", 
             "colores": "si",
             "precioRegular": 2819,
@@ -19961,7 +18201,7 @@
             "tamaño": "queen",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/queen/americanos/ramat/2/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PLOMO PLATA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - GRIS IKER",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/2/", 
             "colores": "si",
             "precioRegular": 2819,
@@ -20834,190 +19074,6 @@
             "precioVenta": 1849,
             "stock": 13,
             "sku": "K323273N20",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "doble pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "ramat",
-            "ruta": "/productos/dormitorios/queen/americanos/ramat/13/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/", 
-            "colores": "si",
-            "precioRegular": 3129,
-            "precioNormal": 2789,
-            "precioVenta": 1849,
-            "stock": 13,
-            "sku": "K323273N22",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "doble pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "ramat",
-            "ruta": "/productos/dormitorios/queen/americanos/ramat/14/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/", 
-            "colores": "si",
-            "precioRegular": 3129,
-            "precioNormal": 2789,
-            "precioVenta": 1849,
-            "stock": 13,
-            "sku": "K323273N23",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -22612,7 +20668,7 @@
             "tamaño": "queen",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/queen/americanos/ramat/32/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - TURQUESA",
+            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - TURQUESA OPALO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/9/", 
             "colores": "si",
             "precioRegular": 3899,
@@ -22995,102 +21051,6 @@
             "linea": "americanos",
             "tamaño": "queen",
             "modelo": "ramat",
-            "ruta": "/productos/dormitorios/queen/americanos/ramat/36/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/13/", 
-            "colores": "si",
-            "precioRegular": 3899,
-            "precioNormal": 2999,
-            "precioVenta": 2319,
-            "stock": 13,
-            "sku": "K323275N22",
-            "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos curvos",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "doble pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "ramat",
             "ruta": "/productos/dormitorios/queen/americanos/ramat/37/",
             "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/14/", 
@@ -23109,102 +21069,6 @@
                 {
                     "texto": "3 cojines",
                     "foto": "/assets/imagenes/productos/regalos/cojines/arena-claro.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "queen",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos curvos",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "doble pestaña": "Si",
-                            "grosor": "37cm.",
-                            "incorpora": "Sistema PT",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "queen",
-            "modelo": "ramat",
-            "ruta": "/productos/dormitorios/queen/americanos/ramat/38/",
-            "nombre": "DORMITORIO AMERICANO QUEEN + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - BEIGE OSCURO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/15/", 
-            "colores": "si",
-            "precioRegular": 3899,
-            "precioNormal": 2999,
-            "precioVenta": 2319,
-            "stock": 13,
-            "sku": "K323275N24",
-            "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/camell.webp"
                 }
             ],
             "resumen-del-producto":[
