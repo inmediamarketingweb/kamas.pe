@@ -699,69 +699,6 @@
             "categoria": "camas box tarimas",
             "subcategoria": "americanas con cajones",
             "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/12/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - CAMELL",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/7/",
-            "colores": "si",
-            "precioRegular": 1799,
-            "precioNormal": 1849,
-            "precioVenta": 1399,
-            "stock": 15,
-            "sku": "K224123N16",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
-            "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/13/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL LINEAL + 2 CAJONES LATERALES - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/lineal/1/",
@@ -1083,7 +1020,7 @@
             "subcategoria": "americanas con cajones",
             "tamaño": "king",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/18/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - VERDE LORO",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/5/",
             "colores": "si",
             "precioRegular": 1799,
