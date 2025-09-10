@@ -11,6 +11,7 @@ function Slider(){
     const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
     const sliderRef = useRef(null);
     const isTransitioningRef = useRef(false);
+    const [initialDelayPassed, setInitialDelayPassed] = useState(false);
 
     useEffect(() => {
         fetch('/assets/json/paginas/principal/slider.json')
@@ -31,23 +32,30 @@ function Slider(){
         return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    const extendedItems = sliderItems.length > 0 ? [
-        sliderItems[sliderItems.length - 1],
-        ...sliderItems,
-        sliderItems[0]
+    const customSlide = {
+        type: 'custom',
+        id: 'custom-main-slide'
+    };
+
+    const allSlides = [customSlide, ...sliderItems];
+    
+    const extendedItems = allSlides.length > 0 ? [
+        allSlides[allSlides.length - 1],
+        ...allSlides,
+        allSlides[0]
     ] : [];
 
     const totalSlides = extendedItems.length;
 
     const goToSlide = useCallback((newIndex) => {
-        if (isTransitioningRef.current || sliderItems.length <= 1) return;
+        if (isTransitioningRef.current || allSlides.length <= 1) return;
         isTransitioningRef.current = true;
         setIsTransitionEnabled(true);
         setCurrentIndex(newIndex);
-    }, [sliderItems.length]);
+    }, [allSlides.length]);
 
     const goToNextSlide = useCallback(() => {
-        if (sliderItems.length <= 1) return;
+        if (allSlides.length <= 1) return;
 
         const newIndex = currentIndex + 1;
         if (newIndex === totalSlides - 1) {
@@ -55,10 +63,10 @@ function Slider(){
         } else {
             goToSlide(newIndex);
         }
-    }, [currentIndex, sliderItems.length, goToSlide, totalSlides]);
+    }, [currentIndex, allSlides.length, goToSlide, totalSlides]);
 
     const goToPrevSlide = useCallback(() => {
-        if (sliderItems.length <= 1) return;
+        if (allSlides.length <= 1) return;
 
         const newIndex = currentIndex - 1;
         if (newIndex === 0) {
@@ -66,17 +74,27 @@ function Slider(){
         } else {
             goToSlide(newIndex);
         }
-    }, [currentIndex, sliderItems.length, goToSlide]);
+    }, [currentIndex, allSlides.length, goToSlide]);
 
     useEffect(() => {
-        if (sliderItems.length <= 1) return;
+        if (allSlides.length <= 1) return;
+
+        const initialDelayTimer = setTimeout(() => {
+            setInitialDelayPassed(true);
+        }, 10000);
+
+        return () => clearTimeout(initialDelayTimer);
+    }, [allSlides.length]);
+
+    useEffect(() => {
+        if (allSlides.length <= 1 || !initialDelayPassed) return;
 
         const interval = setInterval(() => {
             goToNextSlide();
         }, 10000);
 
         return () => clearInterval(interval);
-    }, [sliderItems.length, goToNextSlide]);
+    }, [allSlides.length, goToNextSlide, initialDelayPassed]);
 
     useEffect(() => {
         const handleTransitionEnd = () => {
@@ -86,7 +104,6 @@ function Slider(){
                 setIsTransitionEnabled(false);
                 setCurrentIndex(1);
             }
-
             else if (currentIndex === 0) {
                 setIsTransitionEnabled(false);
                 setCurrentIndex(totalSlides - 2);
@@ -115,7 +132,7 @@ function Slider(){
         }
     }, [currentIndex, isTransitionEnabled, totalSlides]);
 
-    if (sliderItems.length === 0) return null;
+    if (allSlides.length === 0) return null;
 
     return(
         <div className="slider-general-container d-flex-column">
@@ -132,16 +149,37 @@ function Slider(){
                         >
                             {extendedItems.map((slide, index) => (
                                 <li key={`slide-${index}`} style={{ width: `${100 / totalSlides}%` }}>
-                                    <a href={slide.link} aria-label={slide.alt}>
-                                        <LazyImage width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
-                                            src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]} 
-                                            title={slide.alt}
-                                            alt={slide.alt}
-                                            loading={
-                                                (index >= currentIndex - 1 && index <= currentIndex + 1) ? "eager" : "lazy"
-                                            }
-                                        />
-                                    </a>
+                                    {slide.type === 'custom' ? (
+                                        <div className="custom-slide-container">
+                                            <div className='custom-slide-content d-grid-2-1fr gap-20'>
+                                                <div className='custom-slide-target custom-slide-target-1 gap-5'>
+                                                    <p>Kamas | Diseñamos tus sueños</p>
+                                                    <h1>Juegos de dormitorios</h1>
+                                                    <p className='text'>Llevamos más de 15 años ofreciendo calidad en nuestros productos. Somos fabricantes de colchones, camas box tarimas, juegos de dormitorios y de más productos para el hogar.</p>
+                                                    <p className='text'>Realizamos envíos inmediatos a cada ciudad del Perú y de manera gratuita a todo Lima y Callao.</p>
+                                                </div>
+                                                <div className='custom-slide-target custom-slide-target-2'>
+                                                    <img src='' alt=''/>
+                                                    <video src=''></video>
+                                                    
+                                                    <a href='/productos/' title='' className='button-link button-link-2'>
+                                                        <p className='button-link-text'>Ver productos</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    ) : (
+                                        <a href={slide.link} aria-label={slide.alt}>
+                                            <LazyImage width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
+                                                src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]} 
+                                                title={slide.alt}
+                                                alt={slide.alt}
+                                                loading={
+                                                    (index >= currentIndex - 1 && index <= currentIndex + 1) ? "eager" : "lazy"
+                                                }
+                                            />
+                                        </a>
+                                    )}
                                 </li>
                             ))}
                         </ul>
