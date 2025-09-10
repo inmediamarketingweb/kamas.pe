@@ -1,3 +1,37 @@
+.custom-slide-container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.custom-slide-content{
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1600px;
+    /* max-width: var(--content-mx-width); */
+}
+
+.custom-slide-target{
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    width: 100%;
+    height: 100%;
+}
+
+.custom-slide-target-1,
+.custom-slide-target-2{
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.custom-slide-target-1 h1{
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
 .slider-general-container{
     display: flex;
     width: 100%;
@@ -107,6 +141,14 @@
     .slider-general-container{
         height: 320px;
     }
+    
+    .custom-slide-content h1 {
+        font-size: 2rem;
+    }
+    
+    .custom-slide-content p {
+        font-size: 1.2rem;
+    }
 }
 
 @media screen and (max-width: 600px){
@@ -130,5 +172,28 @@
 
     .hero-slider-button span{
         font-size: 24px !important;
+    }
+    
+    .custom-slide-content {
+        padding: 1rem;
+    }
+    
+    .custom-slide-content h1 {
+        font-size: 1.5rem;
+    }
+    
+    .custom-slide-content p {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .btn-primary, .btn-secondary {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+    
+    .cta-buttons {
+        flex-direction: column;
+        gap: 0.5rem;
     }
 }

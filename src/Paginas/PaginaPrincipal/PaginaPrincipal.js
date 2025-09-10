@@ -17,10 +17,10 @@ function PaginaPrincipal(){
     return(
         <>
             <Helmet>
-                <title>Kamas | Fabricantes de colchones, camas y dormitorios.</title>
+                <title>Kamas | Fabricantes de colchones, camas y juegos de dormitorios.</title>
                 <meta name="description" content="Fabricantes de colchones, camas, box tarimas y juegos de dormitorios con más de 15 años en el mercado peruano ofreciendo calidad y confort para tu descanso." />
 
-                <meta property="og:title" content="Kamas | Fabricantes de colchones, camas y dormitorios."/>
+                <meta property="og:title" content="Kamas | Fabricantes de colchones, camas y juegos de dormitorios."/>
                 <meta property="og:description" content="Meta descripción"/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content="https://www.kamas.pe/"/>
