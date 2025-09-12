@@ -485,12 +485,18 @@ button{
     color: var(--color-1);
 }
 
-.button-link-2{
+.button-link-2,
+.button-link-3,
+.button-link-4,
+.button-link-7{
     width: auto;
-    height: 48px;
+    height: 44px;
     padding: 0 20px;
-    background: var(--color-1);
     border-radius: 4px;
+}
+
+.button-link-2{
+    background: var(--color-1);
 }
 
 .button-link-2:hover{
@@ -500,13 +506,6 @@ button{
 .button-link-2 .button-link-text,
 .button-link-2 span{
     color: var(--white);
-}
-
-.button-link-3{
-    width: auto;
-    height: 48px;
-    padding: 0 20px;
-    border-radius: 4px;
 }
 
 .button-link-3:hover{
@@ -524,10 +523,6 @@ button{
 }
 
 .button-link-4{
-    width: auto;
-    height: 48px;
-    padding: 0 20px;
-    border-radius: 4px;
     background: var(--color-2);
 }
 
@@ -563,6 +558,18 @@ button{
 .button-link-6 .button-link-text,
 .button-link-6 span{
     color: var(--white);
+}
+
+.button-link-7{
+    background: var(--white);
+}
+
+.button-link-7 .button-link-text{
+    color: var(--color-1);
+}
+
+.button-link-7:hover .button-link-text{
+    color: var(--color-2);
 }
 
 input[type="checkbox"]{
