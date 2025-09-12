@@ -5,7 +5,7 @@
                 {
                     "metatitulo": "Colchones | Kamas",
                     "link-principal": "/productos/colchones/",
-                    "link-ofertas": "/ofertas/?categoria=colchones",
+                    "link-ofertas": "?categoria=colchones",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/colchones.webp",
@@ -20,7 +20,7 @@
                 {
                     "metatitulo": "Camas box tarimas | Kamas",
                     "link-principal": "/productos/camas-box-tarimas/",
-                    "link-ofertas": "/ofertas/?categoria=camas-box-tarimas",
+                    "link-ofertas": "?categoria=camas-box-tarimas",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp",
@@ -35,7 +35,7 @@
                 {
                     "metatitulo": "Dormitorios | Kamas",
                     "link-principal": "/productos/dormitorios/",
-                    "link-ofertas": "/ofertas/?categoria=dormitorios",
+                    "link-ofertas": "?categoria=dormitorios",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/dormitorios.webp",
@@ -50,7 +50,7 @@
                 {
                     "metatitulo": "Camas funcionales | Kamas",
                     "link-principal": "/productos/camas-funcionales/",
-                    "link-ofertas": "/ofertas/?categoria=camas-funcionales",
+                    "link-ofertas": "?categoria=camas-funcionales",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/camas-funcionales.webp",
@@ -65,7 +65,7 @@
                 {
                     "metatitulo": "Cabeceras | Kamas",
                     "link-principal": "/productos/cabeceras/",
-                    "link-ofertas": "/ofertas/?categoria=cabeceras",
+                    "link-ofertas": "?categoria=cabeceras",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/cabeceras.webp",
@@ -80,7 +80,7 @@
                 {
                     "metatitulo": "Sofás | Kamas",
                     "link-principal": "/productos/sofas/",
-                    "link-ofertas": "/ofertas/?categoria=sofás",
+                    "link-ofertas": "?categoria=sofás",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/sofas.webp",
@@ -95,7 +95,7 @@
                 {
                     "metatitulo": "Complementos | Kamas",
                     "link-principal": "/productos/complementos/",
-                    "link-ofertas": "/ofertas/?categoria=complementos",
+                    "link-ofertas": "?categoria=complementos",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/complementos.webp",
