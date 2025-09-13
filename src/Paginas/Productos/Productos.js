@@ -5,6 +5,7 @@ import { useLocation } from 'react-router-dom';
 import './Productos.css';
 
 import Filtros from '../../Componentes/Filtros/Filtros';
+import Categorias from '../Ofertas/Componentes/Categorias/Categorias';
 import Top from '../../Componentes/Filtros/Componentes/Top/Top';
 import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
 import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
@@ -241,11 +242,9 @@ function Productos(){
             <main className='productos-main'>
                 <section className="block-container pagina-productos-container">
                     <div className="block-content pagina-productos-content">
-                        <Filtros 
-                            onCambiarPrecio={setFiltrosPrecio}
-                            isOpen={filtrosOpen}
-                            onClose={() => setFiltrosOpen(false)}
-                        />
+                        <Categorias/>
+
+                        <Filtros onCambiarPrecio={setFiltrosPrecio} isOpen={filtrosOpen} onClose={() => setFiltrosOpen(false)} />
 
                         <div className='d-flex-column gap-10 pagina-productos-productos'>
                             <Top envioGratis={envioGratis} setEnvioGratis={setEnvioGratis} enOferta={enOferta} setEnOferta={setEnOferta} sortOption={sortOption} setSortOption={setSortOption} />
