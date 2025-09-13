@@ -1,7 +1,6 @@
 import { Helmet } from 'react-helmet';
 
 import LazyImage from '../../Componentes/Plantillas/LazyImage';
-import Videos from './Componentes/Videos/Videos';
 import Slider from './Componentes/Slider/Slider';
 import Categorias from './Componentes/Categorias/Categorias';
 import Ofertas from './Componentes/Ofertas/Ofertas';
@@ -35,13 +34,13 @@ function PaginaPrincipal(){
 
                     <section className='main-hero-content'>
                         <div className='main-hero-content-target main-hero-content-target-1 gap-20'>
-                            <span>Kamas | Diseñamos tus sueños</span>
+                            {/* <span>Kamas | Diseñamos tus sueños</span> */}
 
-                            <h1>Juegos de dormitorios</h1>
+                            <h1 className='text-center'>Juegos de dormitorios</h1>
 
                             <div className='d-flex-column'>
-                                <p className='color-white'>Fabricantes de colchones, camas, juegos de dormitorio, box espacio, camarotes, muebles, veladores y demás complementos para el descanso.</p>
-                                <p className='color-white'>Realizamos envíos de manera gratuita a toda Lima y Callao. Y envíos inmediatos a provincia. Llegamos a todo el Perú.</p>
+                                <p className='color-white text-center'>Fabricantes de colchones, camas, juegos de dormitorio, box espacio, camarotes, muebles, veladores y demás complementos para el descanso.</p>
+                                <p className='color-white text-center'>Realizamos envíos de manera gratuita a toda Lima y Callao. Y envíos inmediatos a provincia. Llegamos a todo el Perú.</p>
                             </div>
 
                             <div className='d-flex-center-left gap-10'>
@@ -54,36 +53,6 @@ function PaginaPrincipal(){
                                 </a>
                             </div>
                         </div>
-
-                        <Videos/>
-
-                        {/* <div className='main-hero-content-target main-hero-content-target-2'>
-                            <div>
-                                <div>
-                                    <video width="auto" height="auto" autoPlay controls className=''>
-                                        <source src='/assets/imagenes/paginas/pagina-principal/video-hero-1.mp4'></source>
-                                    </video>
-                                </div>
-
-                                <div>
-                                    <video width="auto" height="auto" autoPlay controls className=''>
-                                        <source src='/assets/imagenes/paginas/pagina-principal/video-hero-2.mp4'></source>
-                                    </video>
-                                </div>
-
-                                <div>
-                                    <video width="auto" height="auto" autoPlay controls className=''>
-                                        <source src='/assets/imagenes/paginas/pagina-principal/video-hero-3.mp4'></source>
-                                    </video>
-                                </div>
-                            </div>
-
-                            <div className='hero-video-buttons'>
-                                <button type='button' className='hero-video-button hero-video-button-1'></button>
-                                <button type='button' className='hero-video-button hero-video-button-2 active'></button>
-                                <button type='button' className='hero-video-button hero-video-button-3'></button>
-                            </div>
-                        </div> */}
                     </section>
                 </div>
 
