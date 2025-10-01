@@ -47,16 +47,39 @@ function EnviosALimaYCallao(){
 
                         <div className="envios-page">
                             <div className="d-flex-column gap-10">
-                                <blockquote className="tiktok-embed" cite="https://www.tiktok.com/@kamas.pe/video/7306283248932474118" data-video-id="7306283248932474118">
+                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kamas.pe/video/7538457611511942406" data-video-id="7538457611511942406">
                                     <section>
-                                        <a target="_blank" rel="noopener noreferrer" title="@kamas.pe" href="https://www.tiktok.com/@kamas.pe?refer=embed">@kamas.pe</a>
-                                        <a title="dormitorio" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#Dormitorio</a>
-                                        <a title="kamas" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/kamas?refer=embed">#Kamas</a>
-                                        <a title="king" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/king?refer=embed">#King</a>
-                                        <a title="3plazas" target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/tag/3plazas?refer=embed">#3Plazas</a>
-                                        <a target="_blank" rel="noopener noreferrer" title="♬ sonido original - kamas" href="https://www.tiktok.com/music/sonido-original-7306283263833164549?refer=embed">♬ sonido original - kamas</a>
+                                        <a target="_blank" title="@kamas.pe" href="https://www.tiktok.com/@kamas.pe?refer=embed">@kamas.pe</a>
+                                        <a title="dormitorio" target="_blank" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#Dormitorio</a>
+                                        <a title="4plazas" target="_blank" href="https://www.tiktok.com/tag/4plazas?refer=embed">#4Plazas</a> 🔥 El MÁS GRANDE del Perú 🔥 👉 ¡Solo en 
+                                        <a title="kamas" target="_blank" href="https://www.tiktok.com/tag/kamas?refer=embed">#kamas</a>  
+                                        ✨ Espacio, comodidad y lujo en un solo lugar. 💤 
+                                        <a title="descansa" target="_blank" href="https://www.tiktok.com/tag/descansa?refer=embed">#Descansa</a> 
+                                        <a target="_blank" title="♬ sonido original - kamas" href="https://www.tiktok.com/music/sonido-original-7538457632101698310?refer=embed">♬ sonido original - kamas</a>
                                     </section>
                                 </blockquote>
+
+                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kamas.pe/video/7539967987751701765" data-video-id="7539967987751701765">
+                                    <section>
+                                        <a target="_blank" title="@kamas.pe" href="https://www.tiktok.com/@kamas.pe?refer=embed">@kamas.pe</a>
+                                        <a title="insuperable" target="_blank" href="https://www.tiktok.com/tag/insuperable?refer=embed">#Insuperable</a>
+                                        <a title="dormitorio" target="_blank" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#Dormitorio</a>
+                                        <a title="kamas" target="_blank" href="https://www.tiktok.com/tag/kamas?refer=embed">#Kamas</a>
+                                        <a target="_blank" title="♬ sonido original - kamas" href="https://www.tiktok.com/music/sonido-original-7539968028658764600?refer=embed">♬ sonido original - kamas</a>
+                                    </section>
+                                </blockquote>
+                                
+                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kamas.pe/video/7544476821547404549" data-video-id="7544476821547404549">
+                                    <section>
+                                        <a target="_blank" title="@kamas.pe" href="https://www.tiktok.com/@kamas.pe?refer=embed">@kamas.pe</a> 
+                                        ✨ La verdadera Cama Nube está en KAMAS 🛏️ Incluye colchón ortopédico 🎨 +60 colores premium 🚚 Envío GRATIS en Lima y Callao 📲 Escríbenos y hazla tuya hoy 
+                                        <a title="kamas" target="_blank" href="https://www.tiktok.com/tag/kamas?refer=embed">#kamas</a> 
+                                        <a title="nube" target="_blank" href="https://www.tiktok.com/tag/nube?refer=embed">#nube</a> 
+                                        <a title="dormitorio" target="_blank" href="https://www.tiktok.com/tag/dormitorio?refer=embed">#dormitorio</a> 
+                                        <a target="_blank" title="♬ sonido original - kamas" href="https://www.tiktok.com/music/sonido-original-7544476870512413496?refer=embed">♬ sonido original - kamas</a> 
+                                    </section>
+                                </blockquote>
+                                <script async src="https://www.tiktok.com/embed.js"></script>
                             </div>
 
                             <div className="envios-page-destinos">
