@@ -30,7 +30,7 @@ function PaginaPrincipal(){
 
             <main className='main-pagina-principal d-flex-column gap-10'>
                 <div className='main-hero-container'>
-                    <LazyImage width="auto" height="auto" src="/assets/imagenes/paginas/pagina-principal/hero-bg.jpg" alt='Kamas | Fabricantes de colchones, camas y juegos de dormitorios' />
+                    <LazyImage width="auto" height="auto" src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp" alt='Kamas | Fabricantes de colchones, camas y juegos de dormitorios' />
 
                     <section className='main-hero-content'>
                         <div className='main-hero-content-target main-hero-content-target-1 gap-20'>
