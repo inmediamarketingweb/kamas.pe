@@ -40,7 +40,7 @@
     opacity: 0.8;
 }
 
-.categories li a img{
+.categories li a > img{
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -70,6 +70,52 @@
 .categories li:nth-child(1){
     grid-column: 1/2;
     grid-row: 1/-1;
+}
+
+.homepage-categories-dormitorios{
+    width: 100%;
+    height: 100%;
+    /* overflow-x: scroll; */
+}
+
+@keyframes leo{
+    0%, 25%{
+        margin-left: 0;
+    } 26%, 50%{
+        margin-left: -100%;
+    } 51%, 75%{
+        margin-left: -200%;
+    } 76%, 100%{
+        margin-left: -300%;
+    }
+}
+
+.homepage-categories-dormitorios > div{
+    width: 400%;
+    height: 100%;
+    display: flex;
+    transition: var(--t-200ms-linear);
+
+    animation: leo 16s linear infinite alternate;
+}
+
+.homepage-categories-dormitorios > div > ul{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.homepage-categories-dormitorios > div > ul > li{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.homepage-categories-dormitorios > div > ul > li img{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 800px){

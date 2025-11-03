@@ -22,7 +22,24 @@ function Categorias(){
                     <ul className='categories'>
                         <li>
                             <a href='/productos/dormitorios/' title='Dormitorios | Kamas'>
-                                <LazyImage src='/assets/imagenes/paginas/pagina-principal/categorias/dormitorios.webp' width={isSmallScreen ? 405 : 860} height={isSmallScreen ? 200 : 440} alt='Dormitorios | Kamas'/>
+                                <div className='homepage-categories-dormitorios'>
+                                    <div>
+                                        <ul>
+                                            <li>
+                                                <img src="/assets/imagenes/paginas/pagina-principal/categorias/dormitorios-1.webp" alt=''/>
+                                            </li>
+                                            <li>
+                                                <img src="/assets/imagenes/paginas/pagina-principal/categorias/dormitorios-2.webp" alt=''/>
+                                            </li>
+                                            <li>
+                                                <img src="/assets/imagenes/paginas/pagina-principal/categorias/dormitorios-3.webp" alt=''/>
+                                            </li>
+                                            <li>
+                                                <img src="/assets/imagenes/paginas/pagina-principal/categorias/dormitorios-4.webp" alt=''/>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                                 <div className='p-absolute-left-bottom-20'>
                                     <p className='title'>Dormitorios</p>
                                     <p className='text color-white'>La mejor variedad en dormitorios americanos, europeos, con cajones, en tamaños 1 plz, 1 plz y media, 2 plz, queen, king y 4 plz.</p>
