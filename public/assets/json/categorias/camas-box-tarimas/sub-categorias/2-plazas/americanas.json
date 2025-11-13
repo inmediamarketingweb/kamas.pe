@@ -2979,21 +2979,27 @@
             "categoria": "camas box tarimas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/50/",
-            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL OTRO MODELO + BAÚL - GRIS RATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/otras-formas/sin-brazos/otros-modelos/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS GRID - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/grid/1/",
             "colores": "si",
             "precioRegular": 1099,
-            "precioNormal": 1239,
-            "precioVenta": 939,
+            "precioNormal": 1649,
+            "precioVenta": 1219,
             "stock": 12,
-            "sku": "K222227N17",
+            "sku": "K222221N14",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
                     "línea": "Americana",
                     "tamaño": "2 plazas",
                     "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
+                    "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/3/"
                 }
             ],
             "detalles-del-producto":[
@@ -3003,9 +3009,9 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Otras formas",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
+                    "modelo-de-cabecera": "Grid"
                 }
             ],
             "descripciones":[
