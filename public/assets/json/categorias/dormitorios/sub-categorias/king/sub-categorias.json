@@ -29,6 +29,11 @@
             "subcategoria": "Premium",
             "metaTitulo": "Dormitorios - Europeos con cajones | Kamas",
             "ruta": "/productos/dormitorios/king/premium/"
+        },
+        {
+            "subcategoria": "Nube",
+            "metaTitulo": "Dormitorios - Nube | Kamas",
+            "ruta": "/productos/dormitorios/king/cama-nube/"
         }
     ]
 }
