@@ -1,0 +1,3337 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/1/",
+            "nombre": "CABECERA AEREA CON PATAS KING EGYP 3",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/egyp-3/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/2/",
+            "nombre": "CABECERA AEREA CON PATAS KING EGYP 4 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/egyp-4/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N11",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/3/",
+            "nombre": "CABECERA AEREA CON PATAS KING HOUSE 2 - GRIS RATON",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/house-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N12",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "House 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "House 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/4/",
+            "nombre": "CABECERA AEREA CON PATAS KING INLINE - TABACO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/inline/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N13",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Inline"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Inline"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/5/",
+            "nombre": "CABECERA AEREA CON PATAS KING KERO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/kero/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N14",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "kero"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "kero"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/6/",
+            "nombre": "CABECERA AEREA CON PATAS KING KERO 2 - TEJIDO AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/kero-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N15",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "kero 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "kero 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/7/",
+            "nombre": "CABECERA AEREA CON PATAS KING MOSTER - TEJIDO PLATA OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/moster/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N16",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Moster"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moster"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/8/",
+            "nombre": "CABECERA AEREA CON PATAS KING SPIDER - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/spider/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N17",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/9/",
+            "nombre": "CABECERA AEREA CON PATAS KING STARIS - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/staris/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N18",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/10/",
+            "nombre": "CABECERA AEREA CON PATAS KING TURRONIX 1 CON MARCO DE MADERA - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/turronix-1/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N19",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Turronix 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Turronix 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/11/",
+            "nombre": "CABECERA AEREA CON PATAS KING TURRONIX 2 - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/turronix-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N20",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Turronix 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Turronix 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/12/",
+            "nombre": "CABECERA AEREA CON PATAS KING VITORIA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/vitoria/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N21",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vitoria"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vitoria"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/13/",
+            "nombre": "CABECERA AEREA CON PATAS KING ACCHE - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/acche/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N22",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Acche"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Acche"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/14/",
+            "nombre": "CABECERA AEREA CON PATAS KING CORDILLERA - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/cordillera/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N23",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cordillera"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cordillera"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/15/",
+            "nombre": "CABECERA AEREA CON PATAS KING DELUXE - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/deluxe/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N24",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Deluxe"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Deluxe"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/16/",
+            "nombre": "CABECERA AEREA CON PATAS KING DELUXE - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/deluxe/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N25",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Deluxe"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Deluxe"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/17/",
+            "nombre": "CABECERA AEREA CON PATAS KING EGYP - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/egyp/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N26",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/18/",
+            "nombre": "CABECERA AEREA CON PATAS KING GAVIOTA - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/gaviota/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N27",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/19/",
+            "nombre": "CABECERA AEREA CON PATAS KING GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/grid/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N28",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/20/",
+            "nombre": "CABECERA AEREA CON PATAS KING HEXALINE - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/hexaline/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N29",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Hexaline"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Hexaline"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/21/",
+            "nombre": "CABECERA AEREA CON PATAS KING LUXURY - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/luxury/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N30",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/22/",
+            "nombre": "CABECERA AEREA CON PATAS KING MOKI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/moki/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N31",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/23/",
+            "nombre": "CABECERA AEREA CON PATAS KING MOKI - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/moki/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N32",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/24/",
+            "nombre": "CABECERA AEREA CON PATAS KING MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/moki/3/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N33",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/25/",
+            "nombre": "CABECERA AEREA CON PATAS KING MONTAIN - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/montain/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N34",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Montain"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Montain"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/26/",
+            "nombre": "CABECERA AEREA CON PATAS KING NAZCA LINE - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/nazca-line/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N35",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "nazca line"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nazca line"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/27/",
+            "nombre": "CABECERA AEREA CON PATAS KING NILO - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/nilo/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N36",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/28/",
+            "nombre": "CABECERA AEREA CON PATAS KING OLIMPIC - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/olimpic/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N37",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/29/",
+            "nombre": "CABECERA AEREA CON PATAS KING PANNAL - CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/pannal/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N38",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Pannal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pannal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/30/",
+            "nombre": "CABECERA AEREA CON PATAS KING PISAC - ",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/pisac/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N39",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Pisac"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pisac"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/31/",
+            "nombre": "CABECERA AEREA CON PATAS KING PRESTIGE - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/prestige/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N40",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/32/",
+            "nombre": "CABECERA AEREA CON PATAS KING PRIME - AZUL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/prime/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N41",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Prime"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prime"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/33/",
+            "nombre": "CABECERA AEREA CON PATAS KING REPTILIAN - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/reptilian/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N42",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/34/",
+            "nombre": "CABECERA AEREA CON PATAS KING ROBLO - ANTIFLUIDO BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/roblo/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N43",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/35/",
+            "nombre": "CABECERA AEREA CON PATAS KING ROMBOI - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/romboi/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N44",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/36/",
+            "nombre": "CABECERA AEREA CON PATAS KING ROMBOI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/romboi/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N45",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/37/",
+            "nombre": "CABECERA AEREA CON PATAS KING RUPPES - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/ruppes/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N46",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Ruppes"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ruppes"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/38/",
+            "nombre": "CABECERA AEREA CON PATAS KING SIDNEY - TABACO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/sidney/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N47",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/39/",
+            "nombre": "CABECERA AEREA CON PATAS KING SOFT - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/soft/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N48",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Soft"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Soft"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/40/",
+            "nombre": "CABECERA AEREA CON PATAS KING SOFT - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/soft/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N49",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Soft"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Soft"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/41/",
+            "nombre": "CABECERA AEREA CON PATAS KING TORTUN - ANTIFLUIDO VERDE PACAY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/tortun/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N50",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/42/",
+            "nombre": "CABECERA AEREA CON PATAS KING TURMALINA - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/turmalina/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N51",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Turmalina"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Turmalina"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/43/",
+            "nombre": "CABECERA AEREA CON PATAS KING VELUTO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/veluto/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N52",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Veluto"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "veluto"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/44/",
+            "nombre": "CABECERA AEREA CON PATAS KING VELUTO 2 - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/veluto-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N53",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Veluto 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Veluto 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/45/",
+            "nombre": "CABECERA AEREA CON PATAS KING VIENNA - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/vienna/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N54",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/46/",
+            "nombre": "CABECERA AEREA CON PATAS KING XPLORER - GRIS RATON",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/xplorer/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N55",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/47/",
+            "nombre": "CABECERA AEREA CON PATAS KING YACU - CUERO CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/yacu/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N56",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Yacu"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/48/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/capitoneado-1/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N57",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/50/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/capitoneado-1/3/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N58",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            
+            "id": 51,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/51/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/capitoneado-1/4/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N59",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/52/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/capitoneado-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N60",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/53/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 3 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/capitoneado-3/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N61",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/54/",
+            "nombre": "CABECERA AEREA CON PATAS KING CLASICA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/clasica/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N62",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Clasica"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clasica"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/55/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N63",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/56/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 2 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N64",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/57/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 2 - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N65",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/58/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 3 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N66",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/59/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 4 - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/lineal-4/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N67",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/60/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 2",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N68",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/61/",
+            "nombre": "CABECERA AEREA CON PATAS KING MESHLOCK  - TABACO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/meshlock/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N69",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/62/",
+            "nombre": "CABECERA AEREA CON PATAS KING MESHLOCK  - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/meshlock/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N70",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/63/",
+            "nombre": "CABECERA AEREA CON PATAS KING MESHLOCK  - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/meshlock/3/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N71",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/64/",
+            "nombre": "CABECERA AEREA CON PATAS KING RETANGULAR 2 - PLOMO ANTIFLUIDO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/rectangular-2/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N72",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Retangular 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Retangular 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/65/",
+            "nombre": "CABECERA AEREA CON PATAS KING VUELO - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/vuelo/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N73",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vuelo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vuelo"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/66/",
+            "nombre": "CABECERA AEREA CON PATAS KING XTRATO - MARFIL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/xtrato/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N73",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/67/",
+            "nombre": "CABECERA AEREA CON PATAS KING PRESTIGE - CENIZO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/prestige/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N74",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/68/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/lineal-2/2/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N75",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas-con-patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/69/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 3 - AZUL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/sin-brazos/cuadros-3/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N76",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

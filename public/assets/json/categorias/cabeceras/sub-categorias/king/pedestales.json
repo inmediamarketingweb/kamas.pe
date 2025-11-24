@@ -1322,6 +1322,55 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 108,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/27/",
+            "nombre": "CABECERA PEDESTAL KING PRINCESA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-rectos/princesa/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K54241N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

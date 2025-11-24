@@ -3331,6 +3331,55 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 80,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/70/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/7/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N18",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

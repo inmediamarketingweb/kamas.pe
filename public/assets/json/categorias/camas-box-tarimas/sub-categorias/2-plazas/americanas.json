@@ -523,7 +523,7 @@
             "subcategoria": "americanas",
             "tamaño": "2 plazas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/9/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA AÉREA CAPITONEADA - MORO",
+            "nombre": "CAMA BOX TARIMA AMERICANA ENCAJONADA 2 PLAZAS + CABECERA AÉREA CAPITONEADA - MORO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/americanas/brazos-rectos/capitoneado/1/",
             "colores": "si",
             "precioRegular": 899,
@@ -2258,7 +2258,7 @@
             "categoria": "camas box tarimas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/41/",
-            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL  - CHOCOLATE",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/americanas/brazos-rectos/capitoneado/2/",
             "colores": "si",
             "precioRegular": 1099,
@@ -2982,9 +2982,9 @@
             "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS GRID - DURAZNO PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/grid/1/",
             "colores": "si",
-            "precioRegular": 1099,
-            "precioNormal": 1649,
-            "precioVenta": 1219,
+            "precioRegular": 1329,
+            "precioNormal": 759,
+            "precioVenta": 529,
             "stock": 12,
             "sku": "K222221N14",
             "tipo-de-envio": "Gratis",
@@ -2995,12 +2995,7 @@
                     "tipo-de-cabecera": "Pedestal",
                     "modelo-de-cabecera": "Grid"
                 }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/3/"
-                }
+         
             ],
             "detalles-del-producto":[
                 {
@@ -3012,6 +3007,474 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/52/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS TORTUN - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/tortun/1/",
+            "colores": "si",
+            "precioRegular": 879,
+            "precioNormal": 759,
+            "precioVenta": 529,
+            "stock": 12,
+            "sku": "K222221N16",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+           
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/53/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS OLIMPIC - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
+            "colores": "si",
+            "precioRegular": 879,
+            "precioNormal": 709,
+            "precioVenta": 529,
+            "stock": 12,
+            "sku": "K222221N17",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+          
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/54/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS OLIMPIC - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "colores": "si",
+            "precioRegular": 879,
+            "precioNormal": 709,
+            "precioVenta": 529,
+            "stock": 12,
+            "sku": "K222221N18",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+    
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/55/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS XTRATO + CAJONERA - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/xtrato/1/",
+            "colores": "si",
+            "precioRegular": 879,
+            "precioNormal": 709,
+            "precioVenta": 629,
+            "stock": 12,
+            "sku": "K222221N19",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+          
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xtrato"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/56/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA AÉREA CON PATAS LINEAL 1- CUERO VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/bloques/sin-brazos/lineal-1/1/",
+            "colores": "si",
+            "precioRegular": 879,
+            "precioNormal": 709,
+            "precioVenta": 529,
+            "stock": 12,
+            "sku": "K222221N20",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+         
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Sofá baúl",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/57/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO CON 4 CAJONES - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 1479,
+            "precioNormal": 1059,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221N21",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+   
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "descripciones":[
