@@ -8408,7 +8408,7 @@
             "categoria": "camas box tarimas",
             "subcategoria": "americanas",
             "ruta": "/productos/camas-box-tarimas/king/americanas/201/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA OLIMPIC - TEJIDO HUESO",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA OLIMPIC - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
             "colores": "si",
             "precioRegular": 2299,
@@ -8607,7 +8607,7 @@
             "precioNormal": 1599,
             "precioVenta": 1099,
             "stock": 12,
-            "sku": "K2242116N13",
+            "sku": "K2242116N14",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -8627,6 +8627,70 @@
                     "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/king/americanas/205/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA PRESTIGE - POTRO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/bloques/sin-brazos/prestige/1/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1599,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2242116N15",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Prestige"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prestige"
                 }
             ],
             "descripciones":[
