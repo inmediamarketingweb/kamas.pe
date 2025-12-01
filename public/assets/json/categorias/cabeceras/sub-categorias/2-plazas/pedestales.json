@@ -3380,6 +3380,55 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 81,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/71/",
+            "nombre": "CABECERA PEDESTAL QUEEN EMPERATRIZ - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N19",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
