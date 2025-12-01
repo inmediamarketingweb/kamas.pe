@@ -1,6 +1,7 @@
 {
     "productos":[
-        {
+        {    
+            "id": 1,
             "categoria": "cabeceras",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",
@@ -49,6 +50,7 @@
             ]
         },
         {
+            "id": 2,
             "categoria": "cabeceras",
             "subcategoria": "aereas con patas",
             "tamaño": "2 plazas",
@@ -77,6 +79,251 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/3/",
+            "nombre": "CABECERA AÉREA 2 PLAZAS GRID - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/sin-brazos/grid/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 329,
+            "precioVenta": 259,
+            "stock": 9,
+            "sku": "K521151N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Grid"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/4/",
+            "nombre": "CABECERA AÉREA 2 PLAZAS INLINE - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/sin-brazos/inline/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 329,
+            "precioVenta": 259,
+            "stock": 9,
+            "sku": "K521151N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Inline"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Inline"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/5/",
+            "nombre": "CABECERA AÉREA 2 PLAZAS KERO - MORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/sin-brazos/kero/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 329,
+            "precioVenta": 259,
+            "stock": 9,
+            "sku": "K521151N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "kero"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "kero"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/6/",
+            "nombre": "CABECERA AÉREA 2 PLAZAS STARIS - VERDE JADE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 329,
+            "precioVenta": 259,
+            "stock": 9,
+            "sku": "K521151N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/aereas-con-patas/6/",
+            "nombre": "CABECERA AÉREA 2 PLAZAS MESHLOCK 1 - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/aereas-con-patas/bloques/sin-brazos/meshlock-1/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 329,
+            "precioVenta": 259,
+            "stock": 9,
+            "sku": "K521151N16",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Staris"
                 }
             ],
             "descripciones":[

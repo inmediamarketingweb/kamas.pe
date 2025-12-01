@@ -1,0 +1,100 @@
+{
+    "productos":[
+        {
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "Queen",
+            "ruta": "/productos/cabeceras/queen/aereas-con-patas/1/",
+            "nombre": "CABECERA AÉREA QUEEN STARIS - ANTIFLUIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 539,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K53150N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin-brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "cabeceras",
+            "subcategoria": "aereas con patas",
+            "tamaño": "Queen",
+            "ruta": "/productos/cabeceras/queen/aereas-con-patas/2/",
+            "nombre": "CABECERA AÉREA QUEEN VELUTO 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/queen/aereas-con-patas/bloques/sin-brazos/veluto-1/1/",
+            "colores": "si",
+            "precioRegular": 619,
+            "precioNormal": 539,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K53150N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Veluto 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin-brazos",
+                    "modelo-de-cabecera": "Veluto 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
