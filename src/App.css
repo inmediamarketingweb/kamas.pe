@@ -59,6 +59,11 @@ body::-webkit-scrollbar{
     transition: all 200ms linear;
 }
 
+body::selection{
+    background: var(--color-1);
+    color: var(--white);
+}
+
 main{
     width: 100%;
     min-height: 500px !important;
