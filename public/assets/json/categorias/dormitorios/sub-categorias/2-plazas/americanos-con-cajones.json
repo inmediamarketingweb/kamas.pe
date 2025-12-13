@@ -516,7 +516,6 @@
                 }
             ]
         },
-    
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -1686,7 +1685,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -2867,7 +2865,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -3408,7 +3405,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -3854,7 +3850,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -4752,7 +4747,7 @@
             "tamaño": "2 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/13/",
-            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - LILA IKER",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - LILA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/4/",
             "colores": "si",
             "precioRegular": 1969,
@@ -5013,7 +5008,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -5103,7 +5097,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -5282,7 +5275,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -5461,7 +5453,6 @@
                 }
             ]
         },
-
         {
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
@@ -5503,6 +5494,95 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "gavetas": "Melamina 18mm.",
+                            "rieles": "Telescópicos pesados",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "9 filas en forma vertical",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "65kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/34/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATIZ - AZUL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "colores": "si",
+            "precioRegular": 1929,
+            "precioNormal": 1499,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K322173N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "1 almohada",
+                    "foto": "/assets/imagenes/productos/almohada.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ],
             "descripciones":[
