@@ -13,7 +13,7 @@
             "precioNormal": 3489,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K334233N10",
+            "sku": "K323236N99", 
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -107,7 +107,7 @@
             "precioNormal": 3489,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K334233N11",
+            "sku": "K323236N100",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -201,7 +201,7 @@
             "precioNormal": 3489,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K334233N12",
+            "sku": "K323236N101",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -229,6 +229,194 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON DER PRINZ - TEJIDO AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/1/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 3589,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K323236N102",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/tejido-hueso.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON DER PRINZ - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/2/",
+            "colores": "si",
+            "precioRegular": 3999,
+            "precioNormal": 3589,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K323236N103",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/tejido-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Pedestal",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",

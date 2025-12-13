@@ -23261,7 +23261,7 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos/sarki/185/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA GRID - GRIS NEW",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA GRID + 1 PUFF - GRIS NEW",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/grid/1/",
             "colores": "si",
             "precioRegular": 2599,
@@ -23355,7 +23355,7 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos/sarki/186/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC - BEIGE",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA PISAC + 1 - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/pisac/10/",
             "colores": "si",
             "precioRegular": 2599,
@@ -24006,101 +24006,6 @@
             "subcategoria": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos/der-prinz/193/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA SIDNEY - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/con-marco/sin-brazos/otros-modelos/1/",
-            "colores": "si",
-            "precioRegular": 2699,
-            "precioNormal": 2249,
-            "precioVenta": 1799,
-            "stock": 9,
-            "sku": "K3242116N13",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "modelo-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "refuerzos": "Centrales",
-                            "marco": "De espuma",
-                            "grosor": "30cm.",
-                            "incorpora":"Sistema one size",
-                            "soporte-de-peso": "90kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "subcategoria": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos/der-prinz/194/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA + PIECERA - CHAMPAGNE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/coronas/brazos-rectos/otros-modelos/1/",
@@ -24297,7 +24202,7 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos/sarki/192/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU + 1 PUFF - CUERO CAMEL",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA YACU + 1 PUFF - CUERO CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/otros-modelos/1/",
             "colores": "si",
             "precioRegular": 2549,
@@ -24681,7 +24586,7 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos/sarki/197/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA VUELO + 1 PUFF - CHOCOLATE",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA VVUELO + 1 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/vuelo/1/",
             "colores": "si",
             "precioRegular": 2549,
@@ -24706,7 +24611,7 @@
                     "tamaño": "King",
                     "modelo-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Vuelo"
+                    "modelo-de-cabecera": "VVuelo"
                 }
             ],
             "detalles-del-producto":[
@@ -24719,7 +24624,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Vuelo"
+                    "modelo-de-cabecera": "VVuelo"
                 }
             ],
             "descripciones":[
@@ -25572,7 +25477,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 2"
                 }
@@ -26807,7 +26712,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
@@ -26903,7 +26808,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Chanchan"
                 }
@@ -26999,7 +26904,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
@@ -27095,7 +27000,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Egyp"
                 }
@@ -27191,7 +27096,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Egyp"
                 }
@@ -27287,7 +27192,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Olimpic"
                 }
@@ -27383,7 +27288,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Panal"
                 }
@@ -27479,7 +27384,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Prestige"
                 }
@@ -27575,7 +27480,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Reptilian"
                 }
@@ -27671,7 +27576,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Roblo"
                 }
@@ -27767,7 +27672,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Tortun"
                 }
@@ -27863,7 +27768,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Yacu"
                 }
@@ -27959,7 +27864,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Pisac"
                 }
@@ -28055,7 +27960,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Nilo"
                 }
@@ -28151,7 +28056,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Moster"
                 }
@@ -28247,7 +28152,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Grid"
                 }
@@ -28314,7 +28219,7 @@
             "precioNormal": 2229,
             "precioVenta": 1749,
             "stock": 9,
-            "sku": "K324253N41",
+            "sku": "K324256N25",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -28323,7 +28228,7 @@
                 },
                 {
                     "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/bazul.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -28343,7 +28248,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "prime"
                 }
@@ -28410,7 +28315,7 @@
             "precioNormal": 2229,
             "precioVenta": 1749,
             "stock": 9,
-            "sku": "K324253N42",
+            "sku": "K324256N26",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -28439,7 +28344,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "prime"
                 }
@@ -28498,15 +28403,15 @@
             "linea": "americanos",
             "tamaño": "king",
             "modelo": "yurmale",
-            "ruta": "/productos/dormitorios/king/americanos/yurmale/238/",
+            "ruta": "/productos/dormitorios/king/americanos/yurmale/1/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/yurmale/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "colores": "si",
             "precioRegular": 2599,
             "precioNormal": 2789,
-            "precioVenta": 2499,
+            "precioVenta": 2599,
             "stock": 9,
-            "sku": "K3242123N10",
+            "sku": "K324256N27",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -28594,13 +28499,13 @@
             "linea": "americanos",
             "tamaño": "king",
             "modelo": "yurmale",
-            "ruta": "/productos/dormitorios/king/americanos/yurmale/239/",
+            "ruta": "/productos/dormitorios/king/americanos/yurmale/2/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA XPLORER - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/yurmale/aereas-con-patas/americanas/sin-brazos/xplorer/1/",
             "colores": "si",
             "precioRegular": 2599,
             "precioNormal": 2789,
-            "precioVenta": 2499,
+            "precioVenta": 2599,
             "stock": 9,
             "sku": "K3242123N11",
             "tipo-de-envio": "Gratis",
@@ -28631,7 +28536,7 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Yurmale",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Xplorer"
                 }
@@ -28666,6 +28571,2496 @@
                         "soporte-de-peso": "130kg. por persona",
                         "garantía": "12 años"
                     }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 374,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "norole",
+            "ruta": "/productos/dormitorios/king/americanos/norole/7/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2429,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K24286N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Norole",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Norole",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 375,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "norole",
+            "ruta": "/productos/dormitorios/king/americanos/norole/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2429,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324293N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-noche.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Norole",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Norole",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 376,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA CUADROS 3",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/cuadros-3/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "K324226N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-noche.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 377,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "K324226N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 378,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LUXURY - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/luxury/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "K324226N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/champagne.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 379,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "K324226N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-noche.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 380,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/30/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1049,
+            "stock": 9,
+            "sku": "K324226N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 381,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/195/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + 2 CAJONES AL PIE + CABECERA AÉREA CAPITONEADO 2 + 1 PUFF  - LILA FANDANGO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/capitoneado-2/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1849,
+            "stock": 9,
+            "sku": "K324225N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/lila-fandango.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 382,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/196/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA EGYP + BAUL - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/egyp/3/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2999,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "K324225N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/antifluido-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 383,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/197/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA OLIMPIC + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 384,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/198/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA OLIMPIC + 1 PUFF - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/olimpic/3/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/castaño.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 385,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/199/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA EGYP 3 + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/egyp-3/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/castaño.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 386,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/200/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA STARIS - VINO + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/vino.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 387,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/201/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA TORTUN + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/tortun/2/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 388,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/202/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA VVUELO + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/vuelo/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "VVuelo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "VVuelo"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 389,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/203/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA XPLORER + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/vino.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 390,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/204/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/xplorer/2/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/cobalto.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 391,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/205/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA GAVIOTA + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/gaviota/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 392,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/206/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA GAVIOTA + 1 PUFF - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/gaviota/2/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-denin.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 393,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/207/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA LINEAL 2 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 394,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/208/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA LINEAL 4 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/lineal-4/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 395,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/209/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA LINEAL 4 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/lineal-4/2/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324225N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 396,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/211/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA ROMBOI + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/romboi/1/",
+            "colores": "si",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324225N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 397,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA XPLORER - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
+            "colores": "si",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K3242873N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 398,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/32/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
+            "colores": "si",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K3242873N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 399,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/212/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
+            "colores": "si",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K3242873N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
                     ]
                 },
                 {
