@@ -28324,7 +28324,7 @@
                 },
                 {
                     "texto": "3 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/bazul.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -28500,7 +28500,7 @@
             "tamaño": "king",
             "modelo": "yurmale",
             "ruta": "/productos/dormitorios/king/americanos/yurmale/2/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA XPLORER + 1 PUFF - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/yurmale/aereas-con-patas/americanas/sin-brazos/xplorer/1/",
             "colores": "si",
             "precioRegular": 2599,
@@ -28596,7 +28596,7 @@
             "tamaño": "king",
             "modelo": "norole",
             "ruta": "/productos/dormitorios/king/americanos/norole/7/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA LINEAL 3 + 1 PUFF - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
             "colores": "si",
             "precioRegular": 2799,
@@ -28692,14 +28692,14 @@
             "tamaño": "king",
             "modelo": "norole",
             "ruta": "/productos/dormitorios/king/americanos/norole/8/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA XPLORER + 1 PUFF - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
             "colores": "si",
             "precioRegular": 2799,
             "precioNormal": 2429,
             "precioVenta": 2049,
             "stock": 9,
-            "sku": "K324293N11",
+            "sku": "K324293N16",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -28788,12 +28788,12 @@
             "tamaño": "king",
             "modelo": "rucay",
             "ruta": "/productos/dormitorios/king/americanos/rucay/1/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA CUADROS 3",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA CUADROS 3 + 1 PUFF",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/cuadros-3/1/",
             "colores": "si",
             "precioRegular": 2799,
             "precioNormal": 2229,
-            "precioVenta": 1049,
+            "precioVenta": 1449,
             "stock": 9,
             "sku": "K324226N10",
             "tipo-de-envio": "Gratis",
@@ -28884,12 +28884,12 @@
             "tamaño": "king",
             "modelo": "rucay",
             "ruta": "/productos/dormitorios/king/americanos/rucay/2/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL 3 + 1 PUFF  - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
             "colores": "si",
             "precioRegular": 2799,
             "precioNormal": 2229,
-            "precioVenta": 1049,
+            "precioVenta": 1449,
             "stock": 9,
             "sku": "K324226N11",
             "tipo-de-envio": "Gratis",
@@ -28985,7 +28985,7 @@
             "colores": "si",
             "precioRegular": 2799,
             "precioNormal": 2229,
-            "precioVenta": 1049,
+            "precioVenta": 1449,
             "stock": 9,
             "sku": "K324226N12",
             "tipo-de-envio": "Gratis",
@@ -29076,12 +29076,12 @@
             "tamaño": "king",
             "modelo": "rucay",
             "ruta": "/productos/dormitorios/king/americanos/rucay/4/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA XPLORER + 1 PUFF - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
             "colores": "si",
             "precioRegular": 2799,
             "precioNormal": 2229,
-            "precioVenta": 1049,
+            "precioVenta": 1449,
             "stock": 9,
             "sku": "K324226N13",
             "tipo-de-envio": "Gratis",
@@ -29172,7 +29172,7 @@
             "tamaño": "king",
             "modelo": "konig",
             "ruta": "/productos/dormitorios/king/americanos/konig/30/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA LINEAL 3 + 1 PUFF - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
             "colores": "si",
             "precioRegular": 2799,
@@ -29748,7 +29748,7 @@
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos/der-prinz/200/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA STARIS - VINO + 1 PUFF",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA STARIS + 1 PUFF - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/staris/1/",
             "colores": "si",
             "precioRegular": 2799,
@@ -30804,7 +30804,7 @@
             "tamaño": "king",
             "modelo": "nesie",
             "ruta": "/productos/dormitorios/king/americanos/nesie/8/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA XPLORER - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
             "colores": "si",
             "precioRegular": 2809,
@@ -30897,102 +30897,8 @@
             "linea": "americanos",
             "tamaño": "king",
             "modelo": "konig",
-            "ruta": "/productos/dormitorios/king/americanos/konig/32/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER - COBALTO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
-            "colores": "si",
-            "precioRegular": 2809,
-            "precioNormal": 2219,
-            "precioVenta": 1799,
-            "stock": 13,
-            "sku": "K3242873N30",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Xplorer"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Konig",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Xplorer"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "19 filas en forma vertical",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Jacquard",
-                            "tapiz": "Tradicional",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "grosor": "30cm.",
-                            "incorpora": "Sistema one size",
-                            "sistema": "Clásico",
-                            "refuerzos": "centrales y laterales.",
-                            "marco": "De espuma",
-                            "soporte-de-peso": "95kg. por persona",
-                            "garantía": "6 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 399,
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "konig",
             "ruta": "/productos/dormitorios/king/americanos/konig/212/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER - COBALTO",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/xplorer/1/", 
             "colores": "si",
             "precioRegular": 2809,
