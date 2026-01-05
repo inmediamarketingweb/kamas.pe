@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 
@@ -55,19 +55,20 @@ function PaginaDeCategoria(){
         }
     }, []);
 
-    useEffect(() => {
-        const cargarOfertas = async () => {
-            try {
-                const response = await fetch('/assets/json/ofertas.json');
-                const data = await response.json();
-                setSkusOfertas(data);
-            } catch (error) {
-                console.error("Error cargando ofertas:", error);
-                setSkusOfertas([]);
-            }
-        };
-        cargarOfertas();
+    const cargarOfertas = useCallback(async () => {
+        try {
+            const response = await fetch('/assets/json/ofertas.json');
+            const data = await response.json();
+            setSkusOfertas(data);
+        } catch (error) {
+            console.error("Error cargando ofertas:", error);
+            setSkusOfertas([]);
+        }
     }, []);
+
+    useEffect(() => {
+        cargarOfertas();
+    }, [cargarOfertas]);
 
     useEffect(() => {
         const fetchData = async () => { 
@@ -188,7 +189,7 @@ function PaginaDeCategoria(){
 
         setProductosFiltrados(resultado);
         setCurrentPage(1);
-    }, [productosFiltradosPorFiltros, envioGratis, enOferta, sortOption]);
+    }, [productosFiltradosPorFiltros, envioGratis, enOferta, sortOption, skusOfertas]);
 
     const totalItems = productosFiltrados.length;
     const totalPages = Math.ceil(totalItems / itemsPerPage);
@@ -229,21 +230,6 @@ function PaginaDeCategoria(){
     };
 
     const truncate = (str, maxLength) => str.length <= maxLength ? str : str.slice(0, maxLength) + "...";
-
-    useEffect(() => {
-        const cargarOfertas = async () => {
-            try {
-                const response = await fetch('/assets/json/ofertas.json');
-                const data = await response.json();
-                setSkusOfertas(data);
-            } catch (error) {
-                console.error("Error cargando ofertas:", error);
-                setSkusOfertas([]);
-            }
-        };
-
-        cargarOfertas();
-    }, []);
 
     return (
         <>
