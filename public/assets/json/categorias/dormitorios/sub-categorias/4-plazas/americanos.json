@@ -9,8 +9,8 @@
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/", 
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
             "precioVenta": 2099,
             "stock": 13,
             "sku": "K325233N10",
@@ -107,8 +107,8 @@
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/", 
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
             "precioVenta": 2099,
             "stock": 13,
             "sku": "K325233N11",
@@ -205,8 +205,8 @@
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/3/", 
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
             "precioVenta": 2099,
             "stock": 13,
             "sku": "K325233N12",
@@ -303,8 +303,8 @@
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/4/", 
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
             "precioVenta": 2099,
             "stock": 13,
             "sku": "K325233N13",
@@ -398,11 +398,11 @@
             "tamaño": "4 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/5/",
-            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK + 2 PUFF - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/meshlock/1/", 
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/5/", 
             "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
             "precioVenta": 2099,
             "stock": 13,
             "sku": "K325233N14",
@@ -414,11 +414,11 @@
                 },
                 {
                     "texto": "4 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                    "foto": "/assets/imagenes/productos/regalos/cojines/fucsia.webp"
                 },
                 {
                     "texto": "2 puffs",
-                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
+                    "foto": "/assets/imagenes/productos/regalos/puff/fucsia.webp"
                 }
             ],
             "resumen-del-producto":[
@@ -427,7 +427,7 @@
                     "tamaño": "4 plazas",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Meshlock"
+                    "modelo-de-cabecera": "Cuadros 2"
                 }
             ],
             "detalles-del-producto":[
@@ -440,105 +440,7 @@
                     "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Meshlock"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "21 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "4 plazas",
-            "modelo": "sarki",
-            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/6/",
-            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MOKI + 2 PUFF - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/moki/1/", 
-            "colores": "si",
-            "precioRegular": 2599,
-            "precioNormal": 2499,
-            "precioVenta": 2099,
-            "stock": 13,
-            "sku": "K325233N15",
-            "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "4 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                },
-                {
-                    "texto": "4 cojines",
-                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
-                },
-                {
-                    "texto": "2 puffs",
-                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "4 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Moki"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "4 plazas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Moki"
+                    "modelo-de-cabecera": "Cuadros 2"
                 }
             ],
             "descripciones":[
@@ -594,14 +496,406 @@
             "tamaño": "4 plazas",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/7/",
-            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADO 1 - HUESO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/pedestales/americanas/sin-brazos/capitoneado-1/1/", 
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK + 2 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/meshlock/1/", 
             "colores": "si",
-            "precioRegular": 3799,
-            "precioNormal": 2899,
-            "precioVenta": 2499,
+            "precioRegular": 3399,
+            "precioNormal": 2799,
+            "precioVenta": 2099,
             "stock": 13,
-            "sku": "K325233N16",
+            "sku": "K32523610",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/8/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MOKI + 2 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/moki/1/", 
+            "colores": "si",
+            "precioRegular": 3399,
+            "precioNormal": 2799,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K32523611",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Meshlock"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/9/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN + 2 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/tortun/1/", 
+            "colores": "si",
+            "precioRegular": 3399,
+            "precioNormal": 2799,
+            "precioVenta": 2099,
+            "stock": 13,
+            "sku": "K32523612",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/der-prinz/1/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CUADROS 2 + 2 PUFF - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/der-prinz/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/", 
+            "colores": "si",
+            "precioRegular": 399,
+            "precioNormal": 3499,
+            "precioVenta": 2699,
+            "stock": 13,
+            "sku": "K325253N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "4 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "4 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo.webp"
+                },
+                {
+                    "texto": "2 puffs",
+                    "foto": "/assets/imagenes/productos/regalos/puff/plomo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "4 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "21 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "26cm.",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/10/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO + 2 PUFF - DURAZNO HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado-1/1/", 
+            "colores": "si",
+            "precioRegular": 3199,
+            "precioNormal": 2899,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K325233N15",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -622,7 +916,7 @@
                     "línea": "Americana",
                     "tamaño": "4 plazas",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ],
@@ -633,7 +927,7 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Aérea con patas",
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
