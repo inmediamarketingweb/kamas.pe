@@ -1,5 +1,4 @@
 .product-page-whatsapp{
-    background: var(--whatsapp);
     width: 100%;
     min-height: 52px;
     display: flex;
@@ -8,7 +7,7 @@
     gap: 10px;
     padding: 0 20px;
     border-radius: 4px;
-    filter: grayscale(1);
+    background: #555555;
     position: relative;
     pointer-events: none;
     user-select: none;
@@ -16,7 +15,7 @@
 }
 
 .product-page-whatsapp.active{
-    filter: grayscale(0);
+    background: var(--whatsapp);
     cursor: pointer;
     pointer-events: unset;
     user-select: unset;
@@ -36,7 +35,7 @@
     background: #075E54;
     transition: var(--t-200ms-linear);
     scale: 0;
-    z-index: -1;
+    z-index: 0;
 }
 
 .product-page-whatsapp.active:hover::before{
@@ -47,21 +46,21 @@
     width: 26px;
     height: auto;
     aspect-ratio: 1/1;
+    z-index: 2;
 }
 
 .product-page-whatsapp span,
 .product-page-whatsapp p{
     color: var(--white);
+    z-index: 2;
 }
-
-/**/
 
 .whatsapp-message{
     padding: 10px;
-    background: rgb(220, 20, 60, 0.1);
+    background: rgb(220, 20, 60, 0.05);
     border-radius: 4px;
     position: relative;
-    border: 1px solid rgb(220, 20, 60);
+    border: 1px solid crimson;
 }
 
 .whatsapp-message::before{
@@ -83,8 +82,6 @@
 .whatsapp-message span{
     color: crimson;
 }
-
-/**/
 
 @media screen and (max-width: 600px) {
     .whatsapp-message::before{

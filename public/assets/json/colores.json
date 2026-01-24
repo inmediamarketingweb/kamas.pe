@@ -1,241 +1,625 @@
 {
     "telas":[
         {
-            "tela": "Piel de potro",
-            "colores":[
-                {
-                    "color": "Acero",
-                    "img": "/assets/imagenes/colores/piel-de-potro/acero.png"
-                },
-                {
-                    "color": "Amarillo",
-                    "img": "/assets/imagenes/colores/piel-de-potro/amarillo.png"
-                },
-                {
-                    "color": "Arena oscuro",
-                    "img": "/assets/imagenes/colores/piel-de-potro/arena-oscuro.png"
-                },
-                {
-                    "color": "Azul noche",
-                    "img": "/assets/imagenes/colores/piel-de-potro/azul-noche.png"
-                },
-                {
-                    "color": "Beige oscuro",
-                    "img": "/assets/imagenes/colores/piel-de-potro/beige-oscuro.png"
-                },
-                {
-                    "color": "Camello",
-                    "img": "/assets/imagenes/colores/piel-de-potro/camello.png"
-                },
-                {
-                    "color": "Cobalto",
-                    "img": "/assets/imagenes/colores/piel-de-potro/cobalto.png"
-                },
-                {
-                    "color": "Fucsia",
-                    "img": "/assets/imagenes/colores/piel-de-potro/fucsia.png"
-                },
-                {
-                    "color": "Ibory",
-                    "img": "/assets/imagenes/colores/piel-de-potro/ibory.png"
-                },
-                {
-                    "color": "Lila",
-                    "img": "/assets/imagenes/colores/piel-de-potro/lila.png"
-                },
-                {
-                    "color": "Naranja",
-                    "img": "/assets/imagenes/colores/piel-de-potro/naranja.png"
-                },
-                {
-                    "color": "Negro",
-                    "img": "/assets/imagenes/colores/piel-de-potro/negro.png"
-                },
-                {
-                    "color": "Plomo plata",
-                    "img": "/assets/imagenes/colores/piel-de-potro/plomo-plata.png"
-                },
-                {
-                    "color": "Rojo",
-                    "img": "/assets/imagenes/colores/piel-de-potro/rojo.png"
-                },
-                {
-                    "color": "Rosado bebé",
-                    "img": "/assets/imagenes/colores/piel-de-potro/rosado-bebe.png"
-                },
-                {
-                    "color": "Turquesa ópalo",
-                    "img": "/assets/imagenes/colores/piel-de-potro/turquesa-opalo.png"
-                },
-                {
-                    "color": "Uva",
-                    "img": "/assets/imagenes/colores/piel-de-potro/uva.png"
-                },
-                {
-                    "color": "Verde loro",
-                    "img": "/assets/imagenes/colores/piel-de-potro/verde-loro.png"
-                }
-            ]
-        },
-        {
-            "tela": "Piel de durazno",
-            "colores":[
-                {
-                    "color": "Azul noche",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/azul-noche.png"
-                },
-                {
-                    "color": "Beige",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/beige.png"
-                },
-                {
-                    "color": "Camello oscuro",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/camello-oscuro.png"
-                },
-                {
-                    "color": "Camello",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/camello.png"
-                },
-                {
-                    "color": "Chocolate",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/chocolate.png"
-                },
-                {
-                    "color": "Hueso",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/hueso.png"
-                },
-                {
-                    "color": "Lila fandango",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/lila-fandango.png"
-                },
-                {
-                    "color": "Negro",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/negro.png"
-                },
-                {
-                    "color": "Palo rosa",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/palo-rosa.png"
-                },
-                {
-                    "color": "Plomo plata",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/plomo-plata.png"
-                },
-                {
-                    "color": "Plomo rata",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/plomo-rata.png"
-                },
-                {
-                    "color": "Rojo",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/rojo.png"
-                },
-                {
-                    "color": "Verde cerceta",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/verde-cerceta.png"
-                },
-                {
-                    "color": "Verde esmeralda",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/verde-esmeralda.png"
-                },
-                {
-                    "color": "Vino claro",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/vino-claro.png"
-                },
-                {
-                    "color": "Vino",
-                    "img": "/assets/imagenes/colores/piel-de-durazno/vino.png"
-                }
-            ]
-        },
-        {
-            "tela": "Iker",
-            "colores":[
-                {
-                    "color": "Gris ratón",
-                    "img": "/assets/imagenes/colores/iker/gris-raton.png"
-                },
-                {
-                    "color": "Lila",
-                    "img": "/assets/imagenes/colores/iker/lila.png"
-                },
-                {
-                    "color": "Verde jade",
-                    "img": "/assets/imagenes/colores/iker/verde-jade.png"
-                }
-            ]
-        },
-        {
-            "tela": "Antifluidos",
-            "colores":[
-                {
-                    "color": "Beige",
-                    "img": "/assets/imagenes/colores/antifluidos/beige.png"
-                },
-                {
-                    "color": "Ibory",
-                    "img": "/assets/imagenes/colores/antifluidos/ibory.png"
-                },
-                {
-                    "color": "Plata",
-                    "img": "/assets/imagenes/colores/antifluidos/plata.png"
-                },
-                {
-                    "color": "Plomo oscuro",
-                    "img": "/assets/imagenes/colores/antifluidos/plomo-oscuro.png"
-                },
-                {
-                    "color": "Verde pacay",
-                    "img": "/assets/imagenes/colores/antifluidos/verde-pacay.png"
-                }
-            ]
-        },
-        {
-            "tela": "Tejido",
-            "colores":[
-                {
-                    "color": "Beige oscuro",
-                    "img": "/assets/imagenes/colores/tejido/beige-oscuro.png"
-                },
-                {
-                    "color": "Beige",
-                    "img": "/assets/imagenes/colores/tejido/beige.png"
-                },
-                {
-                    "color": "Cenizo",
-                    "img": "/assets/imagenes/colores/tejido/cenizo-new.png"
-                },
-                {
-                    "color": "Chocolate",
-                    "img": "/assets/imagenes/colores/tejido/chocolate.png"
-                },
-                {
-                    "color": "Gris new",
-                    "img": "/assets/imagenes/colores/tejido/gris-new.png"
-                },
-                {
-                    "color": "Palo rosa",
-                    "img": "/assets/imagenes/colores/tejido/palo-rosa.png"
-                },
-                {
-                    "color": "Plata oscuro",
-                    "img": "/assets/imagenes/colores/tejido/plata-oscuro.png"
-                },
-                {
-                    "color": "Plata",
-                    "img": "/assets/imagenes/colores/tejido/plata.png"
-                },
-                {
-                    "color": "Plomo plata",
-                    "img": "/assets/imagenes/colores/tejido/plomo-plata.png"
-                },
-                {
-                    "color": "Plomo",
-                    "img": "/assets/imagenes/colores/tejido/plomo.png"
-                },
-                {
-                    "color": "Tabaco",
-                    "img": "/assets/imagenes/colores/tejido/tabaco.png"
-                }
-            ]
+            "🟡 Línea plus":{
+                "short" : "Sin variación de precio.",
+                "telas":[
+                    {
+                        "tela": "Piel de potro ecuestre irlandés",
+                        "descripcion": "Textura peinada y direccional, inspirada en el pelaje natural del potro. Brillo sutil, elegancia rústica y carácter visual que no pasa desapercibido. Perfecta para ambientes con personalidad fuerte y presencia decorativa.",
+                        "colores":[
+                            {
+                                "color": "Acero",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/acero.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/acero.png"
+                            },
+                            {
+                                "color": "Amarillo",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/amarillo.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/amarillo.png"
+                            },
+                            {
+                                "color": "Arena oscuro",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/arena-oscuro.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/arena-oscuro.png"
+                            },
+                            {
+                                "color": "Azul",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/azul.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/azul.png"
+                            },
+                            {
+                                "color": "Azul eléctrico",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/azul-electrico.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/azul-electrico.png"
+                            },
+                            {
+                                "color": "Azul noche",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/azul-noche.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/azul-noche.png"
+                            },
+                            {
+                                "color": "Beige claro",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/beige-claro.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/beige-claro.png"
+                            },
+                            {
+                                "color": "Beige oscuro",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/beige-oscuro.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/beige-oscuro.png"
+                            },
+                            {
+                                "color": "Camello",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/camello.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/camello.png"
+                            },
+                            {
+                                "color": "Cenizo",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/cenizo.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/cenizo.png"
+                            },
+                            {
+                                "color": "Champagne",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/champagne.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/champagne.png"
+                            },
+                            {
+                                "color": "Cobalto",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/cobalto.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/cobalto.png"
+                            },
+                            {
+                                "color": "Fucsia",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/fucsia.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/fucsia.png"
+                            },
+                            {
+                                "color": "Ivory",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/ivory.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/ivory.png"
+                            },
+                            {
+                                "color": "Lila",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/lila.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/lila.png"
+                            },
+                            {
+                                "color": "Naranja",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/naranja.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/naranja.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/negro.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/negro.png"
+                            },
+                            {
+                                "color": "plomo plata",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/plomo-plata.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/plomo-plata.png"
+                            },
+                            {
+                                "color": "rojo",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/rojo.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/rojo.png"
+                            },
+                            {
+                                "color": "rosado bebé",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/rosado-bebe.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/rosado-bebe.png"
+                            },
+                            {
+                                "color": "tabaco",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/tabaco.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/tabaco.png"
+                            },
+                            {
+                                "color": "Turquesa opalo",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/turquesa-opalo.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/turquesa-opalo.png"
+                            },
+                            {
+                                "color": "uva",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/uva.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/uva.png"
+                            },
+                            {
+                                "color": "Verde loro",
+                                "original": "/assets/imagenes/colores/plus/piel-de-potro/originales/verde-loro.png",
+                                "img": "/assets/imagenes/colores/plus/piel-de-potro/verde-loro.png"
+                            }
+                        ]
+                    },
+                    {
+                        "tela": "Iker textura vasca de montaña",
+                        "descripcion": "Tejido con cuerpo firme y trama fina, inspirado en los paisajes sobrios del norte español. Estilo contemporáneo, equilibrio visual y resistencia superior. Ideal para tapizados que buscan sobriedad con distinción.",
+                        "colores":[
+                            {
+                                "color": "Champagne",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/champagne.png",
+                                "img": "/assets/imagenes/colores/plus/iker/champagne.png"
+                            },
+                            {
+                                "color": "chocolate",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/chocolate.png",
+                                "img": "/assets/imagenes/colores/plus/iker/chocolate.png"
+                            },
+                            {
+                                "color": "gris",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/gris.png",
+                                "img": "/assets/imagenes/colores/plus/iker/gris.png"
+                            },
+                            {
+                                "color": "gris ratón",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/gris-raton.png",
+                                "img": "/assets/imagenes/colores/plus/iker/gris-raton.png"
+                            },
+                            {
+                                "color": "ivory",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/ivory.png",
+                                "img": "/assets/imagenes/colores/plus/iker/ivory.png"
+                            },
+                            {
+                                "color": "lila",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/lila.png",
+                                "img": "/assets/imagenes/colores/plus/iker/lila.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/negro.png",
+                                "img": "/assets/imagenes/colores/plus/iker/negro.png"
+                            },
+                            {
+                                "color": "verde jade",
+                                "original": "/assets/imagenes/colores/plus/iker/originales/verde-jade.png",
+                                "img": "/assets/imagenes/colores/plus/iker/verde-jade.png"
+                            }
+                        ]
+                    },
+                    {
+                        "tela": "Cuero sintético escandinavo urbano",
+                        "descripcion": "Vinil flexible, de acabado mate y textura limpia. Minimalismo nórdico con presencia duradera. Fácil de mantener, ideal para espacios modernos y funcionales.",
+                        "colores":[
+                            {
+                                "color": "ivory",
+                                "original": "/assets/imagenes/colores/plus/cuero-sintetico/originales/ivory.png",
+                                "img": "/assets/imagenes/colores/plus/cuero-sintetico/ivory.png"
+                            },
+                            {
+                                "color": "plata",
+                                "original": "/assets/imagenes/colores/plus/cuero-sintetico/originales/plata.png",
+                                "img": "/assets/imagenes/colores/plus/cuero-sintetico/plata.png"
+                            },
+                            {
+                                "color": "rojo",
+                                "original": "/assets/imagenes/colores/plus/cuero-sintetico/originales/rojo.png",
+                                "img": "/assets/imagenes/colores/plus/cuero-sintetico/rojo.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "🔴 Línea premium":{
+                "short" : "S/.20 adicionales en dormitorios.",
+                "costos-adicionales":[
+                    {
+                        "producto": "Dormitorio",
+                        "costo-adicional": "20"
+                    },
+                    {
+                        "producto": "Cama box tarima",
+                        "costo-adicional": "15"
+                    },
+                    {
+                        "producto": "Box | Base sola",
+                        "costo-adicional": "10"
+                    },
+                    {
+                        "producto": "Cabecera sola",
+                        "costo-adicional": "10"
+                    }
+                ],
+                "telas":[
+                    {
+                        "tela": "Piel de durazno suizo de alto gramaje",
+                        "descripcion": "Tacto aterciopelado y sedoso, con caída elegante y textura envolvente. Inspirada en el diseño suizo: discreta, suave y refinada. Pensada para espacios que desean confort sin renunciar al estilo.",
+                        "colores":[
+                            {
+                                "color": "azul",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/azul.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/azul.png"
+                            },
+                            {
+                                "color": "azul noche",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/azul-noche.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/azul-noche.png"
+                            },
+                            {
+                                "color": "beige",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/beige.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/beige.png"
+                            },
+                            {
+                                "color": "beige claro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/beige-claro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/beige-claro.png"
+                            },
+                            {
+                                "color": "beige oscuro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/beige-oscuro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/beige-oscuro.png"
+                            },
+                            {
+                                "color": "camello",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/camello.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/camello.png"
+                            },
+                            {
+                                "color": "camello oscuro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/camello-oscuro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/camello-oscuro.png"
+                            },
+                            {
+                                "color": "chocolate",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/chocolate.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/chocolate.png"
+                            },
+                            {
+                                "color": "cobalto",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/cobalto.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/cobalto.png"
+                            },
+                            {
+                                "color": "hueso",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/hueso.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/hueso.png"
+                            },
+                            {
+                                "color": "lila fandango",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/lila-fandango.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/lila-fandango.png"
+                            },
+                            {
+                                "color": "moro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/moro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/moro.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/negro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/negro.png"
+                            },
+                            {
+                                "color": "palo rosa",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/palo-rosa.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/palo-rosa.png"
+                            },
+                            {
+                                "color": "plata",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/plata.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/plata.png"
+                            },
+                            {
+                                "color": "plomo",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/plomo.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/plomo.png"
+                            },
+                            {
+                                "color": "plomo oscuro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/plomo-oscuro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/plomo-oscuro.png"
+                            },
+                            {
+                                "color": "plomo plata",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/plomo-plata.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/plomo-plata.png"
+                            },
+                            {
+                                "color": "plomo rata",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/plomo-rata.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/plomo-rata.png"
+                            },
+                            {
+                                "color": "rojo",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/rojo.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/rojo.png"
+                            },
+                            {
+                                "color": "rosado bebé",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/rosado-bebe.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/rosado-bebe.png"
+                            },
+                            {
+                                "color": "verde cerceta",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/verde-cerceta.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/verde-cerceta.png"
+                            },
+                            {
+                                "color": "verde esmeralda",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/verde-esmeralda.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/verde-esmeralda.png"
+                            },
+                            {
+                                "color": "vino",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/vino.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/vino.png"
+                            },
+                            {
+                                "color": "vino claro",
+                                "original": "/assets/imagenes/colores/premium/piel-de-durazno/originales/vino-claro.png",
+                                "img": "/assets/imagenes/colores/premium/piel-de-durazno/vino-claro.png"
+                            }
+                        ]
+                    },
+                    {
+                        "tela": "Cuero microtexturizado alemán de precisión",
+                        "descripcion": "Grabado fino que imita el cuero real con detalle milimétrico. Presencia visual fuerte, textura firme y elegante. Perfecto para tapizados de alta exigencia estética.",
+                        "colores":[
+                            {
+                                "color": "camel",
+                                "original": "/assets/imagenes/colores/premium/cuero-microtexturizado/originales/camel.png",
+                                "img": "/assets/imagenes/colores/premium/cuero-microtexturizado/camel.png"
+                            },
+                            {
+                                "color": "marrón",
+                                "original": "/assets/imagenes/colores/premium/cuero-microtexturizado/originales/marron.png",
+                                "img": "/assets/imagenes/colores/premium/cuero-microtexturizado/marron.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/premium/cuero-microtexturizado/originales/negro.png",
+                                "img": "/assets/imagenes/colores/premium/cuero-microtexturizado/negro.png"
+                            },
+                            {
+                                "color": "plomo rata",
+                                "original": "/assets/imagenes/colores/premium/cuero-microtexturizado/originales/plomo-rata.png",
+                                "img": "/assets/imagenes/colores/premium/cuero-microtexturizado/plomo-rata.png"
+                            },
+                            {
+                                "color": "vino",
+                                "original": "/assets/imagenes/colores/premium/cuero-microtexturizado/originales/vino.png",
+                                "img": "/assets/imagenes/colores/premium/cuero-microtexturizado/vino.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "🟢 Línea élite":{
+                "short" : "S/.40 adicionales en dormitorios.",
+                "costos-adicionales":[
+                    {
+                        "producto": "Dormitorio",
+                        "costo-adicional": "40"
+                    },
+                    {
+                        "producto": "Cama box tarima",
+                        "costo-adicional": "30"
+                    },
+                    {
+                        "producto": "Box | Base sola",
+                        "costo-adicional": "15"
+                    },
+                    {
+                        "producto": "Cabecera sola",
+                        "costo-adicional": "15"
+                    }
+                ],
+                "telas":[
+                    {
+                        "tela": "Marmoleado toscano con estilo",
+                        "descripcion": "Diseño visual inspirado en piedra italiana, con acabado decorativo funcional. Fácil de mantener, estéticamente audaz. Pensada para hogares en movimiento con gusto sofisticado.",
+                        "colores":[
+                            {
+                                "color": "beige oscuro",
+                                "original": "/assets/imagenes/colores/elite/antifluidos/originales/beige-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/antifluidos/beige-oscuro.png"
+                            },
+                            {
+                                "color": "ivory",
+                                "original": "/assets/imagenes/colores/elite/antifluidos/originales/ivory.png",
+                                "img": "/assets/imagenes/colores/elite/antifluidos/ivory.png"
+                            },
+                            {
+                                "color": "plata",
+                                "original": "/assets/imagenes/colores/elite/antifluidos/originales/plata.png",
+                                "img": "/assets/imagenes/colores/elite/antifluidos/plata.png"
+                            },
+                            {
+                                "color": "plomo oscuro",
+                                "original": "/assets/imagenes/colores/elite/antifluidos/originales/plomo-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/antifluidos/plomo-oscuro.png"
+                            },
+                            {
+                                "color": "verde pacay",
+                                "original": "/assets/imagenes/colores/elite/antifluidos/originales/verde-pacay.png",
+                                "img": "/assets/imagenes/colores/elite/antifluidos/verde-pacay.png"
+                            }
+                        ]
+                    },
+                    {
+                        "tela": "Tejido flamenco de bélgica",
+                        "descripcion": "Tela con trama entrelazada, cuerpo estructurado y fondo artesanal. Estética con herencia, sensación textil auténtica. Ideal para composiciones clásicas, con alma cálida y europea.",
+                        "colores":[
+                            {
+                                "color": "acero",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/acero.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/acero.png"
+                            },
+                            {
+                                "color": "arena claro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/arena-claro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/arena-claro.png"
+                            },
+                            {
+                                "color": "azul bebé",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/azul-bebe.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/azul-bebe.png"
+                            },
+                            {
+                                "color": "azul denim",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/azul-denim.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/azul-denim.png"
+                            },
+                            {
+                                "color": "beige",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/beige.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/beige.png"
+                            },
+                            {
+                                "color": "beige claro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/beige-claro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/beige-claro.png"
+                            },
+                            {
+                                "color": "beige oscuro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/beige-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/beige-oscuro.png"
+                            },
+                            {
+                                "color": "camel",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/camel.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/camel.png"
+                            },
+                            {
+                                "color": "castaño",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/castaño.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/castaño.png"
+                            },
+                            {
+                                "color": "cenizo new",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/cenizo-new.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/cenizo-new.png"
+                            },
+                            {
+                                "color": "champagne",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/champagne.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/champagne.png"
+                            },
+                            {
+                                "color": "chocolate",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/chocolate.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/chocolate.png"
+                            },
+                            {
+                                "color": "chocolate new",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/chocolate-new.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/chocolate-new.png"
+                            },
+                            {
+                                "color": "gris new",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/gris-new.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/gris-new.png"
+                            },
+                            {
+                                "color": "gris ratón",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/gris-raton.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/gris-raton.png"
+                            },
+                            {
+                                "color": "hueso",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/hueso.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/hueso.png"
+                            },
+                            {
+                                "color": "ivory",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/ivory.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/ivory.png"
+                            },
+                            {
+                                "color": "lila",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/lila.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/lila.png"
+                            },
+                            {
+                                "color": "marfil",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/marfil.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/marfil.png"
+                            },
+                            {
+                                "color": "marfil claro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/marfil-claro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/marfil-claro.png"
+                            },
+                            {
+                                "color": "moro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/moro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/moro.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/negro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/negro.png"
+                            },
+                            {
+                                "color": "palo rosa",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/palo-rosa.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/palo-rosa.png"
+                            },
+                            {
+                                "color": "plata",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plata.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plata.png"
+                            },
+                            {
+                                "color": "plata oscuro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plata-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plata-oscuro.png"
+                            },
+                            {
+                                "color": "plomo",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plomo.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plomo.png"
+                            },
+                            {
+                                "color": "plomo new",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plomo-new.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plomo-new.png"
+                            },
+                            {
+                                "color": "plomo oscuro",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plomo-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plomo-oscuro.png"
+                            },
+                            {
+                                "color": "plomo plata",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plomo-plata.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plomo-plata.png"
+                            },
+                            {
+                                "color": "plomo rata",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/plomo-rata.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/plomo-rata.png"
+                            },
+                            {
+                                "color": "tabaco",
+                                "original": "/assets/imagenes/colores/elite/tejido/originales/tabaco.png",
+                                "img": "/assets/imagenes/colores/elite/tejido/tabaco.png"
+                            }
+                        ]
+                    },
+                    {
+                        "tela": "Cuero genuino toscano curtido a mano",
+                        "descripcion": "Piel auténtica trabajada con técnicas tradicionales de curtiembre italiana. Aroma natural, textura viva y durabilidad excepcional. Para quienes entienden lo que significa verdadero lujo.",
+                        "colores":[
+                            {
+                                "color": "acre",
+                                "original": "/assets/imagenes/colores/elite/cuero-genuino/originales/acre.png",
+                                "img": "/assets/imagenes/colores/elite/cuero-genuino/acre.png"
+                            },
+                            {
+                                "color": "gris oscuro",
+                                "original": "/assets/imagenes/colores/elite/cuero-genuino/originales/gris-oscuro.png",
+                                "img": "/assets/imagenes/colores/elite/cuero-genuino/gris-oscuro.png"
+                            },
+                            {
+                                "color": "negro",
+                                "original": "/assets/imagenes/colores/elite/cuero-genuino/originales/negro.png",
+                                "img": "/assets/imagenes/colores/elite/cuero-genuino/negro.png"
+                            }
+                        ]
+                    }
+                ]
+            }
         }
     ]
 }

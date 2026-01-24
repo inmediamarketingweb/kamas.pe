@@ -1,108 +1,257 @@
-import { useEffect, useState } from "react";
-import { Helmet } from "react-helmet-async";
-import { v4 as uuidv4 } from "uuid";
+import { useEffect, useState } from 'react';
+import { Helmet } from 'react-helmet-async';
+import { useLocation } from 'react-router-dom';
 
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
+import './Ofertas.css';
 
-import "./Ofertas.css";
+import Categorias from './Componentes/Categorias/Categorias';
+import Filtros from '../../Componentes/Filtros/Filtros';
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
+import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
 
 function Ofertas(){
+    const [filtrosPrecio, setFiltrosPrecio] = useState([]);
     const [productos, setProductos] = useState([]);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
+    const [favoritos, setFavoritos] = useState([]);
+    const [tiempoAgotado, setTiempoAgotado] = useState(false);
+    const location = useLocation();
+    const searchParams = new URLSearchParams(location.search);
+    const categoriaParam = searchParams.get('categoria');
+    const categoria = categoriaParam ? categoriaParam.replace(/-/g, ' ') : null;
+    const filtrosDetalles = {};
+    const [isOfferActive, setIsOfferActive] = useState(true);
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
+
+    searchParams.forEach((value, key) => {
+        if (key !== 'categoria') {
+            filtrosDetalles[key] = value.replace(/-/g, ' ');
+        }
+    });
+
+    const [skusOfertas, setSkusOfertas] = useState([]);
 
     useEffect(() => {
-        fetch("/assets/json/manifest.json").then((response) => response.json()).then((data) => {
-            const files = data.files || [];
-            const filePromises = files.map((fileUrl) => fetch(fileUrl).then((res) => res.json()).catch(() => ({ productos: [] })) );
-
-            Promise.all(filePromises).then((results) => {
-                const allProducts = results.reduce((acc, curr) => {
-                    if (Array.isArray(curr.productos)){
-                        return acc.concat(curr.productos);
-                    }
-                    return acc;
-                }, []);
-
-                const productosOferta = allProducts.filter(
-                    (producto) => producto.oferta === "si"
-                );
-                setProductos(productosOferta);
-            }).catch((error) => {
-                console.error("Error al combinar archivos de productos:", error);
-                setProductos([]);
-            });
-        })
-        .catch((error) => {
-            console.error("Error al cargar manifest.json:", error);
-                setProductos([]);
-            });
+        const favoritosGuardados = localStorage.getItem('favoritos');
+        if (favoritosGuardados) {
+            setFavoritos(JSON.parse(favoritosGuardados));
+        }
     }, []);
 
-    const truncate = (str, maxLength) => {
-        if (str.length <= maxLength) return str;
-        return str.slice(0, maxLength) + "...";
+    useEffect(() => {
+        localStorage.setItem('favoritos', JSON.stringify(favoritos));
+    }, [favoritos]);
+
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
+
+    useEffect(() => {
+        const cargarProductos = async () => {
+            try {
+                const ofertasResponse = await fetch('/assets/json/ofertas.json');
+                if (!ofertasResponse.ok) {
+                    throw new Error('No se pudo cargar ofertas.json');
+                }
+
+                const ofertasData = await ofertasResponse.json();
+                const skusOfertas = ofertasData.skus || ofertasData;
+                
+                if (!Array.isArray(skusOfertas)) {
+                    throw new Error('El formato de ofertas.json no es válido.');
+                }
+
+                if (skusOfertas.length === 0) {
+                    setProductos([]);
+                    setLoading(false);
+                    return;
+                }
+
+                const skusBuscados = new Set(skusOfertas);
+
+                const manifestResponse = await fetch('/assets/json/manifest.json');
+                if (!manifestResponse.ok) {
+                    throw new Error('No se pudo cargar manifest.json');
+                }
+
+                const manifestData = await manifestResponse.json();
+                const archivos = manifestData.files || [];
+                
+                const productosPromesas = archivos.map(async (url) => {
+                    try {
+                        const response = await fetch(url);
+                        const data = await response.json();
+
+                        if (Array.isArray(data)) {
+                            return data.filter(p => skusBuscados.has(p.sku));
+                        }
+                        else if (data.productos && Array.isArray(data.productos)) {
+                            return data.productos.filter(p => skusBuscados.has(p.sku));
+                        }
+                        
+                        return [];
+                    } catch (error) {
+                        console.error(`Error cargando ${url}:`, error);
+                        return [];
+                    }
+                });
+
+                const productosPorArchivo = await Promise.all(productosPromesas);
+                const productosFiltrados = productosPorArchivo.flat();
+
+                setProductos(productosFiltrados);
+                setLoading(false);
+            } catch (error) {
+                console.error("Error cargando productos:", error);
+                setError(error.message);
+                setLoading(false);
+            }
+        };
+
+        cargarProductos();
+    }, []);
+
+    const toggleFavorite = (producto) => {
+        setFavoritos(prevFavoritos => {
+            const existe = prevFavoritos.some(fav => fav.sku === producto.sku);
+            
+            if (existe) {
+                return prevFavoritos.filter(fav => fav.sku !== producto.sku);
+            } else {
+                return [...prevFavoritos, producto];
+            }
+        });
     };
+
+    const truncate = (str, maxLength) => {
+        return str.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str;
+    };
+
+    const productosFiltrados = productos.filter(producto => {
+        if (categoria && producto.categoria !== categoria) {
+            return false;
+        }
+        
+        for (const [key, value] of Object.entries(filtrosDetalles)) {
+            const detalleEncontrado = producto['detalles-del-producto'].some(detalleObj => {
+                return Object.entries(detalleObj).some(([detalleKey, detalleValue]) => {
+                    const normalizedKey = detalleKey.toLowerCase().replace(/[- ]/g, '');
+                    const normalizedFilterKey = key.toLowerCase().replace(/[- ]/g, '');
+
+                    if (normalizedKey === normalizedFilterKey) {
+                        const normalizedDetalleValue = detalleValue.toString().toLowerCase().trim();
+                        const normalizedFilterValue = value.toString().toLowerCase().trim();
+                        return normalizedDetalleValue === normalizedFilterValue;
+                    }
+                    return false;
+                });
+            });
+
+            if (!detalleEncontrado) {
+                return false;
+            }
+        }
+
+        if (filtrosPrecio.length > 0) {
+            const precio = parseFloat(producto.precioVenta);
+            if (isNaN(precio)) return false;
+            
+            const cumplePrecio = filtrosPrecio.some(rango => {
+                const [min, max] = rango.split('-').map(Number);
+                return precio >= min && precio <= max;
+            });
+            
+            if (!cumplePrecio) {
+                return false;
+            }
+        }
+
+        return true;
+    });
+
+    if (loading){
+        return(
+            <div className="cargando">
+                <p>Cargando ofertas...</p>
+            </div>
+        );
+    }
+
+    if (error){
+        return (
+            <div className="error">
+                <p>Error: {error}</p>
+                <p>Por favor intenta recargar la página.</p>
+            </div>
+        );
+    }
 
     return(
         <>
             <Helmet>
-                <title>Ofertas | Kamas</title>
-                <meta name="description" content="Descubre las mejores ofertas en productos seleccionados, solo aquí en Kamas" />
+                <title>Ofertas ⏰ | Kamas</title>
+                <meta name="description" content="Descubre los mejores descuentos en productos solo por horas en Kamas." />
             </Helmet>
 
-            <Header/>
+            <main className="ofertas-main d-flex-column">
+                <section className="block-container ofertas-container">
+                    <div className="block-content ofertas-content">
+                        <Categorias/>
 
-            <main>
-                <div className="block-container">
-                    <section className="block-content">
-                        <div className="block-title-container">
-                            <h1 className="block-title">Ofertas</h1>
+                        <Filtros onCambiarPrecio={setFiltrosPrecio} />
+
+                        <div className='d-flex-column gap-10 ofertas-productos'>
+                            <div className='d-flex-center-between banner-top-ofertas gap-20'>
+                                <div className='d-flex-column'>
+                                    <p className='block-title text-left color-white'>Ofertas Kamas</p>
+                                    <p className='title color-white'>Aprovecha hasta el <b className='font-bold color-red'>30% de descuento</b> en dormitorios seleccionados</p>
+                                </div>
+
+                                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate} onTerminar={() => setTiempoAgotado(true)} />
+                            </div>
+
+                            {tiempoAgotado ? (
+                                <div className='d-flex-center-center gap-10 w-100 h-70-px bg-white border-r-6'>
+                                    <p className='title text'>El tiempo se agotó, pero más ofertas están en camino.</p>
+                                    <a href='/ofertas/' className='button-link button-link-5' title='Ofertas | Kamas'>
+                                        <p className='button-link-text'>Ver más</p>
+                                    </a>
+                                </div>
+                            ) : productosFiltrados.length === 0 ? (
+                                <div className='d-flex-center-center gap-10 w-100 h-70-px bg-white border-r-6'>
+                                    <p className='title text'>Lo sentimos no contamos ofertas disponibles para la categoría seleccionada.</p>
+                                    <a href='/ofertas/' className='button-link button-link-5' title='Ofertas | Kamas'>
+                                        <p className='button-link-text'>Ver más</p>
+                                    </a>
+                                </div>
+                            ) : (
+                                <ul className="products-list">
+                                    {productosFiltrados.map(
+                                        producto => (
+                                            <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite}
+                                                isFavorite={favoritos.some(fav => fav.sku === producto.sku)} skusOfertas={skusOfertas} isOfferActive={isOfferActive}
+                                            />
+                                        )
+                                    )}
+                                </ul>
+                            )}
                         </div>
-
-                        {productos.length > 0 ? (
-                            <ul className="ofertas-products">
-                                {productos.map((producto) => {
-                                    const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
-
-                                    return(
-                                        <li key={uuidv4()}>
-                                            <div className="product-card" title={producto.nombre}>
-                                                <div className="product-card-images">
-                                                    {descuento > 0 && (
-                                                        <span className="product-card-discount">-{descuento}%</span>
-                                                    )}
-
-                                                    <a href={producto.ruta}>
-                                                        <img src={`${producto.fotos}/1.jpg`} alt={producto.nombre} />
-                                                    </a>
-                                                </div>
-
-                                                <a href={producto.ruta} className="product-card-content">
-                                                    <div className="product-card-stock">
-                                                        <span>¡ Solo quedan <b>{producto.stock}</b> 🔥 !</span>
-                                                    </div>
-
-                                                    <span className="product-card-brand">KAMAS</span>
-                                                    <h4 className="product-card-name">{truncate(producto.nombre, 70)}</h4>
-                                                    <div className="product-card-prices">
-                                                        <span className="product-card-regular-price">S/.{producto.precioRegular}</span>
-                                                        <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
-                                                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </li>
-                                    );
-                                })}
-                            </ul>
-                        ) : (
-                            <p>No hay ofertas disponibles.</p>
-                        )}
-                    </section>
-                </div>
+                    </div>
+                </section>
             </main>
-
-            <Footer />
         </>
     );
 }

@@ -1,8 +1,5 @@
 import { Helmet } from 'react-helmet';
 
-import Header from '../../Componentes/Header/Header';
-import Footer from  '../../Componentes/Footer/Footer';
-
 import './ProyectosYAlianzas.css';
 
 function ProyectosYAlianzas(){
@@ -11,8 +8,6 @@ function ProyectosYAlianzas(){
             <Helmet>
                 <title>Proyectos y alianzas | Kamas</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -125,8 +120,6 @@ function ProyectosYAlianzas(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }

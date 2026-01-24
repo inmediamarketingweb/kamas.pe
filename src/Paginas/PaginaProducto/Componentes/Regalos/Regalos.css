@@ -26,8 +26,6 @@
 .product-page-gifts ul li img{
     margin: auto;
     object-fit: contain;
-    width: 60px;
-    height: auto;
     aspect-ratio: 1/1;
 }
 

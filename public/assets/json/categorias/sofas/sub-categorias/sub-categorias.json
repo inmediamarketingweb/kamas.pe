@@ -1,0 +1,39 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Juegos de sala",
+            "metaTitulo": "Sofás - Juegos de sala | Kamas",
+            "ruta": "/productos/sofas/juegos-de-sala/"
+        },
+        {
+            "subcategoria": "Seccionales",
+            "metaTitulo": "Sofás - Seccionales | Kamas",
+            "ruta": "/productos/sofas/seccionales/"
+        },
+        {
+            "subcategoria": "Sofas camas",
+            "metaTitulo": "Sofás - Sofas camas | Kamas",
+            "ruta": "/productos/sofas/sofas-camas/"
+        },
+        {
+            "subcategoria": "Reclinables",
+            "metaTitulo": "Sofás - Reclinables | Kamas",
+            "ruta": "/productos/sofas/reclinables/"
+        },
+        {
+            "subcategoria": "Sofas y sillones",
+            "metaTitulo": "Sofás - Sofas y sillones | Kamas",
+            "ruta": "/productos/sofas/sofas-y-sillones/"
+        },
+        {
+            "subcategoria": "Mecedoras",
+            "metaTitulo": "Sofás - Mecedoras | Kamas",
+            "ruta": "/productos/sofas/mecedoras/"
+        },
+        {
+            "subcategoria": "Butacas",
+            "metaTitulo": "Sofás - Butacas | Kamas",
+            "ruta": "/productos/sofas/butacas/"
+        }
+    ]
+}

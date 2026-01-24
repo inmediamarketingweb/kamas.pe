@@ -1,0 +1,830 @@
+{
+    "productos":[
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/3/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - CAMELL",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/3/",
+            "precioRegular": 499,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/4/",
+            "nombre": "VELADOR MODELO 2 EN 1 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/1/",
+            "precioRegular": 519,
+            "precioNormal": 489,
+            "precioVenta": 399,
+            "stock": 14,
+            "sku": "K714N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "2 en 1",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/5/",
+            "nombre": "VELADOR GHOST - CAFÉ",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/2/",
+            "precioRegular": 1430,
+            "precioNormal": 349,
+            "precioVenta": 279,
+            "stock": 14,
+            "sku": "K714N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Ghost",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/6/",
+            "nombre": "VELADOR YANIRA 2 CAJONES - HUESO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/3/",
+            "precioRegular": 589,
+            "precioNormal": 429,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K714N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Yanira",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/7/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/4/",
+            "precioRegular": 589,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/8/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/5/",
+            "precioRegular": 589,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/9/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - FUCSIA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/6/",
+            "precioRegular": 589,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/10/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/7/",
+            "precioRegular": 589,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/11/",
+            "nombre": "VELADOR VINTAGE 2 CAJONES NEW - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/8/",
+            "precioRegular": 579,
+            "precioNormal": 399,
+            "precioVenta": 329,
+            "stock": 14,
+            "sku": "K7112N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Vintage 2 new",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/12/",
+            "nombre": "VELADOR VINTAGE 2 MODERNO - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/9/",
+            "precioRegular": 579,
+            "precioNormal": 429,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K7112N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Vintage 2 moderno",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/13/",
+            "nombre": "VELADOR VINTAGE 2 MODERNO - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/10/",
+            "precioRegular": 579,
+            "precioNormal": 429,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K7112N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Vintage 2 moderno",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/14/",
+            "nombre": "VELADOR CUBE - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/11/",
+            "precioRegular": 469,
+            "precioNormal": 279,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K714N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Cube",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/15/",
+            "nombre": "VELADOR VINTAGE 2 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/13/",
+            "precioRegular": 499,
+            "precioNormal": 419,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K7112N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Vintage 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/16/",
+            "nombre": "VELADOR ATLANTA - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/14/",
+            "precioRegular": 489,
+            "precioNormal": 439,
+            "precioVenta": 359,
+            "stock": 14,
+            "sku": "K7132N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Atlanta",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/17/",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/15/",
+            "precioRegular": 489,
+            "precioNormal": 369,
+            "precioVenta": 299,
+            "stock": 14,
+            "sku": "K7133N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 3",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "id": 18,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/18/",
+            "nombre": "VELADOR ROB - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/16/",
+            "precioRegular": 489,
+            "precioNormal": 299,
+            "precioVenta": 249,
+            "stock": 14,
+            "sku": "K714N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Rob",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/19/",
+            "nombre": "VELADOR GHOST - BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/17/",
+            "precioRegular": 449,
+            "precioNormal": 349,
+            "precioVenta": 279,
+            "stock": 14,
+            "sku": "K714N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Ghost",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/20/",
+            "nombre": "VELADOR CLÁSICO 2 - MARRÓN",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/1/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/21/",
+            "nombre": "VELADOR CLÁSICO 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/3/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/22/",
+            "nombre": "VELADOR CLÁSICO 2 - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/4/",
+            "precioRegular": 399,
+            "precioNormal": 329,
+            "precioVenta": 269,
+            "stock": 14,
+            "sku": "K732N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 2",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/23/",
+            "nombre": "VELADOR CLÁSICO 1 - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/2/",
+            "precioRegular": 389,
+            "precioNormal": 319,
+            "precioVenta": 239,
+            "stock": 14,
+            "sku": "K731N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "modelo": "Clásico 1",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Velador",
+                    "descripcion":[
+                        {
+                            "ancho": "38 cm",
+                            "alto": "60 cm",
+                            "largo": "40 cm",
+                            "material": "Melamina 18mm.",
+                            "rieles": "Telecópicos pesados",
+                            "garantía": "1 año"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,3 +1,7 @@
+.product-page-sizes{
+    max-width: 200px;
+}
+
 .product-page-sizes li{
     display: flex;
 }

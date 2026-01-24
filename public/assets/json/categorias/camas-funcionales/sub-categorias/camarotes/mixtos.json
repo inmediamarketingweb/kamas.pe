@@ -1,0 +1,88 @@
+{
+    "productos":[
+        {
+            "categoria": "camas funcionales",
+            "subcategoría": "camarotes",
+            "tamaño": "1 plaza y media + 2 plazas",
+            "ruta": "/productos/camas-funcionales/camarotes/mixtos/1/",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/mixtos/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1499,
+            "precioVenta": 1145,
+            "stock": 9,
+            "sku": "K442N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "subcategoría": "camarotes",
+                    "tamaño": "1 plaza y media + 2 plazas",
+                    "tipo-de-cabecera": "No aplica"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "camarotes",
+                    "tamaño": "mixto",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Camarote",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano.",
+                            "parrillas": "100% madera pino americano",
+                            "unión": "Encajonada y con pernos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas funcionales",
+            "subcategoría": "camarotes",
+            "tamaño": "1 plaza y media + 2 plazas",
+            "ruta": "/productos/camas-funcionales/camarotes/mixtos/2/",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - MIEL",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/mixtos/2/",
+            "precioRegular": 1599,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K442N11",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "subcategoría": "camarotes",
+                    "tamaño": "1 plaza y media + 2 plazas",
+                    "tipo-de-cabecera": "No aplica"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "camarotes",
+                    "tamaño": "mixto",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Camarote",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano.",
+                            "parrillas": "100% madera pino americano",
+                            "unión": "Encajonada y con pernos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,960 @@
+{
+    "productos":[
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/101/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CON 2 CAJONES AL PIE + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/queen/aereas/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 1345,
+            "precioNormal": 1199,
+            "precioVenta": 919,
+            "stock": 12,
+            "sku": "K223113N125",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Aérea",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima con cajones",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "gavetas": "Melamina 18mm.",
+                            "rieles": "Telescópicos pesados",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/50/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CON 4 CAJONES LATERALES + CABECERA PEDESTAL BLOQUES - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/queen/pedestales/bloques/sin-brazos/otros-modelos/1/",
+            "colores": "si",
+            "precioRegular": 1899,
+            "precioNormal": 1659,
+            "precioVenta": 1319,
+            "stock": 12,
+            "sku": "K223126N100",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "Queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima con cajones",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "gavetas": "Melamina 18mm.",
+                            "rieles": "Telescópicos pesados",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años" 
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 2 CAJONES AL PIE - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/1/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1359,
+            "precioVenta": 919,
+            "stock": 15,
+            "sku": "K223112N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Aérea",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/2/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1339,
+            "precioVenta": 919,
+            "stock": 15,
+            "sku": "K223112N11",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Aérea",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/3/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/3/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1339,
+            "precioVenta": 1019,
+            "stock": 15,
+            "sku": "K223112N12",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Aérea",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CUADROS 1 + 2 CAJONES AL PIE - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1299,
+            "precioVenta": 919,
+            "stock": 15,
+            "sku": "K2231113N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CUADROS 2 + 2 CAJONES AL PIE - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/bloques/sin-brazos/cuadros-2/2/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1649,
+            "precioVenta": 1099,
+            "stock": 15,
+            "sku": "K2231113N11",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/9/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 6 CAJONES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K223123N13",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/10/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 6 CAJONES - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K223123N14",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/11/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 6 CAJONES - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K223123N15",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/12/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 6 CAJONES - CAMELLO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K223123N16",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/13/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL LINEAL + 2 CAJONES LATERALES - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/lineal/1/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K223123N17",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/14/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1339,
+            "stock": 15,
+            "sku": "K223225N12",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/15/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - TUQUESA OPÁLO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/2/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1339,
+            "stock": 15,
+            "sku": "K223225N13",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "queen",
+            "ruta": "/productos/camas-box-tarimas/queen/americanas-con-cajones/20/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/2/",
+            "colores": "si",
+            "precioRegular": 1799,
+            "precioNormal": 1749,
+            "precioVenta": 1129,
+            "stock": 15,
+            "sku": "K223113N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "queen",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

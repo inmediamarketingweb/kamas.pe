@@ -1,34 +1,29 @@
 {
     "subcategorias":[
         {
-            "id": 1,
-            "subcategoria": "Clasicas",
-            "metaTitulo": "Cama box tarimas - Clásicas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/clasicas/"
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Camas box tarimas - 1 plaza | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/"
         },
         {
-            "id": 2,
-            "subcategoria": "Americanas",
-            "metaTitulo": "Camas box tarimas - Americanas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/americanas/"
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Camas box tarimas - 1 plaza y media | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
         },
         {
-            "id": 3,
-            "subcategoria": "Americanas con cajones",
-            "metaTitulo": "Camas box tarimas - Americanas con cajones | Kamas",
-            "ruta": "/productos/camas-box-tarimas/americanas-con-cajones/"
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Camas box tarimas - 2 plazas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/"
         },
         {
-            "id": 4,
-            "subcategoria": "Europeas",
-            "metaTitulo": "Camas box tarimas - Europeas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/europeas/"
+            "subcategoria": "Queen",
+            "metaTitulo": "Camas box tarimas - Queen | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/"
         },
         {
-            "id": 5,
-            "subcategoria": "Europeas con cajones",
-            "metaTitulo": "Camas box tarimas - Europeas con cajones | Kamas",
-            "ruta": "/productos/camas-box-tarimas/europeas-con-cajones/"
+            "subcategoria": "King",
+            "metaTitulo": "Camas box tarimas - King | Kamas",
+            "ruta": "/productos/camas-box-tarimas/king/"
         }
     ]
 }

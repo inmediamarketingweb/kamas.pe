@@ -1,7 +1,7 @@
 .product-page-colors-button{
     position: absolute;
-    right: 20px;
-    bottom: 120px;
+    right: 10px;
+    bottom: 130px;
     cursor: pointer;
     padding: 10px;
     background: #F4F4F4;
@@ -25,15 +25,11 @@
 }
 
 .product-page-colors-button-miniatures li img{
-    width: 22px;
-    height: auto;
     aspect-ratio: 1/1;
     border-radius: 100%;
     display: flex;
     border: 1px solid var(--white);
 }
-
-/**/
 
 .product-page-colors-content{
     position: fixed;
@@ -41,29 +37,35 @@
     top: 50%;
     translate: -50% -50%;
     width: calc(100% - 40px);
-    max-width: 1000px;
-    height: auto;
-    max-height: calc(100vh - 40px);
+    max-width: var(--content-mx-width);
+    height: 690px;
     overflow-y: auto;
     padding: 20px;
     background: var(--white);
-    border: 1px solid rgba(0 0 0 / 0.2);
+    border: 1px solid rgba(0 0 0 / 0.25);
     transition: var(--t-200ms-linear);
     border-radius: 6px;
     z-index: 102;
 
+    scale: 0.95;
     opacity: 0;
     pointer-events: none;
     user-select: none;
 }
 
 .product-page-colors-content.active{
+    scale: 1;
     opacity: 1;
     pointer-events: unset;
     user-select: unset;
 }
 
-/**/
+.product-page-colors-content section > div:nth-child(2){
+    /* background: red; */
+    display: grid;
+    grid-template-columns: 360px auto 280px;
+    gap: 20px;
+}
 
 .product-page-colors-content-button-close{
     display: flex;
@@ -79,15 +81,15 @@
     color: var(--text);
 }
 
-/**/
-
 .product-page-colors-fabrics li button{
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
+    /* flex-direction: column; */
     width: 100%;
-    height: 48px;
-    padding: 0 20px;
+    min-height: 48px;
+    padding: 5px 10px;
     border-radius: 4px;
     transition: var(--t-200ms-linear);
 }
@@ -100,37 +102,49 @@
     background: var(--color-1);
 }
 
+.modal-color-categoria{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 14px;
+    color: var(--black);
+    transition: var(--t-200ms-linear);
+}
+
+.modal-color-categoria::first-letter{
+    text-transform: uppercase;
+}
+
 .product-page-colors-fabrics li button p{
     transition: var(--t-200ms-linear);
 }
 
-.product-page-colors-fabrics li button.active p{
+.product-page-colors-fabrics li button.active p,
+.product-page-colors-fabrics li button.active .modal-color-categoria{
     color: var(--white);
 }
 
-/**/
-
 .product-page-colors{
-    height: 100%;
+    width: auto;
+    /* height: 100%; */
     overflow-y: auto;
 }
 
 .product-page-colors-results{
-    display: flex;
-    flex-wrap: wrap;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
     gap: 10px;
 }
 
 .product-page-colors-results li{
     display: flex;
-    flex: 1 1 clamp(auto, calc(calc(100% / 5) - calc(40px / 5)), 100%);
-    max-width: calc(calc(100% / 5) - calc(40px / 5));
+    width: 100%;
     overflow: hidden;
 }
 
 .product-page-colors-results li button{
     position: relative;
-    padding: 5px;
+    /* padding: 5px; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -145,22 +159,20 @@
     background: rgba(0 0 0 / 0.05);
 }
 
-.product-page-colors-results li button.active{
-    border: 2px solid var(--color-2);
-}
-
 .product-page-colors-results li button::before{
     content: '✔';
     position: absolute;
-    left: 10px;
+    right: 10px;
     top: 10px;
-    width: 24px;
-    height: 24px;
+    width: 20px;
+    height: 20px;
+    font-size: 14px !important;
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: var(--t-200ms-linear);
     border-radius: 100%;
-    background: var(--color-2);
+    background: var(--color-1);
     color: var(--white);
 
     opacity: 0;
@@ -181,7 +193,22 @@
     border-radius: 4px;
 }
 
-/**/
+.product-page-colors-results li button p{
+    position: absolute;
+    left: 4px;
+    bottom: 4px;
+    padding: 3px 6px;
+    background: var(--white);
+    color: var(--text);
+    font-size: 13px;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.product-page-colors-results li button p::first-letter{
+    text-transform: uppercase;
+}
 
 .product-page-colors-layer{
     position: fixed;
@@ -189,7 +216,7 @@
     top: 0;
     width: 100%;
     height: 100vh;
-    background: rgba(0 0 0 / 0.1);
+    background: rgba(0 0 0 / 0.2);
     backdrop-filter: blur(2px);
     z-index: 101;
 
@@ -208,8 +235,6 @@
     display: none;
 }
 
-/**/
-
 @media screen and (max-width: 600px){
     .product-page-colors-button{
         right: 10px;
@@ -224,8 +249,6 @@
 
     .product-page-colors-button > div > img{
         display: flex;
-        width: 28px;
-        height: auto;
         aspect-ratio: 1/1;
     }
 
@@ -237,42 +260,42 @@
         margin-right: -15px;
     }
 
-    /**/
-
-    .product-page-colors-content{
-        max-height: 480px;
+    .product-page-colors-content section > div:nth-child(2){
+        grid-template-columns: 1fr;
     }
-
-    /**/
 
     .product-page-colors-fabrics{
+        flex-wrap: wrap !important;
         flex-direction: row !important;
-        flex-wrap: wrap;
-    }
-
-    .product-page-colors-fabrics li{
-        width: auto;
     }
 
     .product-page-colors-fabrics li button{
-        width: auto;
-        height: 40px;
-        padding: 0 12px;
+        min-height: unset;
+        padding: 8px 10px;
     }
 
-    /**/
+    .product-page-colors-fabrics li button p{
+        font-size: 13px;
+    }
 
     .product-page-colors-results{
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .product-page-colors-results li{
-        flex: unset;
-        max-width: unset;
+        display: flex;
+        width: 100%;
+        height: 100%;
     }
 
-    .product-page-colors-results li button p{
-        font-size: 14px;
+    .product-page-colors-results li button{
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    .product-page-colors-results li button img{
+        width: 100%;
+        height: 100%;
     }
 }

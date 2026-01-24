@@ -1,8 +1,5 @@
 import { useEffect, useState } from "react";
-import { v4 as uuidv4 } from "uuid";
-
-import Header from "../../Componentes/Header/Header";
-import Footer from "../../Componentes/Footer/Footer";
+import { Helmet } from 'react-helmet';
 
 import "./Favoritos.css";
 
@@ -15,23 +12,22 @@ function Favoritos(){
     }, []);
 
     const removeFavorite = (producto) => {
-        const updatedFavorites = favoritos.filter((fav) => fav.ruta !== producto.ruta);
+        const updatedFavorites = favoritos.filter((fav) => fav.sku !== producto.sku);
         setFavoritos(updatedFavorites);
         localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
     };
 
     const truncate = (str, maxLength) => {
-        if (str.length <= maxLength){
-            return str;
-        }
+        if (str.length <= maxLength) return str;
         return str.slice(0, maxLength) + "...";
     };
 
     return(
         <>
-            <title>Mis favoritos | Kamas</title>
-
-            <Header/>
+            <Helmet>
+                <title>Mis favoritos | Kamas</title>
+                <meta name="description" content='Guarda tus productos favoritos de KAMAS en tu navegador.'/>
+            </Helmet>
 
             <main>
                 <div className="block-container">
@@ -40,19 +36,25 @@ function Favoritos(){
                             <h2 className="block-title">Mis favoritos</h2>
                         </div>
 
-                        <div className="favorites-container">
+                        <div className="favorites-container d-flex-column gap-20">
                             {favoritos.length > 0 ? (
                                 <ul className="favorites-products">
                                     {favoritos.map((producto) => (
-                                        <li key={uuidv4()}>
+                                        <li key={producto.sku}>
                                             <div className="product-card">
                                                 <div className="product-card-images">
-                                                    <button type="button" className="remove-favorite" onClick={() => removeFavorite(producto)} title="Eliminar de favoritos">
-                                                        <span class="material-icons">delete</span>
+                                                    <button 
+                                                        type="button" 
+                                                        className="remove-favorite" 
+                                                        onClick={() => removeFavorite(producto)} 
+                                                        title="Eliminar de favoritos"
+                                                    >
+                                                        <span className="material-icons">delete</span>
                                                     </button>
 
+                                                    {/* 3. Corregir la ruta de la imagen */}
                                                     <a href={producto.ruta}>
-                                                        <img src={`${producto.fotos}/1.jpg`} alt={producto.nombre} />
+                                                        <img src={`${producto.fotos}1.jpg`} alt={producto.nombre} />
                                                     </a>
                                                 </div>
 
@@ -70,13 +72,17 @@ function Favoritos(){
                             ) : (
                                 <p>No tienes productos en favoritos.</p>
                             )}
-                            <a href="/">Volver a la tienda</a>
+
+                            <div className="d-flex-center-right">
+                                <a href="https://kamas.pe/" title="Inicio | Kamas" className="button-link button-link-2">
+                                    <span className="material-icons">home</span>
+                                    <p className="button-link-text">Volver al inicio</p>
+                                </a>    
+                            </div>    
                         </div>
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

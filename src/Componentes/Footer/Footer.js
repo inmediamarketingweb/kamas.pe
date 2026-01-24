@@ -4,20 +4,17 @@ function Footer(){
     return(
         <>
             <a href='https://wa.link/b7ml1d' target='_blank' rel="noopener noreferrer" className='whatsapp-button'>
-                <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" alt="icono de whatsapp"/>
+                <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" width={36} height={36} alt="icono de whatsapp"/>
             </a>
 
-            <footer className='w-100 d-flex-column gap-20'>
+            <footer className='w-100 d-flex-column'>
                 <div className='footer-block-container'>
                     <section className='footer-block-content'>
-                        <div className='block-title-container'>
-                            <p className='block-title'>En KAMAS diseñamos tus sueños</p>
-                        </div>
-
                         <nav className='footer-targets'>
                             <div className='footer-target footer-target-1'>
-                                <p className='title'>Acerca de KAMAS</p>
-                                <p className='text color-white'>Más información sobre la empresa, un breve resumen del rubro, historia o mensaje promocional y redes sociales.</p>
+                                <img width="auto" height={36} src="/assets/imagenes/componentes/footer/kamas-blanco.png" loading='lazy' alt="logo de kamas en blanco" className='footer-logo'/>
+
+                                <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia en calidad, innovación y diseño para elevar tu descanso a otro nivel.</p>
                                 
                                 <div className='d-flex-column gap-10'>
                                     <p className='title color-white'>Suscribete</p>
@@ -53,6 +50,16 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
+                                        <a href='/paleta-de-colores/' title='Paleta de colores | Kamas'>
+                                            <p>Paleta de colores</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='/agencias-recomendadas/' title='Agencias recomendadas | Kamas'>
+                                            <p>Agencias recomendadas</p>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='/envios/envios-a-lima-y-callao/' title='Envios a Lima y Callao | Kamas'>
                                             <p>Envios a Lima y Callao</p>
                                         </a>
@@ -73,6 +80,11 @@ function Footer(){
                                 <p className='title'>Servicio al cliente</p>
                                 <ul className='footer-list'>
                                     <li>
+                                        <a href='/agendar-visita/' title='Agendar visita | Kamas'>
+                                            <p>Agendar visita</p>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='/servicio-al-cliente/costos-de-envio-por-zona/' title='Costos de envio por zona | Kamas'>
                                             <p>Costos de envío por zona</p>
                                         </a>
@@ -83,37 +95,37 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/garantia-de-productos/' title=''>
+                                        <a href='/servicio-al-cliente/garantia-de-productos/' title='Garantía de productos | Kamas'>
                                             <p>Garantía de productos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title=''>
+                                        <a href='/servicio-al-cliente/recomendaciones-de-uso/' title='Recomendaciones de uso | Kamas'>
                                             <p>Recomendaciones de uso</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title=''>
+                                        <a href='/servicio-al-cliente/politica-de-cambios-y-devoluciones/' title='Política de cambios y devoluciones | Kamas'>
                                             <p>Política de cambios y devoluciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title=''>
+                                        <a href='/servicio-al-cliente/privacidad-y-seguridad/' title='Privacidad y seguridad | Kamas'>
                                             <p>Privacidad y seguridad</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title=''>
+                                        <a href='/servicio-al-cliente/terminos-y-condiciones/' title='Términos y condiciones | Kamas'>
                                             <p>Términos y condiciones</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title=''>
+                                        <a href='/servicio-al-cliente/horarios-de-entrega-y-envios/' title='Horarios de entrega y envíos | Kamas'>
                                             <p>Horarios de entrega y envíos</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title=''>
+                                        <a href='/servicio-al-cliente/manual-de-instalacion/' title='Manual de instalación | Kamas'>
                                             <p>Manual de instalación</p>
                                         </a>
                                     </li>
@@ -123,6 +135,11 @@ function Footer(){
                                 <div className='d-flex-column gap-10'>
                                     <p className='title'>Novedades</p>
                                     <ul className='footer-list'>
+                                        <li>
+                                            <a href='/ofertas/' title='Ofertas | Kamas'>
+                                                <p>Ofertas</p>
+                                            </a>
+                                        </li>
                                         <li>
                                             <a href='/novedades/programa-de-influencers/' title='Programa de influencers | Kamas'>
                                                 <p>Programa influencers</p>
@@ -147,17 +164,17 @@ function Footer(){
                                     <ul className='d-flex-center-left gap-5 social-networks'>
                                         <li>
                                             <a href='https://www.facebook.com/KAMAS.pe?locale=es_LA' target='_blank' rel="noopener noreferrer" title='Facebook | Kamas'>
-                                                <img src="/assets/imagenes/iconos/facebook-blanco.png" alt="Visita nuestro perfil en Facebook" title="Facebook"/>
+                                                <img src="/assets/imagenes/iconos/facebook-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Facebook" title="Facebook"/>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='https://www.instagram.com/kamas.pe/' target='_blank' rel="noopener noreferrer" title='Instagram | Kamas'>
-                                                <img src="/assets/imagenes/iconos/instagram-blanco.png" alt="Visita nuestro perfil en Instagram" title="instagram"/>
+                                                <img src="/assets/imagenes/iconos/instagram-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Instagram" title="instagram"/>
                                             </a>
                                         </li>
                                         <li>
                                             <a href='https://www.tiktok.com/@kamas.pe' target='_blank' rel="noopener noreferrer" title='Tik Tok | Kamas'>
-                                                <img src="/assets/imagenes/iconos/tiktok-blanco.png" alt="Visita nuestro perfil en TikTok" title="Tik Tok"/>
+                                                <img src="/assets/imagenes/iconos/tiktok-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en TikTok" title="Tik Tok"/>
                                             </a>
                                         </li>
                                     </ul>
@@ -171,29 +188,29 @@ function Footer(){
                     <section className='footer-bottom'>
                         <ul className='d-flex-center-center gap-10'>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/visa.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/visa.svg" width={20} height={20} alt="Visa | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/mastercard.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/mastercard.svg" width={20} height={20} alt="Mastercard | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/bcp.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/bcp.svg" width={58} height={20} alt="BCP | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/interbank.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/interbank.svg" width={110} height={20} alt="Interbank | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/bbva.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/bbva.svg" width={66} height={20} alt="BBVA | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/scotiabank.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/scotiabank.svg" width={80} height={20} alt="Scotiabank | Kamas" />
                             </li>
                             <li>
-                                <img src="/assets/imagenes/componentes/footer/banco-de-la-nacion.svg" alt="" />
+                                <img src="/assets/imagenes/componentes/footer/banco-de-la-nacion.svg" width={97} height={20} alt="Banco de la nación | Kamas" />
                             </li>
                         </ul>
 
-                        <p className='text color-white'>&copy; Todos los derechos reservados para <a href='https://kamas.pe' title='' className='color-white'>kamas.pe</a></p>
+                        <p className='text color-white'>&copy; Todos los derechos reservados para <a href='https://kamas.pe/' title='Kamas | Fabricantes de colchones, camas y dormitorios' className='color-white'>kamas.pe</a></p>
                     </section>
                 </div>
             </footer>

@@ -17,7 +17,7 @@ function Jerarquia({ producto }){
     }
 
     return(
-        <div className="product-page-direction">
+        <div className="product-page-direction bg-white padding-10 border-r-6">
             <ul className='d-flex-center-left gap-5 d-flex-wrap'>
                 <li>
                     <a href="/" className='d-flex'>

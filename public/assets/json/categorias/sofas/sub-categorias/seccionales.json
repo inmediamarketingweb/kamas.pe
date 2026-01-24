@@ -1,0 +1,724 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/1/",
+            "nombre": "SOFÁ SECCIONAL - BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/1/",
+            "colores": "si",
+            "precioRegular": 999,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/2/",
+            "nombre": "SOFÁ SECCIONAL - GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/2/",
+            "colores": "si",
+            "precioRegular": 999,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/3/",
+            "nombre": "SOFÁ SECCIONAL - AZUL",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/3/",
+            "colores": "si",
+            "precioRegular": 999,
+            "precioNormal": 2129,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K6222N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/4/",
+            "nombre": "SOFÁ SECCIONAL - BLANCO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/4/",
+            "colores": "si",
+            "precioRegular": 999,
+            "precioNormal": 1929,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/5/",
+            "nombre": "SOFÁ SECCIONAL - VERDE ESMERALDA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/5/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 2189,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "K6222N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/6/",
+            "nombre": "SOFÁ SECCIONAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/6/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 2189,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "K6222N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/7/",
+            "nombre": "SOFÁ SECCIONAL - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/7/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 2189,
+            "precioVenta": 1799,
+            "stock": 9,
+            "sku": "K6222N16",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/8/",
+            "nombre": "SOFÁ SECCIONAL - PLOMO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/8/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N17",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/9/",
+            "nombre": "SOFÁ SECCIONAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/9/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N18",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/10/",
+            "nombre": "SOFÁ SECCIONAL - CAMELL OSCURO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/10/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N19",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/11/",
+            "nombre": "SOFÁ SECCIONAL - ARENA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/11/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N20",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/12/",
+            "nombre": "SOFÁ SECCIONAL - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/12/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N21",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/13/",
+            "nombre": "SOFÁ SECCIONAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/13/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N22",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/14/",
+            "nombre": "SOFÁ SECCIONAL - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/14/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N23",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/15/",
+            "nombre": "SOFÁ SECCIONAL - GRIS RATON",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/15/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N24",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/16/",
+            "nombre": "SOFÁ SECCIONAL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/16/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K6222N25",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/17/",
+            "nombre": "SOFÁ SECCIONAL - BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/17/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1699,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "K6222N26",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/18/",
+            "nombre": "SOFÁ SECCIONAL - ROJO",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/18/",
+            "colores": "si",
+            "precioRegular": 2589,
+            "precioNormal": 1909,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K6222N27",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Piel de potro",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

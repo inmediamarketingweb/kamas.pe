@@ -1,0 +1,244 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/1/",
+            "nombre": "2 BUTACAS CLASIC -  NEGRO Y PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/1/",
+            "colores": "si",
+            "precioRegular": 1289,
+            "precioNormal": 1059,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K6721N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/2/",
+            "nombre": "BUTACA CLASIC - PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/2/",
+            "colores": "si",
+            "precioRegular": 1289,
+            "precioNormal": 589,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K6721N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/3/",
+            "nombre": "BUTACA CLASIC - MORO",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/3/",
+            "colores": "si",
+            "precioRegular": 1289,
+            "precioNormal": 549,
+            "precioVenta": 439,
+            "stock": 9,
+            "sku": "K6721N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/4/",
+            "nombre": "BUTACA CLASIC - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/4/",
+            "colores": "si",
+            "precioRegular": 1489,
+            "precioNormal": 739,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "K6721N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/5/",
+            "nombre": "BUTACA CLASIC - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/5/",
+            "colores": "si",
+            "precioRegular": 1289,
+            "precioNormal": 589,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K6721N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "sofás",
+            "subcategoria": "butacas",
+            "ruta": "/productos/sofas/butacas/6/",
+            "nombre": "BUTACA CLASIC - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/6/",
+            "colores": "si",
+            "precioRegular": 1289,
+            "precioNormal": 589,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K6721N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Butaca",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

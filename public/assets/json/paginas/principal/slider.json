@@ -1,0 +1,34 @@
+{
+    "slider":[
+        {
+            "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp",
+            "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp",
+            "link": "/productos/dormitorios/?línea=premium",
+            "alt": "Dormitorios premium | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-2.webp",
+            "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-2.webp",
+            "link": "/productos/dormitorios/americanos/king/der-prinz/194/",
+            "alt": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA + PIECERA - CHAMPAGNE | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-3.webp",
+            "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-3.webp",
+            "link": "/productos/dormitorios/?tamaño=4-plazas",
+            "alt": "Dormitorios 4 plazas | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-4.webp",
+            "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-4.webp",
+            "link": "/servicio-al-cliente/medios-de-pago/",
+            "alt": "Medios de pago | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-5.webp",
+            "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-5.webp",
+            "link": "/envios/envios-a-lima-y-callao/",
+            "alt": "Envíos a Lima y Callao | Kamas"
+        }
+    ]
+}

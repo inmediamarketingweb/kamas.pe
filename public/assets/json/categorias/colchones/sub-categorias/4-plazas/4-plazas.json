@@ -1,0 +1,74 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/4-plazas/sarki/1/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 4 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/",
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
+            "stock": 99,
+            "sku": "K153CN10",
+            "regalos":{
+                "texto": "2 almohadas",
+                "foto": "/assets/imagenes/productos/almohadas.png"
+            },
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "4 plazas",
+                    "linea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/sarki/1/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/sarki/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/sarki/1/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/sarki/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "4 plazas",
+                    "línea-de-colchón": "Ortopédico",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "21 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "26cm.",
+                    "soporte-de-peso": "80kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

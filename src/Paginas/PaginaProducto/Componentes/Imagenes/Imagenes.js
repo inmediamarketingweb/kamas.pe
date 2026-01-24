@@ -1,10 +1,12 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
+import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
 import Colores from '../Colores/Colores';
 
 import './Imagenes.css';
 
-function Imagenes({ imagenes, producto, onSelectColor }){
+function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
+    const estaEnOfertas = skusOfertas.includes(producto.sku);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isDragging, setIsDragging] = useState(false);
     const [dragStartX, setDragStartX] = useState(0);
@@ -35,10 +37,24 @@ function Imagenes({ imagenes, producto, onSelectColor }){
         setZoomPos({ x, y });
     };
 
+    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+
+    useEffect(() => {
+        const handleResize = () => {
+            setIsSmallScreen(window.innerWidth < 600);
+        };
+
+        window.addEventListener('resize', handleResize);
+
+        return () => {
+            window.removeEventListener('resize', handleResize);
+        };
+    }, []);
+
     const descuento = Math.round(((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal);
 
     return(
-        <div className={`position-relative ${producto.stock === 0 ? 'sin-stock' : ''}`}>
+        <div className={`position-relative product-page-images-global ${producto.stock === 0 ? 'sin-stock' : ''}`}>
             <span className="product-page-discount">-{descuento}%</span>
 
             <div className='sin-stock-message'>Agotado</div>
@@ -48,8 +64,8 @@ function Imagenes({ imagenes, producto, onSelectColor }){
                     <ul className="product-page-images" style={{ transform: `translateX(-${currentIndex * 100}%)` }}>
                         {imagenes.map((src, i) => (
                             <li key={i}>
-                                <div className="zoom-wrapper" onMouseEnter={handleMouseEnter} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave} >
-                                    <img src={src} alt={`Vista ${i + 1}`} />
+                                <div className="zoom-wrapper" onMouseEnter={handleMouseEnter} onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
+                                    <img width={isSmallScreen ? 280 : 540} height={isSmallScreen ? 280 : 540} src={src} alt={producto.nombre}/>
                                     {zoomActive && i === currentIndex && (
                                         <div className="zoom-lens" style={{ backgroundImage: `url(${src})`, backgroundPosition: `${zoomPos.x}% ${zoomPos.y}%`}}/>
                                     )}
@@ -57,28 +73,30 @@ function Imagenes({ imagenes, producto, onSelectColor }){
                             </li>
                         ))}
                     </ul>
+
+                    <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
+                        <span className="material-icons">chevron_left</span>
+                    </button>
+
+                    <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
+                        <span className="material-icons">chevron_right</span>
+                    </button>
                 </div>
-
-                <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
-                    <span className="material-icons">chevron_left</span>
-                </button>
-
-                <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
-                    <span className="material-icons">chevron_right</span>
-                </button>
             </div>
 
             <div className="product-page-images-miniatures-container">
                 <ul className="product-page-images-miniatures">
                     {imagenes.map((img, i) => (
                         <li key={i} className={i === currentIndex ? 'active' : ''} onClick={() => navigateTo(i)}>
-                            <img src={img} alt={`Miniatura ${i + 1}`} />
+                            <LazyImage width={isSmallScreen ? 54 : 80} height={isSmallScreen ? 54 : 80} src={img} alt={producto.nombre}/>
                         </li>
                     ))}
                 </ul>
             </div>
 
-            {producto.colores && <Colores producto={producto} onSelectColor={onSelectColor} />}
+            {!estaEnOfertas && producto.colores && (
+                <Colores producto={producto} onSelectColor={onSelectColor} />
+            )}
         </div>
     );
 }

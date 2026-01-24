@@ -1,0 +1,709 @@
+{
+    "productos":[
+        {
+            "id": 9,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas/2-plazas/8/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 659,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7323N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas/2-plazas/9/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - COBALTO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/2/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 659,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7323N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas/2-plazas/10/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - MELON",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/3/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 659,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7323N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas/2-plazas/11/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/4/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 659,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7323N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas/2-plazas/12/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/5/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 659,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7323N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "king",
+            "ruta": "/productos/complementos/base-sola/europeas/king/13/",
+            "nombre": "BASE SOLA EUROPEA KING - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1229,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7343N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "king",
+            "ruta": "/productos/complementos/base-sola/europeas/king/14/",
+            "nombre": "BASE SOLA EUROPEA KING - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/2/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1229,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7343N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/15/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/16/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - VINO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/2/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N11",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/17/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - FUCSIA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/3/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N12",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/18/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES AL PIE - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/4/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N13",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/19/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - ROJO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/5/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N14",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/20/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - ROSADO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/6/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N15",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/2-plazas/21/",
+            "nombre": "BASE SOLA EUROPEA 2 PLAZAS + 2 CAJONES LATERALES - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/2-plazas/7/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 629,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7324N16",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoria": "complementos",
+            "subcategoria": "base sola",
+            "linea": "europeas",
+            "tamaño": "queen",
+            "ruta": "/productos/complementos/base-sola/europeas-con-cajones/queen/1/",
+            "nombre": "BASE SOLA EUROPEA QUEEN + 2 CAJONES LATERALES - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas-con-cajones/queen/1/",
+            "colores": "si",
+            "precioRegular": 1430,
+            "precioNormal": 1249,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7334N10",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea con cajones",
+                    "tamaño": "2 plazas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "base sola",
+                    "línea": "Europea",
+                    "tamaño": "2 plazas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

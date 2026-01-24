@@ -1,0 +1,14 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Complementos - Base sola americanas | Kamas",
+            "ruta": "/productos/complementos/base-sola/americanas/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Complementos - Base sola europeas | Kamas",
+            "ruta": "/productos/complementos/base-sola/europeas/"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofas-camas/1/",
+            "nombre": "SOFÁ CAMA 2 PLAZAS - NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/1/",
+            "colores": "si",
+            "precioRegular": 1849,
+            "precioNormal": 1489,
+            "precioVenta": 1199,
+            "stock": 9,
+            "sku": "K6322N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sofá",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "Reclinación": "Sistema manual",
+                            "tapizado": "Cuero brescia",
+                            "espuma": "zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofas-camas/2/",
+            "nombre": "SOFÁ CAMA 1 PLAZA Y MEDIA - PLOMO",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/2/",
+            "colores": "si",
+            "precioRegular": 1759,
+            "precioNormal": 1409,
+            "precioVenta": 1099,
+            "stock": 9,
+            "sku": "K6322N11",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "1 plaza y media",
+                    "tela": "Piel de potro",
+                    "ancho": "140.cm"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "140.cm"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sofá",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "Reclinación": "Sistema manual",
+                            "tapizado": "Cuero brescia",
+                            "espuma": "zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofas-camas/3/",
+            "nombre": "SOFÁ CAMA QUEEN - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/3/",
+            "colores": "si",
+            "precioRegular": 1999,
+            "precioNormal": 1789,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "K6322N12",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "Queen",
+                    "tela": "Piel de potro",
+                    "ancho": "185.cm"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "Queen",
+                    "tela": "Piel de potro",
+                    "ancho": "185.cm"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sofá",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "Reclinación": "Sistema manual",
+                            "tapizado": "Cuero brescia",
+                            "espuma": "zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofas-camas/4/",
+            "nombre": "SOFÁ CAMA 2 PLAZAS - BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/4/",
+            "colores": "si",
+            "precioRegular": 1759,
+            "precioNormal": 1489,
+            "precioVenta": 1199,
+            "stock": 9,
+            "sku": "K6322N13",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sofá",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "Reclinación": "Sistema manual",
+                            "tapizado": "Cuero brescia",
+                            "espuma": "zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofas-camas/5/",
+            "nombre": "SOFÁ CAMA 2 PLAZAS - VERDE ESMERALDA",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/5/",
+            "colores": "si",
+            "precioRegular": 1759,
+            "precioNormal": 1489,
+            "precioVenta": 1199,
+            "stock": 9,
+            "sku": "K6322N14",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sofá",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "Reclinación": "Sistema manual",
+                            "tapizado": "Cuero brescia",
+                            "espuma": "zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

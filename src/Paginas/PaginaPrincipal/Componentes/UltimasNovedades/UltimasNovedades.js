@@ -1,20 +1,55 @@
-import { useEffect, useRef, useState, useCallback } from 'react';
-import { v4 as uuidv4 } from 'uuid';
+import { useEffect, useState } from 'react';
 
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
 
 import './UltimasNovedades.css';
 
-function UltimasNovedades() {
+function UltimasNovedades(){
     const [productos, setProductos] = useState([]);
-    const scrollRef = useRef(null);
-
-    const autoSlideIntervalRef = useRef(null);
-    const autoSlideTimeoutRef = useRef(null);
-    const autoDirRef = useRef('left');
+    const [favorites, setFavorites] = useState({});
+    const [skusOfertas, setSkusOfertas] = useState([]);
 
     useEffect(() => {
-        const categoriasPermitidas = ['camas-box-tarimas', 'dormitorios', 'camas-funcionales', 'complementos'];
+        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
+        setFavorites(favStorage);
+    }, []);
+
+    const handleToggleFavorite = (producto) => {
+        setFavorites(prev => {
+            const newFavorites = { ...prev };
+
+            if (newFavorites[producto.sku]) {
+                delete newFavorites[producto.sku];
+            } else {
+                newFavorites[producto.sku] = producto;
+            }
+
+            localStorage.setItem("favoritos", JSON.stringify(newFavorites));
+            return newFavorites;
+        });
+    };
+
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
+
+    useEffect(() => {
+        const skusDeseados = [
+            'K147N10', 'K234223N11', 'K324236N92',
+            'K324235N42', 'K334233N12', 'K223123N13',
+            'K41212N16', 'K6122N10', 'K712N11', 'K77112N10'
+        ];
 
         fetch('/assets/json/manifest.json').then(res => res.json()).then(
             manifest => Promise.all(
@@ -23,161 +58,30 @@ function UltimasNovedades() {
                         const match = fileUrl.match(/\/assets\/json\/categorias\/([^/]+)\/sub-categorias\//);
                         const categoria = match ? match[1] : null;
 
-                        if (Array.isArray(jsonData.productos) && categoria){
+                        if (Array.isArray(jsonData.productos) && categoria) {
                             jsonData.productos = jsonData.productos.map(producto => ({
                                 ...producto,
                                 categoria,
                             }));
                         }
-                        return { productos: jsonData.productos || [], categoria };
+
+                        return jsonData.productos || [];
                     }).catch(err => {
                         console.error(`Error cargando ${fileUrl}:`, err);
-                        return { productos: [], categoria: null };
+                        return [];
                     })
                 )
             )
-        ).then(jsonFilesData => {
-            const ultimosPorSubcategoria = jsonFilesData.reduce((acum, { productos, categoria }) => {
-                if (!categoriasPermitidas.includes(categoria)) return acum;
-                if (productos.length > 0) {
-                    const ultimo = productos[productos.length - 1];
-                    acum.push(ultimo);
-                }
-                return acum;
-            }, []);
+        ).then(listaDeProductos => {
+            const todosLosProductos = listaDeProductos.flat();
 
-            setProductos(ultimosPorSubcategoria);
+            const productosFiltrados = skusDeseados
+                .map(sku => todosLosProductos.find(p => p.sku === sku))
+                .filter(Boolean);
+
+            setProductos(productosFiltrados);
         }).catch(error => console.error('Error al cargar el manifest o los JSON:', error));
     }, []);
-
-    useEffect(() => {
-        const container = scrollRef.current;
-        if (!container) return;
-
-        let isDown = false;
-        let startX;
-        let scrollLeft;
-
-        const handleMouseDown = e => {
-            isDown = true;
-            container.classList.add('dragging');
-            startX = e.pageX - container.offsetLeft;
-            scrollLeft = container.scrollLeft;
-        };
-
-        const handleMouseLeave = () => {
-            isDown = false;
-            container.classList.remove('dragging');
-        };
-
-        const handleMouseUp = () => {
-            isDown = false;
-            container.classList.remove('dragging');
-        };
-
-        const handleMouseMove = e => {
-            if (!isDown) return;
-            e.preventDefault();
-            const x = e.pageX - container.offsetLeft;
-            const walk = (x - startX) * 1.5;
-            container.scrollLeft = scrollLeft - walk;
-        };
-
-        container.addEventListener('mousedown', handleMouseDown);
-        container.addEventListener('mouseleave', handleMouseLeave);
-        container.addEventListener('mouseup', handleMouseUp);
-        container.addEventListener('mousemove', handleMouseMove);
-
-        return () => {
-            container.removeEventListener('mousedown', handleMouseDown);
-            container.removeEventListener('mouseleave', handleMouseLeave);
-            container.removeEventListener('mouseup', handleMouseUp);
-            container.removeEventListener('mousemove', handleMouseMove);
-        };
-    }, []);
-
-    const scrollSmooth = useCallback(direction => {
-        const container = scrollRef.current;
-        if (!container) return;
-
-        const distance = 290;
-        const duration = 300;
-        const intervalTime = 1000 / 60;
-        const totalSteps = duration / intervalTime;
-        const scrollStep = (distance / totalSteps) * (direction === 'right' ? 1 : -1);
-        let currentStep = 0;
-
-        const interval = setInterval(() => {
-            if (currentStep >= totalSteps) {
-                clearInterval(interval);
-                return;
-            }
-            container.scrollLeft += scrollStep;
-            currentStep++;
-        }, intervalTime);
-    }, []);
-
-    const autoScroll = useCallback(() => {
-        const container = scrollRef.current;
-        if (!container) return;
-
-        if (
-            autoDirRef.current === 'right' &&
-            container.scrollLeft >= container.scrollWidth - container.clientWidth
-        ) {
-            autoDirRef.current = 'left';
-        } else if (
-            autoDirRef.current === 'left' &&
-            container.scrollLeft <= 0
-        ) {
-            autoDirRef.current = 'right';
-        }
-
-        scrollSmooth(autoDirRef.current);
-    }, [scrollSmooth]);
-
-    const startAutoSlide = useCallback(() => {
-        if (autoSlideIntervalRef.current)
-            clearInterval(autoSlideIntervalRef.current);
-        autoSlideIntervalRef.current = setInterval(() => {
-            autoScroll();
-        }, 2000);
-    }, [autoScroll]);
-
-    const pauseAutoSlide = () => {
-        if (autoSlideIntervalRef.current) {
-            clearInterval(autoSlideIntervalRef.current);
-            autoSlideIntervalRef.current = null;
-        }
-        if (autoSlideTimeoutRef.current) {
-            clearTimeout(autoSlideTimeoutRef.current);
-        }
-        autoSlideTimeoutRef.current = setTimeout(() => {
-            startAutoSlide();
-        }, 4000);
-    };
-
-    const handleLeftButtonClick = () => {
-        autoDirRef.current = 'left';
-        scrollSmooth('left');
-        pauseAutoSlide();
-    };
-
-    const handleRightButtonClick = () => {
-        autoDirRef.current = 'right';
-        scrollSmooth('right');
-        pauseAutoSlide();
-    };
-
-    useEffect(() => {
-        startAutoSlide();
-        return () => {
-            if (autoSlideIntervalRef.current)
-                clearInterval(autoSlideIntervalRef.current);
-            if (autoSlideTimeoutRef.current)
-                clearTimeout(autoSlideTimeoutRef.current);
-        };
-    }, [startAutoSlide]);
 
     const truncate = (str, maxLength) => {
         if (!str) return '';
@@ -187,27 +91,25 @@ function UltimasNovedades() {
     return(
         <div className="block-container ultimas-novedades-block-container">
             <section className="block-content ultimas-novedades-block-content">
-                <div className="block-title-container">
-                    <h2 className="block-title">Últimas novedades</h2>
+                <div className="block-title-container d-flex-column">
+                    <h2 className="block-title w-auto margin-right">Últimas novedades</h2>
+
+                    <a href='/productos/' title='Productos | Kamas' className='button-link button-link-5 margin-right'>
+                        <p className='button-link-text'>Ver todos los productos</p>
+                    </a>
                 </div>
 
-                <div className="ultimas-novedades-container" ref={scrollRef}>
-                    <ul className="ultimas-novedades-content">
-                        {productos.map(producto => {
-                            return(
-                                <Producto key={uuidv4()} producto={producto} truncate={truncate}/>
-                            );
-                        })}
+                <div className="ultimas-novedades">
+                    <ul className="ultimas-novedades-products">
+                        {productos.map(producto => (
+                            <Producto
+                                key={producto.sku} producto={producto} truncate={truncate} 
+                                onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[producto.sku]}
+                                skusOfertas={skusOfertas}
+                            />
+                        ))}
                     </ul>
                 </div>
-
-                <button type="button" onClick={handleLeftButtonClick} className="ultimas-novedades-button ultimas-novedades-button-1 ultimas-novedades-left">
-                    <span className="material-icons">chevron_left</span>
-                </button>
-
-                <button type="button" onClick={handleRightButtonClick} className="ultimas-novedades-button ultimas-novedades-button-2 ultimas-novedades-right">
-                    <span className="material-icons">chevron_right</span>
-                </button>
             </section>
         </div>
     );

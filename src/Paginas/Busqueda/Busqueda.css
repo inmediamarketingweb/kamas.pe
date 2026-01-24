@@ -1,6 +1,5 @@
-.search-products-content{
-    display: grid;
-    grid-template-columns: 280px 1fr;
+.search-products-content > div{
+    border-radius: 6px;
 }
 
 .filters-container{
@@ -9,7 +8,11 @@
     gap: 10px;
 }
 
-/**/
+.search-products{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
 
 @media screen and (max-width: 600px){
     .search-products-content{
@@ -22,5 +25,12 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 10px;
+    }
+
+    .search-products li{
+        flex: unset;
+        width: 100%;
+        max-width: none !important;
+        height: auto !important;
     }
 }

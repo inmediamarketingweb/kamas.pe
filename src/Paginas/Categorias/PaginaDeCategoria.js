@@ -1,76 +1,206 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { v4 as uuidv4 } from "uuid";
-
-import Header from "../../Componentes/Header/Header";
-import Filtros from "./Componentes/Filtros/Filtros";
-import Footer from "../../Componentes/Footer/Footer";
 
 import "./PaginaDeCategoria.css";
 
+import Filtros from "./Filtros/Filtros";
+import Top from '../../Componentes/Filtros/Componentes/Top/Top.js';
+import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
+import { Producto } from '../../Componentes/Plantillas/Producto/Producto.js';
+
+function shuffleArray(array) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
 function PaginaDeCategoria(){
-    const { categoria, subcategoria } = useParams();
+    const { categoria, subcategoria, subsubcategoria } = useParams();
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
     const [productosFiltrados, setProductosFiltrados] = useState([]);
     const [favorites, setFavorites] = useState([]);
     const [filtersActive, setFiltersActive] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 28;
+    const itemsPerPage = 20;
+    const [envioGratis, setEnvioGratis] = useState(false);
+    const [enOferta, setEnOferta] = useState(false);
+    const [sortOption, setSortOption] = useState('');
+    const [productosFiltradosPorFiltros, setProductosFiltradosPorFiltros] = useState([]);
+    const [isLoading, setIsLoading] = useState(true);
+    const [skusOfertas, setSkusOfertas] = useState([]);
+    const [isOfferActive, setIsOfferActive] = useState(true);
+    const handleExpire = () => setIsOfferActive(false);
+    const handleActivate = () => setIsOfferActive(true);
 
     useEffect(() => {
-        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
-        setFavorites(favStorage);
+        try {
+            const stored = localStorage.getItem("favoritos");
+            let favStorage = [];
+            
+            if (stored) {
+                const parsed = JSON.parse(stored);
+                if (Array.isArray(parsed)) {
+                    favStorage = parsed;
+                }
+            }
+            setFavorites(favStorage);
+        } catch (error) {
+            console.error("Error parsing favorites:", error);
+            setFavorites([]);
+        }
     }, []);
 
     useEffect(() => {
-        fetch(`/assets/json/categorias/${categoria}/metadatos.json`).then((response) => response.json()).then((data) => setMetadatos(data || { title: "", description: "" })).catch(() => setMetadatos({ title: "", description: "" }));
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+        cargarOfertas();
+    }, []);
 
-        if (subcategoria) {
-            const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
-            fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`)
-                .then((response) => response.json())
-                .then((data) => {
-                    setProductos(data.productos || []);
-                    setProductosFiltrados(data.productos || []);
-                })
-                .catch(() => {
-                    setProductos([]);
-                    setProductosFiltrados([]);
-                });
-        } else {
-            fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`).then((response) => response.json()).then(async (data) => {
-                if (!Array.isArray(data.subcategorias)) return;
+    useEffect(() => {
+        const fetchData = async () => { 
+            setIsLoading(true);
 
-                const promesas = data.subcategorias.map((subcat) => {
-                    const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                    return fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`)
-                        .then((response) => response.json())
-                        .then((data) => data.productos || [])
-                        .catch(() => []);
-                });
+            try{
+                const metaResponse = await fetch(`/assets/json/categorias/${categoria}/metadatos.json`);
+                const metaData = await metaResponse.json();
+                setMetadatos(metaData || { title: "", description: "" });
 
-                const productosPorSubcategoria = await Promise.all(promesas);
-                const todosLosProductos = productosPorSubcategoria.flat();
+                if (subsubcategoria) {
+                    const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
+                    const subsubcatNombre = subsubcategoria.toLowerCase().replace(/\s+/g, "-");
+                    const productResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
+                    const productData = await productResponse.json();
+                    const productosMezclados = shuffleArray(productData.productos || []);
+                    setProductos(productosMezclados);
+                    setProductosFiltradosPorFiltros(productosMezclados);
+                } else if (subcategoria) {
+                    const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
+                    const subcatResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`);
+                    const subcatData = await subcatResponse.json();
 
-                setProductos(todosLosProductos);
-                setProductosFiltrados(todosLosProductos);
-            }).catch(() => setProductos([]));
+                    if (Array.isArray(subcatData.subcategorias)) {
+                        const promesas = subcatData.subcategorias.map(async (subsubcat) => {
+                            const subsubcatNombre = subsubcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                            try {
+                                const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
+                                const data = await response.json();
+                                return data.productos || [];
+                            } catch (error) {
+                                return [];
+                            }
+                        });
+
+                        const productosPorSubsubcategoria = await Promise.all(promesas);
+                        const todosLosProductos = productosPorSubsubcategoria.flat();
+                        const productosMezclados = shuffleArray(todosLosProductos);
+
+                        setProductos(productosMezclados);
+                        setProductosFiltradosPorFiltros(productosMezclados);
+                    }
+                } else {
+                    const subcatResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`);
+                    const subcatData = await subcatResponse.json();
+
+                    if (Array.isArray(subcatData.subcategorias)) {
+                        const promesas = subcatData.subcategorias.map(async (subcat) => {
+                            const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                            try {
+                                const subsubResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`);
+                                const subsubData = await subsubResponse.json();
+
+                                if (Array.isArray(subsubData.subcategorias)) {
+                                    const subPromesas = subsubData.subcategorias.map(async (subsubcat) => {
+                                        const subsubcatNombre = subsubcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                                        try {
+                                            const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
+                                            const data = await response.json();
+                                            return data.productos || [];
+                                        } catch (error) {
+                                            return [];
+                                        }
+                                    });
+                                    return await Promise.all(subPromesas);
+                                }
+                                return [];
+                            } catch (error) {
+                                try {
+                                    const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`);
+                                    const data = await response.json();
+                                    return data.productos || [];
+                                } catch (error) {
+                                    return [];
+                                }
+                            }
+                        });
+
+                        const productosPorSubcategoria = await Promise.all(promesas);
+                        const todosLosProductos = productosPorSubcategoria.flat(2);
+                        const productosMezclados = shuffleArray(todosLosProductos);
+
+                        setProductos(productosMezclados);
+                        setProductosFiltradosPorFiltros(productosMezclados);
+                    }
+                }
+            } catch (error) {
+                console.error("Error cargando datos:", error);
+                setMetadatos({ title: "", description: "" });
+                setProductos([]);
+                setProductosFiltradosPorFiltros([]);
+            } finally {
+                setIsLoading(false);
+            }
+        };
+
+        fetchData();
+    }, [categoria, subcategoria, subsubcategoria]);
+
+    useEffect(() => {
+        let resultado = [...productosFiltradosPorFiltros];
+        
+        if (envioGratis) {
+            resultado = resultado.filter(producto => producto["tipo-de-envio"] === "Gratis");
         }
-    }, [categoria, subcategoria]);
 
-    useEffect(() => { setCurrentPage(1) }, [productosFiltrados]);
+        if (enOferta) {
+            resultado = resultado.filter(producto => 
+                producto.oferta === "si" || skusOfertas.includes(producto.sku)
+            );
+        }
+
+        if (sortOption === 'precio-asc') {
+            resultado.sort((a, b) => a.precioVenta - b.precioVenta);
+        } else if (sortOption === 'precio-desc') {
+            resultado.sort((a, b) => b.precioVenta - a.precioVenta);
+        }
+
+        setProductosFiltrados(resultado);
+        setCurrentPage(1);
+    }, [productosFiltradosPorFiltros, envioGratis, enOferta, sortOption]);
 
     const totalItems = productosFiltrados.length;
     const totalPages = Math.ceil(totalItems / itemsPerPage);
-    
+
     const getVisiblePages = () => {
         const visiblePages = [];
         if (totalPages <= 5) {
             for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
         } else {
-            if (currentPage <= 3) { visiblePages.push(1, 2, 3, 4, '...', totalPages) } else if (currentPage >= totalPages - 2) {
+            if (currentPage <= 3) { 
+                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            } else if (currentPage >= totalPages - 2) {
                 visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
             } else {
                 visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
@@ -85,11 +215,9 @@ function PaginaDeCategoria(){
 
     const handlePreviousPage = () => handlePageChange(currentPage - 1);
     const handleNextPage = () => handlePageChange(currentPage + 1);
-
-    const startIndex = Math.max(0, totalItems - (currentPage * itemsPerPage));
-    const endIndex = totalItems - ((currentPage - 1) * itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
     const currentProducts = productosFiltrados.slice(startIndex, endIndex);
-
     const handleToggleFilters = () => setFiltersActive((prev) => !prev);
     const handleCloseFilters = () => setFiltersActive(false);
 
@@ -102,147 +230,98 @@ function PaginaDeCategoria(){
 
     const truncate = (str, maxLength) => str.length <= maxLength ? str : str.slice(0, maxLength) + "...";
 
+    useEffect(() => {
+        const cargarOfertas = async () => {
+            try {
+                const response = await fetch('/assets/json/ofertas.json');
+                const data = await response.json();
+                setSkusOfertas(data);
+            } catch (error) {
+                console.error("Error cargando ofertas:", error);
+                setSkusOfertas([]);
+            }
+        };
+
+        cargarOfertas();
+    }, []);
+
     return (
         <>
             <Helmet>
                 <title>{metadatos.title}</title>
             </Helmet>
 
-            <Header/>
-
             <main className="main-category">
                 <div className="block-container">
                     <section className="block-content">
                         <div className="category-page-container">
                             <div className="category-page-left">
-                                <Filtros productos={productos} setProductosFiltrados={setProductosFiltrados} filtersActive={filtersActive} onClose={handleCloseFilters} />
+                                <Filtros productos={productos} setProductosFiltrados={setProductosFiltradosPorFiltros} filtersActive={filtersActive} onClose={handleCloseFilters}/>
                             </div>
 
                             <div className="category-page-right">
+                                <Top envioGratis={envioGratis} setEnvioGratis={setEnvioGratis} enOferta={enOferta} setEnOferta={setEnOferta} sortOption={sortOption} setSortOption={setSortOption} />
+
                                 <div className="category-page-right-top">
-                                    <button type="button" className="d-flex-center-center gap-5 open-filters" onClick={handleToggleFilters} >
+                                    <button type="button" className="d-flex-center-center gap-5 open-filters" onClick={handleToggleFilters}>
                                         <p className="text">Filtrar</p>
                                         <span className="material-icons text">tune</span>
                                     </button>
                                 </div>
 
-                                {productosFiltrados.length > 0 ? (
+                                {isLoading ? (
+                                    <div className="category-loading-container">
+                                        <span className="loader"></span>
+                                    </div>
+                                ) : productosFiltrados.length > 0 ? (
                                     <>
                                         <ul className="category-page-products">
-                                            {currentProducts
-                                                .filter((producto) => producto.oferta !== "si")
-                                                .sort((a, b) => b.id - a.id)
-                                                .map((producto) => {
-                                                    const descuento = Math.round(
-                                                        ((producto.precioNormal - producto.precioVenta) * 100) /
-                                                        producto.precioNormal
-                                                    );
-
-                                                    const tipoEnvioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis"
-                                                        : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente"
-                                                        : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado"
-                                                        : "";
-
-                                                    const isFavorite = favorites.some( (fav) => fav.ruta === producto.ruta );
-
-                                                    return (
-                                                        <li key={uuidv4()}>
-                                                            <div className={`product-card ${producto.stock === 0 ? "agotado" : ""}`} title={producto.nombre}>
-                                                                <div className="product-card-images">
-                                                                    {descuento > 0 && (
-                                                                        <span className="product-card-discount">-{descuento}%</span>
-                                                                    )}
-
-                                                                    <a href={producto.ruta}>
-                                                                        <img src={`${producto.fotos}1.jpg`} alt={producto.nombre} />
-                                                                    </a>
-
-                                                                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
-                                                                        <span className="material-icons">favorite</span>
-                                                                    </button>
-                                                                </div>
-
-                                                                <a href={producto.ruta} className="product-card-content">
-                                                                    {producto.stock === 0 ? (
-                                                                        <div className="product-card-agotado product-card-target">
-                                                                            <span>Sin stock 😥</span>
-                                                                        </div>
-                                                                    ) : (
-                                                                        <>
-                                                                            {producto.novedades === "si" && (
-                                                                                <div className="product-card-target">
-                                                                                    <span>¡Lo más nuevo!</span>
-                                                                                </div>
-                                                                            )}
-
-                                                                            {producto["solo-por-horas"] === "si" && (
-                                                                                <div className="product-card-stock">
-                                                                                    <span>¡ Solo por horas ⌛ !</span>
-                                                                                </div>
-                                                                            )}
-
-                                                                            {producto.oferta === "si" && (
-                                                                                <div className="product-card-ofert">
-                                                                                    <span>En oferta</span>
-                                                                                </div>
-                                                                            )}
-
-                                                                            {producto.novedades !== "si" &&
-                                                                                producto["solo-por-horas"] !== "si" &&
-                                                                                producto.oferta !== "si" && (
-                                                                                    <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
-                                                                                        <span>
-                                                                                            {producto["tipo-de-envio"] === "Gratis"
-                                                                                                ? "¡ Envío gratis 🚚 !"
-                                                                                                : producto["tipo-de-envio"] || "No especificado"}
-                                                                                        </span>
-                                                                                    </div>
-                                                                                )}
-                                                                        </>
-                                                                    )}
-
-                                                                    <span className="product-card-brand">KAMAS</span>
-                                                                    <h4 className="product-card-name">{truncate(producto.nombre, 72)}</h4>
-                                                                    <div className="product-card-prices">
-                                                                        <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
-                                                                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </li>
-                                                    );
-                                                })}
+                                            {currentProducts.map((producto) => {
+                                                const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
+                                                return(
+                                                    <Producto 
+                                                    key={producto.sku} producto={producto} 
+                                                    truncate={truncate} onToggleFavorite={toggleFavorite} 
+                                                    isFavorite={isFavorite} skusOfertas={skusOfertas}
+                                                    isOfferActive={isOfferActive}/>
+                                                );
+                                            })}
                                         </ul>
 
-                                        <div className="pagination-controls">
-                                            <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1} >
-                                                <span class="material-icons">chevron_left</span>
-                                            </button>
+                                        {totalPages > 1 && (
+                                            <div className="pagination-controls">
+                                                <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
+                                                    <span className="material-icons">chevron_left</span>
+                                                </button>
 
-                                            <div className="d-flex-center-center gap-10">
-                                                {getVisiblePages().map((page, index) => typeof page === 'number' ? (
-                                                        <button key={index} className={`pagination-page ${ currentPage === page ? 'active' : '' }`} onClick={() => handlePageChange(page)}>{page}</button>
-                                                    ) : (
-                                                        <span key={index} className="pagination-ellipsis">...</span>
-                                                    )
-                                                )}
+                                                <div className="d-flex-center-center gap-5">
+                                                    {getVisiblePages().map((page, index) => 
+                                                        typeof page === 'number' ? (
+                                                            <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
+                                                        ) : (
+                                                            <span key={index} className="pagination-ellipsis">...</span>
+                                                        )
+                                                    )}
+                                                </div>
+
+                                                <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                    <span className="material-icons">chevron_right</span>
+                                                </button>
                                             </div>
-
-                                            <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages} >
-                                                <span class="material-icons">chevron_right</span>
-                                            </button>
-                                        </div>
+                                        )}
                                     </>
                                 ) : (
-                                    <p>No se encontraron productos.</p>
+                                    <div className="no-products-message">
+                                        <p className="title text">Lo sentimos, no hay productos disponibles en este momento.</p>
+                                    </div>
                                 )}
                             </div>
                         </div>
                     </section>
                 </div>
-            </main>
 
-            <Footer />
+                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
+            </main>
         </>
     );
 }

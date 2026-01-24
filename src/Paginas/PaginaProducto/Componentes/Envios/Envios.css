@@ -5,6 +5,7 @@
     grid-template-columns: 1fr auto;
     gap: 5px;
     padding: 10px;
+    background: var(--white);
     border: 1px solid var(--gray);
     border-radius: 4px;
     transition: var(--t-200ms-linear);
@@ -12,7 +13,6 @@
 
 .envios-button-open:hover{
     background: rgba(0 0 0 / 0.05);
-    border: 1px solid transparent;
 }
 
 .envios-button-open p,
@@ -32,8 +32,6 @@
     text-align: left;
 }
 
-/**/
-
 .envios-nombre{
     width: 100%;
     height: 56px;
@@ -43,8 +41,6 @@
     border-radius: 4px;
     color: var(--text);
 }
-
-/**/
 
 .envios-container{
     position: fixed;
@@ -61,7 +57,6 @@
     background: var(--white);
     transition: var(--t-200ms-linear);
     interpolate-size: allow-keywords;
-    /* border-radius: 4px; */
     display: flex;
     flex-direction: column;
     z-index: 301;
@@ -78,7 +73,6 @@
 
 .envios-container::-webkit-scrollbar-thumb{
     background: var(--color-1);
-    /* border-radius: 4px; */
 }
 
 .envios-container.active{
@@ -105,9 +99,6 @@
 }
 
 .envios-select-options-container{
-    /* position: absolute;
-    top: calc(100% + 10px);
-    left: 0; */
     background: var(--white);
     flex-direction: column;
     width: 100%;
@@ -158,8 +149,6 @@
 .envios-select-options-content p:hover{
     background: rgba(0 0 0 / 0.05);
 }
-
-/**/
 
 .envios-layer{
     position: fixed;

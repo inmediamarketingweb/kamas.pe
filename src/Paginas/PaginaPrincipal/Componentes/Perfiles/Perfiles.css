@@ -1,0 +1,111 @@
+.profiles{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.profile{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: var(--component);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.profile-card-banner{
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.profile-card-logo{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width: 60px;
+    height: auto;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    border: 5px solid var(--component);
+}
+
+.profile-card-stars{
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.profile-card-sales{
+    color: var(--text);
+    font-size: 10px;
+}
+
+.profile-card-stars div span{
+    font-size: 14px;
+    color: #F90;
+}
+
+.profile-card-content{
+    width: 100%;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between !important;
+    flex-direction: row-reverse !important;
+    gap: 5px;
+}
+
+.profile-card-content > p{
+    width: calc(100% - 90px);
+}
+
+.profile-card-content > p a{
+    color: var(--color-1);
+}
+
+.profile-card-content p a:hover{
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 800px){
+    .profiles{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .profile-card-content > p{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .profile{
+        overflow: hidden;
+    }
+
+    .profile-card-banner{
+        width: auto !important;
+        height: 80px;
+    }
+
+    .profile-card-logo{
+        position: absolute;
+        top: 60px;
+        left: 20px;
+        width: 50px;
+        border: 3px solid var(--component);
+    }
+
+    .profile-card-content{
+        flex-direction: column !important;
+    }
+
+    .profile-card-stars{
+        flex-direction: row-reverse !important;
+    }
+}

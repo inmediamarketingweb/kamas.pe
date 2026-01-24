@@ -1,61 +1,86 @@
-/**/
-
-.homepage-categories{
+.main-hero-container{
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
+    position: relative;
 }
 
-.homepage-categories li a{
+.main-hero-container img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
+.main-hero-container::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background: rgba(0 0 0 / 0.75);
+    z-index: -1;
+}
+
+.main-hero-content{
+    margin: auto;
+    width: 100%;
+    max-width: 1600px;
+    height: 480px;
+    /* height: calc(100vh - 150px); */
+    padding: 20px;
+    /* max-height: 800px; */
+    /* display: grid; */
+    /* grid-template-columns: repeat(2, 1fr); */
+    /* gap: 20px; */
+}
+
+.main-hero-content-target{
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     gap: 10px;
-    width: 100%;
-    height: auto;
-    overflow: hidden;
-    transition: var(--t-200ms);
 }
 
-.homepage-categories li a div{
-    display: flex;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 1/1;
-    border: 1px solid var(--gray);
-    border-radius: 100%;
-    transition: var(--t-200ms);
-    padding: 20px;
-}
-
-.homepage-categories li a:hover div{
-    border: 1px solid var(--color-1);
-}
-
-.homepage-categories li a div img{
-    margin: auto;
-    width: 80%;
-    height: auto;
-    aspect-ratio: 1/1;
-}
-
-.homepage-categories li a p{
+.main-hero-content-target-1 > span{
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
-    width: 100%;
+    padding: 3px 8px;
+    background: var(--color-1);
+    color: var(--white);
+    border-radius: 2px;
+}
+
+.main-hero-content-target-1 h1{
     font-weight: bold;
+    text-transform: uppercase;
+    font-size: 44px;
+    color: var(--white);
 }
 
-.homepage-categories li a:hover p{
-    color: var(--color-1);
+.homepage-banners div{
+    width: 100%;
 }
 
-/**/
+.homepage-banners div a{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background: var(--white);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.main-pagina-principal{
+    padding: 0 !important;
+}
 
 .solo-por-horas div{
     padding: 20px 0;
@@ -63,15 +88,36 @@
     border-radius: 16px;
 }
 
-/**/
-
 @media screen and (max-width: 600px){
+    .main-hero-content{
+        height: auto;
+        max-height: none;
+        grid-template-columns: 1fr;
+    }
+
+    .main-hero-content-target-1 > .d-flex-center-left.gap-10{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .main-hero-content-target-2 > div:nth-child(1){
+        display: flex;
+        width: 100%;
+        height: 350px;
+    }
+
     .homepage-categories{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 10px;
     }
+
     .homepage-categories li a div{
         padding: 10px;
+    }
+
+    .homepage-banners div{
+        display: grid;
+        grid-template-columns: 1fr !important;
     }
 }

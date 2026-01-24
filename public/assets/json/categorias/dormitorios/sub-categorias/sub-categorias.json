@@ -1,40 +1,34 @@
 {
     "subcategorias":[
         {
-            "id": 1,
-            "subcategoria": "Clasicos",
-            "metaTitulo": "Dormitorios - Clásicos | Kamas",
-            "ruta": "/productos/dormitorios/clasicos/"
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Dormitorios - 1 plaza | Kamas",
+            "ruta": "/productos/dormitorios/1-plaza/"
         },
         {
-            "id": 2,
-            "subcategoria": "Clasicos con cajones",
-            "metaTitulo": "Dormitorios - Clásicos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/clasicos-con-cajones/"
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Dormitorios - 1 plaza y media | Kamas",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/"
         },
         {
-            "id": 3,
-            "subcategoria": "Americanos",
-            "metaTitulo": "Dormitorios - Americanos | Kamas",
-            "ruta": "/productos/dormitorios/americanos/"
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Dormitorios - 2 plazas | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/"
         },
         {
-            "id": 4,
-            "subcategoria": "Americanos con cajones",
-            "metaTitulo": "Dormitorios - Americanos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/americanos/"
+            "subcategoria": "Queen",
+            "metaTitulo": "Dormitorios - Queen | Kamas",
+            "ruta": "/productos/dormitorios/queen/"
         },
         {
-            "id": 5,
-            "subcategoria": "Europeos",
-            "metaTitulo": "Dormitorios - Europeos | Kamas",
-            "ruta": "/productos/dormitorios/europeos/"
+            "subcategoria": "King",
+            "metaTitulo": "Dormitorios - King | Kamas",
+            "ruta": "/productos/dormitorios/king/"
         },
         {
-            "id": 6,
-            "subcategoria": "Europeos con cajones",
-            "metaTitulo": "Dormitorios - Europeos con cajones | Kamas",
-            "ruta": "/productos/dormitorios/europeos-con-cajones/"
+            "subcategoria": "4 plazas",
+            "metaTitulo": "Dormitorios - 4 plazas | Kamas",
+            "ruta": "/productos/dormitorios/4-plazas/"
         }
     ]
 }

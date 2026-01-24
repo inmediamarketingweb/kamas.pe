@@ -1,10 +1,19 @@
 {
     "subcategorias":[
         {
-            "id": 1,
             "subcategoria": "Box espacios",
-            "metaTitulo": "Complementos - Box espacios | Kamas",
+            "metaTitulo": "Box espacios | Kamas",
             "ruta": "/productos/camas-funcionales/box-espacios/"
+        },
+        {
+            "subcategoria": "Divanes",
+            "metaTitulo": "Divanes | Kamas",
+            "ruta": "/productos/camas-funcionales/divanes/"
+        },
+        {
+            "subcategoria": "Camarotes",
+            "metaTitulo": "Camarotes | Kamas",
+            "ruta": "/productos/camas-funcionales/camarotes/"
         }
     ]
 }

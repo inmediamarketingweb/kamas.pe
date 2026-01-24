@@ -1,99 +1,122 @@
 import PropTypes from 'prop-types';
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 
-/**
- * @param {Object} props
- * @param {Object} props.producto
- * @param {function} props.truncate
-**/
+import './Producto.css';
+import './CSS/Favorite.css';
 
-export function Producto({ producto, truncate }){
-    const [favorites, setFavorites] = useState([]);
+import LazyImage from '../LazyImage';
 
-    const descuento = Math.round( ((producto.precioNormal - producto.precioVenta) * 100) / producto.precioNormal );
+export function Producto({ producto, truncate, onToggleFavorite, isFavorite, skusOfertas = [], isOfferActive }){
+    const [secondImageError, setSecondImageError] = useState(false);
+    const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 600);
+    const estaEnOfertas = isOfferActive && skusOfertas.includes(producto.sku);
+    const precioFinal = estaEnOfertas ? Math.round(producto.precioVenta * 0.95) : producto.precioVenta;
+
+    const descuentoOriginal = Math.round(
+        ((producto.precioNormal - producto.precioVenta) * 100 / producto.precioNormal
+    ));
+
+    const descuentoTotal = estaEnOfertas ? Math.round(((producto.precioNormal - precioFinal) * 100) / producto.precioNormal) : descuentoOriginal;
 
     useEffect(() => {
-        const favStorage = JSON.parse(localStorage.getItem("favoritos")) || [];
-        setFavorites(favStorage);
+        const handleResize = () => setIsSmallScreen(window.innerWidth < 600);
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    const toggleFavorite = (producto) => {
-        const exists = favorites.some((fav) => fav.ruta === producto.ruta);
-        const updatedFavorites = exists
-            ? favorites.filter((fav) => fav.ruta !== producto.ruta)
-            : [...favorites, producto];
-        setFavorites(updatedFavorites);
-        localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
-    };
+    const imageSize = isSmallScreen ? 140 : 200;
 
-    const tipoEnvioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis"
-    : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente"
-    : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado"
-    : "";
-
-    const isFavorite = favorites.some( (fav) => fav.ruta === producto.ruta );
+    const tipoEnvioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis" : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente" : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado" : "";
 
     return(
-        <li>
-            <div className={`product-card ${producto.stock === 0 ? "agotado" : ""}`} title={producto.nombre}>
+        <li className='product-card-li'>
+            <div className={`product-card ${producto.stock === 0 ? "agotado" : ""}`}>
                 <div className="product-card-images">
-                    {descuento > 0 && (
-                        <span className="product-card-discount">-{descuento}%</span>
+                    {descuentoTotal > 0 && (
+                        <span className="product-card-discount">-{descuentoTotal}%</span>
                     )}
 
-                    <a href={producto.ruta} alt={producto.nombre}>
-                        <img src={`${producto.fotos}1.jpg`} alt={producto.nombre} />
+                    <a href={producto.ruta} title={producto.nombre}>
+                        <LazyImage width={imageSize} height={imageSize} src={`${producto.fotos}1.jpg`} alt={producto.nombre} className="product-image"/>
+
+                        <img width={imageSize} height={imageSize} src={`${producto.fotos}2.jpg`} alt={producto.nombre} className="product-image"
+                            onError={(e) => {
+                                if (!secondImageError) {
+                                    e.target.src = `${producto.fotos}1.jpg`;
+                                    setSecondImageError(true);
+                                }
+                            }}
+                            loading="lazy"
+                        />
                     </a>
 
-                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
+                    <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`}
+                        onClick={() => {
+                            if (typeof onToggleFavorite === 'function') {
+                                onToggleFavorite(producto);
+                            } else {
+                                console.error("onToggleFavorite no es una función válida");
+                            }
+                        }}
+                        title="Agregar a favoritos"
+                    >
                         <span className="material-icons">favorite</span>
                     </button>
                 </div>
 
-                <a href={producto.ruta} className="product-card-content">
+                <a href={producto.ruta} title={producto.nombre} className="product-card-content">
                     {producto.stock === 0 ? (
                         <div className="product-card-agotado product-card-target">
                             <span>Sin stock 😥</span>
                         </div>
                     ) : (
                         <>
-                            {producto.novedades === "si" && (
-                                <div className="product-card-target">
-                                    <span>¡Lo más nuevo!</span>
-                                </div>
-                            )}
-
-                            {producto["solo-por-horas"] === "si" && (
-                                <div className="product-card-stock">
-                                    <span>¡ Solo por horas ⌛ !</span>
-                                </div>
-                            )}
-
-                            {producto.oferta === "si" && (
-                                <div className="product-card-ofert">
-                                    <span>En oferta 🔥</span>
-                                </div>
-                            )}
-
-                            {producto.novedades !== "si" &&
-                                producto["solo-por-horas"] !== "si" &&
-                                producto.oferta !== "si" && (
-                                    <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
-                                        <span>
-                                            {producto["tipo-de-envio"] === "Gratis"
-                                                ? "¡ Envío gratis 🚚 !"
-                                                : producto["tipo-de-envio"] || "No especificado"}
-                                        </span>
+                            {isOfferActive && (producto.oferta === "si" || estaEnOfertas) && (
+                                <>
+                                    <div className="product-card-ofert">
+                                        <span>Oferta ⏰</span>
                                     </div>
-                                )}
+
+                                    <div className='d-flex-center-left margin-right product-card-separar'>
+                                        <span className="material-icons">sell</span>
+                                        <p>Separa con <b>S/100</b></p>
+                                    </div>
+                                </>
+                            )}
+
+                            {producto.novedades !== "si" && producto["solo-por-horas"] !== "si" && producto.oferta !== "si" && !estaEnOfertas && (
+                                <div className={`product-card-tipo-de-envio ${tipoEnvioClase}`}>
+                                    <span>
+                                        {
+                                            producto["tipo-de-envio"] === "Gratis" ? "Envío gratis" : producto["tipo-de-envio"] || "No especificado"
+                                        }
+                                    </span>
+                                </div>
+                            )}
                         </>
                     )}
 
-                    <span className="product-card-brand">KAMAS</span>
-                    <h4 className="product-card-name">{truncate(producto.nombre, 72)}</h4>
+                    <div className='d-flex-column'>
+                        <span className="product-card-brand">KAMAS</span>
+                        <p className="product-card-name">{truncate(producto.nombre, 56)}</p>
+                    </div>
+
                     <div className="product-card-prices">
-                        <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
-                        <span className="product-card-sale-price">S/.{producto.precioVenta}</span>
+                        <div className="d-flex-column">
+                            <span className="product-card-regular-price">S/.{producto.precioRegular}</span>
+                            <span className="product-card-normal-price">S/.{producto.precioNormal}</span>
+                        </div>
+
+                        <div className='d-flex-column'>
+                            {isOfferActive && estaEnOfertas ? (
+                                <div className='d-flex-column'>
+                                    <span className="product-card-sale-price product-card-sale-price-offer">S/.{producto.precioVenta}</span>
+                                    <span className="product-card-sale-price-final">S/.{precioFinal}</span>
+                                </div>
+                            ) : (
+                                <span className="product-card-sale-price">S/.{precioFinal}</span>
+                            )}
+                        </div>
                     </div>
                 </a>
             </div>
@@ -103,18 +126,22 @@ export function Producto({ producto, truncate }){
 
 Producto.propTypes = {
     producto: PropTypes.shape({
-        id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+        sku: PropTypes.string.isRequired,
         nombre: PropTypes.string.isRequired,
         ruta: PropTypes.string.isRequired,
         fotos: PropTypes.string.isRequired,
+        precioRegular: PropTypes.number.isRequired,
         precioNormal: PropTypes.number.isRequired,
         precioVenta: PropTypes.number.isRequired,
+        stock: PropTypes.number.isRequired,
+        "tipo-de-envio": PropTypes.string,
+        novedades: PropTypes.string,
+        oferta: PropTypes.string,
+        "solo-por-horas": PropTypes.string,
     }).isRequired,
     truncate: PropTypes.func.isRequired,
-};
-
-Producto.defaultProps = {
-    producto: {
-        id: null,
-    },
+    onToggleFavorite: PropTypes.func.isRequired,
+    isFavorite: PropTypes.bool.isRequired,
+    skusOfertas: PropTypes.arrayOf(PropTypes.string),
+    isOfferActive: PropTypes.bool.isRequired,
 };

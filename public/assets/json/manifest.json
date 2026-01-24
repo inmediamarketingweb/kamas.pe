@@ -1,32 +1,89 @@
 {
     "files": [
-        "/assets/json/categorias/colchones/sub-categorias/adel.json",
-        "/assets/json/categorias/colchones/sub-categorias/der-prinz.json",
-        "/assets/json/categorias/colchones/sub-categorias/konig.json",
-        "/assets/json/categorias/colchones/sub-categorias/norole.json",
-        "/assets/json/categorias/colchones/sub-categorias/ramat.json",
-        "/assets/json/categorias/colchones/sub-categorias/rucay.json",
-        "/assets/json/categorias/colchones/sub-categorias/safynnte.json",
-        "/assets/json/categorias/colchones/sub-categorias/sarki.json",
+        "/assets/json/categorias/colchones/sub-categorias/1-plaza/1-plaza.json",
+        "/assets/json/categorias/colchones/sub-categorias/1-plaza-y-media/1-plaza-y-media.json",
+        "/assets/json/categorias/colchones/sub-categorias/2-plazas/2-plazas.json",
+        "/assets/json/categorias/colchones/sub-categorias/queen/queen.json",
+        "/assets/json/categorias/colchones/sub-categorias/king/king.json",
+        "/assets/json/categorias/colchones/sub-categorias/4-plazas/4-plazas.json",
 
-        "/assets/json/categorias/camas-box-tarimas/sub-categorias/clasicas.json",
-        "/assets/json/categorias/camas-box-tarimas/sub-categorias/americanas.json",
-        "/assets/json/categorias/camas-box-tarimas/sub-categorias/americanas-con-cajones.json",
-        "/assets/json/categorias/camas-box-tarimas/sub-categorias/europeas.json",
-        "/assets/json/categorias/camas-box-tarimas/sub-categorias/europeas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/1-plaza-y-media/americanas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/1-plaza-y-media/americanas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/1-plaza-y-media/europeas.json",
 
-        "/assets/json/categorias/dormitorios/sub-categorias/clasicos.json",
-        "/assets/json/categorias/dormitorios/sub-categorias/americanos.json",
-        "/assets/json/categorias/dormitorios/sub-categorias/americanos-con-cajones.json",
-        "/assets/json/categorias/dormitorios/sub-categorias/europeos.json",
-        "/assets/json/categorias/dormitorios/sub-categorias/europeos-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/clasicas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/americanas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/europeas.json",
 
-        "/assets/json/categorias/complementos/sub-categorias/bases.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/americanas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/americanas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/europeas.json",
 
-        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/americanas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/americanas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/europeas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/europeas-con-cajones.json",
 
-        "/assets/json/categorias/cabeceras/sub-categorias/aereas.json",
-        "/assets/json/categorias/cabeceras/sub-categorias/aereas-con-patas.json",
-        "/assets/json/categorias/cabeceras/sub-categorias/pedestales.json"
+        "/assets/json/categorias/dormitorios/sub-categorias/1-plaza-y-media/americanos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/1-plaza-y-media/americanos-con-cajones.json",
+
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/clasicos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/americanos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/europeos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/europeos-con-cajones.json",
+
+        "/assets/json/categorias/dormitorios/sub-categorias/queen/americanos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/queen/premium.json",
+
+        "/assets/json/categorias/dormitorios/sub-categorias/king/clasicos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/americanos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/americanos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/europeos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/europeos-con-cajones.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/premium.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/king/nube.json",
+
+        "/assets/json/categorias/dormitorios/sub-categorias/4-plazas/americanos.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/2-plazas.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/queen.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/divanes/2-plazas.json",
+
+        "/assets/json/categorias/camas-funcionales/sub-categorias/camarotes/1-plaza-y-media.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/camarotes/mixtos.json",
+
+        "/assets/json/categorias/cabeceras/sub-categorias/1-plaza-y-media/pedestales.json",
+
+        "/assets/json/categorias/cabeceras/sub-categorias/2-plazas/aereas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/2-plazas/aereas-con-patas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/2-plazas/pedestales.json",
+
+        "/assets/json/categorias/cabeceras/sub-categorias/queen/pedestales.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/queen/aereas-con-patas.json",
+
+        "/assets/json/categorias/cabeceras/sub-categorias/king/pedestales.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/king/aereas-con-patas.json",
+
+        "/assets/json/categorias/sofas/sub-categorias/butacas.json",
+        "/assets/json/categorias/sofas/sub-categorias/juegos-de-sala.json",
+        "/assets/json/categorias/sofas/sub-categorias/mecedoras.json",
+        "/assets/json/categorias/sofas/sub-categorias/reclinables.json",
+        "/assets/json/categorias/sofas/sub-categorias/seccionales.json",
+        "/assets/json/categorias/sofas/sub-categorias/sofas-camas.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/base-sola/americanas.json",
+        "/assets/json/categorias/complementos/sub-categorias/base-sola/europeas.json",
+    
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/s.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/m.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/l.json",
+        "/assets/json/categorias/complementos/sub-categorias/cama-perro/xxl.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/puffs/clasicos.json",
+
+        "/assets/json/categorias/complementos/sub-categorias/veladores/shelter.json",
+        "/assets/json/categorias/complementos/sub-categorias/veladores/clasicos.json"
     ]
 }

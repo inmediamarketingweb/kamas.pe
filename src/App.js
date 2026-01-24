@@ -1,6 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { HelmetProvider } from 'react-helmet-async';
 
+import LimpiarRutas from "./Componentes/LimpiarRutas";
+
+//
+import Layout from "./Componentes/Layout";
+
 //Página principal
 import PaginaPrincipal from "./Paginas/PaginaPrincipal/PaginaPrincipal";
 
@@ -8,7 +13,6 @@ import PaginaPrincipal from "./Paginas/PaginaPrincipal/PaginaPrincipal";
 import Productos from './Paginas/Productos/Productos';
 import PaginaDeCategoria from "./Paginas/Categorias/PaginaDeCategoria";
 import PaginaProducto from './Paginas/PaginaProducto/PaginaProducto';
-import SoloPorHoras from "./Paginas/SoloPorHoras/SoloPorHoras";
 import Ofertas from "./Paginas/Ofertas/Ofertas";
 
 //Página para productos favoritos en localstorage
@@ -16,9 +20,7 @@ import Favoritos from "./Paginas/Favoritos/Favoritos";
 
 //Páginas de nosotros y contenido adicional
 import Nosotros from "./Paginas/Nosotros/Nosotros";
-
 import ProyectosYAlianzas from "./Paginas/ProyectosYAlianzas/ProyectosYAlianzas";
-
 import PropiedadIntelectual from "./Paginas/Nosotros/Paginas/PropiedadIntelectual";
 import RazonesParaComprar from "./Paginas/Nosotros/Paginas/RazonesParaComprar";
 import MediosDePago from './Paginas/ServicioAlCliente/MediosDePago';
@@ -55,6 +57,11 @@ import Error404 from "./Paginas/Error404/Error404";
 
 //Páginas para los vendedores
 import Colores from './Paginas/Vendedores/Colores/Colores';
+import Agencias from './Paginas/Vendedores/Agencias/Agencias';
+import Cotizador from './Paginas/Vendedores/Cotizador/Cotizador';
+
+//*Servicio al cliente*
+import Citas from './Paginas/ServicioAlCliente/Citas/Citas';
 
 import './App.css';
 
@@ -62,67 +69,72 @@ function App(){
     return(
         <HelmetProvider>
             <Router>
+                <LimpiarRutas/>
+
                 <Routes>
-                    <Route path="/" element={<PaginaPrincipal/>} />
+                    <Route element={<Layout/>}>
+                        <Route index element={<PaginaPrincipal/>} />
 
-                    <Route path="/productos/" element={<Productos/>} />
-                    <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
-                    <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
+                        <Route path="/productos/" element={<Productos/>} />
+                        <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
+                        <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/" element={<PaginaDeCategoria/>} />
 
-                    <Route path="/productos/:categoria/:subcategoria/:linea/" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:producto/" element={<PaginaProducto/>} />
 
-                    <Route path="/productos/*" element={<PaginaProducto/>} />
+                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
 
-                    <Route path="/ofertas/" element={<Ofertas/>} />
-                    <Route path="/ofertas/*" element={<PaginaProducto/>} />
+                        <Route path="/productos/*" element={<PaginaProducto/>} />
 
-                    <Route path="/ofertas/solo-por-horas/" element={<SoloPorHoras/>} />
-                    <Route path="/ofertas/solo-por-horas/*" element={<PaginaProducto/>} />
+                        <Route path="/ofertas/" element={<Ofertas/>} />
 
-                    <Route path="/mis-favoritos/" element={<Favoritos/>} />
+                        <Route path="/mis-favoritos/" element={<Favoritos/>} />
 
-                    <Route path="/nosotros/" element={<Nosotros/>} />
+                        <Route path="/nosotros/" element={<Nosotros/>} />
 
-                    <Route path="/proyectos-y-alianzas/" element={<ProyectosYAlianzas/>} />
+                        <Route path="/proyectos-y-alianzas/" element={<ProyectosYAlianzas/>} />
 
-                    <Route path="/nosotros/razones-para-comprar/" element={<RazonesParaComprar/>}/>
-                    <Route path="/nosotros/propiedad-intelectual/" element={<PropiedadIntelectual/>}/>
+                        <Route path="/nosotros/razones-para-comprar/" element={<RazonesParaComprar/>}/>
+                        <Route path="/nosotros/propiedad-intelectual/" element={<PropiedadIntelectual/>}/>
+                        <Route path="/paleta-de-colores/" element={<Colores/>} />
+                        <Route path="/vendedores/cotizador/" element={<Cotizador/>}/>
+                        <Route path="/agencias-recomendadas/" element={<Agencias/>} />
+                        <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
+                        <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>
 
-                    <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
-                    <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>
+                        <Route path="/agendar-visita/" element={<Citas/>}/>
+                        <Route path="/servicio-al-cliente/medios-de-pago/" element={<MediosDePago/>}/>
+                        <Route path="/servicio-al-cliente/costos-de-envio-por-zona/" element={<CostosDeEnvioPorZonas/>}/>
+                        <Route path="/servicio-al-cliente/garantia-de-productos/" element={<GarantiaDeProductos/>}/>
+                        <Route path="/servicio-al-cliente/garantia-de-productos/colchones/" element={<GarantiaColchones/>}/>
+                        <Route path="/servicio-al-cliente/garantia-de-productos/box-tarimas/" element={<GarantiaTarimas/>}/>
+                        <Route path="/servicio-al-cliente/garantia-de-productos/cabeceras/" element={<GarantiaCabeceras/>}/>
+                        
+                        <Route path="/servicio-al-cliente/recomendaciones-de-uso/" element={<RecomendacionesDeUso/>}/>
+                        <Route path="/servicio-al-cliente/recomendaciones-de-uso/colchones/" element={<RecomendacionesColchones/>}/>
+                        <Route path="/servicio-al-cliente/recomendaciones-de-uso/box-tarimas/" element={<RecomendacionesTarimas/>}/>
+                        <Route path="/servicio-al-cliente/recomendaciones-de-uso/cabeceras/" element={<RecomendacionesCabeceras/>}/>
 
-                    <Route path="/servicio-al-cliente/medios-de-pago/" element={<MediosDePago/>}/>
-                    <Route path="/servicio-al-cliente/costos-de-envio-por-zona/" element={<CostosDeEnvioPorZonas/>}/>
-                    <Route path="/servicio-al-cliente/garantia-de-productos/" element={<GarantiaDeProductos/>}/>
-                    <Route path="/servicio-al-cliente/garantia-de-productos/colchones/" element={<GarantiaColchones/>}/>
-                    <Route path="/servicio-al-cliente/garantia-de-productos/box-tarimas/" element={<GarantiaTarimas/>}/>
-                    <Route path="/servicio-al-cliente/garantia-de-productos/cabeceras/" element={<GarantiaCabeceras/>}/>
+                        <Route path="/servicio-al-cliente/politica-de-cambios-y-devoluciones/" element={<PoliticaDeCambiosYDevoluciones/>}/>
 
-                    
-                    <Route path="/servicio-al-cliente/recomendaciones-de-uso/" element={<RecomendacionesDeUso/>}/>
-                    <Route path="/servicio-al-cliente/recomendaciones-de-uso/colchones/" element={<RecomendacionesColchones/>}/>
-                    <Route path="/servicio-al-cliente/recomendaciones-de-uso/box-tarimas/" element={<RecomendacionesTarimas/>}/>
-                    <Route path="/servicio-al-cliente/recomendaciones-de-uso/cabeceras/" element={<RecomendacionesCabeceras/>}/>
+                        <Route path="/servicio-al-cliente/privacidad-y-seguridad/" element={<PrivacidadYSeguridad/>}/>
 
-                    <Route path="/servicio-al-cliente/politica-de-cambios-y-devoluciones/" element={<PoliticaDeCambiosYDevoluciones/>}/>
+                        <Route path="/servicio-al-cliente/terminos-y-condiciones/" element={<TerminosYCondiciones/>}/>
 
-                    <Route path="/servicio-al-cliente/privacidad-y-seguridad/" element={<PrivacidadYSeguridad/>}/>
+                        <Route path="/servicio-al-cliente/horarios-de-entrega-y-envios/" element={<HorariosDeEntrega/>}/>
 
-                    <Route path="/servicio-al-cliente/terminos-y-condiciones/" element={<TerminosYCondiciones/>}/>
+                        <Route path="/novedades/programa-de-influencers/" element={<ProgramaDeInfluencers/>}/>
+                        <Route path="/novedades/programa-de-referencias/" element={<ProgramaDeReferencias/>}/>
 
-                    <Route path="/servicio-al-cliente/horarios-de-entrega-y-envios/" element={<HorariosDeEntrega/>}/>
+                        <Route path="/contacto/" element={<Contacto/>} />
+                        <Route path="/contacto/libro-de-reclamaciones/" element={<LibroDeReclamaciones/>} />
 
-                    <Route path="/novedades/programa-de-influencers/" element={<ProgramaDeInfluencers/>}/>
-                    <Route path="/novedades/programa-de-referencias/" element={<ProgramaDeReferencias/>}/>
+                        <Route path="/busqueda/" element={<Busqueda/>} />
 
-                    <Route path="/contacto/" element={<Contacto/>} />
-                    <Route path="/contacto/libro-de-reclamaciones/" element={<LibroDeReclamaciones/>} />
-
-                    <Route path="/busqueda/" element={<Busqueda/>} />
-
-                    <Route path="*" element={<Error404/>}/>
-
-                    <Route path="/vendedores/colores/" element={<Colores/>} />
+                        <Route path="*" element={<Error404/>}/>
+                    </Route>
                 </Routes>
             </Router>
         </HelmetProvider>

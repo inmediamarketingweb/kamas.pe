@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "europeas",
+            "tamaño": "1 plaza y media",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/europeas/1/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 1099,
+            "precioNormal": 1000,
+            "precioVenta": 610,
+            "stock": 12,
+            "sku": "K2315223N10",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata secado al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

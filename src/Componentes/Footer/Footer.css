@@ -1,12 +1,13 @@
 .whatsapp-button{
     position: fixed;
     right: 20px;
-    bottom: 20px;
+    bottom: 138.44px;
     display: flex;
     width: 60px;
     height: 60px;
     background: var(--whatsapp);
     border-radius: 100%;
+    box-shadow: 0 0 5px rgba(0 0 0 / 0.5);
     z-index: 98;
 }
 
@@ -18,12 +19,8 @@
     object-fit: contain;
 }
 
-/**/
-
 footer{
     width: 100%;
-    /* padding: 40px 20px; */
-    /* background: var(--color-2); */
     background: #121212;
 }
 
@@ -41,13 +38,15 @@ footer{
 
 .footer-block-content .block-title-container{
     position: relative;
+    margin-bottom: 80px;
 }
 
 .footer-block-content .block-title-container::before{
     content: '';
     position: absolute;
-    left: 0;
+    left: 50%;
     top: calc(100% + 8px);
+    translate: -50% 0;
     width: 200px;
     height: 4px;
     background: var(--color-1);
@@ -68,7 +67,7 @@ footer{
 .footer-target{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
 }
 
 .footer-target .title{
@@ -76,12 +75,10 @@ footer{
     color: var(--white);
 }
 
-/**/
-
 .footer-list{
     display: flex;
     flex-direction: column;
-    gap: 3px;
+    gap: 10px;
 }
 
 .footer-list li{
@@ -115,8 +112,6 @@ footer{
     color: var(--color-1);
 }
 
-/**/
-
 .social-networks li a{
     width: auto;
     aspect-ratio: 1/1;
@@ -138,8 +133,6 @@ footer{
     aspect-ratio: 1/1;
     object-fit: contain;
 }
-
-/**/
 
 .form-suscribe{
     width: 100%;
@@ -165,8 +158,6 @@ footer{
     border-radius: 0 4px 4px 0;
 }
 
-/**/
-
 .complaints-book{
     margin-right: auto;
     display: flex;
@@ -188,8 +179,6 @@ footer{
     color: var(--white);
 }
 
-/**/
-
 .footer-bottom-container{
     background: var(--black);
     padding: 10px 20px;
@@ -210,8 +199,6 @@ footer{
 }
 
 .footer-bottom > ul li img{
-    width: auto;
-    height: 20px;
     object-fit: contain;
 }
 
@@ -223,18 +210,45 @@ footer{
     text-decoration: underline;
 }
 
-/**/
+.footer-logo{
+    margin-right: auto;
+    width: auto;
+    height: 36px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
 
-@media screen and (max-width: 600px){
-    footer{
-        gap: 0 !important;
+@media screen and (max-width: 800px){
+    .footer-block-container{
+        padding: 20px 10px;
     }
 
-    /**/
+    .footer-targets{
+        grid-template-columns: repeat(2, 1fr);
+    }
 
-    .footer-block-container{
-        padding: 20px;
-        padding-top: 60px;
+    .footer-bottom-container{
+        padding: 16px 10px;
+    }
+
+    .footer-logo{
+        margin-bottom: 10px;
+    }
+
+    .footer-bottom{
+        flex-direction: column;
+        gap: 10px !important;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .whatsapp-button{
+        right: 10px;
+        bottom: 156px;
+    }
+
+    footer{
+        gap: 0 !important;
     }
 
     .footer .block-title-container::before{
@@ -243,16 +257,6 @@ footer{
 
     .footer-targets{
         grid-template-columns: 1fr;
-    }
-
-    /**/
-
-    .footer-bottom-container{
-        padding: 40px 20px;
-    }
-
-    .footer-bottom{
-        flex-direction: column;
     }
 
     .footer-bottom ul{

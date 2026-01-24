@@ -1,0 +1,24 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clasicos",
+            "metaTitulo": "Complementos - Puffs clásicos | Kamas",
+            "ruta": "/productos/complementos/puffs/clasicos/"
+        },
+        {
+            "subcategoria": "Redondos",
+            "metaTitulo": "Complementos - Puffs redondos | Kamas",
+            "ruta": "/productos/complementos/puffs/redondos/"
+        },
+        {
+            "subcategoria": "Con tapa",
+            "metaTitulo": "Complementos - Puffs con tapa | Kamas",
+            "ruta": "/productos/complementos/puffs/con-tapa/"
+        },
+        {
+            "subcategoria": "Vintage",
+            "metaTitulo": "Complementos - Puffss vintage | Kamas",
+            "ruta": "/productos/complementos/puffs/vintage/"
+        }
+    ]
+}

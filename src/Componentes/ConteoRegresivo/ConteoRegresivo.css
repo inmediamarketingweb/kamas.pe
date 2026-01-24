@@ -1,0 +1,37 @@
+.sale-time{
+    width: auto;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-1);
+}
+
+.time-unit{
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.time-unit span{
+    font-size: 28px;
+    font-weight: bold;
+    color: var(--white);
+}
+
+.time-unit p{
+    color: var(--white);
+    font-size: 12px;
+}
+
+.resting-message{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    flex-direction: column;
+    gap: 10px;
+}

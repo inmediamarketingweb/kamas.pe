@@ -1,28 +1,18 @@
 import { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Helmet from 'react-helmet';
-import { v4 as uuidv4 } from "uuid";
-
-import Header from '../../Componentes/Header/Header';
-import Footer from '../../Componentes/Footer/Footer';
-
-import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
 
 import './Busqueda.css';
 
-function PaginaBusqueda(){
+import { Producto } from '../../Componentes/Plantillas/Producto/Producto';
+
+function PaginaBusqueda() {
     const [productos, setProductos] = useState([]);
     const [filteredProductos, setFilteredProductos] = useState([]);
-    const [filters, setFilters] = useState({ 
-        tamanos: [], lineas: []
-    });
-
-    const [selectedFilters, setSelectedFilters] = useState({
-        tamanos: [], lineas: []
-    });
+    const [currentPage, setCurrentPage] = useState(1);
+    const itemsPerPage = 20;
 
     const location = useLocation();
-
     const queryParams = new URLSearchParams(location.search);
     const query = queryParams.get('query') || '';
 
@@ -54,30 +44,7 @@ function PaginaBusqueda(){
     }, []);
 
     useEffect(() => {
-        const fetchFilterData = async () => {
-            try {
-                const response = await fetch('/assets/json/categorias/busqueda/filtros.json');
-                const data = await response.json();
-                setFilters({ tamanos: data.tamaños, lineas: data.lineas });
-            } catch (error) {
-                console.error('Error loading filter data:', error);
-            }
-        };
-
-        fetchFilterData();
-    }, []);
-
-    const handleFilterChange = (filterType, value) => {
-        setSelectedFilters(prev => ({
-            ...prev,
-            [filterType]: prev[filterType].includes(value)
-                ? prev[filterType].filter(item => item !== value)
-                : [...prev[filterType], value]
-        }));
-    };
-
-    useEffect(() => {
-        if (!query.trim() && selectedFilters.tamanos.length === 0 && selectedFilters.lineas.length === 0) {
+        if (!query.trim()) {
             setFilteredProductos([]);
             return;
         }
@@ -85,30 +52,69 @@ function PaginaBusqueda(){
         const tokens = normalizeStr(query).split(' ').filter(Boolean);
 
         const filtered = productos.filter(producto => {
-            const detalles = producto['detalles-del-producto']?.[0] || {};
-            
-            const searchMatch = tokens.length === 0 || tokens.every(token => {
-                const normalizedNombre = normalizeStr(String(producto.nombre ?? ''));
-                const normalizedSKU = normalizeStr(String(producto.sku ?? ''));
-                const normalizedCategoria = normalizeStr(String(producto.categoria ?? ''));
-                const normalizedSubCategoria = normalizeStr(String(producto.subCategoria ?? ''));
+            const normalizedNombre = normalizeStr(String(producto.nombre ?? ''));
+            const normalizedSKU = normalizeStr(String(producto.sku ?? ''));
+            const normalizedCategoria = normalizeStr(String(producto.categoria ?? ''));
+            const normalizedSubCategoria = normalizeStr(String(producto.subCategoria ?? ''));
 
-                return normalizedNombre.includes(token) || normalizedSKU.includes(token) || normalizedCategoria.includes(token) || normalizedSubCategoria.includes(token);
-            });
-
-            const sizeMatch = selectedFilters.tamanos.length === 0 || selectedFilters.tamanos.includes(detalles.tamaño);
-
-            const lineMatch = selectedFilters.lineas.length === 0 || selectedFilters.lineas.includes(detalles['línea-de-colchón']);
-
-            return searchMatch && sizeMatch && lineMatch;
+            return tokens.every(token => 
+                normalizedNombre.includes(token) || 
+                normalizedSKU.includes(token) || 
+                normalizedCategoria.includes(token) || 
+                normalizedSubCategoria.includes(token)
+            );
         });
 
         setFilteredProductos(filtered);
-    }, [query, productos, selectedFilters.tamanos, selectedFilters.lineas]);
+        setCurrentPage(1);
+    }, [query, productos]);
+
+    const totalItems = filteredProductos.length;
+    const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+    const getVisiblePages = () => {
+        if (totalPages <= 5) {
+            return Array.from({length: totalPages}, (_, i) => i + 1);
+        }
+        
+        if (currentPage <= 3) { 
+            return [1, 2, 3, 4, '...', totalPages];
+        } 
+        
+        if (currentPage >= totalPages - 2) {
+            return [1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages];
+        }
+        
+        return [1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages];
+    };
+
+    const handlePageChange = (newPage) => {
+        setCurrentPage(Math.max(1, Math.min(totalPages, newPage)));
+    };
+
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    const currentProducts = filteredProductos.slice(startIndex, endIndex);
 
     const truncate = (str, maxLength) => {
-        if (str.length <= maxLength) return str;
-        return str.slice(0, maxLength) + "...";
+        return str.length <= maxLength ? str : str.slice(0, maxLength) + "...";
+    };
+
+    const [favorites, setFavorites] = useState(() => {
+        const savedFavorites = localStorage.getItem('favoritos');
+        return savedFavorites ? JSON.parse(savedFavorites) : [];
+    });
+
+    useEffect(() => {
+        localStorage.setItem('favoritos', JSON.stringify(favorites));
+    }, [favorites]);
+
+    const handleToggleFavorite = (producto) => {
+        if (favorites.some(fav => fav.sku === producto.sku)) {
+            setFavorites(favorites.filter(fav => fav.sku !== producto.sku));
+        } else {
+            setFavorites([...favorites, producto]);
+        }
     };
 
     return(
@@ -118,59 +124,54 @@ function PaginaBusqueda(){
                 <meta name='description' content="Resultados de búsqueda" />
             </Helmet>
 
-            <Header/>
-
             <main>
                 <div className='block-container'>
                     <section className='block-content'>
-                        <div className='block-title-container'>
-                            <h1 className='block-title'>Resultados para: {query}</h1>
+                        <div className='block-title-container d-flex-column-left gap-10'>
+                            <p className='block-title text-left'>Resultados para: {query}</p>
+                            {filteredProductos.length > 0 && (
+                                <p className="title text-left">{totalItems} productos encontrados</p>
+                            )}
                         </div>
 
                         <div className='search-products-content gap-10'>
-                            <div className='filters-content'>
-                                <div className='filter-group'>
-                                    <h3 className='filter-title'>Tamaños</h3>
-                                    <ul>
-                                        {filters.tamanos.map((tamano) => (
-                                            <li key={tamano.tamaño}>
-                                                <label>
-                                                    <input type="checkbox" name="tamaño" value={tamano.tamaño} onChange={() => handleFilterChange('tamanos', tamano.tamaño)}checked={selectedFilters.tamanos.includes(tamano.tamaño)}/>
-                                                    {tamano.tamaño}
-                                                </label>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-
-                                <div className='filter-group'>
-                                    <h3 className='filter-title'>Líneas</h3>
-                                    <ul>
-                                        {filters.lineas.map((linea) => (
-                                            <li key={linea.linea}>
-                                                <label>
-                                                    <input type="checkbox" name="linea" value={linea.linea} onChange={() => handleFilterChange('lineas', linea.linea)} checked={selectedFilters.lineas.includes(linea.linea)} />
-                                                    <p className='text'>{linea.linea}</p>
-                                                </label>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
-                            </div>
-
                             {filteredProductos.length > 0 ? (
-                                    <ul className='search-products d-grid-5-3-2fr gap-10'>
-                                        {filteredProductos.map(producto => (
-                                            <Producto key={uuidv4()} producto={producto} truncate={truncate}/>
+                                <div className='d-flex-column gap-10'>
+                                    <ul className='search-products d-grid-5-3-2fr'>
+                                        {currentProducts.map(producto => (
+                                            <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={handleToggleFavorite} isFavorite={favorites.some(fav => fav.sku === producto.sku)}/>
                                         ))}
                                     </ul>
-                                ) : ( <p>Intentalo de nuevo</p> )}
-                            </div>
+
+                                    {totalPages > 1 && (
+                                        <div className="pagination-controls d-grid-column-2-3">
+                                            <button className="pagination-arrow" onClick={() => handlePageChange(currentPage - 1)} disabled={currentPage === 1}>
+                                                <span className="material-icons">chevron_left</span>
+                                            </button>
+
+                                            <div className="d-flex-center-center gap-5">
+                                                {getVisiblePages().map((page, index) => 
+                                                    typeof page === 'number' ? (
+                                                        <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
+                                                    ) : (
+                                                        <span key={index} className="pagination-ellipsis">...</span>
+                                                    )
+                                                )}
+                                            </div>
+
+                                            <button className="pagination-arrow" onClick={() => handlePageChange(currentPage + 1)} disabled={currentPage === totalPages}>
+                                                <span className="material-icons">chevron_right</span>
+                                            </button>
+                                        </div>
+                                    )}
+                                </div>
+                            ) : (
+                                <p>No se encontraron productos. Intenta con otros términos de búsqueda.</p>
+                            )}
+                        </div>
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     );
 }

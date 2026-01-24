@@ -1,78 +1,52 @@
-.block-container-homepage-about-us section{
-    display: grid;
-    grid-template-columns: auto 1fr;
-}
-
-.block-container-homepage-about-us .block-content .d-grid-2-1fr.gap-10{
-    grid-column: 1/-1;
-    margin-bottom: 20px;
-}
-
-.block-container-homepage-about-us .block-content .d-grid-2-1fr.gap-10 video{
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-}
-
-.homepage-about-us-images-container{
-    grid-column: 1/-1;
-}
-
-.homepage-about-us-images{
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
-}
-
-.homepage-about-us-images li{
-    width: 100%;
-    display: flex;
-}
-
-.homepage-about-us-images li img{
-    width: 100%;
-    height: 200px;
+.sobre-nosotros-block-content{
+    padding: 0 !important;
     border-radius: 6px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.sobre-nosotros-block-content > div > img{
+    width: 100%;
+    height: 220px;
     object-fit: cover;
 }
 
+.sobre-nosotros-block-content > div > img:nth-child(2){
+    display: none;
+}
+
+.sobre-nosotros-block-content div:nth-child(2){
+    padding: 20px;
+    background: var(--component);
+    border-radius: 6px;
+}
+
+@media screen and (max-width: 800px){
+    .sobre-nosotros-block-content{
+        grid-template-columns: 250px 1fr;
+    }
+
+    .sobre-nosotros-block-content > div > img:nth-child(2){
+        display: unset;
+    }
+
+    .sobre-nosotros-block-content > div > img{
+        height: 100%;
+    }
+}
+
 @media screen and (max-width: 600px){
-    .block-container-homepage-about-us section{
-        grid-template-columns: 1fr;
-    }
-
-    .block-container-homepage-about-us .block-content .d-grid-2-1fr.gap-10 iframe{
-        width: 100%;
-        height: 200px;
-    }
-
-    .homepage-about-us-images-container{
-        overflow-x: auto;
-        padding-bottom: 20px;
-    }
-
-    .homepage-about-us-images-container::-webkit-scrollbar{
-        background: rgba(0 0 0 / 0.15);
-        height: 4px;
-        border-radius: 5px;
-    }
-
-    .homepage-about-us-images-container::-webkit-scrollbar-thumb{
-        background: var(--color-1);
-    }
-
-    .homepage-about-us-images{
-        width: 200%;
+    .sobre-nosotros-block-content{
         display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 5px;
+        flex-direction: column;
     }
-    .homepage-about-us-images li{
-        width: calc(50% - 2.5px);
+
+    .sobre-nosotros-block-content > div > img:nth-child(2){
+        display: none !important;
     }
-    .homepage-about-us-images li img{
-        height: 100px;
+
+    .sobre-nosotros-block-content img{
+        height: 180px !important;
     }
 }

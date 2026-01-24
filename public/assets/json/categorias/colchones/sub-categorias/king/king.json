@@ -1,0 +1,729 @@
+{
+    "productos":[
+        {
+            "categoria": "colchones",
+            "subcategoria": "rucay",
+            "ruta": "/productos/colchones/king/rucay/1/",
+            "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY KING",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/",
+            "precioRegular": 945,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K142CM10",
+            "regalos":[
+                {
+                    "id": 1,
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Anátomicos",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "id": 1,
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rucay/1/"
+                },
+                {
+                    "id": 2,
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rucay/1/"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rucay/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Rucay",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Anátomicos",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "17 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "16kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "grosor": "25cm.",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "sarki",
+            "ruta": "/productos/colchones/king/sarki/1/",
+            "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI KING",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/",
+            "precioRegular": 1329,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "K143CN10",
+            "regalos":{
+                "texto": "2 almohadas",
+                "foto": "/assets/imagenes/productos/almohadas.png"
+            },
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "King",
+                    "linea-de-colchón": "Ortopédicos",
+                    "nivel-de-confort": "Confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/sarki/1/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/sarki/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/sarki/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/sarki/1/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/sarki/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Sarki",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Ortopédicos",
+                    "nivel-de-confort": "Confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "18 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "26cm.",
+                    "soporte-de-peso": "80kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "colchones",
+            "subcategoria": "safynnte",
+            "ruta": "/productos/colchones/king/safynnte/1/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO SAFYNNTE KING",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/",
+            "precioRegular": 1449,
+            "precioNormal": 1199,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "K146IN10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "King",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Súper ortopédicos"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/safynnte/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/safynnte/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/safynnte/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Safynnte",
+                    "tamaño": "King",
+                    "linea-de-colchón": "Intermedio",
+                    "nivel-de-confort": "Súper ortopédicos",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "18 filas",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "De espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "der prinz",
+            "ruta": "/productos/colchones/king/der-prinz/1/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO DER PRINZ KING",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
+            "precioRegular": 1650,
+            "precioNormal": 1399,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K147N10",
+            "incluye":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/der-prinz/1/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/der-prinz/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/der-prinz/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/der-prinz/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Der Prinz",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "19 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "thameo pocket",
+            "ruta": "/productos/colchones/king/thameo-pocket/1/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO THAMEO POCKET KING",
+            "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/",
+            "precioRegular": 1679,
+            "precioNormal": 1409,
+            "precioVenta": 1099,
+            "stock": 99,
+            "sku": "K148N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/thameo-pocket/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/thameo-pocket/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thameo-pocket/1/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "600 resortes pocket",
+                    "tela": "Tejido en punto",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "18kg/m3",
+                    "marco": "sellado",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "5 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "ramat",
+            "ruta": "/productos/colchones/king/ramat/1/",
+            "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO RAMAT KING",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/",
+            "precioRegular": 1860,
+            "precioNormal": 1599,
+            "precioVenta": 1199,
+            "stock": 99,
+            "sku": "K145MCN10",
+            "incluye":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/2-almohadas.png"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/ramat/1-plaza-y-media/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/ramat/2-plazas/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/ramat/queen/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Ramat",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Muy confortable",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "19 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "37cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "nesie",
+            "ruta": "/productos/colchones/king/nesie/1/",
+            "nombre": "COLCHÓN KAMAS HOTELERO NESIE KING",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/",
+            "precioRegular": 999,
+            "precioNormal": 1469,
+            "precioVenta": 1149,
+            "stock": 99,
+            "sku": "K144N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Hotelero",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/nesie/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/nesie/1/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Hotelero",
+                    "nivel-de-confort": "Firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "19 filas en forma vertical",
+                    "tela": "Tela jacquard",
+                    "sistema": "clásico",
+                    "refuerzos": "centrales y laterales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "95kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "norole",
+            "ruta": "/productos/colchones/king/norole/1/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE KING",
+            "fotos": "/assets/imagenes/productos/colchones/norole/",
+            "precioRegular": 2399,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
+            "stock": 99,
+            "sku": "K149MFN10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/norole/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/norole/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/norole/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Norole",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédico",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "20 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "40cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "thaleo pocket",
+            "ruta": "/productos/colchones/king/thaleo-pocket/1/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO THALEO POCKET KING",
+            "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/",
+            "precioRegular": 1899,
+            "precioNormal": 1919,
+            "precioVenta": 1499,
+            "stock": 99,
+            "sku": "K1410N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/thaleo-pocket/1/"
+                },
+                {
+                    "nombre": "2-plazas",
+                    "ruta": "/productos/colchones/2-plazas/thaleo-pocket/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thaleo-pocket/1/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "810 resortes pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "konig",
+            "ruta": "/productos/colchones/king/konig/1/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG KING",
+            "fotos": "/assets/imagenes/productos/colchones/konig/",
+            "precioRegular": 2800,
+            "precioNormal": 2499,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "K1411MFN10",
+            "incluye":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/2-almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/konig/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/konig/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/konig/1/"
+                }
+            ],
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "sku": "K1411MFN10",
+                    "modelo-de-colchón": "Konig",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "20 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "44cm.",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
+            "subcategoria": "yurmale",
+            "ruta": "/productos/colchones/king/yurmale/1/",
+            "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO YURMALE KING",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/",
+            "precioRegular": 3599,
+            "precioNormal": 2579,
+            "precioVenta": 1999,
+            "stock": 99,
+            "sku": "K1412N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Yurmale",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/yurmale/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/yurmale/1/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/yurmale/1/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Yurmale",
+                    "tamaño": "King",
+                    "línea-de-colchón": "Extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "tipo-de-resorte": "Pocket"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "810 resortes pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "incorpora": "Sitema PT",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

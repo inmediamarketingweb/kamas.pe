@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicos",
+            "metaTitulo": "Dormitorios - 2 plazas clásicos | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/"
+        },
+        {
+            "subcategoria": "Americanos",
+            "metaTitulo": "Dormitorios - 2 plazas americanos | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/"
+        },
+        {
+            "subcategoria": "Americanos con cajones",
+            "metaTitulo": "Dormitorios - 2 plazas americanos con cajones | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeos",
+            "metaTitulo": "Dormitorios - 2 plazas europeos | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/europeos/"
+        },
+        {
+            "subcategoria": "Europeos con cajones",
+            "metaTitulo": "Dormitorios - 2 plazas europeos con cajones | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/europeos-con-cajones/"
+        }
+    ]
+}

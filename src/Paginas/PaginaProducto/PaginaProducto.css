@@ -1,34 +1,52 @@
+.pagina-producto-main .conteo-regresivo{
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    translate: -50% 0;
+    width: calc(100% - 40px);
+    max-width: var(--content-mx-width) !important;
+    height: auto;
+    background: crimson;
+    max-width: 1600px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 10px;
+    border-radius: 6px 6px 0 0;
+
+    z-index: 10;
+}
+
+.pagina-producto-main .conteo-regresivo .sale-time{
+    padding: 0 !important;
+    background: none !important;
+}
+
 .product-page-block-content{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
 }
-
-/**/
 
 .product-page-container{
     width: 100%;
     display: grid;
-    grid-template-columns: 680px 1fr;
-    gap: 20px;
+    grid-template-columns: 540px 1fr;
+    gap: 10px;
 }
-
-/**/
 
 .product-page-target{
     width: 100%;
     position: relative;
 }
 
-/**/
-
 .product-page-target-1{
     overflow: hidden;
     display: flex;
     flex-direction: column;
 }
-
-/**/
 
 .product-page-category{
     color: var(--text);
@@ -43,8 +61,6 @@
     color: #212121;
     text-transform: uppercase;
 }
-
-/**/
 
 .product-page-resume li{
     display: flex;
@@ -72,11 +88,16 @@
     font-weight: bold;
 }
 
-/**/
+.page-product-regular-price{
+    font-size: 14px;
+    color: #999;
+    text-decoration: line-through;
+}
 
 .page-product-normal-price{
     color: var(--gray);
     text-decoration: line-through;
+    font-size: 19px;
 }
 
 .page-product-sale-price{
@@ -85,11 +106,14 @@
     font-size: 30px;
 }
 
-/**/
+.page-product-sale-price-line{
+    font-size: 20px !important;
+    text-decoration: line-through;
+}
 
 .quantity{
     border: 1px solid rgba(0 0 0 / 0.1);
-    border-radius: 6px;
+    border-radius: 4px;
     display: grid;
     grid-template-columns: repeat(3, auto);
 }
@@ -122,8 +146,6 @@
     color: var(--text);
 }
 
-/**/
-
 .product-page-user-name{
     padding: 0 20px;
     width: 100%;
@@ -139,8 +161,6 @@
     position: relative;
 }
 
-/**/
-
 .sin-stock{
     filter: grayscale(1) !important;
     pointer-events: none !important;
@@ -151,7 +171,6 @@
     position: absolute;
     right: 0;
     top: 0;
-    /* rotate: -45deg; */
     z-index: 1;
     display: none;
     color: gray;
@@ -164,10 +183,52 @@
     display: flex;
 }
 
-/**/
+.beneficios-tablet{
+    display: none;
+}
+
+@media screen and (max-width: 800px){
+    .product-page-container{
+        grid-template-columns: 360px 1fr;
+        height: 600px;
+    }
+
+    .beneficios-tablet{
+        display: unset;
+    }
+
+    .beneficios-desktop{
+        display: none;
+    }
+
+    .product-page-target-2{
+        overflow-y: scroll;
+    }
+
+    .product-page-target-2 > div:nth-child(2){
+        grid-template-columns: 1fr !important;
+    }
+
+    .product-page-name{
+        font-size: 26px;
+    }
+
+    .product-page-target-2 > div:nth-child(2) > div:nth-child(1) > div:nth-child(3){
+        flex-direction: column;
+    }
+
+    .quantity button{
+        width: 44px;
+    }
+}
 
 @media screen and (max-width: 600px){
+    .pagina-producto-main .conteo-regresivo{
+        width: calc(100% - 20px);
+    }
+
     .product-page-container{
+        height: unset !important;
         display: flex;
         flex-direction: column;
     }
@@ -180,19 +241,39 @@
         height: auto;
     }
 
-    .product-page-images-miniatures li img{
-        width: 54px;
-    }
-
     .product-page-top-info{
         display: flex;
         flex-direction: column;
         gap: 10px;
     }
 
-    /**/
-
     .product-page-name{
         font-size: 24px;
+    }
+
+    .pagina-producto-main .conteo-regresivo{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .pagina-producto-main .conteo-regresivo > .d-flex-column.gap-10 p:nth-child(1){
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .pagina-producto-main .conteo-regresivo > .d-flex-column.gap-10 p:nth-child(2){
+        display: none;
+    }
+
+    .pagina-producto-main .conteo-regresivo > .d-flex-column.gap-10 p:nth-child(3){
+        text-align: center;
+    }
+
+    .beneficios-tablet{
+        display: none;
+    }
+
+    .beneficios-desktop{
+        display: unset;
     }
 }

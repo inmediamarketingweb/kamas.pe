@@ -1,16 +1,21 @@
 {
     "name": "kamas",
+    "homepage": "https://kamas.pe",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "@cloudinary/react": "^1.14.3",
+        "@cloudinary/url-gen": "^1.21.0",
         "@formspree/react": "^3.0.0",
         "@testing-library/dom": "^10.4.0",
         "@testing-library/jest-dom": "^6.6.3",
         "@testing-library/react": "^16.2.0",
         "@testing-library/user-event": "^13.5.0",
         "axios": "^1.9.0",
+        "date-fns": "^4.1.0",
         "emailjs-com": "^3.2.0",
         "react": "^18.3.1",
+        "react-datepicker": "^8.4.0",
         "react-dom": "^18.3.1",
         "react-helmet": "^6.1.0",
         "react-helmet-async": "^2.0.5",
@@ -24,8 +29,8 @@
         "yocto-queue": "^1.2.0"
     },
     "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
+        "start": "react-scripts start --no-source-maps start",
+        "build": "react-scripts build --no-source-maps build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
@@ -46,5 +51,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "vite-plugin-html": "^3.2.2"
     }
 }

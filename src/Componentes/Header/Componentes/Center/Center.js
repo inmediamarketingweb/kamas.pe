@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import { v4 as uuidv4 } from "uuid";
 
-import SearchBar from '../SearchBar/SearchBar';
-
 import './Center.css';
+
+import Spinner from '../../../Elementos/Spinner/Spinner';
+import SearchBar from '../SearchBar/SearchBar';
 
 function Center(){
     const [categories, setCategories] = useState(null);
@@ -30,11 +31,17 @@ function Center(){
     }, []);
 
     if(error){
-        return <div className="error-message">Error al cargar el menú: {error}</div>;
+        return <div className="d-flex-center-center w-100 h-70-px bg-loading">
+            <p className='text'>Error al cargar el menú: <b className='color-color-1'>{error}</b></p>
+        </div>;
     }
 
     if(!categories){
-        return <div className="loading">Loading menu...</div>;
+        return(
+            <div className="d-flex-center-center w-100 h-70-px bg-loading position-relative">
+                <Spinner/>
+            </div>
+        )
     }
 
     const handleCategoryClick = (categoryId) => {
@@ -48,10 +55,14 @@ function Center(){
     return(
         <div className='header-center-container d-flex w-100'>
             <section className='header-center'>
-                <div className='d-flex-center-left gap-20'>
-                    <a href='/' title='Kamas | Fabricantes de camas' className='header-logo'>
-                        <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" alt="Logo principal de Kamas"/>
+                <div className='d-flex-center-left gap-10'>
+                    <a href='https://kamas.pe' title='Kamas | Fabricantes de camas' className='header-logo'>
+                        <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={185} height={42} alt="Kamas"/>
                     </a>
+
+                    <div className='search-bar-tablet'>
+                        <SearchBar/>
+                    </div>
 
                     <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
                         <p>Menu</p>
@@ -92,21 +103,6 @@ function Center(){
                                                     </div>
                                                 )}
 
-                                                {categoria.subCategorias && (
-                                                    <div className='submenu-target submenu-target-2'>
-                                                        <h3 className='submenu-target-title'>{categoria.subCategoriasTitulo?.[0]?.text || 'Subcategorías'}:</h3>
-                                                        <ul>
-                                                            {categoria.subCategorias.map((sub) => (
-                                                                <li key={uuidv4()}>
-                                                                    <a href={sub.ruta} title={sub.subcategoria}>
-                                                                        <h3>{sub.subcategoria}</h3>
-                                                                    </a>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    </div>
-                                                )}
-
                                                 {categoria.medidas && (
                                                     <div className='submenu-target submenu-target-3'>
                                                         <h3 className='submenu-target-title'>Medidas:</h3>
@@ -114,7 +110,22 @@ function Center(){
                                                             {categoria.medidas.map((medida) => (
                                                                 <li key={uuidv4()}>
                                                                     <a href={medida.ruta} title={medida.medida}>
-                                                                        <h3>{medida.medida}</h3>
+                                                                        <h4>{medida.medida}</h4>
+                                                                    </a>
+                                                                </li>
+                                                            ))}
+                                                        </ul>
+                                                    </div>
+                                                )}
+
+                                                {categoria.subCategorias && (
+                                                    <div className='submenu-target submenu-target-2'>
+                                                        <h3 className='submenu-target-title'>{categoria.subCategoriasTitulo?.[0]?.text || 'Subcategorías'}:</h3>
+                                                        <ul>
+                                                            {categoria.subCategorias.map((sub) => (
+                                                                <li key={uuidv4()}>
+                                                                    <a href={sub.ruta} title={sub.subcategoria}>
+                                                                        <h4>{sub.subcategoria}</h4>
                                                                     </a>
                                                                 </li>
                                                             ))}
@@ -124,7 +135,7 @@ function Center(){
 
                                                 {categoria.menuImg && (
                                                     <div className='submenu-target submenu-target-4'>
-                                                        <img src={categoria.menuImg[0]?.imgSrc} alt={categoria.menuImg[0]?.imgAlt || categoria.categoria}/>
+                                                        <img width={280} height={280} loading='lazy' src={categoria.menuImg[0]?.imgSrc} alt={categoria.menuImg[0]?.imgAlt || categoria.categoria}/>
                                                     </div>
                                                 )}
                                             </nav>
@@ -136,7 +147,9 @@ function Center(){
                     </nav>
                 </div>
 
-                <SearchBar/>
+                <div className='search-bar-mobile margin-left d-flex-center-right'>
+                    <SearchBar/>
+                </div>
             </section>
         </div>
     )
