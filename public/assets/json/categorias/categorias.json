@@ -74,10 +74,6 @@
             ],
             "medidas":[
                 {
-                    "medida": "1 plaza",
-                    "ruta": "/productos/colchones/1-plaza/"
-                },
-                {
                     "medida": "1 plaza y media",
                     "ruta": "/productos/colchones/1-plaza-y-media/"
                 },
@@ -150,10 +146,6 @@
             ],
             "medidas":[
                 {
-                    "medida": "1 plaza",
-                    "ruta": "/productos/camas-box-tarimas/1-plaza/"
-                },
-                {
                     "medida": "1 plaza y media",
                     "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
                 },
@@ -225,10 +217,6 @@
                 }
             ],
             "medidas":[
-                {
-                    "medida": "1 plaza",
-                    "ruta": "/productos/dormitorios/1-plaza/"
-                },
                 {
                     "medida": "1 plaza y media",
                     "ruta": "/productos/dormitorios/1-plaza-y-media/"
@@ -336,11 +324,6 @@
                 }
             ],
             "medidas":[
-                {
-                    "id": 1,
-                    "medida": "1 plaza",
-                    "ruta": "/productos/cabeceras/1-plaza/"
-                },
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
