@@ -6,14 +6,14 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/cama-nube/sarki/1/",
-            "nombre": "DORMITORIO NUBE KING - TEJIDO HUESO",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO HUESO",
             "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/1/",
             "colores": "si",
             "precioRegular": 3999,
             "precioNormal": 3489,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K323236N99", 
+            "sku": "K334237N10", 
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -100,14 +100,14 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/cama-nube/sarki/2/",
-            "nombre": "DORMITORIO NUBE KING - TEJIDO AZUL DENIN",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO AZUL DENIN",
             "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/2/",
             "colores": "si",
             "precioRegular": 3999,
             "precioNormal": 3489,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K323236N100",
+            "sku": "K334237N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -194,14 +194,14 @@
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/cama-nube/sarki/3/",
-            "nombre": "DORMITORIO NUBE KING - TEJIDO PLATA",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/3/",
             "colores": "si",
             "precioRegular": 3999,
-            "precioNormal": 3489,
+            "precioNormal": 3589,
             "precioVenta": 2299,
             "stock": 23,
-            "sku": "K323236N101",
+            "sku": "K334237N12",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -288,14 +288,14 @@
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/1/",
-            "nombre": "DORMITORIO NUBE KING + COLCHON DER PRINZ - TEJIDO AZUL DENIN",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS DER PRINZ - TEJIDO AZUL DENIN",
             "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/1/",
             "colores": "si",
             "precioRegular": 3999,
-            "precioNormal": 3589,
-            "precioVenta": 2399,
+            "precioNormal": 3689,
+            "precioVenta": 2449,
             "stock": 23,
-            "sku": "K323236N102",
+            "sku": "K334257N10",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -382,14 +382,14 @@
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/2/",
-            "nombre": "DORMITORIO NUBE KING + COLCHON DER PRINZ - TEJIDO PLATA",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS DER PRINZ - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/2/",
             "colores": "si",
             "precioRegular": 3999,
             "precioNormal": 3589,
-            "precioVenta": 2399,
+            "precioVenta": 2449,
             "stock": 23,
-            "sku": "K323236N103",
+            "sku": "K334257N11",
             "tipo-de-envio": "Gratis",
             "regalos":[
                 {
@@ -418,6 +418,382 @@
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/cama-nube/thameo-pocket/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS THAMEO POCKET- DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/thameo-pocket/1/",
+            "colores": "si",
+            "precioRegular": 4899,
+            "precioNormal": 4199,
+            "precioVenta": 3339,
+            "stock": 23,
+            "sku": "K324267N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/tejido-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/cama-nube/thameo-pocket/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS THAMEO POCKET- AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/thameo-pocket/2/",
+            "colores": "si",
+            "precioRegular": 4899,
+            "precioNormal": 4199,
+            "precioVenta": 3339,
+            "stock": 23,
+            "sku": "K324267N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/tejido-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/cama-nube/ramat/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS RAMAT - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/ramat/1/",
+            "colores": "si",
+            "precioRegular": 4899,
+            "precioNormal": 4199,
+            "precioVenta": 3339,
+            "stock": 23,
+            "sku": "K33427N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-denin.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "espuma": "Zebra de alta densidad",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "18 filas",
+                            "material de resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-la-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "soporte-de-peso": "80kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/cama-nube/ramat/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS RAMAT - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/ramat/2/",
+            "colores": "si",
+            "precioRegular": 4899,
+            "precioNormal": 4199,
+            "precioVenta": 3339,
+            "stock": 23,
+            "sku": "K33427N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/durazno-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas" ,
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cama Nube"

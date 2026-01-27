@@ -1424,6 +1424,100 @@
                     ]
                 }
             ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/thaleo-pocket/1/",
+            "nombre": "DORMITORIO AMERICANO KING CON 3 CAJONES AL PIE + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/thaleo-pocket/aereas-con-patas/americanas/sin-brazos/moki/1/",
+            "colores": "si",
+            "precioRegular": 3539,
+            "precioNormal": 2999,
+            "precioVenta": 2349,
+            "stock": 9,
+            "sku": "K3241106N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano radiata seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "gavetas": "Melamina 18mm.",
+                            "rieles": "Telescópicos pesados",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "Doble-pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
 
     ]
