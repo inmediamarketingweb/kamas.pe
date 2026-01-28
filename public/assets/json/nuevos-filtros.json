@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "complementos",
+        "filtros":[
+            {
+                "subcategoría":[
+                    {
+                        "subcategoria": "veladores",
+                        "opciones":[
+                            {
+                                "tipo": "cajones",
+                                "valores":[
+                                    "1", "2", "3", "6"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "baúles",
+                        "opciones":[
+                            {
+                                "tipo": "tamaño",
+                                "valores":[
+                                    "2 plazas", "king"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "base-sola",
+                        "opciones":[
+                            {
+                                "tipo": "tamaño",
+                                "valores":[
+                                    "1 plaza y media", "2 plazas",
+                                    "queen", "king"
+                                ]
+                            },
+                            {
+                                "tipo": "línea",
+                                "valores":[
+                                    "americanos", "americanos con cajones",
+                                    "europeos", "europeos con cajones"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "puff",
+                        "opciones":[
+                            {
+                                "tipo": "línea",
+                                "valores":[
+                                    "clásicos", "redondos",
+                                    "con baúl"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "almohadas",
+                        "opciones":[
+                            {
+                                "tipo": "material",
+                                "valores":[
+                                    "napa", "espuma", "viscoelástica"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "sábanas-y-cobertores",
+                        "opciones":[
+                            {
+                                "tipo": "tamaño",
+                                "valores":[
+                                    "1 plaza y media", "2 plazas",
+                                    "queen", "king", "4 plazas"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subcategoria": "cama-perro",
+                        "opciones":[
+                            {
+                                "tipo": "tamaño",
+                                "valores":[
+                                    "s", "m", "l", "xl", "xxl"
+                                ]
+                            },
+                            {
+                                "tipo": "cabecera",
+                                "valores":[
+                                    "si", "no"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
