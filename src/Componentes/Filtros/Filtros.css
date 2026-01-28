@@ -121,6 +121,26 @@
     display: none;
 }
 
+.filtros-subcategoria-detalles {
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.filtros-subcategoria-detalles .title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.filtro-detalle-title {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 8px;
+    color: #666;
+}
+
 @media screen and (max-width: 600px){
     .filtros-layer{
         position: fixed;
