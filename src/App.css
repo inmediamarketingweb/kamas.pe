@@ -37,7 +37,43 @@
 
 @font-face {
     font-family: 'DM Sans';
-    src: url('../public/assets/fonts/DMSans.woff2') format('woff2');
+    src: url('../public/assets/fonts/DMSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../public/assets/fonts/DMSans-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../public/assets/fonts/DMSans-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../public/assets/fonts/DMSans-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../public/assets/fonts/DMSans-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    src: url('../public/assets/fonts/DMSans-Black.woff2') format('woff2');
+    font-weight: 900;
     font-display: swap;
 }
 
@@ -49,8 +85,8 @@ body{
     width: 100%;
     background: var(--body);
     font-size: 15px;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: normal !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 500;
     transition: var(--t-200ms-linear);
 }
 
@@ -66,6 +102,7 @@ body::selection{
 
 main{
     width: 100%;
+    font-family: 'DM Sans', sans-serif !important;
     min-height: 500px !important;
     margin-top: 150px;
     padding: 10px 0;
@@ -98,7 +135,7 @@ main{
     letter-spacing: -2px;
     text-transform: uppercase;
     text-align: center;
-    font-weight: bold;
+    font-weight: 900;
     font-size: 28px;
     color: #333333;
     position: relative;

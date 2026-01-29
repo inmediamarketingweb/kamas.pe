@@ -88,7 +88,7 @@ function PaginaPrincipal(){
 
                     .main-hero-content-target-1 h1{
                         font-size: 44px;
-                        font-weight: bold;
+                        font-weight: 900;
                         text-transform: uppercase;
                         color: #fff;
                         margin: 0;

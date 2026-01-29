@@ -161,7 +161,7 @@ function Footer(){
                                 <div className='d-flex-column gap-10'>
                                     <p className='title'>Siguenos:</p>
                                     
-                                    <ul className='d-flex-center-left gap-5 social-networks'>
+                                    <ul className='margin-right d-flex-center-left gap-5 social-networks'>
                                         <li>
                                             <a href='https://www.facebook.com/KAMAS.pe?locale=es_LA' target='_blank' rel="noopener noreferrer" title='Facebook | Kamas'>
                                                 <img src="/assets/imagenes/iconos/facebook-blanco.svg" width={20} height={20} alt="Visita nuestro perfil en Facebook" title="Facebook"/>
