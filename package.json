@@ -14,6 +14,8 @@
         "axios": "^1.9.0",
         "date-fns": "^4.1.0",
         "emailjs-com": "^3.2.0",
+        "fs-extra": "^11.3.3",
+        "glob": "^13.0.0",
         "react": "^18.3.1",
         "react-datepicker": "^8.4.0",
         "react-dom": "^18.3.1",
@@ -23,16 +25,22 @@
         "react-router-dom": "^7.3.0",
         "react-scripts": "5.0.1",
         "react-slick": "^0.30.3",
+        "sharp": "^0.34.5",
         "twilio": "^5.5.2",
         "uuid": "^11.1.0",
         "web-vitals": "^2.1.4",
-        "yocto-queue": "^1.2.0"
+        "yocto-queue": "^1.2.0",
+        "nodemon": "^3.0.1"
     },
     "scripts": {
         "start": "react-scripts start --no-source-maps start",
         "build": "react-scripts build --no-source-maps build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "optimize-images": "node scripts/optimize-images.js",
+        "optimize-images:watch": "nodemon --watch public/assets/imagenes --ext jpg,jpeg,png --exec npm run optimize-images",
+        "build:with-images": "npm run optimize-images && npm run build",
+        "dev:with-images": "npm run optimize-images && npm run dev"
     },
     "eslintConfig": {
         "extends": [

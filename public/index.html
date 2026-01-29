@@ -24,19 +24,31 @@
 
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<link
-  rel="preload"
-  href="/fonts/dm-sans.woff2"
-  as="font"
-  type="font/woff2"
-  crossorigin
->
-
         <link rel="preload" href="/css/main.c08e7aa0.css" as="style" onload="this.rel='stylesheet'">
 
         <noscript>
             <link rel="stylesheet" href="/css/main.c08e7aa0.css">
         </noscript>
+
+        <style>
+            .product-card {
+                display: flex;
+                flex-direction: column;
+                position: relative;
+            }
+
+            .product-card-images {
+                position: relative;
+                overflow: hidden;
+            }
+
+            .product-image {
+                width: 100%;
+                height: auto;
+                aspect-ratio: 1 / 1;
+                object-fit: cover;
+            }
+        </style>
     </head>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSP7Q62FN2"></script>
