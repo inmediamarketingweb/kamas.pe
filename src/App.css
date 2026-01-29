@@ -38,9 +38,9 @@
     --t-400ms-linear: all 400ms linear;
 }
 
-@font-face{
+@font-face {
     font-family: 'DM Sans';
-    src: url('../public/assets/fonts/DM_Sans/DMSans.ttf') format('truetype');
+    src: url('../public/assets/fonts/DMSans.woff2') format('woff2');
     font-display: swap;
 }
 
