@@ -90,8 +90,10 @@
 }
 
 .menu-link h2{
-    color: var(--black);
+    color: var(--text);
     transition: var(--t-200ms-linear);
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .menu-li:hover .menu-li-div .menu-link h2{

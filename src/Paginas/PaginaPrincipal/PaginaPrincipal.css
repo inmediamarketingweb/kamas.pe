@@ -30,12 +30,7 @@
     width: 100%;
     max-width: 1600px;
     height: 480px;
-    /* height: calc(100vh - 150px); */
     padding: 20px;
-    /* max-height: 800px; */
-    /* display: grid; */
-    /* grid-template-columns: repeat(2, 1fr); */
-    /* gap: 20px; */
 }
 
 .main-hero-content-target{
@@ -59,7 +54,7 @@
 }
 
 .main-hero-content-target-1 h1{
-    font-weight: bold;
+    font-weight: 900;
     text-transform: uppercase;
     font-size: 44px;
     color: var(--white);

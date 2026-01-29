@@ -26,6 +26,7 @@
 .header-bottom > ul li a h2{
     color: var(--white);
     font-size: 14px;
+    font-weight: 500;
 }
 
 .header-bottom > ul li a:hover h2{
