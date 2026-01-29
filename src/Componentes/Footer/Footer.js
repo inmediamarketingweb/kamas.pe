@@ -12,10 +12,10 @@ function Footer(){
                     <section className='footer-block-content'>
                         <nav className='footer-targets'>
                             <div className='footer-target footer-target-1'>
-                                <img width="auto" height={36} src="/assets/imagenes/componentes/footer/kamas-blanco.png" loading='lazy' alt="logo de kamas en blanco" className='footer-logo'/>
+                                <img width={160} height={36} src="/assets/imagenes/componentes/footer/kamas-blanco.png" loading='lazy' alt="logo de kamas en blanco" className='footer-logo'/>
 
                                 <p className='text color-white'>Fabricantes de colchones, dormitorios y muebles para el descanso, con más de 15 años de experiencia en calidad, innovación y diseño para elevar tu descanso a otro nivel.</p>
-                                
+
                                 <div className='d-flex-column gap-10'>
                                     <p className='title color-white'>Suscribete</p>
 
