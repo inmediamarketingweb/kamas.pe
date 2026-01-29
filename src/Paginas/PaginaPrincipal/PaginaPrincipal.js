@@ -1,4 +1,4 @@
-import { Helmet } from 'react-helmet';
+import{ Helmet } from 'react-helmet';
 
 import LazyImage from '../../Componentes/Plantillas/LazyImage';
 import Slider from './Componentes/Slider/Slider';
@@ -26,16 +26,99 @@ function PaginaPrincipal(){
                 <meta property="og:url" content="https://www.kamas.pe/"/>
                 <meta property="og:image" content="/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
                 <meta property="og:site_name" content="Kamas"/>
+
+                <style>{`
+                    body{
+                        margin: 0;
+                    }
+
+                    main{
+                        display: block;
+                    }
+
+                    .main-pagina-principal{
+                        padding: 0 !important;
+                    }
+
+                    .main-hero-container{
+                        width: 100%;
+                        position: relative;
+                        min-height: 480px;
+                        overflow: hidden;
+                    }
+
+                    .main-hero-container img{
+                        position: absolute;
+                        inset: 0;
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                        z-index: -2;
+                    }
+
+                    .main-hero-container::before{
+                        content: '';
+                        position: absolute;
+                        inset: 0;
+                        background: rgba(0, 0, 0, 0.75);
+                        z-index: -1;
+                    }
+
+                    .main-hero-content{
+                        margin: auto;
+                        width: 100%;
+                        max-width: 1600px;
+                        height: 480px;
+                        padding: 20px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+
+                    .main-hero-content-target{
+                        width: 100%;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        flex-direction: column;
+                        gap: 10px;
+                        text-align: center;
+                    }
+
+                    .main-hero-content-target-1 h1{
+                        font-size: 44px;
+                        font-weight: bold;
+                        text-transform: uppercase;
+                        color: #fff;
+                        margin: 0;
+                    }
+
+                    .main-hero-content-target-1 p{
+                        color: #fff;
+                        margin: 0;
+                    }
+
+                    .d-flex-center-left{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        gap: 10px;
+                    }
+                `}</style>
             </Helmet>
 
             <main className='main-pagina-principal d-flex-column gap-10'>
                 <div className='main-hero-container'>
-                    <LazyImage width="auto" height="auto" src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp" alt='Kamas | Fabricantes de colchones, camas y juegos de dormitorios' />
+                    <img src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp"
+                    alt="Kamas | Fabricantes de colchones, camas y juegos de dormitorios"
+                    fetchpriority="high" loading="eager"
+                    decoding="async" width="1920"
+                    height="1080"
+                    />
 
                     <section className='main-hero-content'>
                         <div className='main-hero-content-target main-hero-content-target-1 gap-20'>
-                            {/* <span>Kamas | Diseñamos tus sueños</span> */}
-
                             <h1 className='text-center'>Juegos de dormitorios</h1>
 
                             <div className='d-flex-column'>
