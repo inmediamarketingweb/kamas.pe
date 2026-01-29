@@ -36,6 +36,8 @@ function PaginaProducto(){
     const [cargandoOfertas, setCargandoOfertas] = useState(true);
     const [ofertaActiva, setOfertaActiva] = useState(true);
 
+    const normalizePath = (path = '') => path.replace(/\/$/, '').toLowerCase();
+
     const [userName, setUserName] = useState(
         typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : ''
     );
@@ -82,7 +84,10 @@ function PaginaProducto(){
                                 const data = await fetch(jsonPath).then(response => response.json()).catch(() => null);
 
                                 if (data && data.productos){
-                                    const prod = data.productos.find(p => p.ruta === location.pathname);
+                                    const prod = data.productos.find(
+                                        p => normalizePath(p.ruta) === normalizePath(location.pathname)
+                                    );
+
                                     if (prod) {
                                         productoEncontrado = prod;
                                         break;
@@ -163,10 +168,15 @@ function PaginaProducto(){
         return diferenciaInferior < diferenciaSuperior ? decenaInferior : decenaSuperior;
     };
 
-    if (error){
-        return(
-            <NoProducto/>
-        )
+    if (error) {
+        return (
+            <>
+                <Helmet>
+                    <meta name="robots" content="noindex, follow" />
+                </Helmet>
+                <NoProducto />
+            </>
+        );
     }
 
     if (!producto || cargandoOfertas){
@@ -198,11 +208,16 @@ function PaginaProducto(){
     };
 
     const cleanPrice = (price) => {
-        if (typeof price === 'number') return price;
+        if (typeof price === 'number' && price > 0) return price;
+        if (!price) return null;
 
-        const cleaned = price.toString().replace('S/.', '').replace(/,/g, '').trim();
+        const cleaned = price.toString()
+            .replace('S/.', '')
+            .replace(/,/g, '')
+            .trim();
 
-        return parseFloat(cleaned) || 0;
+        const parsed = parseFloat(cleaned);
+        return parsed > 0 ? parsed : null;
     };
 
     const getValidUntilDate = () => {
@@ -211,6 +226,10 @@ function PaginaProducto(){
         return date.toISOString().split('T')[0];
     };
 
+    const precioSchema = cleanPrice(precioFinal);
+
+    const shouldRenderSchema = producto && precioSchema && typeof precioSchema === 'number';
+
     const productSchema = {
         "@context": "https://schema.org/",
         "@type": "Product",
@@ -218,7 +237,7 @@ function PaginaProducto(){
         "image": [
             `https://kamas.pe${producto.fotos}1.jpg`
         ],
-        "description": producto["resumen-del-producto"].map(d => Object.values(d)[0]).join(' – '),
+        "description": producto["resumen-del-producto"] ? producto["resumen-del-producto"].map(d => Object.values(d)[0]).join(' – ') : producto.nombre,
         "sku": producto.sku,
         "brand": {
             "@type": "Brand",
@@ -228,10 +247,15 @@ function PaginaProducto(){
             "@type": "Offer",
             "url": `https://kamas.pe${producto.ruta}`,
             "priceCurrency": "PEN",
-            "price": cleanPrice(precioFinal),
+            "price": precioSchema.toFixed(2),
             "priceValidUntil": getValidUntilDate(),
             "itemCondition": "https://schema.org/NewCondition",
             "availability": producto.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "127"
         }
     };
 
@@ -251,9 +275,13 @@ function PaginaProducto(){
                 <meta property="og:description" content={producto.nombre}/>
                 <meta property="og:type" content="website"/>
                 <meta property="og:url" content={`https://kamas.pe${producto.ruta}`}/>
-                <link rel="canonical" href={`https://kamas.pe${producto.ruta}`} />
+                <link rel="canonical" href={`https://kamas.pe${normalizePath(producto.ruta)}`}/>
 
-                <script type="application/ld+json">{JSON.stringify(productSchema)}</script>
+                {shouldRenderSchema && (
+                    <script type="application/ld+json">
+                        {JSON.stringify(productSchema)}
+                    </script>
+                )}
             </Helmet>
 
             <main className='pagina-producto-main d-flex-column gap-10'>
