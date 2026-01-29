@@ -6,26 +6,30 @@ import LazyImage from '../LazyImage';
 import './Producto.css';
 import './CSS/Favorite.css';
 
-export function Producto({ producto, truncate, onToggleFavorite, isFavorite, skusOfertas = [], isOfferActive }) {
+export function Producto({ producto, truncate, onToggleFavorite, isFavorite, skusOfertas = [], isOfferActive = true}) {
+    useEffect(() => {
+        if (process.env.NODE_ENV === 'development' && isOfferActive === undefined) {
+            console.warn('Producto: isOfferActive fue undefined, usando valor por defecto true');
+        }
+    }, [isOfferActive]);
+
     const [secondImageError, setSecondImageError] = useState(false);
 
     const { estaEnOfertas, precioFinal, descuentoTotal, tipoEnvioClase } = useMemo(() => {
         const enOfertas = isOfferActive && skusOfertas.includes(producto.sku);
         const finalPrice = enOfertas ? Math.round(producto.precioVenta * 0.95) : producto.precioVenta;
-        
+
         const descuentoOrig = Math.round(
             ((producto.precioNormal - producto.precioVenta) * 100 / producto.precioNormal)
         );
-        
-        const totalDiscount = enOfertas 
-            ? Math.round(((producto.precioNormal - finalPrice) * 100) / producto.precioNormal) 
-            : descuentoOrig;
-        
+
+        const totalDiscount = enOfertas ? Math.round(((producto.precioNormal - finalPrice) * 100) / producto.precioNormal) : descuentoOrig;
+
         const envioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis" 
             : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente" 
             : producto["tipo-de-envio"] === "Envío aplicado" ? "envio-aplicado" 
             : "";
-        
+
         return {
             estaEnOfertas: enOfertas,
             precioFinal: finalPrice,
@@ -63,17 +67,19 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
         }
     }, [onToggleFavorite, producto]);
 
-    const { srcSet, fallbackSrc } = useMemo(() => {
-        const baseUrl = producto.fotos;
-        const basePath = baseUrl.replace(/\/[^/]+$/, '/');
-        const fileName = baseUrl.split('/').pop();
-        const nameWithoutExt = fileName.replace(/\.[^/.]+$/, '');
-        const sizes = [140, 200, 400, 800];
-        const srcSetString = sizes.map(size => `${basePath}optimized/${nameWithoutExt}-${size}.webp ${size}w`).join(', ');
-        
+    const { mainImageSrc, secondImageSrc } = useMemo(() => {
+        let basePath = producto.fotos;
+
+        if (!basePath.endsWith('/')) {
+            basePath += '/';
+        }
+
+        const firstImage = `${basePath}1.jpg`;
+        const secondImage = `${basePath}2.jpg`;
+
         return {
-            srcSet: srcSetString,
-            fallbackSrc: `${baseUrl}1.jpg`
+            mainImageSrc: firstImage,
+            secondImageSrc: secondImage
         };
     }, [producto.fotos]);
 
@@ -93,20 +99,10 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
                     )}
 
                     <a href={producto.ruta} title={producto.nombre}>
-                        <LazyImage width={imageSize} height={imageSize} src={fallbackSrc} srcSet={srcSet} sizes={`(max-width: 600px) ${140}px, ${200}px`} alt={producto.nombre} className="product-image" fetchPriority="low"/>
+                        <LazyImage width={imageSize} height={imageSize} src={mainImageSrc} alt={producto.nombre} className="product-image" fetchPriority="low"/>
 
                         {!secondImageError && (
-                            <img 
-                                width={imageSize} 
-                                height={imageSize} 
-                                src={`${producto.fotos}2.jpg`} 
-                                alt={producto.nombre}
-                                className="product-image product-image-hover"
-                                loading="lazy"
-                                decoding="async"
-                                onError={handleSecondImageError}
-                                style={{ display: 'none' }}
-                            />
+                            <img width={imageSize} height={imageSize} src={secondImageSrc} alt={producto.nombre} className="product-image product-image-hover" loading="lazy" decoding="async" onError={handleSecondImageError} style={{ display: 'none' }}/>
                         )}
                     </a>
 
@@ -192,5 +188,5 @@ Producto.propTypes = {
     onToggleFavorite: PropTypes.func.isRequired,
     isFavorite: PropTypes.bool.isRequired,
     skusOfertas: PropTypes.arrayOf(PropTypes.string),
-    isOfferActive: PropTypes.bool.isRequired,
+    isOfferActive: PropTypes.bool,
 };

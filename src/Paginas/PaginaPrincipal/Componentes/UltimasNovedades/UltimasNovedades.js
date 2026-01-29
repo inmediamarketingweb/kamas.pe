@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react';
-
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
-
 import './UltimasNovedades.css';
 
 function UltimasNovedades(){
     const [productos, setProductos] = useState([]);
     const [favorites, setFavorites] = useState({});
     const [skusOfertas, setSkusOfertas] = useState([]);
+    
+    // Ofertas activas si hay productos en oferta
+    const isOfferActive = skusOfertas.length > 0;
 
     useEffect(() => {
         const favStorage = JSON.parse(localStorage.getItem("favoritos")) || {};
@@ -88,6 +89,11 @@ function UltimasNovedades(){
         return str.length <= maxLength ? str : str.slice(0, maxLength) + '...';
     };
 
+    // Corrección: favorites es un objeto, no un array
+    const isProductFavorite = (sku) => {
+        return favorites[sku] !== undefined;
+    };
+
     return(
         <div className="block-container ultimas-novedades-block-container">
             <section className="block-content ultimas-novedades-block-content">
@@ -102,10 +108,14 @@ function UltimasNovedades(){
                 <div className="ultimas-novedades">
                     <ul className="ultimas-novedades-products">
                         {productos.map(producto => (
-                            <Producto
-                                key={producto.sku} producto={producto} truncate={truncate} 
-                                onToggleFavorite={handleToggleFavorite} isFavorite={!!favorites[producto.sku]}
-                                skusOfertas={skusOfertas}
+                            <Producto 
+                                key={producto.sku} 
+                                producto={producto} 
+                                truncate={truncate} 
+                                onToggleFavorite={handleToggleFavorite} 
+                                isFavorite={isProductFavorite(producto.sku)}  // ← CORREGIDO
+                                skusOfertas={skusOfertas} 
+                                isOfferActive={isOfferActive}  // ← DEFINIDO
                             />
                         ))}
                     </ul>
