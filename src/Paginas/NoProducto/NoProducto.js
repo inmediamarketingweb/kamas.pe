@@ -19,7 +19,7 @@ function NoProducto(){
                         </div>
 
                         <a href='/productos/' title='Kamas | Fabricantes de dormitorios' className='button-link button-link-2'>
-                            <span className="material-icons">bed</span>
+                            <span className="material-symbols-outlined">bed</span>
                             <p className='button-link-text'>Regresar</p>
                         </a>
                     </section>

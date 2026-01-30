@@ -77,8 +77,9 @@
     font-display: swap;
 }
 
-.material-icons{
-    line-height: unset !important;
+.material-symbols-outlined{
+    font-family: 'Material Symbols Outlined';
+    font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
 }
 
 body{

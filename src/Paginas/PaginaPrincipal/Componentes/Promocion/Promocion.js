@@ -11,7 +11,7 @@ function Promocion(){
                     <p className='text'>Elegante dormitorio color champagne con detalles en dorado para un mayor atractivo. Cabecera tipo pedestal con corte corona con brazos rectos para un mejor encaje del colchón, estructura de madera, laminas de MDF y espuma zebra, cubierta con tela piel de potro acompoñada de una piecera con el mismo corte para brindar una opción de reposo.</p>
                     <a href='/productos/dormitorios/americanos/king/der-prinz/194/' className='button-link button-link-2 margin-right' title='Ver ficha completa'>
                         <p className='button-link-text'>Ver producto</p>
-                        <span className="material-icons">chevron_right</span>
+                        <span className="material-symbols-outlined">chevron_right</span>
                     </a>
                 </div>
 

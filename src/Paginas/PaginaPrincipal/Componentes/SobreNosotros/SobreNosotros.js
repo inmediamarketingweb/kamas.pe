@@ -14,7 +14,7 @@ function SobreNosotros(){
                     <p className='text'>En KAMAS creamos más que productos: diseñamos experiencias de descanso que transforman hogares. Con más de 15 años de trayectoria, nos hemos convertido en un referente en innovación, calidad y diseño, ofreciendo camas, colchones y muebles de dormitorio que garantizan confort y bienestar a miles de familias.</p>
                     <a href='/nosotros/' title='Nosotros | Kamas' className='button-link button-link-2 margin-left margin-top-10'>
                         <p className='button-link-text'>Conocer más</p>
-                        <span className="material-icons">keyboard_arrow_right</span>
+                        <span className="material-symbols-outlined">keyboard_arrow_right</span>
                     </a>
                 </div>
             </div>

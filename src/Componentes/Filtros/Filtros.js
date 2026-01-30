@@ -132,7 +132,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
                 <div className='filtros-container'>
                     <div className='filtros-top d-flex-column'>
                         <button type='button' className='filtros-button-close margin-left' onClick={onClose}>
-                            <span className="material-icons">close</span>
+                            <span className="material-symbols-outlined">close</span>
                         </button>
 
                         <p className='block-title d-flex color-color-1'>Kamas</p>
@@ -201,7 +201,7 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
                     </div>
 
                     <button type='button' className='button-link button-link-2' onClick={limpiarFiltros}>
-                        <span className="material-icons">delete</span>
+                        <span className="material-symbols-outlined">delete</span>
                         <p className='button-link-text'>Limpiar filtros</p>
                     </button>
                 </div>

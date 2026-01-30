@@ -297,7 +297,7 @@ function Colores(){
 
                                     <a href={`/busqueda?query=${selectedColor ? encodeURIComponent(selectedColor.color) : ''}`} title='Ver productos relacionados' className={`button-link button-link-2 see-ship-products ${selectedColor ? 'active' : ''}`}>
                                         <p className='button-link-text'>Ver productos relacionados</p>
-                                        <span className="material-icons">arrow_forward</span>
+                                        <span className="material-symbols-outlined">arrow_forward</span>
                                     </a>
                                 </div>
                             )}

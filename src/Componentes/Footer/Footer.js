@@ -24,7 +24,7 @@ function Footer(){
                                             <input type='mail' placeholder='Suscribete con tu correo electrónico'></input>
                                             <button type='submit' className='button-link button-link-2'>
                                                 <p className='button-link-text'>Enviar</p>
-                                                <span className="material-icons">outgoing_mail</span>
+                                                <span className="material-symbols-outlined">outgoing_mail</span>
                                             </button>
                                         </form>
                                     </div>
@@ -72,7 +72,7 @@ function Footer(){
                                 </ul>
 
                                 <a className='complaints-book' href='/contacto/libro-de-reclamaciones/' title="Libro de reclamaciones | Kamas">
-                                    <span className="material-icons">menu_book</span>
+                                    <span className="material-symbols-outlined">menu_book</span>
                                     <p className='text'>Libro de reclamaciones</p>
                                 </a>
                             </div>

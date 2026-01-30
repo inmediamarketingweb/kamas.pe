@@ -17,7 +17,9 @@
     <meta property="og:title" content="Kamas - Fabricantes de colchones, box tarimas y muebles">
     <meta property="og:description" content="Más de 15 años en el mercado peruano siendo fabricantes líderes de dormitorios, juegos de dormitorio, colchones y camas box en Perú.">
     <meta property="og:url" content="https://kamas.pe/">
-    <meta property="og:image" content="https://kamas.pe/assets/imagenes/paginas/pagina-principal/homepage-video.jpg">
+    <meta property="og:image" content="https://kamas.pe/assets/imagenes/paginas/pagina-principal/homepage-video.webp">
+
+    <link rel="preload" as="image" href="/assets/imagenes/paginas/pagina-principal/homepage-video.webp" fetchpriority="high"/>
     <meta property="og:site_name" content="Kamas">
 
     <link rel="icon" type="image/x-icon" href="https://kamas.pe/assets/imagenes/kamas/favicon.ico">
@@ -26,7 +28,12 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    
+
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:FILL@1&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:FILL@1">
+    </noscript>
+
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -38,10 +45,8 @@
 
         #root { min-height: 100vh; }
 
-        .material-icons { display: none; }
-
         .skeleton {
-            min-height: 100vh;
+            height: 400px;
             background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
             background-size: 200% 100%;
             animation: loading 1.5s infinite;
@@ -54,8 +59,6 @@
 
     <link rel="stylesheet" href="/css/main.css" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="/css/main.css"></noscript>
-
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" media="print" onload="this.media='all'">
 </head>
 
 <body>

@@ -260,7 +260,7 @@ function Productos(){
                                         className='filter-button-open'
                                         onClick={() => setFiltrosOpen(true)}
                                     >
-                                        <span className="material-icons">tune</span>
+                                        <span className="material-symbols-outlined">tune</span>
                                         <p>Filtros</p>
                                     </button>
 
@@ -294,7 +294,7 @@ function Productos(){
                                     {productosOrdenados.length > productsPerPage && (
                                         <div className="pagination-controls">
                                             <button className="pagination-arrow" onClick={() => paginate(Math.max(1, currentPage - 1))} disabled={currentPage === 1}>
-                                                <span className="material-icons">chevron_left</span>
+                                                <span className="material-symbols-outlined">chevron_left</span>
                                             </button>
 
                                             <div className="d-flex-center-center gap-5">
@@ -308,7 +308,7 @@ function Productos(){
                                             </div>
 
                                             <button className="pagination-arrow" onClick={() => paginate(Math.min(totalPages, currentPage + 1))} disabled={currentPage === totalPages}>
-                                                <span className="material-icons">chevron_right</span>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </button>
                                         </div>
                                     )}

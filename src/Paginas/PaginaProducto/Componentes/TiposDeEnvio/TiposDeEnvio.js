@@ -33,7 +33,7 @@ function TiposDeEnvio({ shippingOptions, selectedTipo, onSelect, provincia, dist
                     return(
                         <div key={index} className={`tipo-de-envio ${option.tipo.toLowerCase().replace(/\s+/g, '-')}${selectedTipo === option.tipo ? ' active' : ''}`}onClick={() => onSelect(option.tipo, option.precio)}>
                             <div className='d-flex-column'>
-                                <span className="material-icons">local_shipping</span>
+                                <span className="material-symbols-outlined">local_shipping</span>
                                 <p className='tipo-envio-title'>{option.tipo}</p>
                             </div>
                             <p className='tipo-de-envio-price'>S/.{option.precio}</p>
@@ -43,7 +43,7 @@ function TiposDeEnvio({ shippingOptions, selectedTipo, onSelect, provincia, dist
                 })}
 
                 <div className='message message-warning'>
-                    <span className="material-icons">warning</span>
+                    <span className="material-symbols-outlined">warning</span>
                     <p>Seleccione su distrito y tipo de envío para poder continuar</p>
                 </div>
 
@@ -52,34 +52,34 @@ function TiposDeEnvio({ shippingOptions, selectedTipo, onSelect, provincia, dist
                 <div className={`tipos-de-envios-ask-content${isAskOpen ? ' active' : ''}`}>
                     <div className='d-flex-center-between'>
                         <p className='title'>📦 Tipos de envío KAMAS</p>
-                        <span className="material-icons tipos-de-envios-ask-close" onClick={() => setIsAskOpen(false)}>close</span>
+                        <span className="material-symbols-outlined tipos-de-envios-ask-close" onClick={() => setIsAskOpen(false)}>close</span>
                     </div>
 
                 <p className='text'>El tipo de envío está determinado por el tipo de producto y el costo de envío lo define el distrito de su domicilio o agencia seleccionada.</p>
 
                     <ul>
                         <li>
-                            <span className="material-icons">local_shipping</span>
+                            <span className="material-symbols-outlined">local_shipping</span>
                             <p className='title'>Envío gratis</p>
                             <p className='text'>Sin costo alguno hasta el distrito de la agencia o tu domicilio.</p>
                         </li>
                         <li>
-                            <span className="material-icons">local_shipping</span>
+                            <span className="material-symbols-outlined">local_shipping</span>
                             <p className='title'>Envío preferente</p>
                             <p className='text'>Tu producto será entregado en un rango de horas.</p>
                         </li>
                         <li>
-                            <span className="material-icons">local_shipping</span>
+                            <span className="material-symbols-outlined">local_shipping</span>
                             <p className='title'>Envío aplicado</p>
                             <p className='text'>Tu producto será entregado en un rango de horas.</p>
                         </li>
                         <li>
-                            <span className="material-icons">local_shipping</span>
+                            <span className="material-symbols-outlined">local_shipping</span>
                             <p className='title'>Envío express</p>
                             <p className='text'>Tú escoges el día y la hora de entrega.</p>
                         </li>
                         <li>
-                            <span className="material-icons">local_shipping</span>
+                            <span className="material-symbols-outlined">local_shipping</span>
                             <p className='title'>Envío directo</p>
                             <p className='text'>Solo para distritos seleccionados del Norte o Sur chico, nosotros mismos llevamos tus productos.</p>
                         </li>

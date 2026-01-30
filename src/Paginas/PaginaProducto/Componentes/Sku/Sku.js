@@ -24,7 +24,7 @@ function Sku({producto}){
         <button type='button' className='product-page-sku' onClick={handleCopy}>
             <p>SKU:</p>
             <p className='sku'>{producto.sku}</p>
-            <span className="material-icons">content_copy</span>
+            <span className="material-symbols-outlined">content_copy</span>
 
             <span className='copied'>¡SKU copiado al portapapeles!</span>
         </button>

@@ -75,11 +75,11 @@ function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
                     </ul>
 
                     <button className="product-page-images-button product-page-images-button-1" onClick={handlePrev}>
-                        <span className="material-icons">chevron_left</span>
+                        <span className="material-symbols-outlined">chevron_left</span>
                     </button>
 
                     <button className="product-page-images-button product-page-images-button-2" onClick={handleNext}>
-                        <span className="material-icons">chevron_right</span>
+                        <span className="material-symbols-outlined">chevron_right</span>
                     </button>
                 </div>
             </div>

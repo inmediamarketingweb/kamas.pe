@@ -154,7 +154,7 @@ function Contacto(){
                                 <div className="d-flex">
                                     <button type="submit" className="form-submit margin-left button-link button-link-2 gap-10">
                                         <p className="button-link-text">Enviar</p>
-                                        <span className="material-icons">mail</span>
+                                        <span className="material-symbols-outlined">mail</span>
                                     </button>
                                 </div>
                             </form>

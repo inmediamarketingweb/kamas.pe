@@ -149,11 +149,11 @@ function Slider(){
                 </section>
 
                 <button type="button" className="hero-slider-button hero-slider-button-1" onClick={goToPrevSlide} aria-label="Slide anterior">
-                    <span className="material-icons">chevron_left</span>
+                    <span className="material-symbols-outlined">chevron_left</span>
                 </button>
 
                 <button type="button" className="hero-slider-button hero-slider-button-2" onClick={goToNextSlide} aria-label="Slide siguiente">
-                    <span className="material-icons">chevron_right</span>
+                    <span className="material-symbols-outlined">chevron_right</span>
                 </button>
             </div>
         </div>

@@ -67,8 +67,8 @@ function Center(){
                     <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
                         <p>Menu</p>
                         <div>
-                            <span className="material-icons">menu</span>
-                            <span className="material-icons">close</span>
+                            <span className="material-symbols-outlined">menu</span>
+                            <span className="material-symbols-outlined">close</span>
                         </div>
                     </button>
 
@@ -79,7 +79,7 @@ function Center(){
                                     <div className='menu-li-div'>
                                         <a href={categoria.ruta} title={categoria.categoria} className='menu-link'>
                                             {categoria.icono === "sell" ? (
-                                                <span className="material-icons">{categoria.icono}</span>
+                                                <span className="material-symbols-outlined">{categoria.icono}</span>
                                             ) : (
                                                 <img src={categoria.icono} alt={categoria.iconoAlt}/>
                                             )}
@@ -88,7 +88,7 @@ function Center(){
 
                                         {categoria.subCategorias && (
                                             <button type='button' className='menu-link-button'>
-                                                <span className="material-icons">keyboard_arrow_down</span>
+                                                <span className="material-symbols-outlined">keyboard_arrow_down</span>
                                             </button>
                                         )}
                                     </div>

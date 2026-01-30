@@ -61,7 +61,7 @@ export function Horizontal({ producto = { id: null } , truncate }){
                     </a>
 
                     <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={() => toggleFavorite(producto)} title="Agregar a favoritos" >
-                        <span className="material-icons">favorite</span>
+                        <span className="material-symbols-outlined">favorite</span>
                     </button>
                 </div>
 
@@ -110,7 +110,7 @@ export function Horizontal({ producto = { id: null } , truncate }){
                     </div>
 
                     <div className='d-flex-center-left margin-right product-card-separar'>
-                        <span className="material-icons">sell</span>
+                        <span className="material-symbols-outlined">sell</span>
                         <p>Separa con <b>S/.200</b></p>
                     </div>
 

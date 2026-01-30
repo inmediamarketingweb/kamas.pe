@@ -49,7 +49,7 @@ function Favoritos(){
                                                         onClick={() => removeFavorite(producto)} 
                                                         title="Eliminar de favoritos"
                                                     >
-                                                        <span className="material-icons">delete</span>
+                                                        <span className="material-symbols-outlined">delete</span>
                                                     </button>
 
                                                     {/* 3. Corregir la ruta de la imagen */}
@@ -75,7 +75,7 @@ function Favoritos(){
 
                             <div className="d-flex-center-right">
                                 <a href="https://kamas.pe/" title="Inicio | Kamas" className="button-link button-link-2">
-                                    <span className="material-icons">home</span>
+                                    <span className="material-symbols-outlined">home</span>
                                     <p className="button-link-text">Volver al inicio</p>
                                 </a>    
                             </div>    
