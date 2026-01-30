@@ -60,19 +60,6 @@
     color: var(--white);
 }
 
-.homepage-banners div{
-    width: 100%;
-}
-
-.homepage-banners div a{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    background: var(--white);
-    border-radius: 6px;
-    overflow: hidden;
-}
-
 .main-pagina-principal{
     padding: 0 !important;
 }
