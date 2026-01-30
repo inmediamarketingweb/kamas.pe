@@ -1,53 +1,46 @@
-import{ Helmet } from 'react-helmet';
+import { lazy, Suspense } from 'react';
+import { Helmet } from 'react-helmet';
 
 import LazyImage from '../../Componentes/Plantillas/LazyImage';
-import Slider from './Componentes/Slider/Slider';
 import Categorias from './Componentes/Categorias/Categorias';
-import Ofertas from './Componentes/Ofertas/Ofertas';
-import UltimasNovedades from './Componentes/UltimasNovedades/UltimasNovedades';
-import SobreNosotros from './Componentes/SobreNosotros/SobreNosotros';
-import Perfiles from './Componentes/Perfiles/Perfiles';
-import ModalDatos from './Componentes/ModalDatos/ModalDatos';
-
-import Promocion from './Componentes/Promocion/Promocion';
 
 import './PaginaPrincipal.css';
 
-function PaginaPrincipal(){
-    return(
+const Slider = lazy(() => import('./Componentes/Slider/Slider'));
+const Ofertas = lazy(() => import('./Componentes/Ofertas/Ofertas'));
+const UltimasNovedades = lazy(() => import('./Componentes/UltimasNovedades/UltimasNovedades'));
+const SobreNosotros = lazy(() => import('./Componentes/SobreNosotros/SobreNosotros'));
+const Promocion = lazy(() => import('./Componentes/Promocion/Promocion'));
+const Perfiles = lazy(() => import('./Componentes/Perfiles/Perfiles'));
+const ModalDatos = lazy(() => import('./Componentes/ModalDatos/ModalDatos'));
+
+function PaginaPrincipal() {
+    return (
         <>
             <Helmet>
                 <title>Kamas | Fabricantes de colchones, camas y juegos de dormitorios.</title>
-                <meta name="description" content="Fabricantes de colchones, camas, box tarimas y juegos de dormitorios con más de 15 años en el mercado peruano ofreciendo calidad y confort para tu descanso." />
-
-                <meta property="og:title" content="Kamas | Fabricantes de colchones, camas y juegos de dormitorios."/>
-                <meta property="og:description" content="Meta descripción"/>
-                <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://www.kamas.pe/"/>
-                <meta property="og:image" content="/assets/imagenes/paginas/pagina-principal/homepage-video.jpg"/>
-                <meta property="og:site_name" content="Kamas"/>
+                <meta name="description" content="Fabricantes de colchones, camas, box tarimas y juegos de dormitorios con más de 15 años en el mercado peruano ofreciendo calidad y confort para tu descanso."/>
+                <meta property="og:title" content="Kamas | Fabricantes de colchones, camas y juegos de dormitorios." />
+                <meta property="og:description" content="Meta descripción" />
+                <meta property="og:type" content="website" />
+                <meta property="og:url" content="https://www.kamas.pe/" />
+                <meta property="og:image" content="/assets/imagenes/paginas/pagina-principal/homepage-video.jpg" />
+                <meta property="og:site_name" content="Kamas" />
 
                 <style>{`
-                    body{
-                        margin: 0;
-                    }
+                    body { margin: 0; }
+                    main { display: block; }
 
-                    main{
-                        display: block;
-                    }
+                    .main-pagina-principal { padding: 0 !important; }
 
-                    .main-pagina-principal{
-                        padding: 0 !important;
-                    }
-
-                    .main-hero-container{
+                    .main-hero-container {
                         width: 100%;
                         position: relative;
                         min-height: 480px;
                         overflow: hidden;
                     }
 
-                    .main-hero-container img{
+                    .main-hero-container img {
                         position: absolute;
                         inset: 0;
                         width: 100%;
@@ -56,7 +49,7 @@ function PaginaPrincipal(){
                         z-index: -2;
                     }
 
-                    .main-hero-container::before{
+                    .main-hero-container::before {
                         content: '';
                         position: absolute;
                         inset: 0;
@@ -64,7 +57,7 @@ function PaginaPrincipal(){
                         z-index: -1;
                     }
 
-                    .main-hero-content{
+                    .main-hero-content {
                         margin: auto;
                         width: 100%;
                         max-width: 1600px;
@@ -75,7 +68,7 @@ function PaginaPrincipal(){
                         justify-content: center;
                     }
 
-                    .main-hero-content-target{
+                    .main-hero-content-target {
                         width: 100%;
                         height: 100%;
                         display: flex;
@@ -86,7 +79,7 @@ function PaginaPrincipal(){
                         text-align: center;
                     }
 
-                    .main-hero-content-target-1 h1{
+                    .main-hero-content-target-1 h1 {
                         font-size: 44px;
                         font-weight: 900;
                         text-transform: uppercase;
@@ -94,12 +87,12 @@ function PaginaPrincipal(){
                         margin: 0;
                     }
 
-                    .main-hero-content-target-1 p{
+                    .main-hero-content-target-1 p {
                         color: #fff;
                         margin: 0;
                     }
 
-                    .d-flex-center-left{
+                    .d-flex-center-left {
                         display: flex;
                         align-items: center;
                         justify-content: center;
@@ -108,80 +101,80 @@ function PaginaPrincipal(){
                 `}</style>
             </Helmet>
 
-            <main className='main-pagina-principal d-flex-column gap-10'>
-                <div className='main-hero-container'>
-                    <img src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp"
-                    alt="Kamas | Fabricantes de colchones, camas y juegos de dormitorios"
-                    fetchpriority="high" loading="eager"
-                    decoding="async" width="1920"
-                    height="1080"
-                    />
+            <main className="main-pagina-principal d-flex-column gap-10">
+                <div className="main-hero-container">
+                    <img src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp" alt="Kamas | Fabricantes de colchones, camas y juegos de dormitorios" fetchpriority="high" loading="eager" decoding="async" width="1920" height="1080"/>
 
-                    <section className='main-hero-content'>
-                        <div className='main-hero-content-target main-hero-content-target-1 gap-20'>
-                            <h1 className='text-center'>Juegos de dormitorios</h1>
+                    <section className="main-hero-content">
+                        <div className="main-hero-content-target main-hero-content-target-1 gap-20">
+                            <h1 className="text-center">Juegos de dormitorios</h1>
 
-                            <div className='d-flex-column'>
-                                <p className='color-white text-center'>Fabricantes de colchones, camas, juegos de dormitorio, box espacio, camarotes, muebles, veladores y demás complementos para el descanso.</p>
-                                <p className='color-white text-center'>Realizamos envíos de manera gratuita a toda Lima y Callao. Y envíos inmediatos a provincia. Llegamos a todo el Perú.</p>
+                            <div className="d-flex-column">
+                                <p className="color-white text-center">
+                                    Fabricantes de colchones, camas, juegos de dormitorio, box espacio,
+                                    camarotes, muebles, veladores y demás complementos para el descanso.
+                                </p>
+                                <p className="color-white text-center">
+                                    Realizamos envíos de manera gratuita a toda Lima y Callao. Y envíos
+                                    inmediatos a provincia. Llegamos a todo el Perú.
+                                </p>
                             </div>
 
-                            <div className='d-flex-center-left gap-10'>
-                                <a href='/nosotros/' title='Nosotros | Kamas' className='button-link button-link-2'>
-                                    <p className='button-link-text'>Más de nosotros</p>
+                            <div className="d-flex-center-left gap-10">
+                                <a href="/nosotros/" title="Nosotros | Kamas" className="button-link button-link-2">
+                                    <p className="button-link-text">Más de nosotros</p>
                                 </a>
 
-                                <a href='/productos/' title='Producto | Kamas' className='button-link button-link-7'>
-                                    <p className='button-link-text'>Ver productos</p>
+                                <a href="/productos/" title="Producto | Kamas" className="button-link button-link-7">
+                                    <p className="button-link-text">Ver productos</p>
                                 </a>
                             </div>
                         </div>
                     </section>
                 </div>
 
-                <Categorias/>
+                <Categorias />
 
-                <Slider/>
+                <Suspense fallback={null}>
+                    <Slider />
+                    <UltimasNovedades />
+                    <Ofertas />
+                    <Promocion />
+                    <SobreNosotros />
+                </Suspense>
 
-                <UltimasNovedades/>
-
-                <Ofertas/>
-
-                <Promocion/>
-
-                <SobreNosotros/>
-
-                <section className='block-container'>
-                    <div className='homepage-banners block-content d-flex-column gap-10'>
-                        <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si' title='Oferta en dormitorios europeos 2 plazas | Kamas'>
+                <section className="block-container">
+                    <div className="homepage-banners block-content d-flex-column gap-10">
+                        <div className="d-grid-2-1fr gap-10">
+                            <a className="d-flex" href="/productos/dormitorios/?línea=europea&tamaño=2-plazas&cajones=si" title="Oferta en dormitorios europeos 2 plazas | Kamas">
                                 <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-1.webp" alt="Ofertas en dormitorios europeos 2 plazas | Kamas" className="page-banner-img"/>
                             </a>
 
-                            <a className='d-flex' href='/productos/dormitorios/?línea=americana&tamaño=queen' title='Oferta en dormitorios queen americanos | Kamas'>
-                                <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas" className="page-banner-img"/>
+                            <a className="d-flex" href="/productos/dormitorios/?línea=americana&tamaño=queen" title="Oferta en dormitorios queen americanos | Kamas">
+                                <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-2.webp" alt="Ofertas en dormitorios queen americanos | Kamas"className="page-banner-img"/>
                             </a>
                         </div>
 
-                        <a className='d-flex w-100' href='/productos/dormitorios/?modelo-de-colch%C3%B3n=der-prinz%2Bthameo-pocket%2Bramat%2Bkonig%2Byurmale%2Bthaleo-pocket%2Bsafynnte' title='Dormitorios confort premium | Kamas'>
+                        <a className="d-flex w-100" href="/productos/dormitorios/?modelo-de-colchón=yurmale" title="Dormitorios confort premium | Kamas">
                             <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-3.webp" alt="Dormitorios confort premium | Kamas" className="page-banner-img"/>
                         </a>
 
-                        <div className='d-grid-2-1fr gap-10'>
-                            <a className='d-flex' href='/productos/dormitorios/?línea=europea&tamaño=king' title='Oferta en dormitorios king europeos | Kamas'>
+                        <div className="d-grid-2-1fr gap-10">
+                            <a className="d-flex" href="/productos/dormitorios/?línea=europea&tamaño=king" title="Oferta en dormitorios king europeos | Kamas">
                                 <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-4.webp" alt="Ofertas en dormitorios king europeos | Kamas" className="page-banner-img"/>
                             </a>
 
-                            <a className='d-flex' href='/productos/complementos/?sub-categoría=veladores' title='Oferta en veladores | Kamas'>
+                            <a className="d-flex" href="/productos/complementos/?sub-categoría=veladores" title="Oferta en veladores | Kamas">
                                 <LazyImage width={715} height={217} src="/assets/imagenes/paginas/pagina-principal/banner-5.webp" alt="Ofertas en veladores | Kamas" className="page-banner-img"/>
                             </a>
                         </div>
                     </div>
                 </section>
 
-                <Perfiles/>
-
-                <ModalDatos/>
+                <Suspense fallback={null}>
+                    <Perfiles />
+                    <ModalDatos />
+                </Suspense>
             </main>
         </>
     );
