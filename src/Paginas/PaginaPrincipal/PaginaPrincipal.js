@@ -133,9 +133,8 @@ function PaginaPrincipal() {
                     </section>
                 </div>
 
-                <Categorias />
-
                 <Suspense fallback={null}>
+                    <Categorias />
                     <Slider />
                     <UltimasNovedades />
                     <Ofertas />
