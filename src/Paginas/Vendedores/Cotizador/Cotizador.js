@@ -127,9 +127,9 @@ function Cotizador() {
                 </select>
                 <button type="button" onClick={() => setLocked(!locked)} className="d-flex-center-center h-100">
                     {locked ? (
-                        <span className="material-icons">lock</span>
+                        <span className="material-symbols-outlined">lock</span>
                     ) : (
-                        <span className="material-icons">lock_open</span>
+                        <span className="material-symbols-outlined">lock_open</span>
                     )}
                 </button>
             </div>
@@ -180,9 +180,9 @@ function Cotizador() {
                                         </div>
                                         <button type="button" onClick={() => setBaseEncajonadaLocked(!baseEncajonadaLocked)} className="margin-left d-flex-center-center">
                                             {baseEncajonadaLocked ? (
-                                                <span className="material-icons">lock</span>
+                                                <span className="material-symbols-outlined">lock</span>
                                             ) : (
-                                                <span className="material-icons">lock_open</span>
+                                                <span className="material-symbols-outlined">lock_open</span>
                                             )}
                                         </button>
                                     </div>
@@ -200,9 +200,9 @@ function Cotizador() {
                                         </div>
                                         <button type="button" onClick={() => setCantidadCajonesLocked(!cantidadCajonesLocked)} className="d-flex-center-center margin-auto">
                                             {cantidadCajonesLocked ? (
-                                                <span className="material-icons">lock</span>
+                                                <span className="material-symbols-outlined">lock</span>
                                             ) : (
-                                                <span className="material-icons">lock_open</span>
+                                                <span className="material-symbols-outlined">lock_open</span>
                                             )}
                                         </button>
                                     </div>
@@ -219,9 +219,9 @@ function Cotizador() {
                                         </div>
                                         <button type="button" onClick={() => setTresCuerposLocked(!tresCuerposLocked)} className="margin-left d-flex-center-center">
                                             {tresCuerposLocked ? (
-                                                <span className="material-icons">lock</span>
+                                                <span className="material-symbols-outlined">lock</span>
                                             ) : (
-                                                <span className="material-icons">lock_open</span>
+                                                <span className="material-symbols-outlined">lock_open</span>
                                             )}
                                         </button>
                                     </div>

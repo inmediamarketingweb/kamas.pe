@@ -131,7 +131,7 @@ function Citas() {
                                     <fieldset>
                                         <button type='submit' className='button-link button-link-2'>
                                             <span className='button-link-text'>Agendar</span>
-                                            <span className="material-icons">calendar_today</span>
+                                            <span className="material-symbols-outlined">calendar_today</span>
                                         </button>
                                     </fieldset>
                                 </form>

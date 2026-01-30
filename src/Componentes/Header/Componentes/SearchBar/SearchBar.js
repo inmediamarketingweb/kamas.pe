@@ -147,7 +147,7 @@ function SearchBar() {
                         onChange={handleSearchChange} 
                         onKeyDown={handleKeyDown} 
                     />
-                    <span className='material-icons'>search</span>
+                    <span className='material-symbols-outlined'>search</span>
                 </div>
 
                 <div className={`search-bar-items-container ${searchTerm.trim() !== '' ? 'active' : ''}`}>

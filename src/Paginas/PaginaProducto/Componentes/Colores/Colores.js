@@ -104,7 +104,7 @@ function Colores({ onSelectColor }){
                     <div className="d-flex-center-between gap-20">
                         <p className="block-title text">Colores</p>
                         <button type="button" className="product-page-colors-content-button-close" onClick={() => setIsColorsActive(false)}>
-                            <span className="material-icons">close</span>
+                            <span className="material-symbols-outlined">close</span>
                         </button>
                     </div>
 
@@ -179,7 +179,7 @@ function Colores({ onSelectColor }){
 
                             {activeColorIndex !== null && (
                                 <button type="button" className="button-link button-link-2 margin-left" onClick={() => setIsColorsActive(false)}>
-                                    <span className="material-icons">check</span>
+                                    <span className="material-symbols-outlined">check</span>
                                     <p className="button-link-text">Confirmar</p>
                                 </button>
                             )}

@@ -32,7 +32,7 @@ function Descripcion({ producto }) {
                                     <div className='product-page-about-list product-page-about-list-1'>
                                         <ul>
                                             <li className='d-flex-center-left gap-5'>
-                                                <span className="material-icons">check</span>
+                                                <span className="material-symbols-outlined">check</span>
                                                 <div>
                                                     <strong>SKU:</strong>
                                                     <p className='text'>{producto.sku}</p>
@@ -41,7 +41,7 @@ function Descripcion({ producto }) {
                                             {producto['detalles-del-producto'] && producto['detalles-del-producto'].map(
                                                 (detalle, index) => Object.entries(detalle).map(([key, value]) => (
                                                     <li key={`${index}-${key}`} className='d-flex-center-left gap-5'>
-                                                        <span className="material-icons">check</span>
+                                                        <span className="material-symbols-outlined">check</span>
                                                         <div>
                                                             <strong>{formatKey(key)}:</strong>
                                                             <p className='text'>{value}</p>
@@ -60,7 +60,7 @@ function Descripcion({ producto }) {
                                             {producto.descripcion.map(
                                                 (item, index) => Object.entries(item).map(([key, value]) => (
                                                     <li key={`${index}-${key}`} className='d-flex-center-left gap-5'>
-                                                        <span className="material-icons">check</span>
+                                                        <span className="material-symbols-outlined">check</span>
                                                         <div>
                                                             <strong>{formatKey(key)}:</strong>
                                                             <p className='text'>{value}</p>
@@ -101,7 +101,7 @@ function Descripcion({ producto }) {
                                     <div className='product-page-about-list product-page-about-list-1'>
                                         <ul>
                                             <li className='d-flex-center-left gap-5'>
-                                                <span className="material-icons">check</span>
+                                                <span className="material-symbols-outlined">check</span>
                                                 <div>
                                                     <strong>SKU:</strong>
                                                     <p className='text'>{producto.sku}</p>
@@ -110,7 +110,7 @@ function Descripcion({ producto }) {
                                             {producto['detalles-del-producto'] && producto['detalles-del-producto'].map(
                                                 (detalle, index) => Object.entries(detalle).map(([key, value]) => (
                                                     <li key={`${index}-${key}`} className='d-flex-center-left gap-5'>
-                                                        <span className="material-icons">check</span>
+                                                        <span className="material-symbols-outlined">check</span>
                                                         <div>
                                                             <strong>{formatKey(key)}:</strong>
                                                             <p className='text'>{value}</p>
@@ -130,7 +130,7 @@ function Descripcion({ producto }) {
                                                 {grupo.descripcion.map(
                                                     (item, idx) => Object.entries(item).map(([key, value]) => (
                                                         <li key={`${idx}-${key}`} className='d-flex-center-left gap-5'>
-                                                            <span className="material-icons">check</span>
+                                                            <span className="material-symbols-outlined">check</span>
                                                             <div>
                                                                 <strong>{formatKey(key)}:</strong>
                                                                 <p className='text'>{value}</p>

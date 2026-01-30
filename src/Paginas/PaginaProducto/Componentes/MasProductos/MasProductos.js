@@ -91,7 +91,7 @@ export default function MasProductos({ categoriaActual }) {
 
                     <button onClick={handleRefresh} className='button-link button-link-2 margin-left'>
                         <p className='button-link-text'>Ver más</p>
-                        <span className="material-icons">cached</span>
+                        <span className="material-symbols-outlined">cached</span>
                     </button>
                 </div>
             </div>

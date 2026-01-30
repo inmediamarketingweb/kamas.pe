@@ -14,7 +14,7 @@ const Dropdown = ({ label, value, options, onSelect, isOpen, toggle }) => (
     <div className="envios-select">
         <div className="envios-select-top" onClick={toggle}>
             <p>{value || `-- Selecciona ${label} --`}</p>
-            <span className="material-icons">keyboard_arrow_down</span>
+            <span className="material-symbols-outlined">keyboard_arrow_down</span>
         </div>
         <div className={`envios-select-options-container${isOpen ? ' active' : ''}`}>
             {options.map((item, idx) => (
@@ -172,16 +172,16 @@ function Envios({ producto, onConfirm }){
         <>
             <div className="d-flex-column gap-10">
                 <div className="d-flex-center-left gap-5">
-                    <span className="material-icons color-color-1">local_shipping</span>
+                    <span className="material-symbols-outlined color-color-1">local_shipping</span>
                     <p className="title color-color-1">Lugar y tipo de envío</p>
                 </div>
 
                 <button type="button" className={`envios-button-open${producto.stock === 0 ? ' sin-stock' : ''}`} onClick={() => setIsModalOpen(true)}>
                     <div className="d-flex-center-left gap-5">
-                        <span className="material-icons">location_on</span>
+                        <span className="material-symbols-outlined">location_on</span>
                         <p>{getLocationText()}</p>
                     </div>
-                    <span className="material-icons margin-left">keyboard_arrow_down</span>
+                    <span className="material-symbols-outlined margin-left">keyboard_arrow_down</span>
                 </button>
             </div>
 
@@ -191,7 +191,7 @@ function Envios({ producto, onConfirm }){
                         <div className="d-flex-center-between">
                             <p className="title">Lugar de envío</p>
                             <button type="button" className="envios-button-close" onClick={() => setIsModalOpen(false)}>
-                                <span className="material-icons">close</span>
+                                <span className="material-symbols-outlined">close</span>
                             </button>
                         </div>
 
@@ -221,7 +221,7 @@ function Envios({ producto, onConfirm }){
                             <ModalSection title="Agencias recomendadas">
                                 {(noAgencias || selected.distrito === 'Santa Rosa de Quivez') ? (
                                     <div className="message message-warning">
-                                        <span className="material-icons">warning</span>
+                                        <span className="material-symbols-outlined">warning</span>
                                         <p>No contamos con agencias recomendadas para el distrito seleccionado.</p>
                                         <p>El precio mostrado es referencial.</p>
                                     </div>
@@ -241,7 +241,7 @@ function Envios({ producto, onConfirm }){
                             </button>
 
                             <button type="button" className="button-link button-link-2" disabled={!isComplete} onClick={handleConfirm}>
-                                <span className="material-icons">check</span>
+                                <span className="material-symbols-outlined">check</span>
                                 <p className="button-link-text">Confirmar</p>
                             </button>
                         </div>

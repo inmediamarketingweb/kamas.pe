@@ -21,7 +21,7 @@ function Jerarquia({ producto }){
             <ul className='d-flex-center-left gap-5 d-flex-wrap'>
                 <li>
                     <a href="/" className='d-flex'>
-                        <span className="material-icons">home</span>
+                        <span className="material-symbols-outlined">home</span>
                     </a>
                 </li>
 

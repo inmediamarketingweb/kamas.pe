@@ -107,7 +107,7 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
                     </a>
 
                     <button type="button" className={`product-card-favorite ${isFavorite ? "active" : ""}`} onClick={handleFavoriteClick} title="Agregar a favoritos" aria-label={isFavorite ? "Quitar de favoritos" : "Agregar a favoritos"}>
-                        <span className="material-icons" aria-hidden="true">favorite</span>
+                        <span className="material-symbols-outlined" aria-hidden="true">favorite</span>
                     </button>
                 </div>
 
@@ -125,7 +125,7 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
                                     </div>
 
                                     <div className='d-flex-center-left margin-right product-card-separar'>
-                                        <span className="material-icons">sell</span>
+                                        <span className="material-symbols-outlined">sell</span>
                                         <p>Separa con <b>S/100</b></p>
                                     </div>
                                 </>

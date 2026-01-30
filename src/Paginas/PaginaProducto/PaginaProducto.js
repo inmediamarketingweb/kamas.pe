@@ -420,13 +420,13 @@ function PaginaProducto(){
                                             <div className='d-flex-column gap-10'>
                                                 <div className='quantity bg-white'>
                                                     <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
-                                                        <span className="material-icons">remove</span>
+                                                        <span className="material-symbols-outlined">remove</span>
                                                     </button>
 
                                                     <div className="quantity-input">{quantity}</div>
 
                                                     <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
-                                                        <span className="material-icons">add</span>
+                                                        <span className="material-symbols-outlined">add</span>
                                                     </button>
                                                 </div>
                                             </div>
@@ -435,7 +435,7 @@ function PaginaProducto(){
                                         </div>
 
                                         <div className='whatsapp-message d-flex d-flex-column gap-5'>
-                                            <span className="material-icons">info</span>
+                                            <span className="material-symbols-outlined">info</span>
                                             <p>La información solicitada se utilizará para agilizar el proceso de compra.</p>
                                         </div>
                                     </div>

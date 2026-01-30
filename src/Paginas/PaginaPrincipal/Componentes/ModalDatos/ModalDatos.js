@@ -99,7 +99,7 @@ function ModalDatos() {
                         <div className="d-flex-center-between gap-20">
                             <p className="title">¡Hola 👋! Bienvenido a KAMAS</p>
                             <button type="button" className="modal-datos-close-top" onClick={handleCloseModal}>
-                                <span className="material-icons">close</span>
+                                <span className="material-symbols-outlined">close</span>
                             </button>
                         </div>
 
@@ -140,11 +140,11 @@ function ModalDatos() {
                                 </li>
                                 <div className="d-flex-center-center gap-10 modal-datos-buttons">
                                     <button type="button" className="modal-datos-close" onClick={handleCloseModal}>
-                                        <span className="material-icons">close</span>
+                                        <span className="material-symbols-outlined">close</span>
                                         <p>Cancelar</p>
                                     </button>
                                     <button type="button" className="modal-datos-confirm" onClick={handleConfirm}>
-                                        <span className="material-icons">check</span>
+                                        <span className="material-symbols-outlined">check</span>
                                         <p>Confirmar</p>
                                     </button>
                                 </div>

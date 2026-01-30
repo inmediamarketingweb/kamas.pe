@@ -251,7 +251,7 @@ function PaginaDeCategoria(){
                                 <div className="category-page-right-top">
                                     <button type="button" className="d-flex-center-center gap-5 open-filters" onClick={handleToggleFilters}>
                                         <p className="text">Filtrar</p>
-                                        <span className="material-icons text">tune</span>
+                                        <span className="material-symbols-outlined text">tune</span>
                                     </button>
                                 </div>
 
@@ -277,7 +277,7 @@ function PaginaDeCategoria(){
                                         {totalPages > 1 && (
                                             <div className="pagination-controls">
                                                 <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
-                                                    <span className="material-icons">chevron_left</span>
+                                                    <span className="material-symbols-outlined">chevron_left</span>
                                                 </button>
 
                                                 <div className="d-flex-center-center gap-5">
@@ -291,7 +291,7 @@ function PaginaDeCategoria(){
                                                 </div>
 
                                                 <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
-                                                    <span className="material-icons">chevron_right</span>
+                                                    <span className="material-symbols-outlined">chevron_right</span>
                                                 </button>
                                             </div>
                                         )}

@@ -39,7 +39,7 @@ function Video({ producto }) {
                             </video>
                             <a href={video.url} title='Ver en TikTok' target='_blank' rel="noopener noreferrer">
                                 <p>Ver en TikTok</p>
-                                <span className="material-icons">arrow_outward</span>
+                                <span className="material-symbols-outlined">arrow_outward</span>
                             </a>
                         </>
                     ) : (

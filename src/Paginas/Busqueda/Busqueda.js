@@ -146,7 +146,7 @@ function PaginaBusqueda() {
                                     {totalPages > 1 && (
                                         <div className="pagination-controls d-grid-column-2-3">
                                             <button className="pagination-arrow" onClick={() => handlePageChange(currentPage - 1)} disabled={currentPage === 1}>
-                                                <span className="material-icons">chevron_left</span>
+                                                <span className="material-symbols-outlined">chevron_left</span>
                                             </button>
 
                                             <div className="d-flex-center-center gap-5">
@@ -160,7 +160,7 @@ function PaginaBusqueda() {
                                             </div>
 
                                             <button className="pagination-arrow" onClick={() => handlePageChange(currentPage + 1)} disabled={currentPage === totalPages}>
-                                                <span className="material-icons">chevron_right</span>
+                                                <span className="material-symbols-outlined">chevron_right</span>
                                             </button>
                                         </div>
                                     )}
