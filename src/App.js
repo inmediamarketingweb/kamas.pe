@@ -23,6 +23,7 @@ import Nosotros from "./Paginas/Nosotros/Nosotros";
 import ProyectosYAlianzas from "./Paginas/ProyectosYAlianzas/ProyectosYAlianzas";
 import PropiedadIntelectual from "./Paginas/Nosotros/Paginas/PropiedadIntelectual";
 import RazonesParaComprar from "./Paginas/Nosotros/Paginas/RazonesParaComprar";
+import Manual from './Paginas/ServicioAlCliente/Manual/Manual';
 import MediosDePago from './Paginas/ServicioAlCliente/MediosDePago';
 import GarantiaDeProductos from "./Paginas/ServicioAlCliente/GarantiaDeProductos/GarantiaDeProductos";
 import GarantiaColchones from "./Paginas/ServicioAlCliente/GarantiaDeProductos/Paginas/Colchones";
@@ -105,6 +106,7 @@ function App(){
                         <Route path="/envios/envios-a-provincia/" element={<EnviosAProvincia/>}/>
 
                         <Route path="/agendar-visita/" element={<Citas/>}/>
+                        <Route path="/servicio-al-cliente/manual-de-instalacion/" element={<Manual/>}/>
                         <Route path="/servicio-al-cliente/medios-de-pago/" element={<MediosDePago/>}/>
                         <Route path="/servicio-al-cliente/costos-de-envio-por-zona/" element={<CostosDeEnvioPorZonas/>}/>
                         <Route path="/servicio-al-cliente/garantia-de-productos/" element={<GarantiaDeProductos/>}/>
