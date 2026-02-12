@@ -38,9 +38,7 @@ function Agencias(){
         const cargarDatos = async () => {
             try{
                 setLoading(true);
-                const proxyUrl = 'https://corsproxy.io/?';
-                const targetUrl = 'https://inmedia.pe/Proyectos/JSON/agencias.json';
-                const response = await fetch(proxyUrl + encodeURIComponent(targetUrl));
+                const response = await fetch('/assets/json/costos-de-envio.json');
 
                 if (!response.ok) {
                     throw new Error('No se pudo cargar el archivo JSON');
