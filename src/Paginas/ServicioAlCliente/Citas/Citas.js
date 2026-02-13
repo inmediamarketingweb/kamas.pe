@@ -84,8 +84,6 @@ function Citas() {
                                     <p className='title'>En nuestra sala de exhibición podrás armar el dormitorio con el que tanto sueñas, contamos con alta variedad de modelos en box, colchones y más de 100 modelos en cabeceras que puedes escoger a tu gusto. </p>
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
                                 </div>
-
-                                <iframe title='Ubicación Kamas' className='mapa' src="https://surl.li/qvlpsb" width="100%" height="100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
 
                             <div className='d-flex-column gap-20'>
