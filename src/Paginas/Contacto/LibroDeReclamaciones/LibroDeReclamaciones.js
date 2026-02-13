@@ -2,17 +2,12 @@ import { Helmet } from "react-helmet-async";
 
 import './LibroDeReclamaciones.css';
 
-import Header from '../../../Componentes/Header/Header';
-import Footer from '../../../Componentes/Footer/Footer';
-
 function LibroDeReclamaciones(){
     return(
         <>
             <Helmet>
-                <title>Libro de reclamaiones | Kamas</title>
+                <title>Libro de reclamaciones | Kamas</title>
             </Helmet>
-
-            <Header/>
 
             <main>
                 <div className='block-container'>
@@ -57,8 +52,6 @@ function LibroDeReclamaciones(){
                     </section>
                 </div>
             </main>
-
-            <Footer/>
         </>
     )
 }
