@@ -382,6 +382,10 @@ button{
     height: 100px;
 }
 
+.d-grid-1-1-full-row{
+    grid-column: 1/-1;
+}
+
 .d-grid-1-auto{
     display: grid;
     grid-template-columns: 1fr auto;

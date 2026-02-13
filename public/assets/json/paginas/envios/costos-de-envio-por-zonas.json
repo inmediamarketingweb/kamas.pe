@@ -1,0 +1,508 @@
+{
+    "Lima Metropolitana 1":[
+        {
+            "distrito": "Barranco",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Breña",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Jesús María",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "La Victoria",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Lince",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Magdalena del Mar",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Miraflores",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Pueblo Libre",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Isidro",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Miguel",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Surquillo",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Lima (Cercado)",
+            "envio": "Gratis"
+        }
+    ],
+    "Lima Metropolitana 2":[
+        {
+            "distrito": "Ate",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Santa Clara",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Chorrillos",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "La Molina",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Borja",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Juan de Miraflores",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Luis",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Santiago de Surco",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Surco (Viejo)",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Villa El Salvador",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Villa María del Triunfo",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Carabayllo",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Comas",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "El Agustino",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Independencia",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Los Olivos",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Juan de Lurigancho",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "San Martín de Porres",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Santa Anita",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Puente Piedra",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Rímac",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Huachipa",
+            "envio": "Gratis"
+        }
+    ],
+    "Lima Periférica":[
+        {
+            "distrito": "Santa Rosa (Ancón)",
+            "envio": "30"
+        },
+        {
+            "distrito": "Ancón",
+            "envio": "30"
+        },
+        {
+            "distrito": "Cajamarquilla",
+            "envio": "30"
+        },
+        {
+            "distrito": "Huaycan",
+            "envio": "30"
+        },
+        {
+            "distrito": "Ñana (Ate)",
+            "envio": "40"
+        },
+        {
+            "distrito": "Chaclacayo",
+            "envio": "50"
+        },
+        {
+            "distrito": "Lurigancho (Chósica)",
+            "envio": "80"
+        },
+        {
+            "distrito": "Cieneguilla",
+            "envio": "40"
+        },
+        {
+            "distrito": "Manchay",
+            "envio": "40"
+        },
+        {
+            "distrito": "Pachacamac",
+            "envio": "60"
+        },
+        {
+            "distrito": "Lurín",
+            "envio": "50"
+        },
+        {
+            "distrito": "Nuevo Lurín",
+            "envio": "60"
+        },
+        {
+            "distrito": "Chocas",
+            "envio": "30"
+        },
+        {
+            "distrito": "Trapiche",
+            "envio": "30"
+        },
+        {
+            "distrito": "Yangas",
+            "envio": "40"
+        },
+        {
+            "distrito": "Santa Rosa de Quives",
+            "envio": "50"
+        }
+    ],
+    "Callao":[
+        {
+            "distrito": "Callao (Cercado)",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Bellavista",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Carmen de la Legua",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "La Perla",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "La Punta",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Ventanilla",
+            "envio": "Gratis"
+        },
+        {
+            "distrito": "Mi Perú",
+            "envio": "Gratis"
+        }
+    ],
+    "Norte chico":[
+        {
+            "provincia": "Huaral",
+            "distritos":[
+                {
+                    "distrito": "Pasamayo",
+                    "envio": "200"
+                },
+                {
+                    "distrito": "Chancay",
+                    "envio": "220"
+                },
+                {
+                    "distrito": "Aucallama",
+                    "envio": "230"
+                },
+                {
+                    "distrito": "Huaral",
+                    "envio": "250"
+                },
+                {
+                    "distrito": "Ihuarí",
+                    "envio": "400"
+                },
+                {
+                    "distrito": "Lampián",
+                    "envio": "400"
+                },
+                {
+                    "distrito": "Sumbilca",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Santa Cruz de Andam",
+                    "envio": "500"
+                }
+            ]
+        },
+        {
+            "provincia": "Huaura",
+            "distritos":[
+                {
+                    "distrito": "Huacho",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Santa María",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Carquín",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Hualmay",
+                    "envio": "380"
+                },
+                {
+                    "distrito": "Huaura",
+                    "envio": "400"
+                },
+                {
+                    "distrito": "Végueta",
+                    "envio": "400"
+                },
+                {
+                    "distrito": "Sayán",
+                    "envio": "450"
+                }
+            ]
+        },
+        {
+            "provincia": "Barranca",
+            "distritos":[
+                {
+                    "distrito": "Supe",
+                    "envio": "500"
+                },
+                {
+                    "distrito": "Supe Puerto",
+                    "envio": "500"
+                },
+                {
+                    "distrito": "Barranca",
+                    "envio": "500"
+                },
+                {
+                    "distrito": "Pativilca",
+                    "envio": "500"
+                },
+                {
+                    "distrito": "Paramonga",
+                    "envio": "500"
+                }
+            ]
+        }
+    ],
+    "Sur chico":[
+        {
+            "provincia": "Zona playas",
+            "distritos":[
+                {
+                    "distrito": "Aríca",
+                    "envio": "70"
+                },
+                {
+                    "distrito": "Punta Negra",
+                    "envio": "90"
+                },
+                {
+                    "distrito": "Punta Hermosa",
+                    "envio": "90"
+                },
+                {
+                    "distrito": "Señoritas",
+                    "envio": "100"
+                },
+                {
+                    "distrito": "El Silencio",
+                    "envio": "100"
+                },
+                {
+                    "distrito": "Pulpos",
+                    "envio": "100"
+                },
+                {
+                    "distrito": "Caballeros",
+                    "envio": "100"
+                },
+                {
+                    "distrito": "San Bartolo",
+                    "envio": "120"
+                },
+                {
+                    "distrito": "Santa María del Mar",
+                    "envio": "150"
+                },
+                {
+                    "distrito": "Pucusana",
+                    "envio": "170"
+                },
+                {
+                    "distrito": "Naplo",
+                    "envio": "180"
+                }
+            ]
+        },
+        {
+            "provincia": "Cañete",
+            "distritos":[
+                {
+                    "distrito": "Chilca",
+                    "envio": "230"
+                },
+                {
+                    "distrito": "Playa Puerto Viejo",
+                    "envio": "250"
+                },
+                {
+                    "distrito": "León Dormido",
+                    "envio": "270"
+                },
+                {
+                    "distrito": "San Antonio",
+                    "envio": "280"
+                },
+                {
+                    "distrito": "Bujama",
+                    "envio": "280"
+                },
+                {
+                    "distrito": "Mala",
+                    "envio": "280"
+                },
+                {
+                    "distrito": "Playa Totoritas",
+                    "envio": "300"
+                },
+                {
+                    "distrito": "Santa Cruz de Flores",
+                    "envio": "300"
+                },
+                {
+                    "distrito": "Asia",
+                    "envio": "330"
+                },
+                {
+                    "distrito": "Plata lobos",
+                    "envio": "340"
+                },
+                {
+                    "distrito": "Playa honda",
+                    "envio": "340"
+                },
+                {
+                    "distrito": "Cerro azul",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "San Luis",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Imperial",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Nuevo Imperial",
+                    "envio": "350"
+                },
+                {
+                    "distrito": "Quilmaná",
+                    "envio": "380"
+                },
+                {
+                    "distrito": "San Vicente de Cañete",
+                    "envio": "400"
+                },
+                {
+                    "distrito": "Trebol del Pacifico",
+                    "envio": "430"
+                },
+                {
+                    "distrito": "Nuevo Cañete",
+                    "envio": "430"
+                },
+                {
+                    "distrito": "Calango",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Lunahuaná",
+                    "envio": "500"
+                }
+            ]
+        },
+        {
+            "provincia": "Chincha",
+            "distritos":[
+                {
+                    "distrito": "Grocio Prado",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Sunampe",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Chincha alta",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Chincha baja",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Tambo de Mora",
+                    "envio": "450"
+                },
+                {
+                    "distrito": "Alto Larán",
+                    "envio": "480"
+                },
+                {
+                    "distrito": "El Carmen",
+                    "envio": "480"
+                }
+            ]
+        }
+    ]
+}
