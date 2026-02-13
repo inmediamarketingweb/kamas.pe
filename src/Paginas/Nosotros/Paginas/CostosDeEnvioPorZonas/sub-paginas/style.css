@@ -1,0 +1,36 @@
+.block-content.costos-tables{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.tabla-envios{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tabla-envios th,
+.tabla-envios td{
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.tabla-envios td{
+    color: var(--text)
+}
+
+.tabla-envios th{
+    background-color: var(--white);
+}
+
+.provincia-block h3{
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width: 600px){
+    .block-content.costos-tables{
+        grid-template-columns: 1fr;
+    }
+}

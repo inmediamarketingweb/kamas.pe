@@ -1,0 +1,35 @@
+.costos-links{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.costos-links li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.costos-links li a{
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.costos-links li a img{
+    border-radius: 100%;
+    display: flex;
+    width: 160px;
+    aspect-ratio: 1/1;
+}
+
+@media screen and (max-width: 600px){
+    .costos-links li a img{
+        width: 120px;
+    }
+}
