@@ -16,9 +16,19 @@
             "ruta": "/productos/complementos/puffs/"
         },
         {
+            "subcategoria": "Almohadas",
+            "metaTitulo": "Complementos - Almohadas | Kamas",
+            "ruta": "/productos/complementos/almohadas/"
+        },
+        {
             "subcategoria": "Cama perro",
             "metaTitulo": "Complementos - Cama perro | Kamas",
             "ruta": "/productos/complementos/cama-perro/"
+        },
+        {
+            "subcategoria": "sabanas-y-cobertores",
+            "metaTitulo": "Complementos - Sabanas y cobertores | Kamas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/"
         }
     ]
 }

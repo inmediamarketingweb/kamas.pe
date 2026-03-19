@@ -1,0 +1,94 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "almohadas",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/almohadas/clasicas/1/",
+            "nombre": "SET 2 ALMOHADAS CLASICAS HOLLOW",
+            "fotos": "/assets/imagenes/productos/complementos/almohadas/clasicas/1/",
+            "precioRegular": 150,
+            "precioNormal": 69,
+            "precioVenta": 59,
+            "stock": 14,
+            "sku": "K752N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "Almohadas"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Almohada",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "complementos",
+            "subcategoria": "almohadas",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/almohadas/clasicas/2/",
+            "nombre": "SET 4 ALMOHADAS CLASICAS HOLLOW",
+            "fotos": "/assets/imagenes/productos/complementos/almohadas/clasicas/2/",
+            "precioRegular": 200,
+            "precioNormal": 129,
+            "precioVenta": 109,
+            "stock": 14,
+            "sku": "K752N11",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "Almohadas"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Almohada",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "4",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
