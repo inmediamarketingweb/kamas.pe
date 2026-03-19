@@ -1,0 +1,364 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/1/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - LINEAL - PLOMO",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/1/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/2/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - LINEAL - ACERO  ",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/2/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N11",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/3/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - LINEAL - MULTICOLOR  ",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/3/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N12",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/4/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - FLORES - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/4/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N13",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/5/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - LINEAL - GRIS",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/5/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N14",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/6/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - CUADROS - GRIS",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/6/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N15",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/7/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - FLORES - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/7/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N16",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "complementos",
+            "subcategoria": "sábanas y cobertores",
+            "marca": "Kamas",
+            "modelo": "clasicas",
+            "ruta": "/productos/complementos/sabanas-y-cobertores/clasicas/8/",
+            "nombre": "JUEGO DE CAMA MICROFIBRA KING - LINEAL - AZUL",
+            "fotos": "/assets/imagenes/productos/complementos/sabanas-y-cobertores/clasicas/8/",
+            "precioRegular": 329,
+            "precioNormal": 289,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K764N17",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicas"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Sábanas y cobertores",
+                    "tamaño": "king"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Sábanas y cobertores",
+                    "descripcion":[
+                        {
+                           "profundidad": "50",
+                           "Peso": "1.146 kg",
+                           "numero de piezas": "2",
+                           "ancho": "70",
+                           "alto": "8",
+                           "material": "Hollow Poliéster 3D",
+                           "tipo de tela": "Tela Algodón con Poliéster",
+                           "información adicional": "Lavado a máquina con agua tibia. Usar secadora temperatura baja."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
