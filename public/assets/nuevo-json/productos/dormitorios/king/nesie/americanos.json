@@ -1,0 +1,299 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/5/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 397,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "nesie",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2219,
+            "precioVenta": 1799,
+            "sku": "K3242873N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Nesie",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

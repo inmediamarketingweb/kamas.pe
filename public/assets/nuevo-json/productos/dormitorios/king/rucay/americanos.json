@@ -1,0 +1,178 @@
+{
+    "productos":[
+        {
+            "id": 376,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA CUADROS 3 + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/cuadros-3/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "K324226N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "2 almohadas", "3 cojines"],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 3"
+                }
+            ]
+        },
+        {
+            "id": 377,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL 3 + 1 PUFF  - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "K324226N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "2 almohadas", "3 cojines" ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 378,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LUXURY - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/luxury/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "K324226N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/champagne.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ]
+        },
+        {
+            "id": 379,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA XPLORER + 1 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "K324226N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/azul-noche.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

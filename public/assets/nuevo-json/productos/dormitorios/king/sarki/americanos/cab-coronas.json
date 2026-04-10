@@ -1,0 +1,777 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/121/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/122/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/2/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/123/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/3/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/124/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - ROSADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/4/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/125/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/5/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/126/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - VIOLETA CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/6/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/127/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/7/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/128/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/8/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/129/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - MARRÓN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/9/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N18",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/130/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA LINEAL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/coronas/sin-brazos/lineal/10/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1719,
+            "stock": 9,
+            "sku": "K324235N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/155/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/157/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ], 
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/158/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/4/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/159/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - TURQUESA OPÁLO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/5/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/160/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-rectos/lunar/1/",
+            "precioRegular": 3129,
+            "precioNormal": 2789,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324235N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/172/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N37",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/173/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/2/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N38",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/174/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N39",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/175/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/4/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N40",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/176/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/5/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N41",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/177/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/6/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N42",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/178/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/7/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N43",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/179/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + PUFF - TURQUESA OPÁLO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/8/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N44",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/180/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - MARRÓN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/9/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324235N45",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/181/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/10/",
+            "precioRegular": 3199,
+            "precioNormal": 2699,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "K324235N46",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/182/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL PRINCESA + 1 PUFF - AZUL ELECTRICO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-p/princesa/11/",
+            "precioRegular": 3199,
+            "precioNormal": 2699,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "K324235N47",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos P",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 344,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/210/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORTE CORONA + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/corona/1/",
+            "precioRegular": 2549,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K324236N117",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

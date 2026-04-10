@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/110/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA + 1 PUFF - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/clasicas/sin-brazos/clasica-1/1/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K314232N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Clásica",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/111/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CLÁSICA 2 - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/clasicas/sin-brazos/clasica-2/1/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K314232N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Clásica",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ]
+        }
+    ]
+}

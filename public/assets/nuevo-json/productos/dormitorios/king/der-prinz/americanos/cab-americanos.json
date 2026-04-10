@@ -1,0 +1,129 @@
+{
+    "productos":[
+        {
+            "id": 394,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/208/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA LINEAL 4 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/lineal-4/1/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324225N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                    {
+                        "resortes": "810 resortes pocket",
+                        "tela": "Tela algodón tejido en punto",
+                        "sistema": "One size",
+                        "incorpora": "Sitema PT",
+                        "refuerzos": "Centrales",
+                        "densidad-de-la-espuma": "25kg/m3",
+                        "marco": "De espuma",
+                        "grosor": "44cm",
+                        "tipo-de-uso": "Ambos lados",
+                        "soporte-de-peso": "130kg. por persona",
+                        "garantía": "12 años"
+                    }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 395,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/209/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA LINEAL 4 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/lineal-4/2/",
+            "precioRegular": 2799,
+            "precioNormal": 2229,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324225N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        }
+    ]
+}

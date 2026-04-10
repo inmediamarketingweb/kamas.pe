@@ -1,0 +1,907 @@
+{
+    "productos":[
+        {
+            "id": 465,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/281/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA CHANCHAN + 1 PUFF - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/chanchan/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Chanchan"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chanchan"
+                }
+            ]
+        },
+        {
+            "id": 466,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/282/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA EGYP 4 + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/egyp-4/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 4"
+                }
+            ]
+        },
+        {
+            "id": 467,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/283/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA GAVIOTA + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/gaviota/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 468,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/284/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA GAVIOTA + 1 PUFF - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/gaviota/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 469,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/285/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA LINEAL 2 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 470,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/286/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA LINEAL 4 + 1 PUFF - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/lineal-4/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 471,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/287/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA NILO + 1 PUFF - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/nilo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 472,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/288/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA OLIMPIC + 1 PUFF - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 473,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/289/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA OLIMPIC + 1 PUFF - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 474,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/290/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA RECTANGULAR 2 + 1 PUFF - ANTIFLUIDO PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        { 
+            "id": 475,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/291/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA REPTILIAN + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/reptilian/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        { 
+            "id": 476,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/292/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA ROBLO + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/roblo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        { 
+            "id": 477,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/293/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA ROMBOI + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/romboi/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        { 
+            "id": 478,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/294/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA SIDNEY + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/sidney/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        { 
+            "id": 479,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/295/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA SPIDER + 1 PUFF - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/spider/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        { 
+            "id": 481,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/296/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA STARIS + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ]
+        },
+        { 
+            "id": 482,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/297/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA TORTUN + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/tortun/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        { 
+            "id": 483,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/298/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA VIENNA + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/vienna/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        { 
+            "id": 484,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/299/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA WUELO + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/wuelo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ]
+        },
+        { 
+            "id": 485,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/300/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA XPLORER + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        },
+        { 
+            "id": 486,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thaleo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/301/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/xplorer/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2849,
+            "precioVenta": 2199,
+            "sku": "K3242106N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}
