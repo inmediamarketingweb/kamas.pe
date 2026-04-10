@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/236/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA PRIME + 1 PUFF - AZUL ELECTRICO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/prime/1/",
+            "precioRegular": 2599,
+            "precioNormal": 2229,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324256N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Prime"
+                }
+            ]
+        }
+    ]
+}

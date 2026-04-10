@@ -1,0 +1,4253 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/palo-rosa.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/2/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo-oscuro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/3/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/camell.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/4/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/palo-rosa.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/5/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/5/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/6/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/gris-plata.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/7/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - LILA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/7/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/violeta.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/8/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo-oscuro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/9/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/9/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/beige-oscuro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/10/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CUADROS 1 - TURQUESA OPÁLO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/americanas/sin-brazos/cuadros-1/10/",
+            "precioRegular": 2959,
+            "precioNormal": 2409,
+            "precioVenta": 1849,
+            "sku": "K324273N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {   
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/turquesa-opalo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/11/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/12/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - MELON",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/13/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/14/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/15/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - TURQUESA OPÁLO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/16/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/17/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                     },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/18/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 2909,
+            "precioNormal": 2519,
+            "precioVenta": 2029,
+            "sku": "K324273N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/20/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2309,
+            "precioVenta": 1849,
+            "sku": "K324276N29",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/verde-loro.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/21/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/2/",
+            "precioRegular": 2999,
+            "precioNormal": 2309,
+            "precioVenta": 1849,
+            "sku": "K324276N30",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/arena.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/22/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA ÁEREA LINEAL - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2309,
+            "precioVenta": 1849,
+            "sku": "K324276N31",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/cobalto.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/23/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL ÁEREA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/bloques/sin-brazos/lineal/4/",
+            "precioRegular": 2999,
+            "precioNormal": 2309,
+            "precioVenta": 1849,
+            "sku": "K324276N32",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/negro.webp"
+                }
+            ],
+            
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/24/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N10",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/25/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N11",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/26/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N12",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/27/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N13",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/28/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/5/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N14",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/29/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/6/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N15",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/30/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/7/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N16",
+            "tipo-de-envio": "Gratis",
+             "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/uva.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/31/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/8/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N17",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/rojo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/32/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/9/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N18",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/turquesa-opalo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/33/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/10/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N19",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/plomo.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/34/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/11/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N20",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/melon-2.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/35/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/12/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2269,
+            "sku": "K324275N21",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/palo-rosa.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/36/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/13/",
+            "precioRegular": 2989,
+            "precioNormal": 2899,
+            "precioVenta": 2259,
+            "sku": "K324275N22",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/chocolate.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/37/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/14/",
+            "precioRegular": 2989,
+            "precioNormal": 2899,
+            "precioVenta": 2259,
+            "sku": "K324275N23",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/arena-claro.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/38/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/15/",
+            "precioRegular": 2989,
+            "precioNormal": 2899,
+            "precioVenta": 2259,
+            "sku": "K324275N24",
+            "tipo-de-envio": "Gratis",
+              "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                },
+                {
+                    "texto": "3 cojines",
+                    "foto": "/assets/imagenes/productos/regalos/cojines/camell.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "doble pestaña": "Si",
+                            "grosor": "37cm.",
+                            "incorpora": "Sistema PT",
+                            "refuerzos": "Centrales",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "4 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 399,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/213/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA EGYP + 1 PUFF - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/egyp/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ]
+        },
+        {
+            "id": 400,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/214/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA EGYP 3 + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/egyp-3/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ]
+        },
+        {
+            "id": 401,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/215/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA GAVIOTA + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/gaviota/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 402,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/216/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA GAVIOTA + 1 PUFF - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/gaviota/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N34",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 403,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/217/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL 2 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N35",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 403,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/218/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL 4 + 1 PUFF - DURAZNO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/lineal-4/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N36",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 404,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/219/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA NILO + 1 PUFF - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/nilo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N37",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 405,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/220/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N38",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 406,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/221/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC + 1 PUFF - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N39",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 407,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/222/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC + 1 PUFF - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/3/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N40",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 408,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/223/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA RECTANGULAR 2 + 1 PUFF - ANTIFLUIDO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N41",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {
+            "id": 409,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/224/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA REPTILIAN + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/reptilian/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N42",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 410,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/225/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA ROBLO + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/roblo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N43",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 411,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/226/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA SIDNEY + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/sidney/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N44",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 412,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/227/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA TORTUN + 1 PUFF - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/tortun/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N45",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 413,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/228/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA TORTUN + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/tortun/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N46",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 414,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/229/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA VIENNA + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/vienna/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N47",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 415,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/230/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA WUELO + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/wuelo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N48",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ]
+        },
+        {
+            "id": 416,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/231/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA XPLORER + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "sku": "K3242873N49",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

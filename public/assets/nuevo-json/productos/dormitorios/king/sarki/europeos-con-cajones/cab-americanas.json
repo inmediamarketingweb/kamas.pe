@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/sarki/1/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 3409,
+            "precioNormal": 2809,
+            "precioVenta": 2179,
+            "stock": 23,
+            "sku": "K334133N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/sarki/2/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 3409,
+            "precioNormal": 2809,
+            "precioVenta": 2179,
+            "stock": 23,
+            "sku": "K334133N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

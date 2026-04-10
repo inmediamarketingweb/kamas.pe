@@ -1,0 +1,244 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/sarki/1/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 3409,
+            "precioNormal": 2809,
+            "precioVenta": 2179,
+            "stock": 23,
+            "sku": "K334133N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos con cajones",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/sarki/2/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/sarki/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 3409,
+            "precioNormal": 2809,
+            "precioVenta": 2179,
+            "stock": 23,
+            "sku": "K334133N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines", "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/3/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/2/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/3/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/4/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/5/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/sarki/europeos/6/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 2999,
+            "precioNormal": 2399,
+            "precioVenta": 1849,
+            "stock": 23,
+            "sku": "K334233N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1122 @@
+{
+    "productos":[
+        {
+            "id": 439,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/255/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA CHANCHAN + 1 PUFF - CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/chanchan/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Chanchan"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Chanchan"
+                }
+            ]
+        },
+        {
+            "id": 440,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/256/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA CUADROS 2 + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/cuadros-2/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 441,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/257/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA EGYP + 1 PUFF - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/egyp/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ]
+        },
+        {
+            "id": 442,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/258/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA EGYP + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/egyp/3/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp"
+                }
+            ]
+        },
+        {
+            "id": 443,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/259/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA EGYP 3 + 1 PUFF",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/egyp-3/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egyp 3"
+                }
+            ]
+        },
+        {
+            "id": 444,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/260/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA GAVIOTA + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/gaviota/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 445,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/261/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA GAVIOTA + 1 PUFF - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/gaviota/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 446,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/262/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA LINEAL 2 + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N17",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 447,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/263/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA NILO + 1 PUFF - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/nilo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N18",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 448,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/264/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA OLIMPIC + 1 PUFF - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N19",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 449,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/265/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA OLIMPIC + 1 PUFF - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N20",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 450,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/266/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA OLIMPIC + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/olimpic/3/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N21",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 451,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/267/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA RECTANGULAR 2 + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N22",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        },
+        {
+            "id": 452,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/268/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA REPTILIAN + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/reptilian/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N23",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 453,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/269/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA ROBLO + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/roblo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N24",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 454,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/270/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA ROMBOI + 1 PUFF - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/romboi/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N25",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Romboi"
+                }
+            ]
+        },
+        {
+            "id": 455,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/271/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA SIDNEY + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/sidney/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N26",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 456,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/272/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA STARIS + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ]
+        },
+        {
+            "id": 457,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/273/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA STARIS + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/staris/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Staris"
+                }
+            ]
+        },
+        {
+            "id": 458,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/274/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA SPIDER + 1 PUFF - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/spider/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N28",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Spider"
+                }
+            ]
+        },
+        {
+            "id": 459,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/275/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA TORTUN + 1 PUFF - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/tortun/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N29",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 460,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/276/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA TORTUN + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/tortun/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N30",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 461,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/277/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA VIENNA + 1 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/vienna/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N31",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 462,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/278/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA WUELO + 1 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/wuelo/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N32",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ]
+        },
+        {
+            "id": 463,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/279/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA XPLORER + 1 PUFF - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N33",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        },
+        {
+            "id": 464,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/280/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO + CABECERA AÉREA XPLORER + 1 PUFF - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/xplorer/2/",
+            "precioRegular": 2859,
+            "precioNormal": 2279,
+            "precioVenta": 1799,
+            "sku": "K324266N34",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

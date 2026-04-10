@@ -1,0 +1,82 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "yurmale",
+            "ruta": "/productos/dormitorios/king/americanos/yurmale/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/yurmale/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 3799,
+            "precioNormal": 3419,
+            "precioVenta": 2599,
+            "stock": 9,
+            "sku": "K324256N27",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "2 almohadas", "3 cojines" ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "yurmale",
+            "ruta": "/productos/dormitorios/king/americanos/yurmale/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS YURMALE + CABECERA AÉREA XPLORER + 1 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/yurmale/aereas-con-patas/americanas/sin-brazos/xplorer/1/",
+            "precioRegular":3799,
+            "precioNormal": 3419,
+            "precioVenta": 2599,
+            "stock": 9,
+            "sku": "K3242123N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "2 almohadas", "3 cojines" ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Yurmale",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

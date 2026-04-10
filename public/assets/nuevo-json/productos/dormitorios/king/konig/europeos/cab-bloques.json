@@ -1,0 +1,214 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/1/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/2/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/2/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/3/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/3/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/4/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - LILA",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/4/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/5/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/5/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/6/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - AZUL ELÉCTRICO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/6/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/europeos/konig/7/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/7/",
+            "precioRegular": 3499,
+            "precioNormal": 3199,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

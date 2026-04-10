@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/ramat/3/",
+            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 1429,
+            "precioNormal": 2859,
+            "precioVenta": 2029,
+            "stock": 9,
+            "sku": "K324173N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "ramat",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/ramat/4/",
+            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 1429,
+            "precioNormal": 2859,
+            "precioVenta": 2029,
+            "stock": 9,
+            "sku": "K324173N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

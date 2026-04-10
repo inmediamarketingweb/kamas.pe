@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "europeos",
+            "tamaño": "king",
+            "modelo": "rucay",
+            "ruta": "/productos/dormitorios/king/europeos/rucay/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL PRINCESA + 1 PUFF - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/rucay/pedestales/coronas/brazos-rectos/princesa/1/",
+            "precioRegular": 3289,
+            "precioNormal": 2799,
+            "precioVenta": 1979,
+            "stock": 23,
+            "sku": "K334225N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "1 puff" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "king",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}
