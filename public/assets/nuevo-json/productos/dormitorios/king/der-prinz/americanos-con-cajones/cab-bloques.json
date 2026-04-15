@@ -1,16 +1,252 @@
 {
     "productos":[
         {
+            "id": 1,
             "categoria": "dormitorios",
             "linea": "americanos con cajones",
             "tamaño": "king",
             "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/9/",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/1/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 3799,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/2/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 3799,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N11",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/3/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 3799,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N12",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/4/",
+            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 3699,
+            "precioNormal": 2899,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K324153N13",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/5/",
+            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 3709,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N14",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/6/",
+            "nombre": "DORMITORIO AMERICANO KING CON 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 3919,
+            "precioNormal": 3099,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "K324153N15",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/7/",
+            "nombre": "DORMITORIO AMERICANO KING CON 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 4009,
+            "precioNormal": 3349,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "K324153N16",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/8/",
+            "nombre": "DORMITORIO AMERICANO KING CON 2 CAJONES LATERALES Y 2 AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CAPITONEADO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/capitoneado/1/",
+            "precioRegular": 3999,
+            "precioNormal": 3099,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "K324153N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "dormitorios",
+            "linea": "americanos con cajones",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos-con-cajones/9/",
             "nombre": "DORMITORIO AMERICANO KING CON 3 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA MOKI - TEJIDO PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/bloques/sin-brazos/moki/1/",
-            "precioRegular": 1429,
-            "precioNormal": 2999,
-            "precioVenta": 2179,
+            "precioRegular": 3789,
+            "precioNormal": 2919,
+            "precioVenta": 2049,
             "stock": 9,
             "sku": "K324153N18",
             "tipo-de-envio": "Gratis",
@@ -25,126 +261,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Moki"
-                }
-            ]
-        },
-        {
-            "id": 365,
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos/der-prinz/231/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA YACU + 1 PUFF - CAMELL",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/yacu/1/",
-            "precioRegular": 2599,
-            "precioNormal": 2229,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K324256N20",
-            "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Yacu"
-                }
-            ]
-        },
-        {
-            "id": 366,
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos/der-prinz/232/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA PISAC + 1 PUFF - CUERO CAMELL",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/pisac/1/",
-            "precioRegular": 2599,
-            "precioNormal": 2229,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K324256N21",
-            "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Pisac"
-                }
-            ]
-        },
-        {
-            "id": 367,
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos/der-prinz/233/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA NILO + 1 PUFF - ANTIFLUIDO PLATA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/nilo/1/",
-            "precioRegular": 2599,
-            "precioNormal": 2229,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K324256N22",
-            "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Nilo"
-                }
-            ]
-        },
-        {
-            "id": 368,
-            "categoria": "dormitorios",
-            "linea": "americanos",
-            "tamaño": "king",
-            "modelo": "der prinz",
-            "ruta": "/productos/dormitorios/king/americanos/der-prinz/234/",
-            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA MOSTER + 1 PUFF - TEJIDO PLOMO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/moster/1/",
-            "precioRegular": 2599,
-            "precioNormal": 2229,
-            "precioVenta": 1749,
-            "stock": 9,
-            "sku": "K324256N23",
-            "tipo-de-envio": "Gratis",
-            "regalos":[ "3 cojines" ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "modelo-de-colchón": "Der prinz",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Moster"
                 }
             ]
         }

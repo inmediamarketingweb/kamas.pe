@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "dormitorios",
+            "subcategoria": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/der-prinz/americanos/194/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA + PIECERA - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/pedestales/coronas/brazos-rectos/otros-modelos/1/",
+            "precioRegular": 4419,
+            "precioNormal": 3789,
+            "precioVenta": 2449,
+            "stock": 9,
+            "sku": "K324225N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "3 cojines" ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Der prinz",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}
