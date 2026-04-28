@@ -8,6 +8,14 @@
                         "subcategoria": "veladores",
                         "opciones":[
                             {
+                                "tipo": "diseño",
+                                "valores":[
+                                    "clásico",
+                                    "vintage",
+                                    "shelter"
+                                ]
+                            },
+                            {
                                 "tipo": "cajones",
                                 "valores":[
                                     "1", "2", "3", "6"
@@ -27,20 +35,18 @@
                         ]
                     },
                     {
-                        "subcategoria": "base-sola",
+                        "subcategoria": "base sola",
                         "opciones":[
                             {
                                 "tipo": "tamaño",
                                 "valores":[
-                                    "1 plaza y media", "2 plazas",
-                                    "queen", "king"
+                                    "1 plaza y media", "2 plazas", "queen", "king"
                                 ]
                             },
                             {
                                 "tipo": "línea",
                                 "valores":[
-                                    "americanos", "americanos con cajones",
-                                    "europeos", "europeos con cajones"
+                                    "americanos", "americanos con cajones", "europeos", "europeos con cajones"
                                 ]
                             }
                         ]
@@ -51,8 +57,7 @@
                             {
                                 "tipo": "línea",
                                 "valores":[
-                                    "clásicos", "redondos",
-                                    "con baúl"
+                                    "clásicos", "redondos", "baúl"
                                 ]
                             }
                         ]
@@ -69,7 +74,7 @@
                         ]
                     },
                     {
-                        "subcategoria": "sábanas-y-cobertores",
+                        "subcategoria": "sábanas y cobertores",
                         "opciones":[
                             {
                                 "tipo": "tamaño",
@@ -81,7 +86,7 @@
                         ]
                     },
                     {
-                        "subcategoria": "cama-perro",
+                        "subcategoria": "cama perro",
                         "opciones":[
                             {
                                 "tipo": "tamaño",
