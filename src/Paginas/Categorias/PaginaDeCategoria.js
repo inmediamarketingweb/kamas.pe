@@ -26,7 +26,7 @@ function PaginaDeCategoria(){
     const [favorites, setFavorites] = useState([]);
     const [filtersActive, setFiltersActive] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 20;
+    const itemsPerPage = 40;
     const [envioGratis, setEnvioGratis] = useState(false);
     const [enOferta, setEnOferta] = useState(false);
     const [sortOption, setSortOption] = useState('');
@@ -246,7 +246,21 @@ function PaginaDeCategoria(){
                             </div>
 
                             <div className="category-page-right">
-                                <Top envioGratis={envioGratis} setEnvioGratis={setEnvioGratis} enOferta={enOferta} setEnOferta={setEnOferta} sortOption={sortOption} setSortOption={setSortOption} />
+                                {/* <Top envioGratis={envioGratis} setEnvioGratis={setEnvioGratis} enOferta={enOferta} setEnOferta={setEnOferta} sortOption={sortOption} setSortOption={setSortOption} /> */}
+
+                                <Top 
+                                    envioGratis={envioGratis} 
+                                    setEnvioGratis={setEnvioGratis} 
+                                    enOferta={enOferta} 
+                                    setEnOferta={setEnOferta} 
+                                    sortOption={sortOption} 
+                                    setSortOption={setSortOption}
+                                    // Nuevas props
+                                    currentPage={currentPage}
+                                    totalPages={totalPages}
+                                    onPageChange={handlePageChange}
+                                    getVisiblePages={getVisiblePages}
+                                />
 
                                 <div className="category-page-right-top">
                                     <button type="button" className="d-flex-center-center gap-5 open-filters" onClick={handleToggleFilters}>
@@ -278,6 +292,7 @@ function PaginaDeCategoria(){
                                             <div className="pagination-controls">
                                                 <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
                                                     <span className="material-symbols-outlined">chevron_left</span>
+                                                    <p>Anterior</p>
                                                 </button>
 
                                                 <div className="d-flex-center-center gap-5">
@@ -291,6 +306,7 @@ function PaginaDeCategoria(){
                                                 </div>
 
                                                 <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                    <p>Siguiente</p>
                                                     <span className="material-symbols-outlined">chevron_right</span>
                                                 </button>
                                             </div>

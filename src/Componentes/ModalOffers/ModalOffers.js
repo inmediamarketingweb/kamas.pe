@@ -54,7 +54,7 @@ function ModalOffers() {
 
             <div className={`modal-offer-container ${!isActive ? 'desactive' : ''}`}>
                 <a href='https://kamas.pe/productos/dormitorios/?tama%C3%B1o=king&l%C3%ADnea=americana&modelo-de-colch%C3%B3n=sarki&cajones=no&base-encajonada=no&tipo-de-cabecera=a%C3%A9rea-con-patas&brazos-de-cabecera=sin-brazos' title='Cyber Mom en Kamas, desde el 01 al 15 de mayo encuentra las mejores ofertas en dormitorios king.'>
-                    <img src="/assets/imagenes/kamas/flyer.jpg" alt="Cyber Mom Kamas, ofertas en dormitorios por el día de la madre"/>
+                    <img src="/assets/imagenes/kamas/flyer-papa.webp" alt="Feliz día papá, regalale el dormitorio ideal."/>
                 </a>
 
                 <label className="modal-checkbox-label">
