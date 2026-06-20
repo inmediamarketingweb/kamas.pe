@@ -766,6 +766,14 @@ input[type="checkbox"]{
     color: var(--color-1);
 }
 
+.visible-on-desktop-no-mobile{
+    display: flex;
+}
+
+.visible-on-mobile-no-desktop{
+    display: none;
+}
+
 @media screen and (max-width: 800px){
     main{
         margin-top: 142px !important;
@@ -823,5 +831,13 @@ input[type="checkbox"]{
         position: fixed;
         right: 10px;
         z-index: 50;
+    }
+
+    .visible-on-desktop-no-mobile{
+        display: none !important;
+    }
+
+    .visible-on-mobile-no-desktop{
+        display: unset !important;
     }
 }

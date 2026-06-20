@@ -4,7 +4,7 @@
 
 .category-page-container{
     display: grid;
-    grid-template-columns: 320px 1fr;
+    grid-template-columns: 280px 1fr;
     gap: 10px;
 }
 
@@ -31,7 +31,7 @@
 .category-page-products{
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 10px;
 }
 
