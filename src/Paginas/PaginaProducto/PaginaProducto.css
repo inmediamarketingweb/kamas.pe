@@ -33,7 +33,7 @@
 .product-page-container{
     width: 100%;
     display: grid;
-    grid-template-columns: 540px 1fr;
+    grid-template-columns: 700px 1fr;
     gap: 10px;
 }
 
