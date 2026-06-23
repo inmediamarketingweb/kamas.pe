@@ -2,7 +2,6 @@ import { Outlet } from 'react-router-dom';
 
 import Layer from './Layer/Layer';
 import Header from '../Componentes/Header/Header';
-import ModalOffers from '../Componentes/ModalOffers/ModalOffers';
 import Footer from '../Componentes/Footer/Footer';
 
 function Layout(){
@@ -13,8 +12,6 @@ function Layout(){
             <Header/>
 
             <Outlet/>
-
-            <ModalOffers/>
 
             <Footer/>
         </>
