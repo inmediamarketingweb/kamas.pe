@@ -6,6 +6,11 @@
             "ruta": "/productos/complementos/veladores/"
         },
         {
+            "subcategoria": "Baules",
+            "metaTitulo": "Complementos - Baules | Kamas",
+            "ruta": "/productos/complementos/baules/"
+        },
+        {
             "subcategoria": "Base sola",
             "metaTitulo": "Complementos - Base sola | Kamas",
             "ruta": "/productos/complementos/base-sola/"

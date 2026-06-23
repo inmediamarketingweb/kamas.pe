@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "baules",
+            "marca": "Kamas",
+            "modelo": "clasicos",
+            "ruta": "/productos/complementos/baules/clasicos/1/",
+            "nombre": "BAÚL CLÁSICO 2 PLAZAS - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/complementos/baules/clasicos/1/",
+            "precioRegular": 559,
+            "precioNormal": 499,
+            "precioVenta": 329,
+            "stock": 14,
+            "sku": "K7221N10",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "clasicos"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "baúles"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Baúl",
+                    "descripcion":[
+                        {
+                           "Peso": "15kg",
+                           "numero de piezas": "1",
+                           "ancho": "140cm",
+                           "alto": "40cm",
+                           "largo": "28cm",
+                           "material": "Madera pino",
+                           "tipo de tela": "Tela algodón"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
