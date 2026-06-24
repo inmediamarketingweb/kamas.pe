@@ -4,6 +4,16 @@
             "subcategoria": "clasicos",
             "metaTitulo": "Complementos - Baúles - Clásicos | Kamas",
             "ruta": "/productos/complementos/almohadas/clasicos/"
+        },
+        {
+            "subcategoria": "sofa baul 1",
+            "metaTitulo": "Complementos - Baúles - Sofa baul 1 | Kamas",
+            "ruta": "/productos/complementos/almohadas/sofa-baul-1/"
+        },
+        {
+            "subcategoria": "sofa baul 2",
+            "metaTitulo": "Complementos - Baúles - Sofa baul 2 | Kamas",
+            "ruta": "/productos/complementos/almohadas/sofa-baul-2/"
         }
     ]
 }

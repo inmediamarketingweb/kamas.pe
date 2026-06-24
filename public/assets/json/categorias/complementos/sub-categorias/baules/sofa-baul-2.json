@@ -1,0 +1,92 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "baules",
+            "marca": "Kamas",
+            "modelo": "sofa baul 2",
+            "ruta": "/productos/complementos/baules/sofa-baul-2/1/",
+            "nombre": "SOFA BAUL MODELO 2 2 PLAZAS - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/complementos/baules/sofa-baul-2/1/",
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 549,
+            "stock": 14,
+            "sku": "K7221N12",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "Sofa baul 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "baúles"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Baúl",
+                    "descripcion":[
+                        {
+                           "Peso": "30kg",
+                           "numero de piezas": "1",
+                           "ancho": "160cm",
+                           "alto": "40cm",
+                           "largo": "28cm",
+                           "material": "Madera pino",
+                           "tipo de tela": "Tela algodón"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "complementos",
+            "subcategoria": "baules",
+            "marca": "Kamas",
+            "modelo": "sofa baul 2",
+            "ruta": "/productos/complementos/baules/sofa-baul-2/2/",
+            "nombre": "SOFA BAUL MODELO 2 2 PLAZAS - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/baules/sofa-baul-2/2/",
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 549,
+            "stock": 14,
+            "sku": "K7221N13",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "Sofa baul 2"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "baúles"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Baúl",
+                    "descripcion":[
+                        {
+                           "Peso": "30kg",
+                           "numero de piezas": "1",
+                           "ancho": "160cm",
+                           "alto": "40cm",
+                           "largo": "28cm",
+                           "material": "Madera pino",
+                           "tipo de tela": "Tela algodón"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

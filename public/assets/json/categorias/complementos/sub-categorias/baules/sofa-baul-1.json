@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "complementos",
+            "subcategoria": "baules",
+            "marca": "Kamas",
+            "modelo": "sofa baul 1",
+            "ruta": "/productos/complementos/baules/sofa-baul-1/1/",
+            "nombre": "SOFA BAUL MODELO 1 2 PLAZAS - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/baules/sofa-baul-1/1/",
+            "precioRegular": 899,
+            "precioNormal": 699,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7221N11",
+            "tipo-de-envio": "Envío aplicado",
+            "resumen-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "modelo": "Sofa baul 1"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "marca": "Kamas",
+                    "subcategoría": "baúles"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Baúl",
+                    "descripcion":[
+                        {
+                           "Peso": "20kg",
+                           "numero de piezas": "1",
+                           "ancho": "150cm",
+                           "alto": "40cm",
+                           "largo": "28cm",
+                           "material": "Madera pino",
+                           "tipo de tela": "Tela algodón"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
