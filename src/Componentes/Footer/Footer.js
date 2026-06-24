@@ -3,10 +3,6 @@ import './Footer.css';
 function Footer(){
     return(
         <>
-            <a href='https://wa.link/b7ml1d' target='_blank' rel="noopener noreferrer" className='whatsapp-button'>
-                <img src="/assets/imagenes/iconos/whatsapp-blanco.svg" width={36} height={36} alt="icono de whatsapp"/>
-            </a>
-
             <footer className='w-100 d-flex-column'>
                 <div className='footer-block-container'>
                     <section className='footer-block-content'>
