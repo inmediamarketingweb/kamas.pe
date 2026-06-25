@@ -204,6 +204,10 @@ function Filtros({ onCambiarPrecio, isOpen, onClose }) {
                         <span className="material-symbols-outlined">delete</span>
                         <p className='button-link-text'>Limpiar filtros</p>
                     </button>
+
+                    <a href='/' title='' className='d-flex w-100'>
+                        <img className='d-flex w-100 border-r-6' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSqMfXCWuQRrMPMrKzGTv2_BbOKgVXCSlNoxfbzgYFG4Mh61HcXrSnKAX&s=10" alt="" />
+                    </a>
                 </div>
             </div>
         </>
