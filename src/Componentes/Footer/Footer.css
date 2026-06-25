@@ -221,11 +221,6 @@ footer{
 }
 
 @media screen and (max-width: 600px){
-    .whatsapp-button{
-        right: 10px;
-        bottom: 156px;
-    }
-
     footer{
         gap: 0 !important;
     }

@@ -262,9 +262,9 @@
     .menu-container{
         position: fixed;
         left: 100%;
-        top: 142px;
+        top: 152px;
         width: 100%;
-        height: calc(100vh - 142px);
+        height: calc(100vh - 152px);
         background: var(--header);
         transition: var(--t-200ms-linear);
         overflow-y: auto;

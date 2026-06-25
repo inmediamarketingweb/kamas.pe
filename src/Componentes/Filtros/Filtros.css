@@ -44,6 +44,10 @@
     padding: 0 !important;
 }
 
+.filtros-detalles-container{
+    gap: 30px !important;
+}
+
 .filtros-content > div{
     display: flex;
     width: 100%;
@@ -62,6 +66,7 @@
 
 .filtro-detalle-title{
     text-transform: lowercase !important;
+    margin-bottom: 0 !important;
 }
 
 .filtros-content > div:nth-child(1) > ul{

@@ -1,73 +1,221 @@
-.filters-top{
+.filters-top-container{
+    width: 100%;
+    /* display: flex; */
     border-radius: 6px;
     padding: 10px;
     background: var(--white);
 }
 
-.filters-top > div > button{
+.filters-top{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+
+.sale-button,
+.delivery-free-button,
+.filters-order-button{
     width: auto;
-    padding: 0 8px;
-    height: 40px;
+    height: 38px;
+    padding: 0 10px;
+    border: 1px solid #999;
+    border-radius: 25px;
     display: flex;
     align-items: center;
     justify-content: left;
-    gap: 5px;
-    border-radius: 4px;
-    background: var(--white);
-    border: 1px solid #D9D9D9;
     transition: var(--t-200ms-linear);
+    position: relative;
+    gap: 10px;
 }
 
-.filters-top > div > button span,
-.filters-top > div > button p{
-    transition: var(--t-200ms-linear);
+.sale-button span,
+.delivery-free-button span,
+.filters-order-button > div span{
+    font-size: 18px !important;
+}
+
+.delivery-free-button:hover{
+    background: rgb(0 128 0 / 0.05);
+}
+
+.delivery-free-button:hover,
+.delivery-free-button.active{
+    border: 1px solid green;
+}
+
+.sale-button span,
+.sale-button p,
+.delivery-free-button span,
+.delivery-free-button p{
     color: var(--text);
+    transition: var(--t-200ms-linear);
 }
 
-.filters-top > div > button:hover{
-    background: var(--color-1);
+.sale-button p,
+.delivery-free-button p{
+    font-weight: bold;
 }
 
-.filters-top > div > button:hover span,
-.filters-top > div > button:hover p{
+.delivery-free-button:hover span,
+.delivery-free-button:hover p,
+.delivery-free-button.active span,
+.delivery-free-button.active p{
+    color: green;
+}
+
+.sale-button .check,
+.delivery-free-button .check{
+    position: absolute;
+    right: 0;
+    top: -8px;
+    background: crimson;
     color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--t-200ms-linear);
+    width: 16px;
+    font-size: 10px !important;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
 }
 
-.filters-top > div > button:nth-child(1).active,
-.filters-top > div > button:nth-child(2).active{
-    background: var(--color-2);
-    border: 1px solid var(--color-2);
+.sale-button.active .check,
+.delivery-free-button.active .check{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
 }
 
-.filters-top > div > button:nth-child(1).active,
-.filters-top > div > button:nth-child(1).active span,
-.filters-top > div > button:nth-child(1).active p,
-.filters-top > div > button:nth-child(2).active,
-.filters-top > div > button:nth-child(2).active span,
-.filters-top > div > button:nth-child(2).active p{
-    color: var(--white);
+.sale-button.active .check,
+.sale-button:hover .check,
+.delivery-free-button.active .check,
+.delivery-free-button:hover .check{
+    color: var(--white) !important;
 }
 
-.filters-orden{
-    width: auto;
+.sale-button:hover{
+    background: rgba(220 20 60 / 0.05);
+}
+
+.sale-button:hover,
+.sale-button.active{
+    border: 1px solid crimson;
+}
+
+.sale-button:hover span,
+.sale-button:hover p,
+.sale-button.active span,
+.sale-button.active p{
+    color: crimson;
+}
+
+.filters-order-container{
+    position: relative;
+}
+
+.filters-order-button{
+    gap: 20px;
+}
+
+.filters-order-button.active{
+    border-bottom-right-radius: 0;
+}
+
+.filters-order-button .sync_alt{
+    rotate: 90deg;
+    color: var(--text);
+    font-size: 20px;
+}
+
+.filters-order-list{
+    position: absolute;
+    right: 0;
+    top: 44px;
+    width: 200px;
+    background: var(--white);
+    border: 1px solid #999;
+    border-radius: 20px 0 20px 20px;
+    transition: var(--t-200ms-linear);
+    overflow: hidden;
+    z-index: 10;
+    scale: 0.9;
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.filters-order-list.active{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+    scale: 1;
+}
+
+.filters-order-list li{
+    width: 100%;
+    display: flex;
+}
+
+.filters-order-list li button{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    transition: var(--t-200ms-linear);
+    width: 100%;
     height: 40px;
-    border-radius: 4px;
     padding: 0 10px;
-    cursor: pointer;
 }
 
-.filters-orden option{
-    cursor: pointer;
+.filters-order-list li button:hover{
+    background: rgba(0 0 0 / 0.075);
+}
+
+.filters-top .pagination-controls{
+    margin-left: auto;
 }
 
 @media screen and (max-width: 600px){
-    .filters-top{
-        flex-direction: column;
+    .filters-top-container{
+        overflow-x: scroll;
+        transition: var(--t-200ms-linear);
     }
 
-    .filters-top > div{
-        width: 100%;
+    .filters-top-container.active{
+        position: sticky;
+        left: 0;
+        top: 180px;
+        margin-left: -10px;
+        margin-top: -10px;
+        width: calc(100% + 20px);
+        border-radius: 0 !important;
+        box-shadow: 0 0 10px rgba(0 0 0 / 0.25);
+        z-index: 98;
     }
+
+    .filters-top{
+        width: 544px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .filters-order-button{
+        gap: 10px !important;
+    }
+
+    .filters-top .pagination-controls{
+        display: none;
+    }
+
+    /* .filters-top > div{
+        width: 100%;
+    } */
 
     .filters-top > div button{
         width: 100%;
