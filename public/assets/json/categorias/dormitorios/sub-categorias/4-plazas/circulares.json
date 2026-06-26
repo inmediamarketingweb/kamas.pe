@@ -1,0 +1,99 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "circulares",
+            "tamaño": "4 plazas",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/4-plazas/circulares/sarki/1/",
+            "nombre": "DORMITORIO CIRCULAR KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MOKI - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/circulares/4-plazas/sarki/1/",
+            "colores": "si",
+            "precioRegular": 6199,
+            "precioNormal": 5499,
+            "precioVenta": 2999,
+            "stock": 9,
+            "sku": "K365236N10",
+            "tipo-de-envio": "Gratis",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "línea": "Circular",
+                    "tamaño": "4 plazas",
+                    "medida": "220cm x 220cm",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Circular",
+                    "tamaño": "4 plazas",
+                    "medida": "220cm x 220cm",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "medida": "220cm x 220cm",
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De madera",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "medida": "220cm x 220cm",
+                            "resortes": "24 filas",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Algodón tejido en punto",
+                            "densidad-de-espuma": "18kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "refuerzos": "Centrales",
+                            "marco": "Sellado",
+                            "grosor": "30cm.",
+                            "soporte-de-peso": "90kg. por persona",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "medida": "220cm x 220cm",
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

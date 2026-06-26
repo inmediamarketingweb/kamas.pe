@@ -29,6 +29,11 @@
             "subcategoria": "Premium",
             "metaTitulo": "Dormitorios - Queen premium | Kamas",
             "ruta": "/productos/dormitorios/queen/premium/"
+        },
+        {
+            "subcategoria": "Circulares",
+            "metaTitulo": "Dormitorios - Circulares | Kamas",
+            "ruta": "/productos/dormitorios/queen/circulares/"
         }
     ]
 }
