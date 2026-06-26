@@ -34,6 +34,11 @@
             "subcategoria": "Nube",
             "metaTitulo": "Dormitorios - Nube | Kamas",
             "ruta": "/productos/dormitorios/king/cama-nube/"
+        },
+        {
+            "subcategoria": "Circulares",
+            "metaTitulo": "Dormitorios - Circulares | Kamas",
+            "ruta": "/productos/dormitorios/king/circulares/"
         }
     ]
 }

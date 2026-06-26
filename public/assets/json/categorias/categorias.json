@@ -144,6 +144,11 @@
                     "ruta": "/productos/camas-box-tarimas/?línea=europea"
                 },
                 {
+                    "subcategoria": "Circular",
+                    "metaTitulo": "Camas box tarimas - Circular | Kamas",
+                    "ruta": "/productos/camas-box-tarimas/?línea=circular"
+                },
+                {
                     "subcategoria": "Premium",
                     "metaTitulo": "Camas box tarimas - Premium | Kamas",
                     "ruta": "/productos/camas-box-tarimas/?línea=premium"
@@ -221,9 +226,9 @@
                     "ruta": "/productos/dormitorios/?línea=premium"
                 },
                 {
-                    "subcategoria": "Cama circular",
-                    "metaTitulo": "Dormitorios - Cama circular | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=cama-circular"
+                    "subcategoria": "Circular",
+                    "metaTitulo": "Dormitorios - Circular | Kamas",
+                    "ruta": "/productos/dormitorios/?línea=circular"
                 },
                 {
                     "subcategoria": "Ver todos",

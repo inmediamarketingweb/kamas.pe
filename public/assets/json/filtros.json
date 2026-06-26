@@ -149,6 +149,9 @@
                     },
                     {
                         "línea": "premium"
+                    },
+                    {
+                        "línea": "circular"
                     }
                 ]
             },
@@ -271,7 +274,7 @@
                         "línea": "premium"
                     },
                     {
-                        "línea": "Cama circular"
+                        "línea": "circular"
                     }
                 ]
             },
