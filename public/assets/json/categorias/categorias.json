@@ -134,6 +134,11 @@
                     "ruta": "/productos/camas-box-tarimas/?línea=americana"
                 },
                 {
+                    "subcategoria": "Cama nube",
+                    "metaTitulo": "Camas box tarimas - Cama nube | Kamas",
+                    "ruta": "/productos/camas-box-tarimas/?línea=cama-nube"
+                },
+                {
                     "subcategoria": "Europea",
                     "metaTitulo": "Camas box tarimas - Europeas | Kamas",
                     "ruta": "/productos/camas-box-tarimas/?línea=europea"
@@ -201,6 +206,11 @@
                     "ruta": "/productos/dormitorios/?línea=americana"
                 },
                 {
+                    "subcategoria": "Cama nube",
+                    "metaTitulo": "Dormitorios - Cama nube | Kamas",
+                    "ruta": "/productos/dormitorios/?línea=cama-nube"
+                },
+                {
                     "subcategoria": "Europeos",
                     "metaTitulo": "Dormitorios - Europeos | Kamas",
                     "ruta": "/productos/dormitorios/?línea=europea"
@@ -209,6 +219,11 @@
                     "subcategoria": "Premium",
                     "metaTitulo": "Dormitorios - Premium | Kamas",
                     "ruta": "/productos/dormitorios/?línea=premium"
+                },
+                {
+                    "subcategoria": "Cama circular",
+                    "metaTitulo": "Dormitorios - Cama circular | Kamas",
+                    "ruta": "/productos/dormitorios/?línea=cama-circular"
                 },
                 {
                     "subcategoria": "Ver todos",
