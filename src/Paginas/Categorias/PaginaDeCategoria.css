@@ -144,7 +144,7 @@
         justify-content: center;
         width: auto;
         height: 38px;
-        padding: 0 16px;
+        padding: 0 12px;
         transition: var(--t-200ms-linear);
         border-radius: 3px;
         border: 1px solid rgba(0 0 0 / 0.25);

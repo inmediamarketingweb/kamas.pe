@@ -28,6 +28,10 @@
     gap: 10px;
 }
 
+.filters-order-button{
+    justify-content: space-between !important;
+}
+
 .sale-button span,
 .delivery-free-button span,
 .filters-order-button > div span{
@@ -51,10 +55,10 @@
     transition: var(--t-200ms-linear);
 }
 
-.sale-button p,
+/* .sale-button p,
 .delivery-free-button p{
     font-weight: bold;
-}
+} */
 
 .delivery-free-button:hover span,
 .delivery-free-button:hover p,
@@ -183,8 +187,9 @@
 
 @media screen and (max-width: 600px){
     .filters-top-container{
-        overflow-x: scroll;
+        /* overflow-x: scroll; */
         transition: var(--t-200ms-linear);
+        /* padding: 10px 20px; */
     }
 
     .filters-top-container.active{
@@ -200,28 +205,33 @@
     }
 
     .filters-top{
-        width: 544px;
-        align-items: center;
-        justify-content: center;
+        display: grid;
+        grid-template-columns: auto auto auto 1fr;
+        position: relative;
+    }
+
+    .filters-order-container{
+        position: unset;
     }
 
     .filters-order-button{
-        gap: 10px !important;
+        width: 100%;
+        gap: 10px;
     }
 
     .filters-top .pagination-controls{
         display: none;
     }
 
-    /* .filters-top > div{
-        width: 100%;
-    } */
-
-    .filters-top > div button{
-        width: 100%;
+    .sale-button span,
+    .delivery-free-button span,
+    .filters-order-button > div span{
+        display: none;
     }
 
-    .filters-top > div select{
-        width: 100%;
+    .sale-button p,
+    .delivery-free-button p,
+    .filters-order-button > div p{
+        font-size: 11px;
     }
 }
