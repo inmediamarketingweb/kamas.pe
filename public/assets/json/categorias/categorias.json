@@ -75,23 +75,23 @@
             "medidas":[
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/"
+                    "ruta": "/productos/colchones/?tamaño=1-plaza-y-media"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/"
+                    "ruta": "/productos/colchones/?tamaño=2-plazas"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/colchones/queen/"
+                    "ruta": "/productos/colchones/?tamaño=queen"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/colchones/king/"
+                    "ruta": "/productos/colchones/?tamaño=king"
                 },
                 {
                     "medida": "4 plazas",
-                    "ruta": "/productos/colchones/4-plazas/"
+                    "ruta": "/productos/colchones/?tamaño=4-plazas"
                 },
                 {
                     "medida": "Ver todos",
@@ -157,19 +157,19 @@
             "medidas":[
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
+                    "ruta": "/productos/camas-box-tarimas/?tamaño=1-plaza-y-media"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/camas-box-tarimas/2-plazas/"
+                    "ruta": "/productos/camas-box-tarimas/?tamaño=2-plazas"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/camas-box-tarimas/queen/"
+                    "ruta": "/productos/camas-box-tarimas/?tamaño=queen"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/camas-box-tarimas/king/"
+                    "ruta": "/productos/camas-box-tarimas/?tamaño=king"
                 },
                 {
                     "medida": "Ver todos",
@@ -239,23 +239,23 @@
             "medidas":[
                 {
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/dormitorios/1-plaza-y-media/"
+                    "ruta": "/productos/dormitorios/?tamaño=1-plaza-y-media"
                 },
                 {
                     "medida": "2 plazas",
-                    "ruta": "/productos/dormitorios/2-plazas/"
+                    "ruta": "/productos/dormitorios/?tamaño=2-plazas"
                 },
                 {
                     "medida": "Queen",
-                    "ruta": "/productos/dormitorios/queen/"
+                    "ruta": "/productos/dormitorios/?tamaño=queen"
                 },
                 {
                     "medida": "King",
-                    "ruta": "/productos/dormitorios/king/"
+                    "ruta": "/productos/dormitorios/?tamaño=king"
                 },
                 {
                     "medida": "4 plazas",
-                    "ruta": "/productos/dormitorios/4-plazas/"
+                    "ruta": "/productos/dormitorios/?tamaño=4-plazas"
                 },
                 {
                     "medida": "Ver todos",
@@ -347,22 +347,22 @@
                 {
                     "id": 2,
                     "medida": "1 plaza y media",
-                    "ruta": "/productos/cabeceras/1-plaza-y-media/"
+                    "ruta": "/productos/cabeceras/?tamaño=1-plaza-y-media"
                 },
                 {
                     "id": 3,
                     "medida": "2 plazas",
-                    "ruta": "/productos/cabeceras/2-plazas/"
+                    "ruta": "/productos/cabeceras/?tamaño=2-plazas"
                 },
                 {
                     "id": 4,
                     "medida": "Queen",
-                    "ruta": "/productos/cabeceras/queen/"
+                    "ruta": "/productos/cabeceras/?tamaño=queen"
                 },
                 {
                     "id": 5,
                     "medida": "King",
-                    "ruta": "/productos/cabeceras/king/"
+                    "ruta": "/productos/cabeceras/?tamaño=king"
                 },
                 {
                     "id": 6,
