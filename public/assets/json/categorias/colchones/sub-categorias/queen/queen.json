@@ -6,9 +6,9 @@
             "ruta": "/productos/colchones/queen/rucay/1/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
-            "precioRegular": 1199,
-            "precioNormal": 999,
-            "precioVenta": 799,
+            "precioRegular": 1329,
+            "precioNormal": 1079,
+            "precioVenta": 699,
             "stock": 99,
             "sku": "K132CN10",
             "regalos":[
@@ -72,9 +72,9 @@
             "ruta": "/productos/colchones/queen/sarki/1/",
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/sarki/",
-            "precioRegular": 1299,
-            "precioNormal": 999,
-            "precioVenta": 699,
+            "precioRegular": 1499,
+            "precioNormal": 1229,
+            "precioVenta": 799,
             "stock": 99,
             "sku": "K133CN10",
             "regalos":{
@@ -85,7 +85,7 @@
                 {
                     "modelo-de-colchón": "Sarki",
                     "tamaño": "Queen",
-                    "linea-de-colchón": "Ortopédicos",
+                    "línea-de-colchón": "Ortopédicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -142,9 +142,9 @@
             "ruta": "/productos/colchones/queen/safynnte/1/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO SAFYNNTE QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/safynnte/",
-            "precioRegular": 1499,
-            "precioNormal": 1099,
-            "precioVenta": 799,
+            "precioRegular": 1799,
+            "precioNormal": 1379,
+            "precioVenta": 899,
             "stock": 99,
             "sku": "K136IN10",
             "regalos":[
@@ -157,8 +157,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "Queen",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Super ortopédicos"
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
@@ -180,8 +180,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "Queen",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Super ortopédicos",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Bonell"
                 }
             ],
@@ -207,9 +207,9 @@
             "ruta": "/productos/colchones/queen/der-prinz/1/",
             "nombre": "COLCHÓN KAMAS SUPER ORTOPÉDICO DER PRINZ QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
-            "precioRegular": 1499,
-            "precioNormal": 1299,
-            "precioVenta": 899,
+            "precioRegular": 1799,
+            "precioNormal": 1539,
+            "precioVenta": 999,
             "stock": 25,
             "sku": "K137N10",
             "incluye":[
@@ -278,8 +278,8 @@
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO THAMEO POCKET QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/",
             "precioRegular": 1999,
-            "precioNormal": 1499,
-            "precioVenta": 999,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
             "stock": 99,
             "sku": "K138N10",
             "regalos":[
@@ -336,13 +336,77 @@
         },
         {
             "categoria": "colchones",
+            "subcategoria": "nesie",
+            "ruta": "/productos/colchones/queen/nesie/1/",
+            "nombre": "COLCHÓN KAMAS HOTELERO NESIE QUEEN",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/",
+            "precioRegular": 2459,
+            "precioNormal": 1919,
+            "precioVenta": 1249,
+            "stock": 99,
+            "sku": "K134N10",
+            "regalos":[
+                {
+                    "texto": "2 almohadas",
+                    "foto": "/assets/imagenes/productos/almohadas.webp"
+                }
+            ],
+            "resumen-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "queen",
+                    "línea-de-colchón": "Hoteleros",
+                    "nivel-de-confort": "Muy firme"
+                }
+            ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/1/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/nesie/1/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/nesie/1/"
+                }
+            ],
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo-de-colchón": "Nesie",
+                    "tamaño": "queen",
+                    "línea-de-colchón": "Hoteleros",
+                    "nivel-de-confort": "Firme",
+                    "tipo-de-resorte": "Bonell"
+                }
+            ],
+            "descripcion":[
+                {
+                    "resortes": "17 filas en forma vertical",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Tela jacquard",
+                    "sistema": "Clásico",
+                    "refuerzos": "Centrales y laterales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "95kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        },
+        {
+            "categoria": "colchones",
             "subcategoria": "ramat",
             "ruta": "/productos/colchones/queen/ramat/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO RAMAT QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/ramat/",
-            "precioRegular": 1899,
-            "precioNormal": 1599,
-            "precioVenta": 1099,
+            "precioRegular": 2399,
+            "precioNormal": 2079,
+            "precioVenta": 1349,
             "stock": 99,
             "sku": "K135MCN10",
             "incluye":[
@@ -402,77 +466,13 @@
         },
         {
             "categoria": "colchones",
-            "subcategoria": "nesie",
-            "ruta": "/productos/colchones/queen/nesie/1/",
-            "nombre": "COLCHÓN KAMAS HOTELERO NESIE QUEEN",
-            "fotos": "/assets/imagenes/productos/colchones/nesie/",
-            "precioRegular": 1999,
-            "precioNormal": 1559,
-            "precioVenta": 1049,
-            "stock": 99,
-            "sku": "K134N10",
-            "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "modelo-de-colchón": "Nesie",
-                    "tamaño": "queen",
-                    "línea-de-colchón": "Hoteleros",
-                    "nivel-de-confort": "Muy firme"
-                }
-            ],
-            "tamaños-disponibles":[
-                {
-                    "nombre": "1 plaza y media",
-                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/1/"
-                },
-                {
-                    "nombre": "2 plazas",
-                    "ruta": "/productos/colchones/2-plazas/nesie/1/"
-                },
-                {
-                    "nombre": "King",
-                    "ruta": "/productos/colchones/king/nesie/1/"
-                }
-            ],
-            "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
-                {
-                    "modelo-de-colchón": "Nesie",
-                    "tamaño": "queen",
-                    "línea-de-colchón": "Hoteleros",
-                    "nivel-de-confort": "Firme",
-                    "tipo-de-resorte": "Bonell"
-                }
-            ],
-            "descripcion":[
-                {
-                    "resortes": "17 filas en forma vertical",
-                    "material-de-resorte": "Acero templado",
-                    "tela": "Tela jacquard",
-                    "sistema": "Clásico",
-                    "refuerzos": "Centrales y laterales",
-                    "densidad-de-la-espuma": "20kg/m3",
-                    "grosor": "30cm",
-                    "tipo-de-uso": "Ambos lados",
-                    "soporte-de-peso": "95kg. por persona",
-                    "garantía": "6 años"
-                }
-            ]
-        },
-        {
-            "categoria": "colchones",
             "subcategoria": "norole",
             "ruta": "/productos/colchones/queen/norole/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/norole/",
-            "precioRegular": 2499,
-            "precioNormal": 1999,
-            "precioVenta": 1249,
+            "precioRegular": 2689,
+            "precioNormal": 2309,
+            "precioVenta": 1499,
             "stock": 99,
             "sku": "K139MFN10",
             "regalos":[
@@ -536,9 +536,9 @@
             "ruta": "/productos/colchones/queen/thaleo-pocket/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO THALEO POCKET QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/",
-            "precioRegular": 1999,
-            "precioNormal": 1799,
-            "precioVenta": 1349,
+            "precioRegular": 2899,
+            "precioNormal": 2539,
+            "precioVenta": 1649,
             "stock": 99,
             "sku": "K1310N10",
             "regalos":[
@@ -600,9 +600,9 @@
             "ruta": "/productos/colchones/queen/konig/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
-            "precioRegular": 3099,
-            "precioNormal": 2699,
-            "precioVenta": 1499,
+            "precioRegular": 3349,
+            "precioNormal": 2849,
+            "precioVenta": 1849,
             "stock": 99,
             "sku": "K1311MFN10",
             "incluye":[
@@ -667,9 +667,9 @@
             "ruta": "/productos/colchones/queen/yurmale/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO YURMALE QUEEN",
             "fotos": "/assets/imagenes/productos/colchones/yurmale/",
-            "precioRegular": 3499,
-            "precioNormal": 2749,
-            "precioVenta": 1849,
+            "precioRegular": 3889,
+            "precioNormal": 3229,
+            "precioVenta": 2099,
             "stock": 99,
             "sku": "K1312N10",
             "regalos":[

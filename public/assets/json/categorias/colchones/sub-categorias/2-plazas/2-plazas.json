@@ -6,9 +6,9 @@
             "ruta": "/productos/colchones/2-plazas/adel/1/",
             "nombre": "COLCHÓN KAMAS SEMI ORTOPÉDICO ADEL 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/adel/",
-            "precioRegular": 519,
-            "precioNormal": 499,
-            "precioVenta": 349,
+            "precioRegular": 549,
+            "precioNormal": 459,
+            "precioVenta": 299,
             "stock": 99,
             "sku": "K121CN10",
             "regalos":[
@@ -63,9 +63,9 @@
             "ruta": "/productos/colchones/2-plazas/rucay/1/",
             "nombre": "COLCHÓN KAMAS ANÁTOMICO RUCAY 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/rucay/",
-            "precioRegular": 699,
-            "precioNormal": 649,
-            "precioVenta": 449,
+            "precioRegular": 619,
+            "precioNormal": 539,
+            "precioVenta": 349,
             "stock": 99,
             "sku": "K122CN10",
             "regalos":[
@@ -78,7 +78,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicoss",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -105,7 +105,7 @@
                 {
                     "modelo-de-colchón": "Rucay",
                     "tamaño": "2 plazas",
-                    "línea-de-colchón": "Anátomicoss",
+                    "línea-de-colchón": "Anátomicos",
                     "nivel-de-confort": "Confortable",
                     "tipo-de-resorte": "Bonell"
                 }
@@ -129,8 +129,8 @@
             "nombre": "COLCHÓN KAMAS ORTOPÉDICO SARKI 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/sarki/",
             "precioRegular": 749,
-            "precioNormal": 699,
-            "precioVenta": 499,
+            "precioNormal": 619,
+            "precioVenta": 399,
             "stock": 99,
             "sku": "K123CN10",
             "regalos":{
@@ -141,7 +141,7 @@
                 {
                     "modelo-de-colchón": "Sarki",
                     "tamaño": "2 plazas",
-                    "linea-de-colchón": "Ortopédicos",
+                    "línea-de-colchón": "Ortopédicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -195,9 +195,9 @@
             "ruta": "/productos/colchones/2-plazas/safynnte/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO SAFYNNTE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/safynnte/",
-            "precioRegular": 999,
-            "precioNormal": 699,
-            "precioVenta": 549,
+            "precioRegular": 749,
+            "precioNormal": 689,
+            "precioVenta": 449,
             "stock": 99,
             "sku": "K126IN10",
             "regalos":[
@@ -210,8 +210,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "2 plazas",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Súper ortopédicos"
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
@@ -233,8 +233,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "2 plazas",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Súper ortopédicos",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Bonell"
                 }
             ],
@@ -250,15 +250,15 @@
                 }
             ]
         },
-        {
+        { 
             "categoria": "colchones",
             "modelo": "der prinz",
             "ruta": "/productos/colchones/2-plazas/der-prinz/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO DER PRINZ 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/der-prinz/",
-            "precioRegular": 999,
-            "precioNormal": 899,
-            "precioVenta": 599,
+            "precioRegular": 849,
+            "precioNormal": 769,
+            "precioVenta": 499,
             "stock": 31,
             "sku": "K127N10",
             "incluye":[
@@ -322,8 +322,8 @@
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO THAMEO POCKET 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/",
             "precioRegular": 1099,
-            "precioNormal": 999,
-            "precioVenta": 699,
+            "precioNormal": 849,
+            "precioVenta": 549,
             "stock": 99,
             "sku": "K128N10",
             "regalos":[
@@ -384,9 +384,9 @@
             "ruta": "/productos/colchones/2-plazas/ramat/1/",
             "nombre": "COLCHÓN KAMAS SÚPER ORTOPÉDICO RAMAT 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/ramat/",
-            "precioRegular": 1299,
-            "precioNormal": 999,
-            "precioVenta": 749,
+            "precioRegular": 1249,
+            "precioNormal": 1079,
+            "precioVenta": 699,
             "stock": 99,
             "sku": "K125MCN10",
             "incluye":[
@@ -446,9 +446,9 @@
             "ruta": "/productos/colchones/2-plazas/nesie/1/",
             "nombre": "COLCHÓN KAMAS HOTELERO NESIE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/nesie/",
-            "precioRegular": 1299,
-            "precioNormal": 899,
-            "precioVenta": 699,
+            "precioRegular": 1319,
+            "precioNormal": 1079,
+            "precioVenta": 599,
             "stock": 99,
             "sku": "K124N10",
             "regalos":[
@@ -507,9 +507,9 @@
             "ruta": "/productos/colchones/2-plazas/norole/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO NOROLE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/norole/",
-            "precioRegular": 1899,
-            "precioNormal": 1499,
-            "precioVenta": 949,
+            "precioRegular": 1349,
+            "precioNormal": 1229,
+            "precioVenta": 799,
             "stock": 99,
             "sku": "K129MFN10",
             "regalos":[
@@ -568,9 +568,9 @@
             "ruta": "/productos/colchones/2-plazas/thaleo-pocket/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO THALEO POCKET 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/",
-            "precioRegular": 1599,
-            "precioNormal": 1199,
-            "precioVenta": 999,
+            "precioRegular": 1559,
+            "precioNormal": 1379,
+            "precioVenta": 899,
             "stock": 99,
             "sku": "K1210N10",
             "regalos":[
@@ -632,9 +632,9 @@
             "ruta": "/productos/colchones/2-plazas/konig/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO KONIG 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/konig/",
-            "precioRegular": 1999,
-            "precioNormal": 1699,
-            "precioVenta": 1099,
+            "precioRegular": 1889,
+            "precioNormal": 1539,
+            "precioVenta": 999,
             "stock": 99,
             "sku": "K1211MFN10",
             "incluye":[
@@ -694,9 +694,9 @@
             "ruta": "/productos/colchones/2-plazas/yurmale/1/",
             "nombre": "COLCHÓN KAMAS EXTRA ORTOPÉDICO YURMALE 2 PLAZAS",
             "fotos": "/assets/imagenes/productos/colchones/yurmale/",
-            "precioRegular": 1999,
-            "precioNormal": 1509,
-            "precioVenta": 1199,
+            "precioRegular": 2499,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
             "stock": 99,
             "sku": "K1212N10",
             "regalos":[
