@@ -87,7 +87,7 @@
                 {
                     "modelo-de-colchón": "Sarki",
                     "tamaño": "King",
-                    "linea-de-colchón": "Ortopédicos",
+                    "línea-de-colchón": "Ortopédicos",
                     "nivel-de-confort": "Confortable"
                 }
             ],
@@ -160,8 +160,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "King",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Súper ortopédicos"
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio"
                 }
             ],
             "tamaños-disponibles":[
@@ -183,8 +183,8 @@
                 {
                     "modelo-de-colchón": "Safynnte",
                     "tamaño": "King",
-                    "linea-de-colchón": "Intermedio",
-                    "nivel-de-confort": "Súper ortopédicos",
+                    "línea-de-colchón": "Súper ortopédicos",
+                    "nivel-de-confort": "Intermedio",
                     "tipo-de-resorte": "Bonell"
                 }
             ],
