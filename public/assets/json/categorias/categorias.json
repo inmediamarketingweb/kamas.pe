@@ -129,14 +129,14 @@
                     "ruta": "/productos/camas-box-tarimas/?línea=clásica"
                 },
                 {
-                    "subcategoria": "Americana",
+                    "subcategoria": "Americanas",
                     "metaTitulo": "Camas box tarimas - Americanas | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/?línea=americana"
+                    "ruta": "/productos/camas-box-tarimas/?línea=americanas"
                 },
                 {
-                    "subcategoria": "Cama nube",
-                    "metaTitulo": "Camas box tarimas - Cama nube | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/?línea=cama-nube"
+                    "subcategoria": "Nube",
+                    "metaTitulo": "Camas box tarimas - Nube | Kamas",
+                    "ruta": "/productos/camas-box-tarimas/?línea=nube"
                 },
                 {
                     "subcategoria": "Europea",

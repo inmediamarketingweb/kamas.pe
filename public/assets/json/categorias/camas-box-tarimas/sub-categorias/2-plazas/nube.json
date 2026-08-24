@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "dormitorios",
+            "línea": "nube",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/dormitorios/2-plazas/nube/1/",
+            "nombre": "CAMA BOX TARIMA 2 PLAZAS RESPALDAR MODELO NUBE - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/nube/2-plazas/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1399,
+            "precioVenta": 899,
+            "stock": 23,
+            "sku": "K3322110N10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "nube",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "dormitorios",
+            "línea": "nube",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/dormitorios/2-plazas/nube/2/",
+            "nombre": "CAMA BOX TARIMA 2 PLAZAS MODELO NUBE - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/nube/2-plazas/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1499,
+            "precioVenta": 1099,
+            "stock": 23,
+            "sku": "K3322110N11",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "nube",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        }
+    ]
+}

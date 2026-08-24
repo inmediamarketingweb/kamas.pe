@@ -14,14 +14,6 @@
             "stock": 15,
             "sku": "K224112N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -29,37 +21,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -77,14 +41,6 @@
             "stock": 15,
             "sku": "K224112N11",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -92,37 +48,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -140,14 +68,6 @@
             "stock": 15,
             "sku": "K224112N12",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -155,37 +75,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -203,14 +95,6 @@
             "stock": 15,
             "sku": "K2241113N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -218,38 +102,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -267,14 +122,6 @@
             "stock": 15,
             "sku": "K2241113N11",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -285,35 +132,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -331,14 +149,6 @@
             "stock": 15,
             "sku": "K224123N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -346,37 +156,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -394,14 +176,6 @@
             "stock": 15,
             "sku": "K224123N11",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -409,37 +183,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -457,14 +203,6 @@
             "stock": 15,
             "sku": "K224123N12",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -472,37 +210,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -520,14 +230,6 @@
             "stock": 15,
             "sku": "K224123N13",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -535,37 +237,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -583,14 +257,6 @@
             "stock": 15,
             "sku": "K224123N14",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -598,37 +264,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -646,14 +284,6 @@
             "stock": 15,
             "sku": "K224123N15",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -661,37 +291,9 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -709,14 +311,6 @@
             "stock": 15,
             "sku": "K224123N17",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Lineal"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -727,35 +321,6 @@
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Lineal"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -773,14 +338,6 @@
             "stock": 15,
             "sku": "K224225N12",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -791,35 +348,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -837,14 +365,6 @@
             "stock": 15,
             "sku": "K224225N14",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -855,35 +375,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -901,14 +392,6 @@
             "stock": 15,
             "sku": "K224225N15",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -919,35 +402,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -965,14 +419,6 @@
             "stock": 15,
             "sku": "K224225N16",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -983,35 +429,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -1029,14 +446,6 @@
             "stock": 15,
             "sku": "K224125N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -1047,35 +456,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -1093,14 +473,6 @@
             "stock": 15,
             "sku": "K222113N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -1111,35 +483,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -1157,14 +500,6 @@
             "stock": 15,
             "sku": "K222113N11",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Americana",
@@ -1172,38 +507,63 @@
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
-            ],
-            "descripciones":[
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "king",
+            "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/22/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING CON 4 CAJONES + CABECERA PEDESTAL WELO - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/bloques/welo/1/",
+            "colores": "si",
+            "precioRegular": 2699,
+            "precioNormal": 2099,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K222116N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas con cajones",
+            "tamaño": "king",
+            "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/23/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - TEJIDO LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/americanas/emperatriz/1/",
+            "colores": "si",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K222116N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
                 }
             ]
         }
