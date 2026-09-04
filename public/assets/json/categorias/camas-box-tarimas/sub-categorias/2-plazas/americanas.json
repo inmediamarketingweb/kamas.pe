@@ -2328,7 +2328,7 @@
             "precioNormal": 1649,
             "precioVenta": 1219,
             "stock": 12,
-            "sku": "K222221N10",
+            "sku": "K222221NX10",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2370,7 +2370,7 @@
             "precioNormal": 1649,
             "precioVenta": 1219,
             "stock": 12,
-            "sku": "K222221N11",
+            "sku": "K222221NX11",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2412,7 +2412,7 @@
             "precioNormal": 759,
             "precioVenta": 529,
             "stock": 12,
-            "sku": "K222221N14",
+            "sku": "K222221NX14",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2447,7 +2447,7 @@
             "precioNormal": 759,
             "precioVenta": 529,
             "stock": 12,
-            "sku": "K222221N16",
+            "sku": "K222221NX16",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2482,7 +2482,7 @@
             "precioNormal": 709,
             "precioVenta": 529,
             "stock": 12,
-            "sku": "K222221N17",
+            "sku": "K222221NX17",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2517,7 +2517,7 @@
             "precioNormal": 709,
             "precioVenta": 529,
             "stock": 12,
-            "sku": "K222221N18",
+            "sku": "K222221NX18",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2552,7 +2552,7 @@
             "precioNormal": 709,
             "precioVenta": 629,
             "stock": 12,
-            "sku": "K222221N19",
+            "sku": "K222221NX19",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2587,7 +2587,7 @@
             "precioNormal": 709,
             "precioVenta": 529,
             "stock": 12,
-            "sku": "K222221N20",
+            "sku": "K222221NX20",
             "tipo-de-envio": "Gratis",
             "resumen-del-producto":[
                 {
@@ -2622,7 +2622,7 @@
             "precioNormal": 1059,
             "precioVenta": 829,
             "stock": 12,
-            "sku": "K222221N21",
+            "sku": "K222221NX21",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2648,7 +2648,7 @@
             "precioNormal": 1299,
             "precioVenta": 799,
             "stock": 12,
-            "sku": "K222221N22",
+            "sku": "K222221NX22",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2674,7 +2674,7 @@
             "precioNormal": 1299,
             "precioVenta": 799,
             "stock": 12,
-            "sku": "K222221N23",
+            "sku": "K222221NX23",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2700,7 +2700,7 @@
             "precioNormal": 1299,
             "precioVenta": 799,
             "stock": 12,
-            "sku": "K222221N24",
+            "sku": "K222221NX24",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2726,7 +2726,7 @@
             "precioNormal": 1399,
             "precioVenta": 899,
             "stock": 12,
-            "sku": "K222221N25",
+            "sku": "K222221NX25",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2752,7 +2752,7 @@
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 12,
-            "sku": "K222221N26",
+            "sku": "K222221NX26",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2778,7 +2778,7 @@
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 12,
-            "sku": "K222221N27",
+            "sku": "K222221NX27",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2804,7 +2804,7 @@
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 12,
-            "sku": "K222221N28",
+            "sku": "K222221NX28",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2830,7 +2830,7 @@
             "precioNormal": 1099,
             "precioVenta": 699,
             "stock": 12,
-            "sku": "K222221N29",
+            "sku": "K222221NX29",
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
@@ -2842,6 +2842,238 @@
                     "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "sin Brazos",
                     "modelo-de-cabecera": "veluto"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/63/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/1/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con osito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/64/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/2/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con perrito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/65/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL CON T-REX + ESCALERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/3/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/66/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL CON DINO + ESCALERA - CHAMPAGNE ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/4/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/67/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL RATON - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/5/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/68/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/6/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/69/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/7/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas-box-tarimas/2-plazas/americanas/70/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL ARCOIRIS + ENCOFRADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/8/",
+            "colores": "si",
+            "precioRegular": 2299,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K222221NX22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "arcoiris"
                 }
             ]
         }

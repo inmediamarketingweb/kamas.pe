@@ -1,0 +1,508 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/1/",
+            "nombre": "CABECERA AEREA KING EGYPT - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/egypt/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N10",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/2/",
+            "nombre": "CABECERA AEREA KING - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/escalera/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N11",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/3/",
+            "nombre": "CABECERA AEREA KING EXPLORER - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/explorer/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N12",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "explorer"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/4/",
+            "nombre": "CABECERA AEREA KING GAVIOTA 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/gaviota-2/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N13",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "gaviota 2"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/5/",
+            "nombre": "CABECERA AEREA KING GAVIOTA 2 - TEJIDO AZUL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/gaviota-2/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N14",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "gaviota 2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/6/",
+            "nombre": "CABECERA AEREA KING MOSTER - TEJIDO CELESTE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/moster/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N15",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "moster"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/7/",
+            "nombre": "CABECERA AEREA KING PANAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/panal-2/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N16",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "panal 2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/8/",
+            "nombre": "CABECERA AEREA KING PRIME - HUESO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/prime/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N17",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "prime"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/9/",
+            "nombre": "CABECERA AEREA KING REPTILIAN - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/reptilian/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N19",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/10/",
+            "nombre": "CABECERA AEREA KING SPIDER - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/spider/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N20",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/11/",
+            "nombre": "CABECERA AEREA KING SPIDER - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/spider/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N21",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/12/",
+            "nombre": "CABECERA AEREA KING SIDNEY - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/sydnei/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N22",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "sidney"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/13/",
+            "nombre": "CABECERA AEREA KING SIDNEY - ARENA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/sydnei/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N23",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "sidney"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/14/",
+            "nombre": "CABECERA AEREA KING SIDNEY - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/sydnei/3/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N24",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "sidney"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/15/",
+            "nombre": "CABECERA AEREA KING TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/tortun/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N25",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/16/",
+            "nombre": "CABECERA AEREA KING TORTUN - IKER VERDE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/tortun/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N26",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/17/",
+            "nombre": "CABECERA AEREA KING TURMALINA 3 - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/turmalina-3/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N27",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "turmalina"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/18/",
+            "nombre": "CABECERA AEREA KING VIENA - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/viena/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N28",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "viena"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/19/",
+            "nombre": "CABECERA AEREA KING VIENA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/viena/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N29",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "viena"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/20/",
+            "nombre": "CABECERA AEREA KING VITORIA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/vitoria/1/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N30",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "vitoria"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoria": "cabeceras",
+            "subcategoria": "aereas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas/21/",
+            "nombre": "CABECERA AEREA KING VITORIA - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas/bloques/vitoria/2/",
+            "precioRegular": 699,
+            "precioNormal": 549,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K54050N31",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "vitoria"
+                }
+            ]
+        }
+    ]
+}

@@ -6,6 +6,11 @@
             "ruta": "/productos/dormitorios/2-plazas/clasicos/"
         },
         {
+            "subcategoria": "Premium",
+            "metaTitulo": "Dormitorios - 2 plazas premium | Kamas",
+            "ruta": "/productos/dormitorios/2-plazas/premium/"
+        },
+        {
             "subcategoria": "Americanos",
             "metaTitulo": "Dormitorios - 2 plazas americanos | Kamas",
             "ruta": "/productos/dormitorios/2-plazas/americanos/"

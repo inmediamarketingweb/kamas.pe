@@ -15,7 +15,9 @@
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/americanas-con-cajones.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/nube.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/europeas.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/2-plazas/premium.json",
 
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/premium.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/americanas.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/americanas-con-cajones.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/queen/europeas.json",
@@ -24,11 +26,13 @@
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/americanas-con-cajones.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/europeas.json",
         "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/europeas-con-cajones.json",
+        "/assets/json/categorias/camas-box-tarimas/sub-categorias/king/premium.json",
 
         "/assets/json/categorias/dormitorios/sub-categorias/1-plaza-y-media/americanos.json",
         "/assets/json/categorias/dormitorios/sub-categorias/1-plaza-y-media/americanos-con-cajones.json",
 
         "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/clasicos.json",
+        "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/premium.json",
         "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/americanos.json",
         "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/americanos-con-cajones.json",
         "/assets/json/categorias/dormitorios/sub-categorias/2-plazas/europeos.json",
@@ -66,8 +70,9 @@
         "/assets/json/categorias/cabeceras/sub-categorias/queen/pedestales.json",
         "/assets/json/categorias/cabeceras/sub-categorias/queen/aereas-con-patas.json",
 
-        "/assets/json/categorias/cabeceras/sub-categorias/king/pedestales.json",
         "/assets/json/categorias/cabeceras/sub-categorias/king/aereas-con-patas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/king/aereas.json",
+        "/assets/json/categorias/cabeceras/sub-categorias/king/pedestales.json",
 
         "/assets/json/categorias/sofas/sub-categorias/butacas/clasicas.json",
         "/assets/json/categorias/sofas/sub-categorias/juegos-de-sala/3-2-1.json",
