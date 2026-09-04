@@ -1,0 +1,221 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/1/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/1/", 
+            "colores": "si",
+            "precioRegular": 4999,
+            "precioNormal": 4399,
+            "precioVenta": 3299,
+            "stock": 13,
+            "sku": "K3227N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/2/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/2/", 
+            "colores": "si",
+            "precioRegular": 5199,
+            "precioNormal": 4499,
+            "precioVenta": 3399,
+            "stock": 13,
+            "sku": "K3227N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/3/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL LINEAL + MUEBLE 2 CAJONES + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/3/", 
+            "colores": "si",
+            "precioRegular": 5299,
+            "precioNormal": 4599,
+            "precioVenta": 3499,
+            "stock": 13,
+            "sku": "K3227N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/4/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL CORONAS + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/4/", 
+            "colores": "si",
+            "precioRegular": 5299,
+            "precioNormal": 4599,
+            "precioVenta": 3499,
+            "stock": 13,
+            "sku": "K3227N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/5/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/5/", 
+            "colores": "si",
+            "precioRegular": 6499,
+            "precioNormal": 5999,
+            "precioVenta": 3999,
+            "stock": 13,
+            "sku": "K3227N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/6/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/6/", 
+            "colores": "si",
+            "precioRegular": 5999,
+            "precioNormal": 4999,
+            "precioVenta": 3599,
+            "stock": 13,
+            "sku": "K3227N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/2-plazas/sarki/premium/7/",
+            "nombre": "DORMITORIO 2 PLAZAS CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + MUEBLE + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/2-plazas/sarki/premium/7/",
+            "colores": "si",
+            "precioRegular": 6199,
+            "precioNormal": 5599,
+            "precioVenta": 4199,
+            "stock": 13,
+            "sku": "K3227N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "2 plazas",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

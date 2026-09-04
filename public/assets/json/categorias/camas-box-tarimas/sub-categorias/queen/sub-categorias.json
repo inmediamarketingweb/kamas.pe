@@ -6,6 +6,11 @@
             "ruta": "/productos/camas-box-tarimas/queen/clasicas/"
         },
         {
+            "subcategoria": "Premium",
+            "metaTitulo": "Cama box tarimas - Queen premium | Kamas",
+            "ruta": "/productos/camas-box-tarimas/queen/premium/"
+        },
+        {
             "subcategoria": "Americanas",
             "metaTitulo": "Cama box tarimas - Queen americanas | Kamas",
             "ruta": "/productos/camas-box-tarimas/queen/americanas/"
