@@ -156,6 +156,10 @@
             ],
             "medidas":[
                 {
+                    "medida": "1 plaza",
+                    "ruta": "/productos/camas-box-tarimas/?tamaño=1-plaza"
+                },
+                {
                     "medida": "1 plaza y media",
                     "ruta": "/productos/camas-box-tarimas/?tamaño=1-plaza-y-media"
                 },
