@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicas",
+            "metaTitulo": "Cama box tarimas - 1 plaza clásicas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama box tarimas - 1 plaza americanas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama box tarimas - 1 plaza americanas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama box tarimas - 1 plaza europeas | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama box tarimas - 1 plaza europeas con cajones | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/europeas-con-cajones/"
+        }
+    ]
+}

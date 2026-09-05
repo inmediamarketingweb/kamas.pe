@@ -1,45 +1,75 @@
 import { useState, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
+
 import './Top.css';
 
 function Top({
-    envioGratis = false,
-    setEnvioGratis = () => {},
-    enOferta = false,
-    setEnOferta = () => {},
-    sortOption = '',
-    setSortOption = () => {},
     currentPage = 1,
     totalPages = 1,
     onPageChange = () => {},
     getVisiblePages = () => [],
     onToggleFilters = () => {},
 }) {
+    const [searchParams, setSearchParams] = useSearchParams();
     const [isOrderMenuOpen, setIsOrderMenuOpen] = useState(false);
     const [isScrollActive, setIsScrollActive] = useState(false);
+    const envioGratis = searchParams.get('envio-gratis') === 'si';
+    const enOferta = searchParams.get('en-oferta') === 'si';
+    const sortOption = searchParams.get('orden') || '';
+    const updateFilter = (key, value) => {
+        const newParams = new URLSearchParams(searchParams);
+        
+        if (value === '' || value === false) {
+            newParams.delete(key);
+        } else {
+            if (value === true) {
+                newParams.set(key, 'si');
+            } else {
+                newParams.set(key, value);
+            }
+        }
+
+        newParams.delete('page');
+        setSearchParams(newParams);
+        onPageChange(1);
+    };
 
     const handleSortChange = (value) => {
-        setSortOption(value);
+        updateFilter('orden', value);
         setIsOrderMenuOpen(false);
+    };
+
+    const toggleEnvioGratis = () => {
+        updateFilter('envio-gratis', !envioGratis);
+    };
+
+    const toggleEnOferta = () => {
+        updateFilter('en-oferta', !enOferta);
+    };
+
+    const handlePageChange = (page) => {
+        if (page >= 1 && page <= totalPages) {
+            const newParams = new URLSearchParams(searchParams);
+            newParams.set('page', page);
+            setSearchParams(newParams);
+            onPageChange(page);
+        }
     };
 
     const getSortLabel = () => {
         switch(sortOption) {
-            case 'precio-desc':
+            case 'mayor-a-menor':
                 return 'Mayor a menor precio';
-            case 'precio-asc':
+            case 'menor-a-mayor':
                 return 'Menor a mayor precio';
             default:
-                return 'Más relevantes';
+                return 'Ordenar por';
         }
     };
 
     useEffect(() => {
         const handleScroll = () => {
-            if (window.scrollY > 0) {
-                setIsScrollActive(true);
-            } else {
-                setIsScrollActive(false);
-            }
+            setIsScrollActive(window.scrollY > 0);
         };
 
         window.addEventListener('scroll', handleScroll);
@@ -57,23 +87,20 @@ function Top({
                     <span className="material-symbols-outlined">tune</span>
                 </button>
 
-                <button type='button' className={`delivery-free-button d-flex filter-button ${envioGratis ? 'active' : ''}`} onClick={() => setEnvioGratis(!envioGratis)}>
+                <button type='button' className={`delivery-free-button d-flex filter-button ${envioGratis ? 'active' : ''}`} onClick={toggleEnvioGratis}>
                     <span className="material-symbols-outlined">delivery_truck_speed</span>
                     <span className="material-symbols-outlined check">close</span>
                     <p>Envío gratis</p>
                 </button>
 
-                <button type='button' className={`sale-button d-flex filter-button ${enOferta ? 'active' : ''}`} onClick={() => setEnOferta(!enOferta)}>
+                <button type='button' className={`sale-button d-flex filter-button ${enOferta ? 'active' : ''}`} onClick={toggleEnOferta}>
                     <span className="material-symbols-outlined">local_offer</span>
                     <span className="material-symbols-outlined check">close</span>
                     <p>En oferta</p>
                 </button>
 
                 <div className='filters-order-container'>
-                    <button 
-                        className={`filters-order-button ${isOrderMenuOpen ? 'active' : ''}`}
-                        onClick={() => setIsOrderMenuOpen(!isOrderMenuOpen)}
-                    >
+                    <button className={`filters-order-button ${isOrderMenuOpen ? 'active' : ''}`} onClick={() => setIsOrderMenuOpen(!isOrderMenuOpen)}>
                         <div className='d-flex-center-center'>
                             <span className="material-symbols-outlined sync_alt">sync_alt</span>
                             <p>{getSortLabel()}</p>
@@ -85,29 +112,17 @@ function Top({
                     {isOrderMenuOpen && (
                         <ul className={`filters-order-list ${isOrderMenuOpen ? 'active' : ''}`}>
                             <li>
-                                <button 
-                                    type='button' 
-                                    className={sortOption === '' ? 'active' : ''}
-                                    onClick={() => handleSortChange('')}
-                                >
-                                    <p>Más relevantes</p>
+                                <button type='button' className={sortOption === '' ? 'active' : ''} onClick={() => handleSortChange('')}>
+                                    <p>Ordenar por</p>
                                 </button>
                             </li>
                             <li>
-                                <button 
-                                    type='button' 
-                                    className={sortOption === 'precio-desc' ? 'active' : ''}
-                                    onClick={() => handleSortChange('precio-desc')}
-                                >
+                                <button type='button' className={sortOption === 'mayor-a-menor' ? 'active' : ''} onClick={() => handleSortChange('mayor-a-menor')}>
                                     <p>Mayor a menor precio</p>
                                 </button>
                             </li>
                             <li>
-                                <button 
-                                    type='button' 
-                                    className={sortOption === 'precio-asc' ? 'active' : ''}
-                                    onClick={() => handleSortChange('precio-asc')}
-                                >
+                                <button type='button' className={sortOption === 'menor-a-mayor' ? 'active' : ''} onClick={() => handleSortChange('menor-a-mayor')}>
                                     <p>Menor a mayor precio</p>
                                 </button>
                             </li>
@@ -118,34 +133,20 @@ function Top({
                 {totalPages > 1 && (
                     <div className="pagination-controls">
                         <div className="d-flex-center-center gap-5">
-                            <button 
-                                className="pagination-arrow" 
-                                onClick={() => onPageChange(currentPage - 1)} 
-                                disabled={currentPage === 1}
-                            >
+                            <button className="pagination-arrow" onClick={() => handlePageChange(currentPage - 1)} disabled={currentPage === 1}>
                                 <span className="material-symbols-outlined">chevron_left</span>
                                 <p>Anterior</p>
                             </button>
 
                             {getVisiblePages().map((page, index) => 
                                 typeof page === 'number' ? (
-                                    <button 
-                                        key={index} 
-                                        className={`pagination-page ${currentPage === page ? 'active' : ''}`} 
-                                        onClick={() => onPageChange(page)}
-                                    >
-                                        {page}
-                                    </button>
+                                    <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
                                 ) : (
                                     <span key={index} className="pagination-ellipsis">...</span>
                                 )
                             )}
 
-                            <button 
-                                className="pagination-arrow" 
-                                onClick={() => onPageChange(currentPage + 1)} 
-                                disabled={currentPage === totalPages}
-                            >
+                            <button className="pagination-arrow" onClick={() => handlePageChange(currentPage + 1)} disabled={currentPage === totalPages}>
                                 <p>Siguiente</p>
                                 <span className="material-symbols-outlined">chevron_right</span>
                             </button>

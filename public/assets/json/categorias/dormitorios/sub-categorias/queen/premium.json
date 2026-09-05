@@ -10,7 +10,7 @@
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL + PIECERA +  2 VELADORES",
             "fotos": "/assets/imagenes/productos/dormitorios/premium/cedro/sarki/1/", 
             "precioRegular": 5399,
-            "precioNormal": 4999,
+            "precioNormal": 5999,
             "precioVenta": 4099,
             "stock": 10,
             "sku": "K353237N10",
@@ -1053,6 +1053,96 @@
                             "garantía": "2 años"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "queen",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/queen/sarki/premium/13/",
+            "nombre": "DORMITORIO QUEEN CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + MUEBLE + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/queen/sarki/premium/1/",
+            "precioRegular": 8399,
+            "precioNormal": 7499,
+            "precioVenta": 5199,
+            "stock": 13,
+            "sku": "K353237N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "queen",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/queen/sarki/premium/14/",
+            "nombre": "DORMITORIO QUEEN CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + MUEBLE TAPIZADO + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/queen/sarki/premium/2/",
+            "precioRegular": 8499,
+            "precioNormal": 7399,
+            "precioVenta": 5199,
+            "stock": 13,
+            "sku": "K353237N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "queen",
+            "modelo": "sarki",
+            "linea": "premium",
+            "ruta": "/productos/dormitorios/queen/sarki/premium/15/",
+            "nombre": "DORMITORIO QUEEN CEDRO + COLCHON KAMAS SARKI + CABECERA PEDESTAL + PIECERA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/dormitorios/queen/sarki/premium/3/",
+            "precioRegular": 7999,
+            "precioNormal": 6599,
+            "precioVenta": 4499,
+            "stock": 13,
+            "sku": "K353237N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "tamaño": "queen",
+                    "línea": "premium",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "veladores": "si",
+                    "modelo-de-colchón": "sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
                 }
             ]
         }

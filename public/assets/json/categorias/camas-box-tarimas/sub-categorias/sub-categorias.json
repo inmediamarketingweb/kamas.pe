@@ -1,6 +1,11 @@
 {
     "subcategorias":[
         {
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Camas box tarimas - 1 plaza | Kamas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza/"
+        },
+        {
             "subcategoria": "1 plaza y media",
             "metaTitulo": "Camas box tarimas - 1 plaza y media | Kamas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/"
