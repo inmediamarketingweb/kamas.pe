@@ -16,6 +16,7 @@ function Top({
     const envioGratis = searchParams.get('envio-gratis') === 'si';
     const enOferta = searchParams.get('en-oferta') === 'si';
     const sortOption = searchParams.get('orden') || '';
+
     const updateFilter = (key, value) => {
         const newParams = new URLSearchParams(searchParams);
         
@@ -29,6 +30,7 @@ function Top({
             }
         }
 
+        // Eliminar página al cambiar filtros
         newParams.delete('page');
         setSearchParams(newParams);
         onPageChange(1);
@@ -49,9 +51,7 @@ function Top({
 
     const handlePageChange = (page) => {
         if (page >= 1 && page <= totalPages) {
-            const newParams = new URLSearchParams(searchParams);
-            newParams.set('page', page);
-            setSearchParams(newParams);
+            // Solo cambiamos la página en el estado, no en la URL
             onPageChange(page);
         }
     };
@@ -140,7 +140,9 @@ function Top({
 
                             {getVisiblePages().map((page, index) => 
                                 typeof page === 'number' ? (
-                                    <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>{page}</button>
+                                    <button key={index} className={`pagination-page ${currentPage === page ? 'active' : ''}`} onClick={() => handlePageChange(page)}>
+                                        {page}
+                                    </button>
                                 ) : (
                                     <span key={index} className="pagination-ellipsis">...</span>
                                 )
