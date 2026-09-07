@@ -51,11 +51,6 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
-                                        <a href='/diseños-exclusivos/' title='Diseños exclusivos | Kamas'>
-                                            <p>Diseños exclusivos</p>
-                                        </a>
-                                    </li>
-                                    <li>
                                         <a href='/agencias-recomendadas/' title='Agencias recomendadas | Kamas'>
                                             <p>Agencias recomendadas</p>
                                         </a>

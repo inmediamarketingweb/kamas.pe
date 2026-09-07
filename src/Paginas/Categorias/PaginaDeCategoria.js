@@ -33,13 +33,10 @@ function PaginaDeCategoria(){
     const [skusOfertas, setSkusOfertas] = useState([]);
     const [isOfferActive, setIsOfferActive] = useState(true);
     const [productosOriginales, setProductosOriginales] = useState([]);
-
-    // Leer filtros de la URL
     const envioGratis = searchParams.get('envio-gratis') === 'si';
     const enOferta = searchParams.get('en-oferta') === 'si';
     const sortOption = searchParams.get('orden') || '';
     const pageFromUrl = parseInt(searchParams.get('page')) || 1;
-
     const handleExpire = () => setIsOfferActive(false);
     const handleActivate = () => setIsOfferActive(true);
 
@@ -56,7 +53,6 @@ function PaginaDeCategoria(){
             }
             setFavorites(favStorage);
         } catch (error) {
-            console.error("Error parsing favorites:", error);
             setFavorites([]);
         }
     }, []);
@@ -67,7 +63,6 @@ function PaginaDeCategoria(){
             const data = await response.json();
             setSkusOfertas(data);
         } catch (error) {
-            console.error("Error cargando ofertas:", error);
             setSkusOfertas([]);
         }
     }, []);
@@ -147,8 +142,7 @@ function PaginaDeCategoria(){
                     productosCargados = shuffleArray(productosPorSubcategoria.flat(2));
                 }
             }
-
-            console.log('Productos cargados:', productosCargados.length);
+            
             setProductosOriginales(productosCargados);
             setProductos(productosCargados);
             setProductosFiltradosPorFiltros(productosCargados);
@@ -175,12 +169,9 @@ function PaginaDeCategoria(){
         cargarProductos();
     }, [cargarProductos]);
 
-    // Aplicar filtros y ordenamiento
     useEffect(() => {
-        // Usar productosFiltradosPorFiltros si tiene datos, si no usar productosOriginales
-        const productosBase = productosFiltradosPorFiltros.length > 0 
-            ? productosFiltradosPorFiltros 
-            : productosOriginales;
+        const productosBase = productosFiltradosPorFiltros.length > 0 ? productosFiltradosPorFiltros : productosOriginales;
+
 
         if (!productosBase.length) {
             setProductosFiltrados([]);
@@ -188,8 +179,7 @@ function PaginaDeCategoria(){
         }
 
         let resultado = [...productosBase];
-        
-        // Aplicar filtro de envío gratis
+
         if (envioGratis) {
             resultado = resultado.filter(producto => {
                 const tipoEnvio = producto["tipo-de-envio"] || '';
@@ -197,7 +187,6 @@ function PaginaDeCategoria(){
             });
         }
 
-        // Aplicar filtro de oferta
         if (enOferta) {
             resultado = resultado.filter(producto => {
                 const oferta = producto.oferta || '';
@@ -205,7 +194,6 @@ function PaginaDeCategoria(){
             });
         }
 
-        // Aplicar ordenamiento
         if (sortOption && resultado.length > 0) {
             if (sortOption === 'menor-a-mayor') {
                 resultado.sort((a, b) => {
@@ -223,9 +211,9 @@ function PaginaDeCategoria(){
         }
 
         setProductosFiltrados(resultado);
+        
     }, [productosFiltradosPorFiltros, productosOriginales, envioGratis, enOferta, sortOption, skusOfertas]);
 
-    // Sincronizar página con URL
     useEffect(() => {
         setCurrentPage(pageFromUrl);
     }, [pageFromUrl]);
