@@ -1,13 +1,12 @@
 {
     "productos":[
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
             "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/1/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA AÉREA CAPITONEADA - PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
             "precioRegular": 1099,
             "precioNormal": 999,
             "precioVenta": 529,
@@ -65,12 +64,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/2/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - LILA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/1/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 799,
@@ -128,12 +127,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/3/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - TURQUESA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/2/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 799,
@@ -197,12 +196,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/5/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - LILA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/4/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1649,
             "precioVenta": 1249,
@@ -280,12 +279,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/6/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/1/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 729,
@@ -344,12 +343,12 @@
         },
         {
             "id": 8,
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/8/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/3/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 729,
@@ -407,12 +406,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/9/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/4/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 729,
@@ -470,12 +469,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/11/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/6/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 729,
@@ -533,12 +532,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/12/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VINO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/1/",
-            "colores": "si",
             "precioRegular": 1349,
             "precioNormal": 1049,
             "precioVenta": 759,
@@ -596,12 +595,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/13/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - AZUL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/2/",
-            "colores": "si",
             "precioRegular": 1349,
             "precioNormal": 1049,
             "precioVenta": 759,
@@ -659,12 +658,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/14/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/3/",
-            "colores": "si",
             "precioRegular": 1349,
             "precioNormal": 1049,
             "precioVenta": 759,
@@ -722,12 +721,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/15/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORAZÓN - LILA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/otras-formas/sin-brazos/corazon/1/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1059,
             "precioVenta": 799,
@@ -785,12 +784,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/16/",
             "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - FUCSIA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/otras-formas/sin-brazos/abanico/1/",
-            "colores": "si",
             "precioRegular": 1399,
             "precioNormal": 1199,
             "precioVenta": 799,
@@ -848,12 +847,12 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/17/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-rectos/otros-modelos/1/",
-            "colores": "si",
             "precioRegular": 1299,
             "precioNormal": 849,
             "precioVenta": 629,
@@ -912,13 +911,12 @@
         },
         {
             "id": 206,
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
             "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/18/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/1/",
-            "colores": "si",
             "precioRegular": 1699,
             "precioNormal": 1549,
             "precioVenta": 1129,
@@ -977,13 +975,12 @@
         },
         {
             "id": 208,
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
             "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/20/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/3/",
-            "colores": "si",
             "precioRegular": 1699,
             "precioNormal": 1549,
             "precioVenta": 1129,
@@ -1042,13 +1039,12 @@
         },
         {
             "id": 210,
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas",
+            "categoría": "camas box tarimas",
             "tamaño": "1 plaza y media",
+            "línea": "americanas",
             "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/22/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-rectos/otros-modelos/2/",
-            "colores": "si",
             "precioRegular": 1699,
             "precioNormal": 1449,
             "precioVenta": 1129,
@@ -1102,6 +1098,238 @@
                             "garantía": "2 años"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/63/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con osito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/64/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/2/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "con perrito"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/65/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON T-REX + ESCALERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/3/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/66/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CON DINO + ESCALERA - CHAMPAGNE ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/4/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "con T-Rex"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/67/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL RATON - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/5/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/68/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/6/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/69/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/7/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K211156NX20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "categoría": "camas box tarimas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas-box-tarimas/1-plaza-y-media/americanas/70/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS + ENCOFRADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/8/",
+            "precioRegular": 2099,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K21151NX22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "1 plaza y media",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "arcoiris"
                 }
             ]
         }

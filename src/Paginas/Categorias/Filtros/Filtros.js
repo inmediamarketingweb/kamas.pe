@@ -31,7 +31,6 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
     useEffect(() => {
         if (!categoria) return;
-
         const controller = new AbortController();
         const signal = controller.signal;
 
@@ -39,20 +38,14 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         fetch(url, { signal })
             .then((response) => response.ok ? response.json() : Promise.reject(`Error ${response.status}`))
             .then((data) => {
-                const normalizarNombre = (str) => 
-                    str.toLowerCase().replace(/\s+/g, '-').normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-                
+                const normalizarNombre = (str) => str.toLowerCase().replace(/\s+/g, '-').normalize("NFD").replace(/[\u0300-\u036f]/g, "");
                 const categoriaNormalizada = normalizarNombre(categoria);
-                
-                const categoriaData = data.find(item => 
-                    normalizarNombre(item.categoria) === categoriaNormalizada
-                );
+                const categoriaData = data.find(item => normalizarNombre(item.categoria) === categoriaNormalizada);
 
                 if (categoriaData && Array.isArray(categoriaData.filtros)) {
                     const filtrosTransformados = categoriaData.filtros.map((filtro, index) => {
                         const clave = Object.keys(filtro)[0];
                         const opciones = filtro[clave];
-                        
                         const titulo = clave.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()).replace(/De|Del|Y|En/g, match => match.toLowerCase());
                         
                         return {
@@ -89,8 +82,11 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
 
         const filtrosDesdeURL = {};
         searchParams.forEach((value, key) => {
-            const opcion = decodeURIComponent(value).toLowerCase();
-            filtrosDesdeURL[key] = new Set([opcion]);
+            // Solo procesar filtros de categoría, no los parámetros de ordenamiento
+            if (key !== 'orden' && key !== 'envio-gratis' && key !== 'en-oferta' && key !== 'page') {
+                const opcion = decodeURIComponent(value).toLowerCase();
+                filtrosDesdeURL[key] = new Set([opcion]);
+            }
         });
         setFiltrosSeleccionados(filtrosDesdeURL);
     }, [searchParams]);
@@ -111,18 +107,45 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         if (!productos || productos.length === 0) return;
 
         const filtrados = productos.filter((producto) => {
-            const cumpleFiltros = Object.keys(filtrosActuales).every((categoriaFiltro) =>
-                producto["detalles-del-producto"]?.some((detalle) =>
-                    filtrosActuales[categoriaFiltro].has(
-                        detalle[categoriaFiltro]?.toLowerCase().replace(/\s+/g, "-")
-                    )
-                )
-            );
+            // Verificar filtros de categoría
+            let cumpleFiltros = true;
+            
+            if (Object.keys(filtrosActuales).length > 0) {
+                cumpleFiltros = Object.keys(filtrosActuales).every((categoriaFiltro) => {
+                    const valorFiltro = [...filtrosActuales[categoriaFiltro]][0];
+                    
+                    // Buscar en detalles-del-producto
+                    const tieneCoincidencia = producto["detalles-del-producto"]?.some((detalle) => {
+                        const valorDetalle = detalle[categoriaFiltro]?.toLowerCase().replace(/\s+/g, "-");
+                        return valorDetalle === valorFiltro;
+                    }) || false;
+                    
+                    if (!tieneCoincidencia) {
+                        const valorDirecto = producto[categoriaFiltro]?.toLowerCase().replace(/\s+/g, "-");
+                        return valorDirecto === valorFiltro;
+                    }
+                    
+                    return tieneCoincidencia;
+                });
+            }
 
-            const rango = rangosDePrecio.find((r) => r.id === rangoSeleccionado);
-            const cumpleRangoPrecio = rango ? producto.precioVenta >= rango.min && producto.precioVenta <= rango.max : true;
-            const cumplePrecio = producto.precioVenta >= rangoPrecios[0] && producto.precioVenta <= precioMaximo;
+            // Verificar rango de precio
+            let cumpleRangoPrecio = true;
+            if (rangoSeleccionado) {
+                const rango = rangosDePrecio.find((r) => r.id === rangoSeleccionado);
+                if (rango) {
+                    const precio = producto.precioVenta || producto.precioNormal || producto.precioRegular || 0;
+                    cumpleRangoPrecio = precio >= rango.min && precio <= rango.max;
+                }
+            }
+
+            // Verificar precio con slider
+            const precioProducto = producto.precioVenta || producto.precioNormal || producto.precioRegular || 0;
+            const cumplePrecio = precioProducto >= rangoPrecios[0] && precioProducto <= precioMaximo;
+
+            // Verificar envío gratis
             const cumpleEnvioGratis = envioGratis ? producto["tipo-de-envio"]?.toLowerCase() === "gratis" : true;
+
             return cumpleFiltros && cumpleRangoPrecio && cumplePrecio && cumpleEnvioGratis;
         });
 
@@ -161,20 +184,51 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
         setRangoDePrecioSeleccionado((prev) => prev === rangoId ? null : rangoId);
     };
 
+    // FUNCIÓN CORREGIDA - Mantiene todos los parámetros de URL
     const actualizarURL = useCallback((filtrosActuales) => {
-        const params = new URLSearchParams();
+        // Obtener todos los parámetros actuales de la URL
+        const params = new URLSearchParams(searchParams);
+        
+        // Eliminar los filtros de categoría antiguos (pero mantener otros parámetros)
+        const keysToRemove = [];
+        params.forEach((value, key) => {
+            // Si es un filtro de categoría (no es orden, envio-gratis, en-oferta, page)
+            if (key !== 'orden' && key !== 'envio-gratis' && key !== 'en-oferta' && key !== 'page') {
+                keysToRemove.push(key);
+            }
+        });
+        
+        // Eliminar los filtros antiguos
+        keysToRemove.forEach(key => params.delete(key));
+        
+        // Agregar los nuevos filtros
         Object.keys(filtrosActuales).forEach((categoriaFiltro) => {
             const valor = [...filtrosActuales[categoriaFiltro]][0];
             params.set(categoriaFiltro, valor);
         });
+        
+        // Mantener la página en 1 cuando se aplican filtros
+        params.delete('page');
+        
         setSearchParams(params);
-    }, [setSearchParams]);
+    }, [searchParams, setSearchParams]);
 
     const handleClearFilters = () => {
         setFiltrosSeleccionados({});
         setRangoDePrecioSeleccionado(null);
         setEnvioGratisSeleccionado(false);
-        setSearchParams(new URLSearchParams());
+        
+        // Limpiar solo los filtros de categoría, mantener orden y otros parámetros
+        const params = new URLSearchParams(searchParams);
+        const keysToRemove = [];
+        params.forEach((value, key) => {
+            if (key !== 'orden' && key !== 'envio-gratis' && key !== 'en-oferta' && key !== 'page') {
+                keysToRemove.push(key);
+            }
+        });
+        keysToRemove.forEach(key => params.delete(key));
+        params.delete('page');
+        setSearchParams(params);
     };
 
     return(
@@ -216,9 +270,9 @@ function Filtros({ productos, setProductosFiltrados, filtersActive, onClose }){
                                         <ul className="filtro-items">
                                             {Array.isArray(filtro.lista) ? (
                                                 filtro.lista.map((opcion) => {
-                                                    const isActive = filtrosSeleccionados[filtro.nombre]?.has(
-                                                        opcion.nombre.toLowerCase().replace(/\s+/g, "-")
-                                                    );
+                                                    const opcionNormalizada = opcion.nombre.toLowerCase().replace(/\s+/g, "-");
+                                                    const isActive = filtrosSeleccionados[filtro.nombre]?.has(opcionNormalizada);
+                                                    
                                                     return (
                                                         <li key={opcion.id}>
                                                             <button type="button" className={isActive ? "active" : ""} onClick={() => handleFiltroChange(filtro.nombre, opcion.nombre)}>
