@@ -124,9 +124,9 @@
             ],
             "subCategorias":[
                 {
-                    "subcategoria": "Clásica",
-                    "metaTitulo": "Camas box tarimas - Clásicas | Kamas",
-                    "ruta": "/productos/camas-box-tarimas/?línea=clásica"
+                    "subcategoria": "Infantil",
+                    "metaTitulo": "Camas box tarimas - Infantil | Kamas",
+                    "ruta": "/productos/camas-box-tarimas/?línea=infantil"
                 },
                 {
                     "subcategoria": "Americanas",
@@ -205,9 +205,9 @@
             ],
             "subCategorias":[
                 {
-                    "subcategoria": "Clásicos",
-                    "metaTitulo": "Dormitorios - Clásicos | Kamas",
-                    "ruta": "/productos/dormitorios/?línea=clásica"
+                    "subcategoria": "Infantil",
+                    "metaTitulo": "Dormitorios - Infantil | Kamas",
+                    "ruta": "/productos/dormitorios/?línea=infantil"
                 },
                 {
                     "subcategoria": "Americanos",

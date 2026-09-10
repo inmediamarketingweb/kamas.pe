@@ -719,6 +719,46 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 19,
+            "categoria": "sofás",
+            "subcategoria": "seccionales",
+            "ruta": "/productos/sofas/seccionales/derecho/19/",
+            "nombre": "SOFÁ SECCIONAL - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/sofas/seccionales/19/",
+            "colores": "si",
+            "precioRegular": 3299,
+            "precioNormal": 2699,
+            "precioVenta": 2499,
+            "stock": 9,
+            "sku": "K6222N28",
+            "tipo-de-envio": "Envío preferente",
+            "resumen-del-producto":[
+                {
+                    "tela": "Tejido",
+                    "diseño": "Clásico"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "modelo": "Seccionales",
+                    "tela": "Tejido",
+                    "diseño": "Clásico"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Seccionales",
+                    "descripcion":[
+                        {
+                            "madera": "Tornillo",
+                            "tapizado": "Piel de potro",
+                            "espuma": "Zebra 25kg/m3"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

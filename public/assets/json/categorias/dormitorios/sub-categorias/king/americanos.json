@@ -34546,6 +34546,270 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 488,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/1036/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA EGYPT - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/sarki/americanos/bloques/egypt/1/", 
+            "colores": "si",
+            "precioRegular": 3199,
+            "precioNormal": 2599,
+            "precioVenta": 1699,
+            "stock": 13,
+            "sku": "K324236N1034",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 489,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/1037/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA MOUNTAIN - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/sarki/americanos/bloques/mountain/1/", 
+            "colores": "si",
+            "precioRegular": 3199,
+            "precioNormal": 2599,
+            "precioVenta": 1699,
+            "stock": 13,
+            "sku": "K324236N1035",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "mountain"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "mountain"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 499,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/1038/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA OLIMPIC - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/king/sarki/americanos/bloques/olimpic/1/", 
+            "colores": "si",
+            "precioRegular": 3199,
+            "precioNormal": 2599,
+            "precioVenta": 1699,
+            "stock": 13,
+            "sku": "K324236N1036",
+            "tipo-de-envio": "Gratis",
+            "resumen-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ],
+            "descripciones":[
+                {
+                    "titulo": "Cama box tarima",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "refuerzos": "centrales y laterales.",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "Cromadas",
+                            "garantía": "2 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Colchón",
+                    "descripcion":[
+                        {
+                            "resortes": "19 filas en forma vertical",
+                            "material-de-resorte": "Acero templado",
+                            "tela": "Jacquard",
+                            "tapiz": "Tradicional",
+                            "densidad-de-espuma": "20kg/m3",
+                            "tipo-de-uso": "Ambos lados",
+                            "grosor": "30cm.",
+                            "incorpora": "Sistema one size",
+                            "sistema": "Clásico",
+                            "refuerzos": "centrales y laterales.",
+                            "marco": "De espuma",
+                            "soporte-de-peso": "95kg. por persona",
+                            "garantía": "6 años"
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cabecera",
+                    "descripcion":[
+                        {
+                            "madera": "Pino americano seco al horno.",
+                            "espuma": "Zebra de alta densidad",
+                            "láminas": "MDF de 3mm.",
+                            "tela": "Piel de potro",
+                            "patas": "De manera",
+                            "botones": "clásicos o acrílicos",
+                            "garantía": "2 años"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
