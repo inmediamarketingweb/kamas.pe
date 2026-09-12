@@ -39,12 +39,6 @@ function Top(){
                             <h2>WhatsApp</h2>
                         </a>
                     </li>
-                    <li>
-                        <a href='https://wa.link/abc0r5' target='_blank' rel="noopener noreferrer" title="WhatsApp | Kamas" className='d-flex-center-center gap-5'>
-                            <img src="https://kamas.pe/assets/imagenes/iconos/whatsapp-gris.svg" alt="WhatsApp | Kamas" />
-                            <h2>WhatsApp</h2>
-                        </a>
-                    </li>
                 </ul>
 
                 <div className='margin-left location d-flex-center-center gap-10'>
