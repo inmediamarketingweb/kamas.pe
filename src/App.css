@@ -13,7 +13,7 @@
 
     --header: #FFFFFF;
 
-    --body: #E9E9E9;
+    --body: #F9F9F9;
 
     --white: #FFFFFF;
     --component: #FFFFFF;
@@ -357,6 +357,10 @@ button{
     width: auto !important;
     min-width: none !important;
     max-width: none !important;
+}
+
+.w-auto{
+    width: auto;
 }
 
 .w-100{

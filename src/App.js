@@ -76,6 +76,8 @@ function App(){
                 <LimpiarRutas/>
 
                 <Routes>
+                    <Route path="/paleta-de-colores/" element={<Colores/>} />
+
                     <Route element={<Layout/>}>
                         <Route index element={<PaginaPrincipal/>} />
 
@@ -102,7 +104,6 @@ function App(){
 
                         <Route path="/nosotros/razones-para-comprar/" element={<RazonesParaComprar/>}/>
                         <Route path="/nosotros/propiedad-intelectual/" element={<PropiedadIntelectual/>}/>
-                        <Route path="/paleta-de-colores/" element={<Colores/>} />
                         <Route path="/vendedores/cotizador/" element={<Cotizador/>}/>
                         <Route path="/agencias-recomendadas/" element={<Agencias/>} />
                         <Route path="/envios/envios-a-lima-y-callao/" element={<EnviosALimaYCallao/>}/>
