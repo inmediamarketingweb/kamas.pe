@@ -5,40 +5,20 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import './Colores.css';
 
 import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
+import Footer from '../../../Componentes/Footer/Footer';
 
-const DEFAULT_BANNER = 'https://concepto.de/wp-content/uploads/2018/09/Historia-Pintura-Van-Gogh-691x451.jpg';
+const DEFAULT_BANNER = '/assets/imagenes/paginas/colores-baner.jpg';
 
-function Colores(){
+function Colores() {
     const location = useLocation();
     const navigate = useNavigate();
     const [fabricData, setFabricData] = useState(null);
     const [loading, setLoading] = useState(true);
-    const [selectedCategory, setSelectedCategory] = useState(null);
     const [selectedFabric, setSelectedFabric] = useState(null);
     const [selectedColor, setSelectedColor] = useState(null);
     const [bannerImage, setBannerImage] = useState(DEFAULT_BANNER);
-    const [fabricInfo, setFabricInfo] = useState(null);
 
-    useEffect(() => {
-        if (window.innerWidth < 600 && selectedColor) {
-            window.scrollTo({
-                top: 272,
-                behavior: 'smooth'
-            });
-        }
-    }, [selectedColor]);
-
-    useEffect(() => {
-        const params = new URLSearchParams(location.search);
-        const category = params.get('categoria');
-        const fabric = params.get('tela');
-        const color = params.get('color');
-
-        if (category) setSelectedCategory(category);
-        if (fabric) setSelectedFabric(fabric);
-        if (color) setSelectedColor({ color });
-    }, [location.search]);
-
+    // 1. Cargar JSON
     useEffect(() => {
         const fetchData = async () => {
             try {
@@ -51,260 +31,193 @@ function Colores(){
                 setLoading(false);
             }
         };
-
         fetchData();
     }, []);
 
+    // 2. Leer parámetros de URL al montar
     useEffect(() => {
-        if (!fabricData) return;
-        
-        const findColorOrigin = (colorName) => {
-            for (const category in fabricData.telas[0]) {
-                const categoryData = fabricData.telas[0][category];
-                for (const fabric of categoryData.telas) {
-                    const foundColor = fabric.colores.find(c => c.color === colorName);
-                    if (foundColor) {
-                        return { category, fabric: fabric.tela };
-                    }
-                }
-            }
-            return { category: null, fabric: null };
-        };
+        const params = new URLSearchParams(location.search);
+        const fabric = params.get('tela');
+        const color = params.get('color');
 
-        const params = new URLSearchParams();
-        if (selectedCategory) params.set('categoria', selectedCategory);
-        if (selectedFabric) params.set('tela', selectedFabric);
-        if (selectedColor?.color) params.set('color', selectedColor.color);
+        if (fabric) setSelectedFabric(fabric);
+        if (color) setSelectedColor({ color });
+    }, [location.search]);
 
-        navigate(`?${params.toString()}`, { replace: true });
-
-        if (selectedColor?.color && (!selectedCategory || !selectedFabric)) {
-            const origin = findColorOrigin(selectedColor.color);
-            if (origin.category && origin.fabric) {
-                setSelectedCategory(origin.category);
-                setSelectedFabric(origin.fabric);
-            }
+    // 3. Actualizar banner según color/tela seleccionada
+    useEffect(() => {
+        if (!fabricData || !selectedFabric) {
+            setBannerImage(DEFAULT_BANNER);
+            return;
         }
 
-        if (selectedColor?.color && selectedCategory && selectedFabric) {
-            const categoryData = fabricData.telas[0][selectedCategory];
-            const fabric = categoryData?.telas?.find(f => f.tela === selectedFabric);
-
-            if (fabric) {
-                const colorObj = fabric.colores?.find(c => c.color === selectedColor.color);
-                if (colorObj){
-                    setSelectedColor(colorObj);
-                    setBannerImage(colorObj.original);
+        // Buscar la tela en todas las categorías
+        let foundFabric = null;
+        for (const obj of fabricData.telas) {
+            for (const cat in obj) {
+                const telas = obj[cat]?.telas || [];
+                const f = telas.find(t => t.tela === selectedFabric);
+                if (f) {
+                    foundFabric = f;
+                    break;
                 }
             }
+            if (foundFabric) break;
         }
-    }, [selectedCategory, selectedFabric, selectedColor, fabricData, navigate]);
 
-    useEffect(() => {
-        if (selectedColor && fabricData && selectedColor.original){
-            setBannerImage(selectedColor.original);
+        if (!foundFabric) {
+            setBannerImage(DEFAULT_BANNER);
+            return;
+        }
+
+        // Si hay un color seleccionado, buscar su objeto completo y usar su original
+        if (selectedColor?.color) {
+            const colorObj = foundFabric.colores?.find(c => c.color === selectedColor.color);
+            if (colorObj) {
+                setSelectedColor(colorObj);
+                setBannerImage(colorObj.original);
+            } else {
+                setSelectedColor(null);
+                setBannerImage(DEFAULT_BANNER);
+            }
         } else {
             setBannerImage(DEFAULT_BANNER);
         }
-    }, [selectedColor, fabricData]);
+    }, [fabricData, selectedFabric, selectedColor?.color]);
 
+    // 4. Actualizar URL cuando cambian selecciones
     useEffect(() => {
-        if (fabricData && selectedCategory && selectedFabric) {
-            const categoryData = fabricData.telas[0][selectedCategory];
-            const fabric = categoryData?.telas?.find(f => f.tela === selectedFabric);
+        const params = new URLSearchParams();
+        if (selectedFabric) params.set('tela', selectedFabric);
+        if (selectedColor?.color) params.set('color', selectedColor.color);
+        navigate(`?${params.toString()}`, { replace: true });
+    }, [selectedFabric, selectedColor, navigate]);
 
-            if (fabric) {
-                const costosAdicionales = categoryData['costos-adicionales'] || [];
-
-                setFabricInfo({
-                    nombre: fabric.tela,
-                    descripcion: fabric.descripcion,
-                    costosAdicionales: costosAdicionales
-                });
-            }
-        } else {
-            setFabricInfo(null);
+    // 5. Scroll en móvil al seleccionar color
+    useEffect(() => {
+        if (window.innerWidth < 600 && selectedColor) {
+            window.scrollTo({ top: 272, behavior: 'smooth' });
         }
-    }, [fabricData, selectedCategory, selectedFabric]);
+    }, [selectedColor]);
 
-    const handleColorSelect = (color, category = null, fabric = null) => {
-        if (category && fabric) {
-            setSelectedCategory(category);
-            setSelectedFabric(fabric);
-            setSelectedColor(color);
-        } 
-        else {
-            setSelectedColor(color);
-        }
+    // Handlers
+    const handleFabricSelect = (fabricName) => {
+        setSelectedFabric(fabricName);
+        setSelectedColor(null);
     };
 
-    const handleCategorySelect = (category) => {
-        setSelectedCategory(category);
+    const handleColorSelect = (colorObj) => {
+        setSelectedColor(colorObj);
+    };
+
+    const handleShowAll = () => {
         setSelectedFabric(null);
         setSelectedColor(null);
     };
 
-    const handleFabricSelect = (fabric) => {
-        setSelectedFabric(fabric);
-        setSelectedColor(null);
-    };
-
-    if (loading) return (
-        <SpinnerLoading/>
-    );
-
+    if (loading) return <SpinnerLoading />;
     if (!fabricData) return null;
 
-    const categories = fabricData.telas.flatMap(obj => Object.keys(obj));
-
-    const getFabricsForCategory = (category) => {
-        for (const obj of fabricData.telas) {
-            if (obj[category]) {
-                return obj[category].telas || [];
-            }
+    // Aplanar todas las telas de todas las categorías
+    const allFabrics = [];
+    fabricData.telas.forEach(obj => {
+        for (const cat in obj) {
+            const telas = obj[cat]?.telas || [];
+            telas.forEach(t => {
+                allFabrics.push({ ...t, categoria: cat });
+            });
         }
-        return [];
-    };
+    });
 
-    const getColorsForFabric = (category, fabricType) => {
-        const fabrics = getFabricsForCategory(category);
-        const fabric = fabrics.find(f => f.tela === fabricType);
-        return fabric?.colores || [];
-    };
+    // Colores de la tela seleccionada
+    const currentColors = selectedFabric
+        ? allFabrics.find(f => f.tela === selectedFabric)?.colores || []
+        : [];
 
-    const renderAllColors = () => {
-        const categoriesToRender = selectedCategory ? [selectedCategory] : categories;
-
-        return categoriesToRender.map(category => {
-            const fabrics = getFabricsForCategory(category);
-
-            return(
-                <div className="d-flex-column gap-10" key={category}>
-                    <div className='d-flex-center-left gap-10'>
-                        <h2 className='block-title d-flex-center-left color-black-0'>{category}</h2>
-                    </div>
-
-                    {fabrics.map(fabric => {
-                        if (selectedFabric && selectedFabric !== fabric.tela) return null;
-
-                        return(
-                            <div className="d-flex-column gap-10" key={fabric.tela}>
-                                <h3 className='title text'>{fabric.tela} :</h3>
-                                <ul className="colores">
-                                    {fabric.colores.map((color, index) => (
-                                        <li key={index}>
-                                            <button className={`color-item ${selectedColor?.color === color.color ? 'active' : ''}`} onClick={() => handleColorSelect(color, category, fabric.tela)}>
-                                                <img src={color.img} alt={`Color ${color.color}`}/>
-                                                <p>{color.color}</p>
-                                            </button>
-                                        </li>
-                                    ))}
-                                </ul>
-                            </div>
-                        );
-                    })}
-                </div>
-            );
-        });
-    };
-
-    return(
+    return (
         <>
             <Helmet>
                 <title>Paleta de colores | Kamas</title>
                 <meta name="description" content="Explora nuestra variedad de colores y telas" />
             </Helmet>
 
-            <main>
+            <header className='pg-colors-header'>
+                <div className='header-center-container d-flex-w-100'>
+                    <div className='header-center'>
+                        <a href='https://kamas.pe/' title='Kamas | Fabricantes de camas' className='header-logo'>
+                            <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={188} height={42} alt="Kamas" />
+                        </a>
+                    </div>
+                </div>
+            </header>
+
+            <main className='colors-page'>
                 <div className='block-container'>
-                    <section className="block-content">
-                        <div className="page-colors-container">
-                            <div className="telas-category d-flex-column gap-20">
-                                <div className='d-flex-column gap-10'>
-                                    <p className='title'>Categoría de tela:</p>
-                                    <ul className="d-flex d-flex-wrap gap-5">
-                                        {categories.map((category, index) => (
-                                            <li key={index}>
-                                                <button className={selectedCategory === category ? 'page-colors-filters-button active' : 'page-colors-filters-button'} onClick={() => handleCategorySelect(category)}>
-                                                    <h2>{category}</h2>
-                                                </button>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </div>
+                    <section className='block-content'>
+                        <div className='colors-telas'>
+                            <div className='d-flex-column gap-20'>
+                                <h1 className='block-title margin-right w-auto'>Paleta de colores</h1>
 
-                                {selectedCategory && (
-                                    <div className='d-flex-column gap-10'>
-                                        <p className='title'>Tipos de tela:</p>
-                                        <ul className="d-flex d-flex-wrap gap-5">
-                                            {getFabricsForCategory(selectedCategory).map((fabric, index) => (
-                                                <li key={index}>
-                                                    <button className={selectedFabric === fabric.tela ? 'page-colors-filters-button active' : 'page-colors-filters-button'} onClick={() => handleFabricSelect(fabric.tela)} >
-                                                    <h3>{fabric.tela}</h3>
-                                                    </button>
-                                                </li>
-                                            ))}
-                                        </ul>
-                                    </div>
-                                )}
-
-                                {selectedFabric && (
-                                    <div className='d-flex-column gap-10'>
-                                        <p className='title'>Colores disponibles:</p>
-                                        <ul className="d-flex d-flex-wrap gap-5">
-                                            {getColorsForFabric(selectedCategory, selectedFabric).map((color, index) => (
-                                                <li key={index}>
-                                                    <button className={selectedColor?.color === color.color ? 'page-colors-filters-button active' : 'page-colors-filters-button'} onClick={() => handleColorSelect(color, selectedCategory, selectedFabric)}>
-                                                        <h2>{color.color}</h2>
-                                                    </button>
-                                                </li>
-                                            ))}
-                                        </ul>
-                                    </div>
-                                )}
-
-                                <button className={!selectedCategory ? 'button-link button-link-2 active' : 'button-link button-link-2'} onClick={() => {
-                                        setSelectedCategory(null);
-                                        setSelectedFabric(null);
-                                        setSelectedColor(null);
-                                    }}>
-                                    <h2 className='button-link-text'>Ver todas las telas</h2>
-                                </button>
+                                <ul>
+                                    {allFabrics.map((fabric) => (
+                                        <li key={fabric.tela}>
+                                            <button type='button' className={selectedFabric === fabric.tela ? 'active' : ''} onClick={() => handleFabricSelect(fabric.tela)}>
+                                                <span className="material-symbols-outlined">keyboard_arrow_right</span>
+                                                <p className='text'>{fabric.tela}</p>
+                                            </button>
+                                        </li>
+                                    ))}
+                                    <li>
+                                        <button type='button' className={!selectedFabric ? 'active' : ''} onClick={handleShowAll}>
+                                            <span className="material-symbols-outlined">keyboard_arrow_right</span>
+                                            <p className='text'>Ver todas las telas</p>
+                                        </button>
+                                    </li>
+                                </ul>
                             </div>
 
-                            <div className="d-flex-column gap-20">
-                                <div className='d-flex color-banner-container'>
-                                    <img src={bannerImage} alt={selectedColor ? `Tela ${selectedFabric} en ${selectedColor.color}` : 'Banner de colores'} className='color-banner' />
-                                    {selectedColor && selectedFabric && (
-                                        <div className='d-flex-center-left gap-5'>
-                                            <p>Tela {selectedFabric}</p>
-                                            <span>&gt;</span>
-                                            <p>Color {selectedColor.color}</p>
+                            <div className='colors-results'>
+                                <div className='colors-banner'>
+                                    <img src={bannerImage} alt={selectedColor ? `Tela ${selectedFabric} en ${selectedColor.color}` : 'Banner de colores'} />
+                                    <p className='text'>{selectedColor ? selectedColor.color : 'Seleccione un color'}</p>
+                                </div>
+
+                                {selectedFabric ? (
+                                    <div className='colors-colors'>
+                                        <ul>
+                                            {currentColors.map((color, index) => (
+                                                <li key={index} onClick={() => handleColorSelect(color)} className={selectedColor?.color === color.color ? 'active' : ''}>
+                                                    <img src={color.img} alt={`Color ${color.color}`} />
+                                                    <p className='text'>{color.color}</p>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                ) : (
+                                    allFabrics.map((fabric) => (
+                                        <div key={fabric.tela} className="d-flex-column gap-10">
+                                            <h3 className='title text'>{fabric.tela} :</h3>
+
+                                            <div className='colors-colors'>
+                                                <ul>
+                                                    {fabric.colores.map((color, index) => (
+                                                        <li key={index} onClick={() => { setSelectedFabric(fabric.tela); setSelectedColor(color); }}>
+                                                            <img src={color.img} alt={`Color ${color.color}`} />
+                                                            <p className='text'>{color.color}</p>
+                                                        </li>
+                                                    ))}
+                                                </ul>
+                                            </div>
                                         </div>
-                                    )}
-                                </div>
-
-                                {renderAllColors()}
+                                    ))
+                                )}
                             </div>
-
-
-                            {fabricInfo && (
-                                <div className="tela-info d-flex-column gap-20">
-                                    <div className='d-flex-column gap-10'>
-                                        <h3 className='title'>{fabricInfo.nombre}:</h3>
-                                        <p className='text'>{fabricInfo.descripcion}</p>
-                                    </div>
-
-                                    <a href={`/busqueda?query=${selectedColor ? encodeURIComponent(selectedColor.color) : ''}`} title='Ver productos relacionados' className={`button-link button-link-2 see-ship-products ${selectedColor ? 'active' : ''}`}>
-                                        <p className='button-link-text'>Ver productos relacionados</p>
-                                        <span className="material-symbols-outlined">arrow_forward</span>
-                                    </a>
-                                </div>
-                            )}
                         </div>
                     </section>
                 </div>
             </main>
+
+            <Footer />
         </>
     );
 }
