@@ -510,11 +510,12 @@ button{
 }
 
 .button-link{
+    width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     transition: var(--t-200ms-linear);
-    gap: 5px;
+    gap: 10px;
 }
 
 .button-link-text,
@@ -543,7 +544,7 @@ button{
 .button-link-7{
     width: auto;
     height: 44px;
-    padding: 0 20px;
+    padding: 0 10px;
     border-radius: 4px;
 }
 

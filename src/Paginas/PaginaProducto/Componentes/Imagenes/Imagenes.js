@@ -5,7 +5,7 @@ import Colores from '../Colores/Colores';
 
 import './Imagenes.css';
 
-function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
+function Imagenes({ imagenes, producto, onSelectColor, skusOfertas, selectedShipping, shippingInfo, quantity, precioFinal }){
     const estaEnOfertas = skusOfertas.includes(producto.sku);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isDragging, setIsDragging] = useState(false);
@@ -95,7 +95,7 @@ function Imagenes({ imagenes, producto, onSelectColor, skusOfertas }){
             </div>
 
             {!estaEnOfertas && producto.colores && (
-                <Colores producto={producto} onSelectColor={onSelectColor} />
+                <Colores onSelectColor={onSelectColor} producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} quantity={quantity} precioFinal={precioFinal}/>
             )}
         </div>
     );

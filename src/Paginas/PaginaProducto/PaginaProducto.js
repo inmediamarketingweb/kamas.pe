@@ -189,12 +189,6 @@ function PaginaProducto(){
     const precioFinal = estaEnOfertas && ofertaActiva ? calcularPrecioAjustado(producto.precioVenta) : producto.precioVenta;
     const mostrarConteo = estaEnOfertas && ofertaActiva;
 
-    const handleContinuarClick = (e) => {
-        if(!selectedShipping.tipo){
-            e.preventDefault();
-        }
-    };
-
     const handleRemove = () => {
         if (quantity > 0) {
             setQuantity(quantity - 1);
@@ -295,7 +289,7 @@ function PaginaProducto(){
                         <div className='d-flex-column gap-10'>
                             <ConteoRegresivo onTerminar={() => setOfertaActiva(false)}/>
 
-                            <Separar producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick} precioFinal={precioFinal}/>
+                            <Separar producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} precioFinal={precioFinal}/>
                         </div>
                     </div>
                 }
@@ -306,7 +300,15 @@ function PaginaProducto(){
 
                         <div className='product-page-container bg-white border-r-6 padding-10'>
                             <div className='product-page-target product-page-target-1 gap-10'>
-                                <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor} skusOfertas={skusOfertas}/>
+                                <Imagenes imagenes={imagenes} 
+                                    producto={producto} 
+                                    onSelectColor={setSelectedColor} 
+                                    skusOfertas={skusOfertas}
+                                    selectedShipping={selectedShipping}
+                                    shippingInfo={shippingInfo}
+                                    quantity={quantity}
+                                    precioFinal={precioFinal}
+                                />
 
                                 <div className='beneficios-tablet'>
                                     <Beneficios/>
@@ -409,8 +411,8 @@ function PaginaProducto(){
                                                         <b className='color-red'>*</b>Color seleccionado:
                                                     </p>
                                                     <div className='d-flex-center-left gap-5'>
+                                                        <img width={40} height={20} src={selectedColor.img} alt={selectedColor.color} loading="lazy" style={{ borderRadius: '10%' }} />
                                                         <span className='first-uppercase'>{selectedColor.color}</span>
-                                                        <img width={26} height={18} src={selectedColor.img} alt={selectedColor.color} loading="lazy" style={{ borderRadius: '10%' }} />
                                                     </div>
                                                 </div>
                                             )}
@@ -431,7 +433,7 @@ function PaginaProducto(){
                                                 </div>
                                             </div>
 
-                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} handleContinuarClick={handleContinuarClick} precioFinal={precioFinal}/>
+                                            <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} precioFinal={precioFinal}/>
                                         </div>
 
                                         <div className='whatsapp-message d-flex d-flex-column gap-5'>
