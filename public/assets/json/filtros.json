@@ -531,9 +531,6 @@
             {
                 "línea":[
                     {
-                        "línea": "Clásica"
-                    },
-                    {
                         "línea": "Americana"
                     },
                     {
@@ -560,10 +557,10 @@
             {
                 "tipo-de-cabecera":[
                     {
-                        "tipo-de-cabecera": "Aérea"
+                        "tipo-de-cabecera": "Aéreas"
                     },
                     {
-                        "tipo-de-cabecera": "Aérea con patas"
+                        "tipo-de-cabecera": "Aéreas con patas"
                     },
                     {
                         "tipo-de-cabecera": "Pedestal"
@@ -573,19 +570,19 @@
             {
                 "diseño-de-cabecera":[
                     {
-                        "diseño-de-cabecera": "Infantil"
+                        "diseño-de-cabecera": "Infantiles"
                     },
                     {
                         "diseño-de-cabecera": "Clásica"
                     },
                     {
-                        "diseño-de-cabecera": "Americana"
+                        "diseño-de-cabecera": "Americanas"
                     },
                     {
                         "diseño-de-cabecera": "Con marco"
                     },
                     {
-                        "diseño-de-cabecera": "Corona"
+                        "diseño-de-cabecera": "Coronas"
                     },
                     {
                         "diseño-de-cabecera": "Bloques"
