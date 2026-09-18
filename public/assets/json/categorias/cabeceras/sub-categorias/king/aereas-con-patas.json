@@ -3136,6 +3136,230 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 69,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "aéreas con patas",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/69/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CON LAMPARA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX100",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "aéreas con patas",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con lámpara"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": " premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/70/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX101",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": " premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/71/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CON 2 LAMPARAS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/3/",
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K54150NX102",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/72/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CHINE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/4/",
+            "precioRegular": 2599,
+            "precioNormal": 1699,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "K54150NX103",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "aéreas con patas",
+                    "tipo-de-cabecera": "premium",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/73/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CORONA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/5/",
+            "precioRegular": 2599,
+            "precioNormal": 1699,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "K54150NX104",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/74/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX105",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/75/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/2/",
+            "precioRegular": 2499,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX106",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "marca": "kamas",
+            "línea": "premium",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/76/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO CON 2 VELADORES 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K54150NX107",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "marca": "kamas",
+                    "línea": "premium",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "corona",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
         }
     ]
 }

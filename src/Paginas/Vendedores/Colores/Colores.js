@@ -18,14 +18,13 @@ function Colores() {
     const [selectedColor, setSelectedColor] = useState(null);
     const [bannerImage, setBannerImage] = useState(DEFAULT_BANNER);
 
-    // 1. Cargar JSON
     useEffect(() => {
-        const fetchData = async () => {
+        const fetchData = async() => {
             try {
                 const response = await fetch('/assets/json/colores.json');
-                if (!response.ok) throw new Error('Error al cargar datos');
+                if(!response.ok) throw new Error('Error al cargar datos');
                 setFabricData(await response.json());
-            } catch (err) {
+            } catch(err) {
                 console.error('Error al cargar datos:', err);
             } finally {
                 setLoading(false);
@@ -39,37 +38,37 @@ function Colores() {
         const fabric = params.get('tela');
         const color = params.get('color');
 
-        if (fabric) setSelectedFabric(fabric);
-        if (color) setSelectedColor({ color });
+        if(fabric) setSelectedFabric(fabric);
+        if(color) setSelectedColor({ color });
     }, [location.search]);
 
     useEffect(() => {
-        if (!fabricData || !selectedFabric) {
+        if(!fabricData || !selectedFabric) {
             setBannerImage(DEFAULT_BANNER);
             return;
         }
 
         let foundFabric = null;
-        for (const obj of fabricData.telas) {
-            for (const cat in obj) {
+        for(const obj of fabricData.telas) {
+            for(const cat in obj) {
                 const telas = obj[cat]?.telas || [];
                 const f = telas.find(t => t.tela === selectedFabric);
-                if (f) {
+                if(f) {
                     foundFabric = f;
                     break;
                 }
             }
-            if (foundFabric) break;
+            if(foundFabric) break;
         }
 
-        if (!foundFabric) {
+        if(!foundFabric) {
             setBannerImage(DEFAULT_BANNER);
             return;
         }
 
-        if (selectedColor?.color) {
+        if(selectedColor?.color) {
             const colorObj = foundFabric.colores?.find(c => c.color === selectedColor.color);
-            if (colorObj) {
+            if(colorObj) {
                 setSelectedColor(colorObj);
                 setBannerImage(colorObj.original);
             } else {
@@ -83,39 +82,38 @@ function Colores() {
 
     useEffect(() => {
         const params = new URLSearchParams();
-        if (selectedFabric) params.set('tela', selectedFabric);
-        if (selectedColor?.color) params.set('color', selectedColor.color);
+        if(selectedFabric) params.set('tela', selectedFabric);
+        if(selectedColor?.color) params.set('color', selectedColor.color);
         navigate(`?${params.toString()}`, { replace: true });
     }, [selectedFabric, selectedColor, navigate]);
 
     // 5. Scroll en móvil al seleccionar color
     useEffect(() => {
-        if (window.innerWidth < 600 && selectedColor) {
+        if(window.innerWidth < 600 && selectedColor) {
             window.scrollTo({ top: 272, behavior: 'smooth' });
         }
     }, [selectedColor]);
 
-    // Handlers
-    const handleFabricSelect = (fabricName) => {
+    const handleFabricSelect =(fabricName) => {
         setSelectedFabric(fabricName);
         setSelectedColor(null);
     };
 
-    const handleColorSelect = (colorObj) => {
+    const handleColorSelect =(colorObj) => {
         setSelectedColor(colorObj);
     };
 
-    const handleShowAll = () => {
+    const handleShowAll =() => {
         setSelectedFabric(null);
         setSelectedColor(null);
     };
 
-    if (loading) return <Layer />;
-    if (!fabricData) return null;
+    if(loading) return <Layer />;
+    if(!fabricData) return null;
 
     const allFabrics = [];
     fabricData.telas.forEach(obj => {
-        for (const cat in obj) {
+        for(const cat in obj) {
             const telas = obj[cat]?.telas || [];
             telas.forEach(t => {
                 allFabrics.push({ ...t, categoria: cat });
@@ -123,12 +121,9 @@ function Colores() {
         }
     });
 
-    // Colores de la tela seleccionada
-    const currentColors = selectedFabric
-        ? allFabrics.find(f => f.tela === selectedFabric)?.colores || []
-        : [];
+    const currentColors = selectedFabric ? allFabrics.find(f => f.tela === selectedFabric)?.colores || [] : [];
 
-    return (
+    return(
         <>
             <Helmet>
                 <title>Paleta de colores | Kamas</title>
@@ -138,7 +133,7 @@ function Colores() {
             <header className='pg-colors-header'>
                 <div className='header-center-container d-flex-w-100'>
                     <div className='header-center'>
-                        <a href='https://kamas.pe/' title='Kamas | Fabricantes de camas' className='header-logo'>
+                        <a href='https://dormihogar.pe/' title='' className='header-logo'>
                             <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={188} height={42} alt="Kamas" />
                         </a>
                     </div>
@@ -153,7 +148,7 @@ function Colores() {
                                 <h1 className='block-title margin-right w-auto'>Paleta de colores</h1>
 
                                 <ul>
-                                    {allFabrics.map((fabric) => (
+                                    {allFabrics.map((fabric) =>(
                                         <li key={fabric.tela}>
                                             <button type='button' className={selectedFabric === fabric.tela ? 'active' : ''} onClick={() => handleFabricSelect(fabric.tela)}>
                                                 <span className="material-symbols-outlined">keyboard_arrow_right</span>
@@ -174,11 +169,11 @@ function Colores() {
                                 <div className='colors-banner'>
                                     <img src={bannerImage} alt={selectedColor ? `Tela ${selectedFabric} en ${selectedColor.color}` : 'Banner de colores'} />
 
-                                    {selectedColor ? (
+                                    {selectedColor ?(
                                         <div className='d-flex'>
                                             <p className='text'>{selectedColor.color}</p>
                                         </div>
-                                    ) : (
+                                    ) :(
                                         <div className='d-flex-center-center gap-10'>
                                             <p className='text'>Seleccione un color</p>
                                             <span className="material-symbols-outlined color-color-1">touch_app</span>
@@ -186,10 +181,10 @@ function Colores() {
                                     )}
                                 </div>
 
-                                {selectedFabric ? (
+                                {selectedFabric ?(
                                     <div className='colors-colors'>
                                         <ul>
-                                            {currentColors.map((color, index) => (
+                                            {currentColors.map((color, index) =>(
                                                 <li key={index} onClick={() => handleColorSelect(color)} className={selectedColor?.color === color.color ? 'active' : ''}>
                                                     <img src={color.img} alt={`Color ${color.color}`} />
                                                     <p className='text'>{color.color}</p>
@@ -197,14 +192,14 @@ function Colores() {
                                             ))}
                                         </ul>
                                     </div>
-                                ) : (
-                                    allFabrics.map((fabric) => (
+                                ) :(
+                                    allFabrics.map((fabric) =>(
                                         <div key={fabric.tela} className="d-flex-column gap-10">
                                             <h3 className='title text'>{fabric.tela} :</h3>
 
                                             <div className='colors-colors'>
                                                 <ul>
-                                                    {fabric.colores.map((color, index) => (
+                                                    {fabric.colores.map((color, index) =>(
                                                         <li key={index} onClick={() => { setSelectedFabric(fabric.tela); setSelectedColor(color); }}>
                                                             <img src={color.img} alt={`Color ${color.color}`} />
                                                             <p className='text'>{color.color}</p>
