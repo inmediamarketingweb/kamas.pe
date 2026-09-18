@@ -181,12 +181,14 @@ function Colores() {
                                     <img src={bannerImage} alt={selectedColor ? `Tela ${selectedFabric} en ${selectedColor.color}` : 'Banner de colores'} />
 
                                     {selectedColor ? (
-                                        <p className='text'>{selectedColor.color}</p>
+                                        <div className='d-flex'>
+                                            <p className='text'>{selectedColor.color}</p>
+                                        </div>
                                     ) : (
-                                        <>
+                                        <div className='d-flex-center-center gap-10'>
                                             <p className='text'>Seleccione un color</p>
-                                            <span className="material-symbols-outlined">touch_app</span>
-                                        </>
+                                            <span className="material-symbols-outlined color-color-1">touch_app</span>
+                                        </div>
                                     )}
                                 </div>
 
