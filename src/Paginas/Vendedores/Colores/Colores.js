@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 
 import './Colores.css';
 
-import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
+import Layer from '../../../Componentes/Layer/Layer';
 import Footer from '../../../Componentes/Footer/Footer';
 
 const DEFAULT_BANNER = '/assets/imagenes/paginas/colores-baner.jpg';
@@ -34,7 +34,6 @@ function Colores() {
         fetchData();
     }, []);
 
-    // 2. Leer parámetros de URL al montar
     useEffect(() => {
         const params = new URLSearchParams(location.search);
         const fabric = params.get('tela');
@@ -44,14 +43,12 @@ function Colores() {
         if (color) setSelectedColor({ color });
     }, [location.search]);
 
-    // 3. Actualizar banner según color/tela seleccionada
     useEffect(() => {
         if (!fabricData || !selectedFabric) {
             setBannerImage(DEFAULT_BANNER);
             return;
         }
 
-        // Buscar la tela en todas las categorías
         let foundFabric = null;
         for (const obj of fabricData.telas) {
             for (const cat in obj) {
@@ -70,7 +67,6 @@ function Colores() {
             return;
         }
 
-        // Si hay un color seleccionado, buscar su objeto completo y usar su original
         if (selectedColor?.color) {
             const colorObj = foundFabric.colores?.find(c => c.color === selectedColor.color);
             if (colorObj) {
@@ -85,7 +81,6 @@ function Colores() {
         }
     }, [fabricData, selectedFabric, selectedColor?.color]);
 
-    // 4. Actualizar URL cuando cambian selecciones
     useEffect(() => {
         const params = new URLSearchParams();
         if (selectedFabric) params.set('tela', selectedFabric);
@@ -115,10 +110,9 @@ function Colores() {
         setSelectedColor(null);
     };
 
-    if (loading) return <SpinnerLoading />;
+    if (loading) return <Layer />;
     if (!fabricData) return null;
 
-    // Aplanar todas las telas de todas las categorías
     const allFabrics = [];
     fabricData.telas.forEach(obj => {
         for (const cat in obj) {
