@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "decorativos",
+            "ruta": "/productos/complementos/puffs/decorativos/1/",
+            "nombre": "PUFF DECORATIVO LINEAL - NARANJA",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/decorativos/1/",
+            "precioRegular": 239,
+            "precioNormal": 169,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K7497889NX10",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "decorativos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "decorativos",
+            "ruta": "/productos/complementos/puffs/decorativos/2/",
+            "nombre": "PUFF DECORATIVO DISEÑO MARSHMELOW - TEJIDO ROSADO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/decorativos/2/",
+            "precioRegular": 239,
+            "precioNormal": 169,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K7497889NX11",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "decorativos"
+                }
+            ]
+        }
+    ]
+}

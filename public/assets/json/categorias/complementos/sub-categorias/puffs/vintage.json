@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "vintage",
+            "ruta": "/productos/complementos/puffs/vintage/1/",
+            "nombre": "PUFF VINTAGE - GRANULADO IVORY",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/vintage/1/",
+            "precioRegular": 199,
+            "precioNormal": 159,
+            "precioVenta": 139,
+            "stock": 14,
+            "sku": "K7488NX10",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "vintage",
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "vintage",
+            "ruta": "/productos/complementos/puffs/vintage/2/",
+            "nombre": "PUFF VINTAGE - GRANULADO IVORY",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/vintage/2/",
+            "precioRegular": 199,
+            "precioNormal": 139,
+            "precioVenta": 119,
+            "stock": 14,
+            "sku": "K7488NX11",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "vintage",
+                    "alto": "37 cm",
+                    "largo": "27 cm",
+                    "ancho": "37 cm"
+                }
+            ]
+        }
+    ]
+}

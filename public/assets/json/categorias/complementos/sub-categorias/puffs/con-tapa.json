@@ -1,0 +1,26 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "baul",
+            "ruta": "/productos/complementos/puffs/baul/1/",
+            "nombre": "PUFF CIRCULAR CON TAPA TAPIZADA - TEJIDO CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/con-tapa/1/",
+            "precioRegular": 239,
+            "precioNormal": 169,
+            "precioVenta": 149,
+            "stock": 14,
+            "sku": "K749779NX10",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "baul"
+                }
+            ]
+        }
+    ]
+}

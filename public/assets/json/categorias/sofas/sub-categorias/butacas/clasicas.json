@@ -1,242 +1,427 @@
 {
     "productos":[
         {
-            "id": 1,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/1/",
             "nombre": "2 BUTACAS CLASIC -  NEGRO Y PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/1/",
-            "colores": "si",
             "precioRegular": 1289,
             "precioNormal": 1059,
             "precioVenta": 899,
             "stock": 9,
-            "sku": "K6721N10",
+            "sku": "H6721N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
-            "id": 2,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/2/",
             "nombre": "BUTACA CLASIC - PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/2/",
-            "colores": "si",
             "precioRegular": 1289,
             "precioNormal": 589,
             "precioVenta": 469,
             "stock": 9,
-            "sku": "K6721N11",
+            "sku": "H6721N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 3,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/3/",
             "nombre": "BUTACA CLASIC - MORO",
             "fotos": "/assets/imagenes/productos/sofas/butacas/3/",
-            "colores": "si",
             "precioRegular": 1289,
             "precioNormal": 549,
             "precioVenta": 439,
             "stock": 9,
-            "sku": "K6721N12",
+            "sku": "H6721N12",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 4,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/4/",
             "nombre": "BUTACA CLASIC - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/4/",
-            "colores": "si",
             "precioRegular": 1489,
             "precioNormal": 739,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6721N13",
+            "sku": "H6721N13",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 5,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/5/",
             "nombre": "BUTACA CLASIC - PALO ROSA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/5/",
-            "colores": "si",
             "precioRegular": 1289,
             "precioNormal": 589,
             "precioVenta": 469,
             "stock": 9,
-            "sku": "K6721N14",
+            "sku": "H6721N14",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 6,
-            "categoria": "sofás",
-            "subcategoria": "butacas",
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
             "ruta": "/productos/sofas/butacas/clasicas/6/",
             "nombre": "BUTACA CLASIC - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/sofas/butacas/6/",
-            "colores": "si",
             "precioRegular": 1289,
             "precioNormal": 589,
             "precioVenta": 469,
             "stock": 9,
-            "sku": "K6721N15",
+            "sku": "H6721N15",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de durazno",
-                    "diseño": "Clasic"
-                }
-            ],
             "detalles-del-producto":[
                 {
+                    "marca": "kamas",
                     "modelo": "Butacas",
                     "tela": "Piel de durazno",
                     "diseño": "Clasic"
                 }
-            ],
-            "descripciones":[
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/7/",
+            "nombre": "BUTACA CLASIC - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/7/",
+            "precioRegular": 1399,
+            "precioNormal": 699,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "H6721N16",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Butaca",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/8/",
+            "nombre": "BUTACA CLASIC BRAZOS CURVA CON BASE CIRCULAR - TEJIDO GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/8/",
+            "precioRegular": 1499,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "H6721N17",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/9/",
+            "nombre": "BUTACA CLASIC PRINCESA PATAS DE MADERA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/9/",
+            "precioRegular": 1349,
+            "precioNormal": 979,
+            "precioVenta": 749,
+            "stock": 9,
+            "sku": "H6721N18",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/10/",
+            "nombre": "BUTACA CLASIC C PATAS DE MADERA - ARENA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/10/",
+            "precioRegular": 1099,
+            "precioNormal": 799,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H6721N19",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic C"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/11/",
+            "nombre": "BUTACA CLASIC CON BRAZOS P - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/11/",
+            "precioRegular": 1399,
+            "precioNormal": 999,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "H6721N20",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic brazos p"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/12/",
+            "nombre": "BUTACA CLASIC CON REPOSABRAZOS - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/12/",
+            "precioRegular": 1399,
+            "precioNormal": 999,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "H6721N21",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic brazos p"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/13/",
+            "nombre": "BUTACA CLASIC C PATAS DE MADERA - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/13/",
+            "precioRegular": 1099,
+            "precioNormal": 799,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H6721N22",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic C"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/14/",
+            "nombre": "BUTACA CLASIC C CON REPOSABRAZOS ALTO PATAS DE MADERA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/14/",
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "H6721N23",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic C"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/15/",
+            "nombre": "BUTACA CLASIC ESQUELETON MADERA TORNILLO  - TEJIDO GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/15/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "H6721N24",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Esqueleton"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/16/",
+            "nombre": "BUTACA CLASIC - BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/16/",
+            "precioRegular": 1399,
+            "precioNormal": 699,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "H6721N25",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "tela": "Piel de durazno",
+                    "diseño": "Clasic"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/17/",
+            "nombre": "BUTACA CLASIC - TEJIDO GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/17/",
+            "precioRegular": 1499,
+            "precioNormal": 799,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H6721N26",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/18/",
+            "nombre": "BUTACA DISEÑO MODERNO MADERA - TEJIDO IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/18/",
+            "precioRegular": 1499,
+            "precioNormal": 799,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H6721N27",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "Clasic"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "sofas",
+            "subcategoría": "butacas",
+            "marca": "kamas",
+            "ruta": "/productos/sofas/butacas/clasicas/19/",
+            "nombre": "BUTACA CUBO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/sofas/butacas/19/",
+            "precioRegular": 1499,
+            "precioNormal": 799,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "H6721N28",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "marca": "kamas",
+                    "modelo": "Butacas",
+                    "diseño": "cubo"
                 }
             ]
         }

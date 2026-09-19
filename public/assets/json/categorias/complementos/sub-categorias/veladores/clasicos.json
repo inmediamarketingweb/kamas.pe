@@ -825,6 +825,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "ruta": "/productos/complementos/veladores/clasicos/24/",
+            "nombre": "VELADOR DE MELAMINA MODERNO 2 CAJONES - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/otros-modelos/18/",
+            "precioRegular": 599,
+            "precioNormal": 529,
+            "precioVenta": 449,
+            "stock": 14,
+            "sku": "K731NX10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "Veladores",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
         }
     ]
 }

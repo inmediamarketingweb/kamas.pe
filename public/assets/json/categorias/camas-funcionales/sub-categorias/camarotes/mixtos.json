@@ -83,6 +83,29 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas funcionales",
+            "subcategoría": "camarotes",
+            "tamaño": "1 plaza y media + 2 plazas",
+            "ruta": "/productos/camas-funcionales/camarotes/mixtos/3/",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/camarotes/mixtos/3/",
+            "precioRegular": 1999,
+            "precioNormal": 1499,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K442N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "camarotes",
+                    "tamaño": "mixto",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ]
         }
     ]
 }

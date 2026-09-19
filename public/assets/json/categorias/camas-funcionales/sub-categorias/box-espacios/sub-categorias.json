@@ -9,6 +9,11 @@
             "subcategoria": "Queen",
             "metaTitulo": "Box espacios queen | Kamas",
             "ruta": "/productos/camas-funcionales/box-espacios/queen/"
+        },
+        {
+            "subcategoria": "King",
+            "metaTitulo": "Box espacios king | Kamas",
+            "ruta": "/productos/camas-funcionales/box-espacios/king/"
         }
     ]
 }
