@@ -5,9 +5,9 @@ import { Helmet } from "react-helmet-async";
 import "./PaginaDeCategoria.css";
 
 import Filtros from "./Filtros/Filtros";
-import Top from '../../Componentes/Filtros/Componentes/Top/Top.js';
-import ConteoRegresivo from '../../Componentes/ConteoRegresivo/ConteoRegresivo';
-import { Producto } from '../../Componentes/Plantillas/Producto/Producto.js';
+import Top from "../../Componentes/Filtros/Componentes/Top/Top.js";
+import ConteoRegresivo from "../../Componentes/ConteoRegresivo/ConteoRegresivo";
+import { Producto } from "../../Componentes/Plantillas/Producto/Producto.js";
 
 function shuffleArray(array) {
     const shuffled = [...array];
@@ -18,25 +18,25 @@ function shuffleArray(array) {
     return shuffled;
 }
 
-function PaginaDeCategoria(){
+function PaginaDeCategoria() {
     const { categoria, subcategoria, subsubcategoria } = useParams();
-    const [searchParams] = useSearchParams();
+    const [searchParams] = useSearchParams(); // solo lectura, no escribimos page
+
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
     const [productosFiltrados, setProductosFiltrados] = useState([]);
     const [favorites, setFavorites] = useState([]);
     const [filtersActive, setFiltersActive] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 40;
-    const [productosFiltradosPorFiltros, setProductosFiltradosPorFiltros] = useState([]);
+    const itemsPerPage = 48;
+    const [productosFiltradosPorFiltros, setProductosFiltradosPorFiltros] = useState(null);
     const [isLoading, setIsLoading] = useState(true);
     const [skusOfertas, setSkusOfertas] = useState([]);
     const [isOfferActive, setIsOfferActive] = useState(true);
     const [productosOriginales, setProductosOriginales] = useState([]);
-    const envioGratis = searchParams.get('envio-gratis') === 'si';
-    const enOferta = searchParams.get('en-oferta') === 'si';
-    const sortOption = searchParams.get('orden') || '';
-    const pageFromUrl = parseInt(searchParams.get('page')) || 1;
+    const envioGratis = searchParams.get("envio-gratis") === "si";
+    const enOferta = searchParams.get("en-oferta") === "si";
+    const sortOption = searchParams.get("orden") || "";
     const handleExpire = () => setIsOfferActive(false);
     const handleActivate = () => setIsOfferActive(true);
 
@@ -44,12 +44,9 @@ function PaginaDeCategoria(){
         try {
             const stored = localStorage.getItem("favoritos");
             let favStorage = [];
-            
             if (stored) {
                 const parsed = JSON.parse(stored);
-                if (Array.isArray(parsed)) {
-                    favStorage = parsed;
-                }
+                if (Array.isArray(parsed)) favStorage = parsed;
             }
             setFavorites(favStorage);
         } catch (error) {
@@ -59,7 +56,7 @@ function PaginaDeCategoria(){
 
     const cargarOfertas = useCallback(async () => {
         try {
-            const response = await fetch('/assets/json/ofertas.json');
+            const response = await fetch("/assets/json/ofertas.json");
             const data = await response.json();
             setSkusOfertas(data);
         } catch (error) {
@@ -78,20 +75,30 @@ function PaginaDeCategoria(){
 
             if (subsubcategoria) {
                 const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
-                const subsubcatNombre = subsubcategoria.toLowerCase().replace(/\s+/g, "-");
-                const productResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
+                const subsubcatNombre = subsubcategoria
+                    .toLowerCase()
+                    .replace(/\s+/g, "-");
+                const productResponse = await fetch(
+                    `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`
+                );
                 const productData = await productResponse.json();
                 productosCargados = shuffleArray(productData.productos || []);
             } else if (subcategoria) {
                 const subcatNombre = subcategoria.toLowerCase().replace(/\s+/g, "-");
-                const subcatResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`);
+                const subcatResponse = await fetch(
+                    `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`
+                );
                 const subcatData = await subcatResponse.json();
 
                 if (Array.isArray(subcatData.subcategorias)) {
                     const promesas = subcatData.subcategorias.map(async (subsubcat) => {
-                        const subsubcatNombre = subsubcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                        const subsubcatNombre = subsubcat.subcategoria
+                            .toLowerCase()
+                            .replace(/\s+/g, "-");
                         try {
-                            const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
+                            const response = await fetch(
+                                `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`
+                            );
                             const data = await response.json();
                             return data.productos || [];
                         } catch (error) {
@@ -103,33 +110,47 @@ function PaginaDeCategoria(){
                     productosCargados = shuffleArray(productosPorSubsubcategoria.flat());
                 }
             } else {
-                const subcatResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`);
+                const subcatResponse = await fetch(
+                    `/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`
+                );
                 const subcatData = await subcatResponse.json();
 
                 if (Array.isArray(subcatData.subcategorias)) {
                     const promesas = subcatData.subcategorias.map(async (subcat) => {
-                        const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
+                        const subcatNombre = subcat.subcategoria
+                            .toLowerCase()
+                            .replace(/\s+/g, "-");
                         try {
-                            const subsubResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`);
+                            const subsubResponse = await fetch(
+                                `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/sub-categorias.json`
+                            );
                             const subsubData = await subsubResponse.json();
 
                             if (Array.isArray(subsubData.subcategorias)) {
-                                const subPromesas = subsubData.subcategorias.map(async (subsubcat) => {
-                                    const subsubcatNombre = subsubcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
-                                    try {
-                                        const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`);
-                                        const data = await response.json();
-                                        return data.productos || [];
-                                    } catch (error) {
-                                        return [];
+                                const subPromesas = subsubData.subcategorias.map(
+                                    async (subsubcat) => {
+                                        const subsubcatNombre = subsubcat.subcategoria
+                                            .toLowerCase()
+                                            .replace(/\s+/g, "-");
+                                        try {
+                                            const response = await fetch(
+                                                `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}/${subsubcatNombre}.json`
+                                            );
+                                            const data = await response.json();
+                                            return data.productos || [];
+                                        } catch (error) {
+                                            return [];
+                                        }
                                     }
-                                });
+                                );
                                 return (await Promise.all(subPromesas)).flat();
                             }
                             return [];
                         } catch (error) {
                             try {
-                                const response = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`);
+                                const response = await fetch(
+                                    `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`
+                                );
                                 const data = await response.json();
                                 return data.productos || [];
                             } catch (error) {
@@ -142,24 +163,25 @@ function PaginaDeCategoria(){
                     productosCargados = shuffleArray(productosPorSubcategoria.flat(2));
                 }
             }
-            
+
             setProductosOriginales(productosCargados);
             setProductos(productosCargados);
-            setProductosFiltradosPorFiltros(productosCargados);
-            
+            setProductosFiltradosPorFiltros(null);
+
             try {
-                const metaResponse = await fetch(`/assets/json/categorias/${categoria}/metadatos.json`);
+                const metaResponse = await fetch(
+                    `/assets/json/categorias/${categoria}/metadatos.json`
+                );
                 const metaData = await metaResponse.json();
                 setMetadatos(metaData || { title: "", description: "" });
             } catch (error) {
                 console.error("Error cargando metadatos:", error);
             }
-
         } catch (error) {
             console.error("Error cargando datos:", error);
             setProductosOriginales([]);
             setProductos([]);
-            setProductosFiltradosPorFiltros([]);
+            setProductosFiltradosPorFiltros(null);
         } finally {
             setIsLoading(false);
         }
@@ -170,8 +192,10 @@ function PaginaDeCategoria(){
     }, [cargarProductos]);
 
     useEffect(() => {
-        const productosBase = productosFiltradosPorFiltros.length > 0 ? productosFiltradosPorFiltros : productosOriginales;
-
+        const productosBase =
+            productosFiltradosPorFiltros !== null
+                ? productosFiltradosPorFiltros
+                : productosOriginales;
 
         if (!productosBase.length) {
             setProductosFiltrados([]);
@@ -181,77 +205,136 @@ function PaginaDeCategoria(){
         let resultado = [...productosBase];
 
         if (envioGratis) {
-            resultado = resultado.filter(producto => {
-                const tipoEnvio = producto["tipo-de-envio"] || '';
+            resultado = resultado.filter((producto) => {
+                const tipoEnvio = producto["tipo-de-envio"] || "";
                 return tipoEnvio.toLowerCase() === "gratis";
             });
         }
 
         if (enOferta) {
-            resultado = resultado.filter(producto => {
-                const oferta = producto.oferta || '';
-                return oferta.toLowerCase() === "si" || skusOfertas.includes(producto.sku);
+            resultado = resultado.filter((producto) => {
+                const oferta = producto.oferta || "";
+                return (
+                    oferta.toLowerCase() === "si" ||
+                    skusOfertas.includes(producto.sku)
+                );
             });
         }
 
         if (sortOption && resultado.length > 0) {
-            if (sortOption === 'menor-a-mayor') {
+            if (sortOption === "menor-a-mayor") {
                 resultado.sort((a, b) => {
-                    const precioA = parseFloat(a.precioVenta) || parseFloat(a.precio) || parseFloat(a.precioNormal) || 0;
-                    const precioB = parseFloat(b.precioVenta) || parseFloat(b.precio) || parseFloat(b.precioNormal) || 0;
+                    const precioA =
+                        parseFloat(a.precioVenta) ||
+                        parseFloat(a.precio) ||
+                        parseFloat(a.precioNormal) ||
+                        0;
+                    const precioB =
+                        parseFloat(b.precioVenta) ||
+                        parseFloat(b.precio) ||
+                        parseFloat(b.precioNormal) ||
+                        0;
                     return precioA - precioB;
                 });
-            } else if (sortOption === 'mayor-a-menor') {
+            } else if (sortOption === "mayor-a-menor") {
                 resultado.sort((a, b) => {
-                    const precioA = parseFloat(a.precioVenta) || parseFloat(a.precio) || parseFloat(a.precioNormal) || 0;
-                    const precioB = parseFloat(b.precioVenta) || parseFloat(b.precio) || parseFloat(b.precioNormal) || 0;
+                    const precioA =
+                        parseFloat(a.precioVenta) ||
+                        parseFloat(a.precio) ||
+                        parseFloat(a.precioNormal) ||
+                        0;
+                    const precioB =
+                        parseFloat(b.precioVenta) ||
+                        parseFloat(b.precio) ||
+                        parseFloat(b.precioNormal) ||
+                        0;
                     return precioB - precioA;
                 });
             }
         }
 
         setProductosFiltrados(resultado);
-        
-    }, [productosFiltradosPorFiltros, productosOriginales, envioGratis, enOferta, sortOption, skusOfertas]);
-
-    useEffect(() => {
-        setCurrentPage(pageFromUrl);
-    }, [pageFromUrl]);
+    }, [
+        productosFiltradosPorFiltros,
+        productosOriginales,
+        envioGratis,
+        enOferta,
+        sortOption,
+        skusOfertas,
+    ]);
 
     const totalItems = productosFiltrados.length;
     const totalPages = Math.max(1, Math.ceil(totalItems / itemsPerPage));
+
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [productosFiltradosPorFiltros, categoria, subcategoria, subsubcategoria]);
+
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [envioGratis, enOferta, sortOption]);
+
+    useEffect(() => {
+        if (currentPage > totalPages) {
+            setCurrentPage(totalPages);
+        }
+    }, [currentPage, totalPages]);
 
     const getVisiblePages = () => {
         const visiblePages = [];
         if (totalPages <= 5) {
             for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
         } else {
-            if (currentPage <= 3) { 
-                visiblePages.push(1, 2, 3, 4, '...', totalPages); 
+            if (currentPage <= 3) {
+                visiblePages.push(1, 2, 3, 4, "...", totalPages);
             } else if (currentPage >= totalPages - 2) {
-                visiblePages.push(1, '...', totalPages - 3, totalPages - 2, totalPages - 1, totalPages);
+                visiblePages.push(
+                    1,
+                    "...",
+                    totalPages - 3,
+                    totalPages - 2,
+                    totalPages - 1,
+                    totalPages
+                );
             } else {
-                visiblePages.push(1, '...', currentPage - 1, currentPage, currentPage + 1, '...', totalPages);
+                visiblePages.push(
+                    1,
+                    "...",
+                    currentPage - 1,
+                    currentPage,
+                    currentPage + 1,
+                    "...",
+                    totalPages
+                );
             }
         }
         return visiblePages;
     };
 
-    const handlePageChange = (newPage) => {
-        setCurrentPage(Math.max(1, Math.min(totalPages, newPage)));
-    };
+    const handlePageChange = useCallback(
+        (newPage) => {
+            const pagina = Math.max(1, Math.min(totalPages, newPage));
+            setCurrentPage(pagina);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        },
+        [totalPages]
+    );
 
     const handlePreviousPage = () => handlePageChange(currentPage - 1);
     const handleNextPage = () => handlePageChange(currentPage + 1);
+
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
     const currentProducts = productosFiltrados.slice(startIndex, endIndex);
+
     const handleToggleFilters = () => setFiltersActive((prev) => !prev);
     const handleCloseFilters = () => setFiltersActive(false);
 
     const toggleFavorite = (producto) => {
         const exists = favorites.some((fav) => fav.ruta === producto.ruta);
-        const updatedFavorites = exists ? favorites.filter((fav) => fav.ruta !== producto.ruta) : [...favorites, producto];
+        const updatedFavorites = exists
+            ? favorites.filter((fav) => fav.ruta !== producto.ruta)
+            : [...favorites, producto];
         setFavorites(updatedFavorites);
         localStorage.setItem("favoritos", JSON.stringify(updatedFavorites));
     };
@@ -269,16 +352,15 @@ function PaginaDeCategoria(){
                     <section className="block-content">
                         <div className="category-page-container">
                             <div className="category-page-left">
-                                <Filtros 
-                                    productos={productos} 
-                                    setProductosFiltrados={setProductosFiltradosPorFiltros} 
-                                    filtersActive={filtersActive} 
+                                <Filtros productos={productos}
+                                    setProductosFiltrados={setProductosFiltradosPorFiltros}
+                                    filtersActive={filtersActive}
                                     onClose={handleCloseFilters}
                                 />
                             </div>
 
                             <div className="category-page-right">
-                                <Top 
+                                <Top
                                     currentPage={currentPage}
                                     totalPages={totalPages}
                                     onPageChange={handlePageChange}
@@ -294,14 +376,18 @@ function PaginaDeCategoria(){
                                     <>
                                         <ul className="category-page-products">
                                             {currentProducts.map((producto) => {
-                                                const isFavorite = Array.isArray(favorites) && favorites.some((fav) => fav.sku === producto.sku);
-                                                return(
-                                                    <Producto 
-                                                        key={producto.sku} 
-                                                        producto={producto} 
-                                                        truncate={truncate} 
-                                                        onToggleFavorite={toggleFavorite} 
-                                                        isFavorite={isFavorite} 
+                                                const isFavorite =
+                                                    Array.isArray(favorites) &&
+                                                    favorites.some(
+                                                        (fav) => fav.sku === producto.sku
+                                                    );
+                                                return (
+                                                    <Producto
+                                                        key={producto.sku}
+                                                        producto={producto}
+                                                        truncate={truncate}
+                                                        onToggleFavorite={toggleFavorite}
+                                                        isFavorite={isFavorite}
                                                         skusOfertas={skusOfertas}
                                                         isOfferActive={isOfferActive}
                                                     />
@@ -311,37 +397,63 @@ function PaginaDeCategoria(){
 
                                         {totalPages > 1 && (
                                             <div className="pagination-controls">
-                                                <button className="pagination-arrow" onClick={handlePreviousPage} disabled={currentPage === 1}>
-                                                    <span className="material-symbols-outlined">chevron_left</span>
+                                                <button
+                                                    className="pagination-arrow"
+                                                    onClick={handlePreviousPage}
+                                                    disabled={currentPage === 1}
+                                                >
+                                                    <span className="material-symbols-outlined">
+                                                        chevron_left
+                                                    </span>
                                                     <p>Anterior</p>
                                                 </button>
 
                                                 <div className="d-flex-center-center gap-5">
-                                                    {getVisiblePages().map((page, index) => 
-                                                        typeof page === 'number' ? (
-                                                            <button 
-                                                                key={index} 
-                                                                className={`pagination-page ${currentPage === page ? 'active' : ''}`} 
-                                                                onClick={() => handlePageChange(page)}
+                                                    {getVisiblePages().map((page, index) =>
+                                                        typeof page === "number" ? (
+                                                            <button
+                                                                key={index}
+                                                                className={`pagination-page ${
+                                                                    currentPage === page
+                                                                        ? "active"
+                                                                        : ""
+                                                                }`}
+                                                                onClick={() =>
+                                                                    handlePageChange(page)
+                                                                }
                                                             >
                                                                 {page}
                                                             </button>
                                                         ) : (
-                                                            <span key={index} className="pagination-ellipsis">...</span>
+                                                            <span
+                                                                key={index}
+                                                                className="pagination-ellipsis"
+                                                            >
+                                                                ...
+                                                            </span>
                                                         )
                                                     )}
                                                 </div>
 
-                                                <button className="pagination-arrow" onClick={handleNextPage} disabled={currentPage === totalPages}>
+                                                <button
+                                                    className="pagination-arrow"
+                                                    onClick={handleNextPage}
+                                                    disabled={currentPage === totalPages}
+                                                >
                                                     <p>Siguiente</p>
-                                                    <span className="material-symbols-outlined">chevron_right</span>
+                                                    <span className="material-symbols-outlined">
+                                                        chevron_right
+                                                    </span>
                                                 </button>
                                             </div>
                                         )}
                                     </>
                                 ) : (
                                     <div className="no-products-message">
-                                        <p className="title text">Lo sentimos, no hay productos disponibles en este momento.</p>
+                                        <p className="title text">
+                                            Lo sentimos, no hay productos disponibles en
+                                            este momento.
+                                        </p>
                                     </div>
                                 )}
                             </div>
@@ -349,7 +461,10 @@ function PaginaDeCategoria(){
                     </section>
                 </div>
 
-                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
+                <ConteoRegresivo
+                    onExpire={handleExpire}
+                    onActivate={handleActivate}
+                />
             </main>
         </>
     );
