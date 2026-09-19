@@ -1,0 +1,26 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "sofás",
+            "subcategoria": "sofas camas",
+            "ruta": "/productos/sofas/sofa-cama/2-plazas/1/",
+            "nombre": "SOFÁ CAMA 2 PLAZAS MODELO CAPITONE - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/sofas-camas/6/",
+            "precioRegular": 1999,
+            "precioNormal": 1649,
+            "precioVenta": 1399,
+            "stock": 9,
+            "sku": "K6322NX10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "modelo": "sófa cama",
+                    "tamaño": "2 plazas",
+                    "tela": "Piel de potro",
+                    "ancho": "167.cm"
+                }
+            ]
+        }
+    ]
+}

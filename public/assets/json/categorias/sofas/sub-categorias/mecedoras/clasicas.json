@@ -2,121 +2,184 @@
     "productos":[
         {
             "id": 1,
-            "categoria": "sofás",
-            "subcategoria": "mecedoras",
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/clasicas/1/",
             "nombre": "MECEDORA CAPITONEADA - BEIGE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/1/",
-            "colores": "si",
             "precioRegular": 999,
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N10",
+            "sku": "K622621N10",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de potro",
-                    "diseño": "Capitoneado"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Mecedoras",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 2,
-            "categoria": "sofás",
-            "subcategoria": "mecedoras",
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/clasicas/2/",
             "nombre": "MECEDORA CAPITONEADA - CELESTE",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/2/",
-            "colores": "si",
             "precioRegular": 999,
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N11",
+            "sku": "K622621N11",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de potro",
-                    "diseño": "Capitoneado"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Mecedoras",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 3,
-            "categoria": "sofás",
-            "subcategoria": "mecedoras",
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
             "ruta": "/productos/sofas/mecedoras/clasicas/3/",
             "nombre": "MECEDORA CAPITONEADA - VERDE LORO",
             "fotos": "/assets/imagenes/productos/sofas/mecedoras/3/",
-            "colores": "si",
             "precioRegular": 999,
             "precioNormal": 799,
             "precioVenta": 599,
             "stock": 9,
-            "sku": "K6621N12",
+            "sku": "K622621N12",
             "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tela": "Piel de potro",
-                    "diseño": "Capitoneado"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "modelo": "Mecedoras",
                     "tela": "Piel de potro",
                     "diseño": "Capitoneado"
                 }
-            ],
-            "descripciones":[
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/4/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/4/",
+            "precioRegular": 1299,
+            "precioNormal": 899,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K622621N13",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
                 {
-                    "titulo": "Mecedoras",
-                    "descripcion":[
-                        {
-                            "madera": "Tornillo",
-                            "tapizado": "Piel de potro",
-                            "espuma": "Zebra 25kg/m3"
-                        }
-                    ]
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/5/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/5/",
+            "precioRegular": 1499,
+            "precioNormal": 999,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K622621N14",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/6/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/6/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N15",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/7/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/7/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N16",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/8/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/8/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N17",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "sofas",
+            "subcategoría": "mecedoras",
+            "ruta": "/productos/sofas/mecedoras/clasicas/9/",
+            "nombre": "MECEDORA CAPITONEADA SILLA LINEAL - GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/9/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N18",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
                 }
             ]
         }

@@ -6,9 +6,14 @@
             "ruta": "/productos/complementos/puffs/clasicos/"
         },
         {
-            "subcategoria": "Redondos",
-            "metaTitulo": "Complementos - Puffs redondos | Kamas",
-            "ruta": "/productos/complementos/puffs/redondos/"
+            "subcategoria": "Circulares",
+            "metaTitulo": "Complementos - Puffs circulares | Kamas",
+            "ruta": "/productos/complementos/puffs/circulares/"
+        },
+        {
+            "subcategoria": "Decorativos",
+            "metaTitulo": "Complementos - Puffs decorativos | Kamas",
+            "ruta": "/productos/complementos/puffs/decorativos/"
         },
         {
             "subcategoria": "Con tapa",

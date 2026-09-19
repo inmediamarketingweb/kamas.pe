@@ -53,6 +53,7 @@
 
         "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/2-plazas.json",
         "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/queen.json",
+        "/assets/json/categorias/camas-funcionales/sub-categorias/box-espacios/king.json",
 
         "/assets/json/categorias/camas-funcionales/sub-categorias/divanes/2-plazas.json",
 
@@ -87,7 +88,10 @@
         "/assets/json/categorias/complementos/sub-categorias/cama-perro/l.json",
         "/assets/json/categorias/complementos/sub-categorias/cama-perro/xxl.json",
 
+        "/assets/json/categorias/complementos/sub-categorias/puffs/decorativos.json",
+        "/assets/json/categorias/complementos/sub-categorias/puffs/vintage.json",
         "/assets/json/categorias/complementos/sub-categorias/puffs/clasicos.json",
+        "/assets/json/categorias/complementos/sub-categorias/puffs/circulares.json",
 
         "/assets/json/categorias/complementos/sub-categorias/veladores/shelter.json",
         "/assets/json/categorias/complementos/sub-categorias/veladores/clasicos.json",

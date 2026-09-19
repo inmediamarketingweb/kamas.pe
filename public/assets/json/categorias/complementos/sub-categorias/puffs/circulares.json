@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "circulares",
+            "ruta": "/productos/complementos/puffs/circulares/1/",
+            "nombre": "PUFF CIRCULAR BASE ANCHA - TABACO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/circulares/1/",
+            "precioRegular": 139,
+            "precioNormal": 119,
+            "precioVenta": 99,
+            "stock": 14,
+            "sku": "K7499NX10",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "circular"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "circulares",
+            "ruta": "/productos/complementos/puffs/circulares/2/",
+            "nombre": "PUFF CIRCULAR BASE ANCHA - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/circulares/2/",
+            "precioRegular": 139,
+            "precioNormal": 119,
+            "precioVenta": 99,
+            "stock": 14,
+            "sku": "K7499NX11",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "circular"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "modelo": "circulares",
+            "ruta": "/productos/complementos/puffs/circulares/3/",
+            "nombre": "PUFF CIRCULAR BASE ANCHA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/circulares/3/",
+            "precioRegular": 139,
+            "precioNormal": 119,
+            "precioVenta": 99,
+            "stock": 14,
+            "sku": "K7499NX12",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "subcategoría": "puffs",
+                    "cajones": "No",
+                    "modelo": "circular"
+                }
+            ]
+        }
+    ]
+}
