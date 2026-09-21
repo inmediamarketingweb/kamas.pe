@@ -129,7 +129,7 @@
 
 .agencias-resultados-2 ul li button:hover{
     border: 1px solid var(--color-1);
-    background: rgba(108 12 44 / 0.05);
+    background: rgba(60 127 190 / 0.15);
 }
 
 .agencias-resultados-2 ul li button span{
