@@ -453,6 +453,11 @@ button{
     grid-row: 1/-1;
 }
 
+.d-grid-auto-1fr-auto-1fr{
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
 .margin-auto{
     margin: auto;
 }
