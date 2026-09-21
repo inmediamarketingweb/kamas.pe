@@ -20,7 +20,7 @@ function shuffleArray(array) {
 
 function PaginaDeCategoria() {
     const { categoria, subcategoria, subsubcategoria } = useParams();
-    const [searchParams] = useSearchParams(); // solo lectura, no escribimos page
+    const [searchParams] = useSearchParams();
 
     const [metadatos, setMetadatos] = useState({ title: "", description: "" });
     const [productos, setProductos] = useState([]);
@@ -28,7 +28,7 @@ function PaginaDeCategoria() {
     const [favorites, setFavorites] = useState([]);
     const [filtersActive, setFiltersActive] = useState(false);
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 48;
+    const itemsPerPage = 50;
     const [productosFiltradosPorFiltros, setProductosFiltradosPorFiltros] = useState(null);
     const [isLoading, setIsLoading] = useState(true);
     const [skusOfertas, setSkusOfertas] = useState([]);

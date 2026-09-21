@@ -932,55 +932,6 @@
             ]
         },
         {
-            "id": 31,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/pedestales/21/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - VERDE JADE",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-2/1/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 719,
-            "precioVenta": 559,
-            "stock": 9,
-            "sku": "K52251N17",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Lineal 2"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Lineal 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 32,
             "categoria": "cabeceras",
             "subcategoria": "pedestales",
@@ -1471,55 +1422,6 @@
             ]
         },
         {
-            "id": 42,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/pedestales/32/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/7/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 649,
-            "precioVenta": 509,
-            "stock": 9,
-            "sku": "K52250N16",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 43,
             "categoria": "cabeceras",
             "subcategoria": "pedestales",
@@ -1533,55 +1435,6 @@
             "precioVenta": 509,
             "stock": 9,
             "sku": "K52250N17",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "sin brazos",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 44,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/pedestales/34/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - TURQUESA",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/9/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 649,
-            "precioVenta": 509,
-            "stock": 9,
-            "sku": "K52250N18",
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
@@ -1680,55 +1533,6 @@
             "precioVenta": 619,
             "stock": 9,
             "sku": "K52241N11",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Corona"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Corona"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 47,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/pedestales/37/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - ROJO",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/3/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 789,
-            "precioVenta": 619,
-            "stock": 9,
-            "sku": "K52241N12",
             "tipo-de-envio": "Envío preferente",
             "resumen-del-producto":[
                 {
@@ -2480,55 +2284,6 @@
                     "diseño-de-cabecera": "Corona",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Corona"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 63,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
-            "tamaño": "2 plazas",
-            "ruta": "/productos/cabeceras/2-plazas/pedestales/53/",
-            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - VERDE JADE",
-            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/1/",
-            "colores": "si",
-            "precioRegular": 619,
-            "precioNormal": 789,
-            "precioVenta": 619,
-            "stock": 9,
-            "sku": "K52242N16",
-            "tipo-de-envio": "Envío preferente",
-            "resumen-del-producto":[
-                {
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Corona"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Corona",
-                    "brazos-de-cabecera": "Brazos curvos",
-                    "modelo-de-cabecera": "Palacio de rey"
                 }
             ],
             "descripciones":[
