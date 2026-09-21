@@ -17,12 +17,6 @@ function Top(){
 
                         <ul className='d-flex-center-left gap-5'>
                             <li>
-                                <a href='tel: +51943469911' title="Llamar | Kamas" className='d-flex-center-center gap-5'>
-                                    <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Kamas" />
-                                    <h2>943469911</h2>
-                                </a>
-                            </li>
-                            <li>
                                 <a href='tel: +51917013610' title="Llamar | Kamas" className='d-flex-center-center gap-5'>
                                     <img src="/assets/imagenes/iconos/telefono-gris.svg" alt="Teléfono | Kamas" />
                                     <h2>917013610</h2>

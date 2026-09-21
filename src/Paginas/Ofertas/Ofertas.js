@@ -202,7 +202,7 @@ function Ofertas(){
     return(
         <>
             <Helmet>
-                <title>Ofertas ⏰ | Kamas</title>
+                <title>Ofertas | Kamas</title>
                 <meta name="description" content="Descubre los mejores descuentos en productos solo por horas en Kamas." />
             </Helmet>
 

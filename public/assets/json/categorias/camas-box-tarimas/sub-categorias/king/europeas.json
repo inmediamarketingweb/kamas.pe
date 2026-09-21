@@ -1,158 +1,19 @@
 {
     "productos":[
         {
-            "id": 2,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/europeas/1/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA + 2 PUFF - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
-            "precioRegular": 2099,
-            "precioNormal": 1740,
-            "precioVenta": 1299,
-            "stock": 12,
-            "sku": "K234213N10",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
-            "tamaño": "king",
-            "ruta": "/productos/camas-box-tarimas/king/europeas/2/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas/americanas/sin-brazos/capitoneado/2/",
-            "colores": "si",
-            "precioRegular": 1,
-            "precioNormal": 1649,
-            "precioVenta": 1299,
-            "stock": 12,
-            "sku": "K234213N11",
-            "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "detalles-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea",
-                    "diseño-de-cabecera": "Americana",
-                    "brazos-de-cabecera": "Sin brazos",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 4,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "europea",
             "ruta": "/productos/camas-box-tarimas/king/europeas/3/",
             "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - ARENA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
-            "precioRegular": 2219,
-            "precioNormal": 1849,
-            "precioVenta": 1299,
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
             "stock": 12,
             "sku": "K2342113N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
@@ -160,65 +21,26 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 10,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "europea",
             "ruta": "/productos/camas-box-tarimas/king/europeas/9/",
             "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - ROJO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
-            "colores": "si",
-            "precioRegular": 2219,
-            "precioNormal": 1849,
-            "precioVenta": 1299,
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
             "stock": 12,
             "sku": "K2342113N16",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
@@ -226,65 +48,26 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 11,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "europea",
             "ruta": "/productos/camas-box-tarimas/king/europeas/10/",
             "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
-            "colores": "si",
-            "precioRegular": 2219,
-            "precioNormal": 1849,
-            "precioVenta": 1299,
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
             "stock": 12,
             "sku": "K2342113N17",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
@@ -292,65 +75,26 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
         {
             "id": 12,
-            "categoria": "camas box tarimas",
-            "subcategoria": "europeas",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "europea",
             "ruta": "/productos/camas-box-tarimas/king/europeas/11/",
             "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA PEDESTAL EMPERATRIZ - ARENA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
-            "colores": "si",
-            "precioRegular": 1800,
-            "precioNormal": 1949,
-            "precioVenta": 1349,
+            "precioRegular": 2749,
+            "precioNormal": 2149,
+            "precioVenta": 1649,
             "stock": 12,
             "sku": "K234223N10",
             "tipo-de-envio": "Gratis",
-            "resumen-del-producto":[
-                {
-                    "línea": "Europea",
-                    "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Europea",
@@ -358,39 +102,9 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino radiata secado al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }
