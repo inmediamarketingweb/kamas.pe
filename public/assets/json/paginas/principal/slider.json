@@ -3,13 +3,13 @@
         {
             "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-1.webp",
             "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-1.webp",
-            "link": "/productos/dormitorios/?línea=premium",
-            "alt": "Dormitorios premium | Kamas"
+            "link": "/productos/dormitorios/?línea=clasicos",
+            "alt": "Dormitorios clasicos | Kamas"
         },
         {
             "foto-desktop": "/assets/imagenes/paginas/pagina-principal/slider/slider-2.webp",
             "foto-mobile": "/assets/imagenes/paginas/pagina-principal/slider/thumb/slider-2.webp",
-            "link": "/productos/dormitorios/americanos/king/der-prinz/194/",
+            "link": "/productos/dormitorios/king/americanos/der-prinz/194/",
             "alt": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CORONA + PIECERA - CHAMPAGNE | Kamas"
         },
         {

@@ -1,13 +1,8 @@
 {
     "subcategorias":[
         {
-            "subcategoria": "Premium",
-            "metaTitulo": "Cama box tarimas - King premium | Kamas",
-            "ruta": "/productos/camas-box-tarimas/king/premium/"
-        },
-        {
-            "subcategoria": "Clásicas",
-            "metaTitulo": "Cama box tarimas - King clásicas | Kamas",
+            "subcategoria": "Clasicas",
+            "metaTitulo": "Cama box tarimas - King clasicas | Kamas",
             "ruta": "/productos/camas-box-tarimas/king/clasicas/"
         },
         {

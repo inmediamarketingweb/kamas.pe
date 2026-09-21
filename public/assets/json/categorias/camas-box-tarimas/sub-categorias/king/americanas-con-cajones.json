@@ -1,15 +1,15 @@
 {
     "productos":[
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/1/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 2 CAJONES AL PIE - ARENA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/1/",
-            "precioRegular": 1799,
-            "precioNormal": 1359,
-            "precioVenta": 1019,
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1299,
             "stock": 15,
             "sku": "K224112N10",
             "tipo-de-envio": "Gratis",
@@ -27,9 +27,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/2/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/2/",
@@ -53,9 +53,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/3/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/3/",
@@ -79,15 +79,15 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/4/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 1 + 2 CAJONES AL PIE - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
-            "precioRegular": 1799,
-            "precioNormal": 1399,
-            "precioVenta": 1019,
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1299,
             "stock": 15,
             "sku": "K2241113N10",
             "tipo-de-envio": "Gratis",
@@ -97,7 +97,7 @@
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
+                    "tipo-de-cabecera": "aérea con patas",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 1"
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/5/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 2 + 2 CAJONES AL PIE - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/bloques/sin-brazos/cuadros-2/2/",
@@ -123,7 +123,7 @@
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
+                    "tipo-de-cabecera": "aérea con patas",
                     "diseño-de-cabecera": "Bloques",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/6/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - GRIS RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/8/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/3/",
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/9/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/4/",
@@ -209,15 +209,15 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/10/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - GRIS PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/5/",
-            "precioRegular": 1799,
-            "precioNormal": 1849,
-            "precioVenta": 1399,
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
             "stock": 15,
             "sku": "K224123N14",
             "tipo-de-envio": "Gratis",
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/11/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - COBALTO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/6/",
@@ -261,9 +261,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/13/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL LINEAL + 2 CAJONES LATERALES - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/lineal/1/",
@@ -287,9 +287,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/14/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - HUESO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/1/",
@@ -313,9 +313,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/16/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/3/",
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/17/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - BEIGE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/4/",
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/19/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/1/",
@@ -391,9 +391,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/20/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - NEGRO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/2/",
@@ -417,15 +417,15 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/21/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 4 CAJONES - PLOMO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/8/",
-            "precioRegular": 2579,
-            "precioNormal": 1799,
-            "precioVenta": 1479,
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
             "stock": 15,
             "sku": "K222113N11",
             "tipo-de-envio": "Gratis",
@@ -443,9 +443,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/22/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING CON 4 CAJONES + CABECERA PEDESTAL WELO - ANTIFLUIDO IVORY",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/bloques/welo/1/",
@@ -469,9 +469,9 @@
             ]
         },
         {
-            "categoria": "camas box tarimas",
-            "subcategoria": "americanas con cajones",
+            "categoría": "camas box tarimas",
             "tamaño": "king",
+            "línea": "americanas con cajones",
             "ruta": "/productos/camas-box-tarimas/king/americanas-con-cajones/23/",
             "nombre": "CAMA BOX TARIMA AMERICANA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - TEJIDO LILA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/americanas/emperatriz/1/",

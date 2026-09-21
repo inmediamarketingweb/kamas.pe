@@ -20,10 +20,10 @@ export function Producto({ producto, truncate, onToggleFavorite, isFavorite, sku
         const finalPrice = enOfertas ? Math.round(producto.precioVenta * 0.95) : producto.precioVenta;
 
         const descuentoOrig = Math.round(
-            ((producto.precioNormal - producto.precioVenta) * 100 / producto.precioNormal)
+            ((producto.precioRegular - producto.precioVenta) * 100 / producto.precioRegular)
         );
 
-        const totalDiscount = enOfertas ? Math.round(((producto.precioNormal - finalPrice) * 100) / producto.precioNormal) : descuentoOrig;
+        const totalDiscount = enOfertas ? Math.round(((producto.precioRegular - finalPrice) * 100) / producto.precioRegular) : descuentoOrig;
 
         const envioClase = producto["tipo-de-envio"] === "Gratis" ? "envio-gratis" 
             : producto["tipo-de-envio"] === "Envío preferente" ? "envio-preferente" 
