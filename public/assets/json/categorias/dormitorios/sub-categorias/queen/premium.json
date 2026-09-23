@@ -1,10 +1,10 @@
 {
     "productos":[
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/1/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL + PIECERA +  2 VELADORES",
@@ -15,21 +15,6 @@
             "stock": 10,
             "sku": "K353237N10",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -42,57 +27,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/2/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL +  2 VELADORES",
@@ -103,21 +44,6 @@
             "stock": 10,
             "sku": "K353237N11",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -130,57 +56,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/3/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CON MARCO +  1 VELADOR ",
@@ -191,21 +73,6 @@
             "stock": 10,
             "sku": "K353237N12",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -218,57 +85,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/4/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CON MARCO + 2 VELADORES",
@@ -279,21 +102,6 @@
             "stock": 10,
             "sku": "K353237N13",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -306,57 +114,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/5/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA + 2 VELADORES",
@@ -367,21 +131,6 @@
             "stock": 10,
             "sku": "K353237N14",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -394,57 +143,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/6/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA + 2 VELADORES",
@@ -455,21 +160,6 @@
             "stock": 10,
             "sku": "K353237N15",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -482,57 +172,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/7/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA + 2 VELADORES",
@@ -543,21 +189,6 @@
             "stock": 10,
             "sku": "K353237N16",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -570,57 +201,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/8/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL + 2 VELADORES",
@@ -631,21 +218,6 @@
             "stock": 10,
             "sku": "K353237N17",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -658,57 +230,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/9/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL + PIECERA + 2 VELADORES",
@@ -719,21 +247,6 @@
             "stock": 10,
             "sku": "K353237N18",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -746,57 +259,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/10/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA + 2 VELADORES",
@@ -807,21 +276,6 @@
             "stock": 10,
             "sku": "K353237N19",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -834,57 +288,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/11/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA + 2 VELADORES",
@@ -895,21 +305,6 @@
             "stock": 10,
             "sku": "K353237N20",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -922,57 +317,13 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "premium",
-            "madera": "cedro",
+            "categoría": "dormitorios",
             "tamaño": "queen",
+            "línea": "clasicos",
+            "madera": "cedro",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/queen/premium/sarki/12/",
             "nombre": "DORMITORIO KAMAS MADERA CEDRO QUEEN + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL + PIECERA + 2 VELADORES",
@@ -983,21 +334,6 @@
             "stock": 10,
             "sku": "K353237N21",
             "tipo-de-envio": "Gratis",
-              "regalos":[
-                {
-                    "texto": "2 almohadas",
-                    "foto": "/assets/imagenes/productos/almohadas.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Premium",
-                    "tamaño": "queen",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
             "detalles-del-producto":[
                 {
                     "línea": "Premium",
@@ -1009,50 +345,6 @@
                     "diseño-de-cabecera": "Otras formas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Cedro.",
-                            "refuerzos": "centrales y laterales.",
-                            "patas": "De madera",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "18 filas",
-                            "material-de-resorte": "Acero templado",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "refuerzos": "Centrales",
-                            "marco": "Sellado",
-                            "grosor": "26cm.",
-                            "soporte-de-peso": "80kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },

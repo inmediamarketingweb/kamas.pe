@@ -35,12 +35,8 @@ function PaginaProducto(){
     const [skusOfertas, setSkusOfertas] = useState([]);
     const [cargandoOfertas, setCargandoOfertas] = useState(true);
     const [ofertaActiva, setOfertaActiva] = useState(true);
-
     const normalizePath = (path = '') => path.replace(/\/$/, '').toLowerCase();
-
-    const [userName, setUserName] = useState(
-        typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : ''
-    );
+    const [userName, setUserName] = useState( typeof window !== 'undefined' ? localStorage.getItem('nombre') || '' : '');
 
     useEffect(() => {
         const cargarOfertas = async () => {
@@ -49,7 +45,7 @@ function PaginaProducto(){
                 const data = await response.json();
                 setSkusOfertas(data);
                 setCargandoOfertas(false);
-            } catch (error) {
+            } catch (error){
                 console.error("Error cargando ofertas:", error);
                 setSkusOfertas([]);
                 setCargandoOfertas(false);
@@ -62,13 +58,11 @@ function PaginaProducto(){
     useEffect(() => {
         const fetchProducto = async () => {
             try{
-                const categorias = ["colchones", "camas-box-tarimas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
+                const categorias = ["colchones", "camas", "dormitorios", "camas-funcionales", "cabeceras", "sofas", "complementos"];
                 let productoEncontrado = null;
 
                 for (const categoria of categorias){
-                    const subcategoriasResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`)
-                        .then(response => response.json())
-                        .catch(() => ({ subcategorias: [] }));
+                    const subcategoriasResponse = await fetch(`/assets/json/categorias/${categoria}/sub-categorias/sub-categorias.json`).then(response => response.json()).catch(() => ({ subcategorias: [] }));
 
                     for (const subcat of subcategoriasResponse.subcategorias || []){
                         const subcatNombre = subcat.subcategoria.toLowerCase().replace(/\s+/g, "-");
@@ -88,19 +82,19 @@ function PaginaProducto(){
                                         p => normalizePath(p.ruta) === normalizePath(location.pathname)
                                     );
 
-                                    if (prod) {
+                                    if (prod){
                                         productoEncontrado = prod;
                                         break;
                                     }
                                 }
                             }
-                        } catch (error) {
+                        } catch (error){
                             const jsonPath = `/assets/json/categorias/${categoria}/sub-categorias/${subcatNombre}.json`;
                             const data = await fetch(jsonPath).then(response => response.json()).catch(() => null);
 
                             if (data && data.productos){
                                 const prod = data.productos.find(p => p.ruta === location.pathname);
-                                if (prod) {
+                                if (prod){
                                     productoEncontrado = prod;
                                     break;
                                 }
@@ -113,13 +107,13 @@ function PaginaProducto(){
                     if (productoEncontrado) break;
                 }
 
-                if (productoEncontrado) {
+                if (productoEncontrado){
                     setProducto(productoEncontrado);
                     cargarImagenes(productoEncontrado.fotos);
                 } else {
                     setError(true);
                 }
-            } catch (error) {
+            } catch (error){
                 console.error("Error al buscar el producto:", error);
                 setError(true);
             }
@@ -168,12 +162,13 @@ function PaginaProducto(){
         return diferenciaInferior < diferenciaSuperior ? decenaInferior : decenaSuperior;
     };
 
-    if (error) {
+    if (error){
         return (
             <>
                 <Helmet>
                     <meta name="robots" content="noindex, follow" />
                 </Helmet>
+
                 <NoProducto />
             </>
         );
@@ -188,18 +183,8 @@ function PaginaProducto(){
     const estaEnOfertas = skusOfertas.includes(producto.sku);
     const precioFinal = estaEnOfertas && ofertaActiva ? calcularPrecioAjustado(producto.precioVenta) : producto.precioVenta;
     const mostrarConteo = estaEnOfertas && ofertaActiva;
-
-    const handleRemove = () => {
-        if (quantity > 0) {
-            setQuantity(quantity - 1);
-        }
-    };
-
-    const handleAdd = () => {
-        if (quantity < 10) {
-            setQuantity(quantity + 1);
-        }
-    };
+    const handleRemove = () => { if (quantity > 0) { setQuantity(quantity - 1); } };
+    const handleAdd = () => { if (quantity < 10){ setQuantity(quantity + 1); }};
 
     const cleanPrice = (price) => {
         if (typeof price === 'number' && price > 0) return price;
@@ -370,7 +355,7 @@ function PaginaProducto(){
                                                 setShippingInfo(data); 
                                                 setShippingOptions(data.shippingOptions);
 
-                                                if (data.shippingOptions.length === 1) {
+                                                if (data.shippingOptions.length === 1){
                                                     setSelectedShipping({
                                                         tipo: data.shippingOptions[0].tipo,
                                                         precio: data.shippingOptions[0].precio

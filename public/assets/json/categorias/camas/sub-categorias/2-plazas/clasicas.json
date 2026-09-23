@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "camas",
+            "tamaño": "2 plazas",
+            "línea": "clasica",
+            "ruta": "/productos/camas/2-plazas/clasica/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS CEDRO + CABECERA AÉREA + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/premium/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2999,
+            "precioVenta": 2799,
+            "stock": 15,
+            "sku": "K22100N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "clasica",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "piecera": "si",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoria": "camas",
+            "tamaño": "2 plazas",
+            "línea": "clasica",
+            "ruta": "/productos/camas/2-plazas/clasica/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS TORNILLO + CABECERA AÉREA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/premium/2/",
+            "precioRegular": 2699,
+            "precioNormal": 2599,
+            "precioVenta": 2399,
+            "stock": 15,
+            "sku": "K22100N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "clasica",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "piecera": "no",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americana",
+            "ruta": "/productos/camas/2-plazas/americanas/57/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO CON 4 CAJONES - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1649,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K222221NX210",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americana",
+            "ruta": "/productos/camas/2-plazas/americanas/58/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + CABECERA AÉREA MOKI - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/moki/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX220",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americana",
+            "ruta": "/productos/camas/2-plazas/americanas/59/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + CABECERA AÉREA MOKI - ANTIFLUIDO AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/moki/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX230",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americana",
+            "ruta": "/productos/camas/2-plazas/americanas/60/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + CABECERA AÉREA TORTUN - ANTIFLUIDO VERDE PACAY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/tortun/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX240",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americana",
+            "ruta": "/productos/camas/2-plazas/americanas/61/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS CON 4 CAJONES + CABECERA PEDESTAL CAPITONEADA - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/americanas/emperatriz/1/",
+            "precioRegular": 1649,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K222221NX250",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "emperatriz"
+                }
+            ]
+        }
+    ]
+}

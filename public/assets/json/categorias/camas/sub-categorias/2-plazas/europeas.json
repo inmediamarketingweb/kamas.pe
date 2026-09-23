@@ -1,0 +1,139 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europea",
+            "ruta": "/productos/camas/2-plazas/europeas/19/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 2149,
+            "precioNormal": 1649,
+            "precioVenta": 1429,
+            "stock": 12,
+            "sku": "K232225N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/camas/2-plazas/europeas/20/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/pedestales/coronas/brazos-rectos/corona/1/",
+            "precioRegular": 1949,
+            "precioNormal": 1449,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K234224N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/camas/2-plazas/europeas/21/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 1179,
+            "stock": 12,
+            "sku": "K2322113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "camas box tarimas",
+            "subcategoria": "europeas",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/camas/2-plazas/europeas/22/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1949,
+            "precioNormal": 1349,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K232213N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europea",
+            "ruta": "/productos/camas/2-plazas/europeas/45/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/16/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K222223N25",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clásicas",
+            "metaTitulo": "Cama - Queen clásicas | Kamas",
+            "ruta": "/productos/camas/queen/clasicas/"
+        },
+        {
+            "subcategoria": "Premium",
+            "metaTitulo": "Cama - Queen premium | Kamas",
+            "ruta": "/productos/camas/queen/premium/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama - Queen americanas | Kamas",
+            "ruta": "/productos/camas/queen/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama - Queen americanas con cajones | Kamas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama - Queen europeas | Kamas",
+            "ruta": "/productos/camas/queen/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama - Europeas con cajones | Kamas",
+            "ruta": "/productos/camas/queen/europeas-con-cajones/"
+        }
+    ]
+}

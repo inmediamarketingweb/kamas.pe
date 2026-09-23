@@ -16,11 +16,11 @@
             ]
         },
         {
-            "camas-box-tarimas":[
+            "camas":[
                 {
-                    "metatitulo": "Camas box tarimas | Kamas",
-                    "link-principal": "/productos/camas-box-tarimas/",
-                    "link-ofertas": "?categoria=camas-box-tarimas",
+                    "metatitulo": "Camas | Kamas",
+                    "link-principal": "/productos/camas/",
+                    "link-ofertas": "?categoria=camas",
                     "icono-1": "",
                     "icono-1-alt": "",
                     "foto-1": "/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp",

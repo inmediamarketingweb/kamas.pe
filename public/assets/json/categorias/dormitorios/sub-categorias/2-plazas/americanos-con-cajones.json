@@ -1,39 +1,24 @@
 {
     "productos":[
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "adel",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/2/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - AZUL NOCHE",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/1/", 
-            "colores": "si",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "precioRegular": 1999,
             "precioNormal": 1699,
             "precioVenta": 999,
             "stock": 13,
             "sku": "K322113N10",
-            "tipo-de-envio": "Envío preferente",
-              "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
+            "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
@@ -42,84 +27,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "12 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "1 año"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "adel",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/3/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VERDE CERCETA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/2/", 
-            "colores": "si",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
             "precioRegular": 1399,
             "precioNormal": 1099,
             "precioVenta": 999,
             "stock": 13,
             "sku": "K322113N11",
-            "tipo-de-envio": "Envío preferente",
-              "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
+            "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
@@ -128,84 +56,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "12 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "1 año"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "adel",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/5/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VINO",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/4/", 
-            "colores": "si",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
             "precioRegular": 1999,
             "precioNormal": 1599,
             "precioVenta": 999,
             "stock": 13,
             "sku": "K322113N13",
-            "tipo-de-envio": "Envío preferente",
-              "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
+            "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
@@ -214,84 +85,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "12 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "1 año"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "adel",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/8/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - UVA",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/7/", 
-            "colores": "si",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
             "precioRegular": 1999,
             "precioNormal": 1699,
             "precioVenta": 999,
             "stock": 13,
             "sku": "K322113N16",
-            "tipo-de-envio": "Envío preferente",
-              "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
+            "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
@@ -300,84 +114,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "12 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "1 año"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "adel",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/9/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES LATERALES - CAMELL",
-            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/pedestales/americanas/brazos-rectos/emperatriz/1/", 
-            "colores": "si",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/pedestales/americanas/brazos-rectos/emperatriz/1/",
             "precioRegular": 2199,
             "precioNormal": 1899,
             "precioVenta": 1099,
             "stock": 13,
             "sku": "K322113N17",
-            "tipo-de-envio": "Envío preferente",
-              "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Adel",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
+            "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Adel",
@@ -386,84 +143,27 @@
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "12 filas en forma vertical",
-                            "tela": "Tricop",
-                            "densidad-de-espuma": "16kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "1 año"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -472,88 +172,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/2/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -562,88 +201,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/3/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -652,88 +230,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/5/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -742,88 +259,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/6/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -832,88 +288,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/7/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -922,88 +317,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/8/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1012,88 +346,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/9/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/9/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1102,88 +375,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/11/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/11/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1192,88 +404,27 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/13/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/13/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1749,
             "precioVenta": 1399,
             "stock": 9,
             "sku": "K322173N22",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1282,89 +433,28 @@
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 32,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/15/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/2/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1373,88 +463,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 33,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/16/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/3/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1463,89 +493,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 34,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/17/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/4/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1554,89 +523,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 38,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/21/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/8/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1645,89 +553,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 40,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/23/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/10/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1736,89 +583,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 41,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/24/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - FUCSIA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/11/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1827,89 +613,28 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
             "id": 42,
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/25/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - UVA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/12/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -1918,88 +643,27 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/27/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/14/",
-            "colores": "si",
             "precioRegular": 2459,
             "precioNormal": 2099,
             "precioVenta": 1599,
             "stock": 9,
             "sku": "K322175N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -2008,88 +672,27 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/28/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
-            "colores": "si",
             "precioRegular": 3099,
             "precioNormal": 2249,
             "precioVenta": 1499,
             "stock": 9,
             "sku": "K322173N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -2098,88 +701,27 @@
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/30/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
-            "colores": "si",
             "precioRegular": 3099,
             "precioNormal": 2249,
             "precioVenta": 1499,
             "stock": 9,
             "sku": "K322173N25",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -2188,88 +730,27 @@
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/31/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - LILA IKER",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
-            "colores": "si",
             "precioRegular": 3099,
             "precioNormal": 2249,
             "precioVenta": 1499,
             "stock": 9,
             "sku": "K322173N26",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -2278,88 +759,27 @@
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/33/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/",
-            "colores": "si",
             "precioRegular": 3099,
             "precioNormal": 2249,
             "precioVenta": 1499,
             "stock": 9,
             "sku": "K322173N28",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -2367,52 +787,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "15 filas en forma vertical",
-                            "tela": "Jacquard",
-                            "densidad-de-espuma": "20kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "doble-pestaña": "Si",
-                            "marco": "refuerzo de marco sellado",
-                            "soporte-de-peso": "85kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2424,32 +798,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/safynnte/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 1759,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322143N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "safynnte",
@@ -2457,51 +816,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2513,32 +827,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/safynnte/2/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/2/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 1759,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322143N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "safynnte",
@@ -2546,51 +845,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2602,32 +856,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/safynnte/3/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/3/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 1759,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322143N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "safynnte",
@@ -2635,51 +874,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2691,32 +885,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/safynnte/4/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - ACERO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/4/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 1759,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322143N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "safynnte",
@@ -2724,51 +903,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2780,32 +914,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/safynnte/5/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/5/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 1759,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322143N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "safynnte",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "safynnte",
@@ -2813,51 +932,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "14 filas",
-                            "tela": "Drill",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Un solo lado",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "75kg. por persona",
-                            "garantía": "4 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2869,32 +943,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/1/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1659,
             "precioVenta": 1269,
             "stock": 9,
             "sku": "K322133N10",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -2902,51 +961,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -2958,32 +972,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/2/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - VERDE CERCETA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1659,
             "precioVenta": 1269,
             "stock": 9,
             "sku": "K322133N11",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -2991,51 +990,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3047,32 +1001,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/3/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - PLOMO AZULADO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 2099,
             "precioVenta": 1449,
             "stock": 9,
             "sku": "K322133N12",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3080,51 +1019,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3136,32 +1030,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/4/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1659,
             "precioVenta": 1269,
             "stock": 9,
             "sku": "K322133N13",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3169,51 +1048,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3225,32 +1059,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/5/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 2099,
             "precioVenta": 1449,
             "stock": 9,
             "sku": "K322133N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3258,51 +1077,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3314,32 +1088,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/6/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - COBALTO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1649,
             "precioVenta": 1249,
             "stock": 9,
             "sku": "K322133N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3347,51 +1106,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3403,32 +1117,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/7/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1649,
             "precioVenta": 1269,
             "stock": 9,
             "sku": "K322133N16",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3436,51 +1135,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3492,32 +1146,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/8/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 + VELADOR VINTAGE - MORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
-            "colores": "si",
             "precioRegular": 2349,
             "precioNormal": 2099,
             "precioVenta": 1449,
             "stock": 9,
             "sku": "K322133N17",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3525,51 +1164,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3581,32 +1175,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/9/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/9/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1649,
             "precioVenta": 1269,
             "stock": 9,
             "sku": "K322133N18",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3614,51 +1193,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3670,32 +1204,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/12/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - VINO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/3/",
-            "colores": "si",
             "precioRegular": 1909,
             "precioNormal": 1549,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322134N12",
             "tipo-de-envio": "Gratis",
-             "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3703,51 +1222,6 @@
                     "diseño-de-cabecera": "Con marco",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3760,32 +1234,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/13/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - LILA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/4/",
-            "colores": "si",
             "precioRegular": 1909,
             "precioNormal": 1549,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322134N13",
             "tipo-de-envio": "Gratis",
-             "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3793,51 +1252,6 @@
                     "diseño-de-cabecera": "Con marco",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3849,32 +1263,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/14/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/5/",
-            "colores": "si",
             "precioRegular": 1909,
             "precioNormal": 1549,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322134N14",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3882,51 +1281,6 @@
                     "diseño-de-cabecera": "Con marco",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -3938,32 +1292,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/15/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 - ROJO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/con-marco/sin-brazos/cuadros-2/6/",
-            "colores": "si",
             "precioRegular": 1909,
             "precioNormal": 1549,
             "precioVenta": 1099,
             "stock": 9,
             "sku": "K322134N15",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -3971,51 +1310,6 @@
                     "diseño-de-cabecera": "Con marco",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -4027,32 +1321,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/16/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - CUERO CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/1/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1649,
             "precioVenta": 1199,
             "stock": 9,
             "sku": "K322133N19",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -4060,51 +1339,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Cuero brescia",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -4116,32 +1350,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/17/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 2 VELADORES VINTAGE - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/2/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1949,
             "precioVenta": 1439,
             "stock": 9,
             "sku": "K322133N20",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -4149,51 +1368,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -4205,32 +1379,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/18/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ + 2 VELADOR VINTAGE - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/3/",
-            "colores": "si",
             "precioRegular": 2099,
             "precioNormal": 1949,
             "precioVenta": 1439,
             "stock": 9,
             "sku": "K322133N21",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -4238,51 +1397,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -4294,32 +1408,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/20/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/americanas/brazos-rectos/emperatriz/5/",
-            "colores": "si",
             "precioRegular": 2199,
             "precioNormal": 1649,
             "precioVenta": 1199,
             "stock": 9,
             "sku": "K322133N23",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -4327,51 +1426,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         },
@@ -4383,32 +1437,17 @@
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/21/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/1/",
-            "colores": "si",
             "precioRegular": 1929,
             "precioNormal": 1599,
             "precioVenta": 1199,
             "stock": 9,
             "sku": "K322133N24",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Majestad"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -4417,87 +1456,27 @@
                     "brazos-de-cabecera": "Brazos curvos",
                     "modelo-de-cabecera": "Majestad"
                 }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
-                }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
             "tamaño": "2 plazas",
             "modelo": "ramat",
+            "línea": "americanos con cajones",
             "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/34/",
             "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATIZ - AZUL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/",
-            "colores": "si",
             "precioRegular": 1929,
             "precioNormal": 1499,
             "precioVenta": 1999,
             "stock": 9,
             "sku": "K322173N29",
             "tipo-de-envio": "Gratis",
-            "regalos":[
-                {
-                    "texto": "1 almohada",
-                    "foto": "/assets/imagenes/productos/almohada.webp"
-                }
-            ],
-            "resumen-del-producto":[
-                {
-                    "línea": "Americana",
-                    "tamaño": "2 plazas",
-                    "modelo-de-colchón": "Ramat",
-                    "tipo-de-cabecera": "Pedestal",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "2 plazas",
+                    "línea": "americanos con cajones",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
@@ -4505,51 +1484,6 @@
                     "diseño-de-cabecera": "Americana",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ],
-            "descripciones":[
-                {
-                    "titulo": "Cama box tarima",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano radiata seco al horno.",
-                            "refuerzos": "centrales y laterales.",
-                            "gavetas": "Melamina 18mm.",
-                            "rieles": "Telescópicos pesados",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "Cromadas",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Colchón",
-                    "descripcion":[
-                        {
-                            "resortes": "9 filas en forma vertical",
-                            "tela": "Algodón tejido en punto",
-                            "densidad-de-espuma": "18kg/m3",
-                            "tipo-de-uso": "Ambos lados",
-                            "marco": "Sellado",
-                            "soporte-de-peso": "65kg. por persona",
-                            "garantía": "2 años"
-                        }
-                    ]
-                },
-                {
-                    "titulo": "Cabecera",
-                    "descripcion":[
-                        {
-                            "madera": "Pino americano seco al horno.",
-                            "espuma": "Zebra de alta densidad",
-                            "láminas": "MDF de 3mm.",
-                            "tela": "Piel de potro",
-                            "patas": "De manera",
-                            "botones": "clásicos o acrílicos",
-                            "garantía": "2 años"
-                        }
-                    ]
                 }
             ]
         }
