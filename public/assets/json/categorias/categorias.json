@@ -522,7 +522,7 @@
             "ruta": "/productos/muebles-a-medida/",
             "menuMensaje":[
                 {
-                    "text": "XXX"
+                    "text": "Mensaje"
                 }
             ],
             "subCategoriasTitulo":[
@@ -533,7 +533,7 @@
             "subCategorias":[
                 {
                     "id": 1,
-                    "subcategoria": "Veladores",
+                    "subcategoria": "Cat 1",
                     "metaTitulo": "Complementos - Veladores | Kamas",
                     "ruta": "/productos/complementos/?subcategoría=veladores"
                 }
@@ -577,9 +577,9 @@
                 },
                 {
                     "id": 3,
-                    "subcategoria": "Base sola",
-                    "metaTitulo": "Complementos - Base sola | Kamas",
-                    "ruta": "/productos/complementos/?subcategoría=base-sola"
+                    "subcategoria": "Bases de cama y tarimas",
+                    "metaTitulo": "Complementos - Bases de cama y tarimas | Kamas",
+                    "ruta": "/productos/complementos/?subcategoría=base-de-cama-y-tarimas"
                 },
                 {
                     "id": 4,
