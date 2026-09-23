@@ -1,0 +1,112 @@
+{
+    "productos":[
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europea",
+            "ruta": "/productos/camas/king/europeas/3/",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 12,
+            "sku": "K2342113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europea",
+            "ruta": "/productos/camas/king/europeas/9/",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 12,
+            "sku": "K2342113N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europea",
+            "ruta": "/productos/camas/king/europeas/10/",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 12,
+            "sku": "K2342113N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europea",
+            "ruta": "/productos/camas/king/europeas/11/",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA PEDESTAL EMPERATRIZ - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 2749,
+            "precioNormal": 2149,
+            "precioVenta": 1649,
+            "stock": 12,
+            "sku": "K234223N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Europea",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

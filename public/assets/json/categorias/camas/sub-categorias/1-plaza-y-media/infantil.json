@@ -1,0 +1,247 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Conejo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/4/",
+            "precioRegular": 1779,
+            "precioNormal": 1479,
+            "precioVenta": 1279,
+            "stock": 12,
+            "sku": "K2215221N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Conejo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/6/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/11/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/raton/6/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/12/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N20",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/13/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/2/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N21",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/15/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORAZÓN - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/otras-formas/sin-brazos/corazon/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215227N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corazón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantil",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/16/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/otras-formas/sin-brazos/abanico/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215227N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Abanico"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/14/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA PEDESTAL PELOTA - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/1/",
+            "precioRegular": 1429,
+            "precioNormal": 1129,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K2215121N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantil",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Infantil",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Pelota"
+                }
+            ]
+        }
+    ]
+}

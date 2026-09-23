@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "europeas",
+            "tamaño": "queen",
+            "ruta": "/productos/camas/queen/europeas/18/",
+            "nombre": "CAMA BOX TARIMA EUROPEA QUEEN + CABECERA PEDESTAL CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/queen/pedestales/americanas/sin-brazos/corona/1/",
+            "precioRegular": 2489,
+            "precioNormal": 2149,
+            "precioVenta": 1519,
+            "stock": 12,
+            "sku": "K233225N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría":"camas",
+                    "tamaño": "queen",
+                    "línea": "europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

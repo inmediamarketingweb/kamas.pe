@@ -1,0 +1,498 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 2 CAJONES AL PIE - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K224112N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1799,
+            "precioNormal": 1439,
+            "precioVenta": 1119,
+            "stock": 15,
+            "sku": "K224112N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/3/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 1799,
+            "precioNormal": 1439,
+            "precioVenta": 1119,
+            "stock": 15,
+            "sku": "K224112N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 1 + 2 CAJONES AL PIE - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K2241113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CUADROS 2 + 2 CAJONES AL PIE - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/bloques/sin-brazos/cuadros-2/2/",
+            "precioRegular": 1799,
+            "precioNormal": 1649,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2241113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/6/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224123N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/8/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224123N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/9/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224123N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/10/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K224123N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/11/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AEREA CAPITONEADA + 6 CAJONES - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224123N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/13/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL LINEAL + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/lineal/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1849,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224123N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/14/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/16/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/17/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/19/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1749,
+            "precioVenta": 1229,
+            "stock": 15,
+            "sku": "K224125N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/20/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/2/",
+            "precioRegular": 1799,
+            "precioNormal": 1749,
+            "precioVenta": 1229,
+            "stock": 15,
+            "sku": "K222113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/21/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 4 CAJONES - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K222113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/22/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING CON 4 CAJONES + CABECERA PEDESTAL WELO - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/bloques/welo/1/",
+            "precioRegular": 2699,
+            "precioNormal": 2099,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K222116N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/king/americanas-con-cajones/23/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - TEJIDO LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/americanas/emperatriz/1/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K222116N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

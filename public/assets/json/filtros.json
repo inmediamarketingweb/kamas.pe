@@ -115,7 +115,7 @@
         ]
     },
     {
-        "categoria": "camas box tarimas",
+        "categoria": "camas",
         "filtros":[
             {
                 "tamaño":[
@@ -139,6 +139,9 @@
             {
                 "línea":[
                     {
+                        "línea": "infantil"
+                    },
+                    {
                         "línea": "clásica"
                     },
                     {
@@ -148,7 +151,7 @@
                         "línea": "europea"
                     },
                     {
-                        "línea": "cama nube"
+                        "línea": "nube"
                     },
                     {
                         "línea": "circular"
@@ -259,19 +262,16 @@
             {
                 "línea":[
                     {
-                        "línea": "clásica"
+                        "línea": "clásicos"
                     },
                     {
-                        "línea": "americana"
+                        "línea": "americanos"
                     },
                     {
-                        "línea": "europea"
+                        "línea": "europeos"
                     },
                     {
                         "línea": "cama nube"
-                    },
-                    {
-                        "línea": "premium"
                     },
                     {
                         "línea": "circular"
@@ -357,16 +357,16 @@
                         "diseño-de-cabecera": "infantil"
                     },
                     {
-                        "diseño-de-cabecera": "clásica"
+                        "diseño-de-cabecera": "clásicas"
                     },
                     {
-                        "diseño-de-cabecera": "americana"
+                        "diseño-de-cabecera": "americanas"
                     },
                     {
                         "diseño-de-cabecera": "con marco"
                     },
                     {
-                        "diseño-de-cabecera": "corona"
+                        "diseño-de-cabecera": "coronas"
                     },
                     {
                         "diseño-de-cabecera": "bloques"

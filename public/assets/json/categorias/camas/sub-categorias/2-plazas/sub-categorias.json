@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "clasicas",
+            "metaTitulo": "Camas - 2 plazas clasicas | Kamas",
+            "ruta": "/productos/camas/2-plazas/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Camas - 2 plazas americanas | Kamas",
+            "ruta": "/productos/camas/2-plazas/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Camas - 2 plazas americanas con cajones | Kamas",
+            "ruta": "/productos/camas/2-plazas/americanas/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Camas - 2 plazas europeas | Kamas",
+            "ruta": "/productos/camas/2-plazas/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Camas - 2 plazas europeas con cajones | Kamas",
+            "ruta": "/productos/camas/2-plazas/europeas-con-cajones/"
+        },
+        {
+            "subcategoria": "nube",
+            "metaTitulo": "Camas - 2 plazas nube | Kamas",
+            "ruta": "/productos/camas/2-plazas/nube/"
+        }
+    ]
+}

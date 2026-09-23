@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Clasicas",
+            "metaTitulo": "Cama - King clasicas | Kamas",
+            "ruta": "/productos/camas/king/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama - King americanas | Kamas",
+            "ruta": "/productos/camas/king/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama - King americanas con cajones | Kamas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama - King europeas | Kamas",
+            "ruta": "/productos/camas/king/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama - King europeas con cajones | Kamas",
+            "ruta": "/productos/camas/king/europeas-con-cajones/"
+        }
+    ]
+}

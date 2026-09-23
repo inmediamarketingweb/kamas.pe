@@ -1,0 +1,142 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americana",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA AÉREA CAPITONEADA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1029,
+            "precioNormal": 829,
+            "precioVenta": 629,
+            "stock": 12,
+            "sku": "K22152113N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americana",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/17/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-rectos/otros-modelos/1/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K2215223N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americana",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/18/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/1/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215225N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americana",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/20/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/3/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215225N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 210,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americana",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/22/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-rectos/otros-modelos/2/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215223N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

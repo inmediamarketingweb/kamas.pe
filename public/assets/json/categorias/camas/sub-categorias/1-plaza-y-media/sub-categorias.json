@@ -1,0 +1,34 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "Infantil",
+            "metaTitulo": "Cama - 1 plaza y media infantil | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/infantil/"
+        },
+        {
+            "subcategoria": "Clásicas",
+            "metaTitulo": "Cama - 1 plaza y media clásicas | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/clasicas/"
+        },
+        {
+            "subcategoria": "Americanas",
+            "metaTitulo": "Cama - 1 plaza y media americanas | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/"
+        },
+        {
+            "subcategoria": "Americanas con cajones",
+            "metaTitulo": "Cama - 1 plaza y media americanas con cajones | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/"
+        },
+        {
+            "subcategoria": "Europeas",
+            "metaTitulo": "Cama - 1 plaza y media europeas | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/europeas/"
+        },
+        {
+            "subcategoria": "Europeas con cajones",
+            "metaTitulo": "Cama - 1 plaza y media europeas con cajones | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/europeas-con-cajones/"
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - VIOLETA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N13",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/6/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N15",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/7/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N16",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/8/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/9/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215123N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/10/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215123N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/13/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215123N14",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/16/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 3 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1379,
+            "precioNormal": 979,
+            "precioVenta": 779,
+            "stock": 12,
+            "sku": "K2215113N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americana",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

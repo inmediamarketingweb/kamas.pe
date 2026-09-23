@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "europeas",
+            "ruta": "/productos/camas/1-plaza-y-media/europeas/1/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/1-plaza-y-media/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2315223N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "Europea",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "subcategorias":[
+        {
+            "subcategoria": "1 plaza",
+            "metaTitulo": "Camas - 1 plaza | Kamas",
+            "ruta": "/productos/camas/1-plaza/"
+        },
+        {
+            "subcategoria": "1 plaza y media",
+            "metaTitulo": "Camas - 1 plaza y media | Kamas",
+            "ruta": "/productos/camas/1-plaza-y-media/"
+        },
+        {
+            "subcategoria": "2 plazas",
+            "metaTitulo": "Camas - 2 plazas | Kamas",
+            "ruta": "/productos/camas/2-plazas/"
+        },
+        {
+            "subcategoria": "Queen",
+            "metaTitulo": "Camas - Queen | Kamas",
+            "ruta": "/productos/camas/queen/"
+        },
+        {
+            "subcategoria": "King",
+            "metaTitulo": "Camas - King | Kamas",
+            "ruta": "/productos/camas/king/"
+        }
+    ]
+}

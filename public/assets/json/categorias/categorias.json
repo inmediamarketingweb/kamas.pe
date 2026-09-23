@@ -109,9 +109,9 @@
             "id": 2,
             "icono": "/assets/imagenes/componentes/header/cama-box-tarimas.svg",
             "iconoAlt": "Cama box tarima vector",
-            "categoria": "Camas box tarimas",
-            "metaTitulo": "Camas box tarimas | Kamas",
-            "ruta": "/productos/camas-box-tarimas/",
+            "categoria": "Camas",
+            "metaTitulo": "Camas | Kamas",
+            "ruta": "/productos/camas/",
             "menuMensaje":[
                 {
                     "text": "Bases con diseños americanos, europeos con o sin cajones... son la base de un buen descanso."
@@ -509,6 +509,38 @@
             "menuImg":[
                 {
                     "imgSrc": "/assets/imagenes/productos/sofas/1.webp",
+                    "imgAlt": "Sofás | Kamas"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "icono": "/assets/imagenes/componentes/header/complementos.svg",
+            "iconoAlt": "Velador vector",
+            "categoria": "Muebles a medida",
+            "metaTitulo": "Muebles a medida | Kamas",
+            "ruta": "/productos/muebles-a-medida/",
+            "menuMensaje":[
+                {
+                    "text": "XXX"
+                }
+            ],
+            "subCategoriasTitulo":[
+                {
+                    "text": "Categorías"
+                }
+            ],
+            "subCategorias":[
+                {
+                    "id": 1,
+                    "subcategoria": "Veladores",
+                    "metaTitulo": "Complementos - Veladores | Kamas",
+                    "ruta": "/productos/complementos/?subcategoría=veladores"
+                }
+            ],
+            "menuImg":[
+                {
+                    "imgSrc": "/assets/imagenes/productos/complementos/1.webp",
                     "imgAlt": "Sofás | Kamas"
                 }
             ]
