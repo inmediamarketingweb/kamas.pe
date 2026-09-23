@@ -1,10 +1,10 @@
 {
     "productos":[
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/1/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/", 
@@ -16,23 +16,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/2/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/",
@@ -44,23 +46,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/3/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - VERDE LORO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/3/",
@@ -72,23 +76,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/5/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - PLOMO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/5/",
@@ -100,23 +106,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/7/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MESHLOCK + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/meshlock/1/",
@@ -128,8 +136,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -141,10 +151,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/8/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA MOKI + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/moki-2/1/",
@@ -156,8 +166,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -169,10 +181,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/9/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA TORTUN + 2 PUFF - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/bloques/sin-brazos/tortun/1/",
@@ -184,8 +196,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -212,23 +226,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Cuadros 2"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/10/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO + 2 PUFF - DURAZNO HUESO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado-1/1/",
@@ -240,23 +256,25 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneado 1"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/11/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA EGYPT - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/egypt/1/",
@@ -268,8 +286,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -281,10 +301,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/12/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA OLIMPIC - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/olimpic/1/",
@@ -296,8 +316,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -309,10 +331,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/13/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA REPTILIAN - ANTIFLUIDO IVORY",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/reptilian/1/",
@@ -324,8 +346,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -337,10 +361,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/14/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA XTRATO - CAMELL",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/xtrato/1/",
@@ -352,8 +376,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -365,10 +391,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/15/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA XTRATO - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/xtrato/2/",
@@ -380,8 +406,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
@@ -393,10 +421,10 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos",
+            "categoría": "dormitorios",
             "tamaño": "4 plazas",
             "modelo": "sarki",
+            "línea": "americanos",
             "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/15/",
             "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA XTRATO - TEJIDO TABACO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/bloques/xtrato/3/",
@@ -408,8 +436,10 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "categoría": "dormitorios",
                     "tamaño": "4 plazas",
+                    "modelo": "sarki",
+                    "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",

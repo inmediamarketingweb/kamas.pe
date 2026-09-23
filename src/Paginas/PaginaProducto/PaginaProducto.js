@@ -310,27 +310,27 @@ function PaginaProducto(){
                                 <div className='d-grid-2-1fr gap-10'>
                                     <div className='d-flex-column gap-10'>
                                         <div className='page-product-prices d-flex-column'>
-                                            <p className='page-product-regular-price'>Antes: S/.{producto.precioRegular}</p>
-                                            <p className='page-product-normal-price'>Regular: S/.{producto.precioNormal}</p>
-                                            
+                                            <p className='page-product-regular-price'>s/.{producto.precioRegular}</p>
+                                            <p className='page-product-normal-price'>s/.{producto.precioNormal}</p>
+
                                             {estaEnOfertas && ofertaActiva ? (
                                                 <div className='d-flex-column'>
                                                     <div className="d-flex-column align-center">
-                                                        <p className='page-product-sale-price page-product-sale-price-line'>Ahora: S/.{producto.precioVenta}</p>
-                                                        <p className='page-product-sale-price page-product-offer-price color-red'>Oferta: S/.{precioFinal}</p>
+                                                        <p className='page-product-sale-price page-product-sale-price-line'>s/.{producto.precioVenta}</p>
+                                                        <p className='page-product-sale-price page-product-offer-price color-red'>s/.{precioFinal}</p>
                                                     </div>
                                                 </div>
                                             ) : (
-                                                <p className='page-product-sale-price'>Ahora: S/.{producto.precioVenta}</p>
+                                                <p className='page-product-sale-price'>s/.{producto.precioVenta}</p>
                                             )}
                                         </div>
 
                                         <Regalos producto={producto} />
 
-                                        <div className='d-flex gap-10'>
+                                        {/* <div className='d-flex gap-10'>
                                             <Resumen producto={producto} />
                                             {hasMedidas && <Medidas producto={producto} />}
-                                        </div>
+                                        </div> */}
 
                                         <Video producto={producto} />
 
@@ -430,11 +430,12 @@ function PaginaProducto(){
                             </div>
                         </div>
 
-                        <Descripcion producto={producto}/>
+                        {/* <Descripcion producto={producto}/> */}
                     </section>
                 </div>
 
-                <MasProductos categoriaActual={producto.categoria} skusOfertas={skusOfertas} />
+                <MasProductos categoriaActual={producto['categoría'] ?? producto.categoria} skusOfertas={skusOfertas} />
+                {/* <MasProductos categoriaActual={producto.categoria} skusOfertas={skusOfertas} /> */}
             </main>
         </>
     );

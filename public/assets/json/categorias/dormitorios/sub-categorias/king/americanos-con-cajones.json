@@ -1,8 +1,8 @@
 {
     "productos":[
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/sarki/1/",
@@ -16,21 +16,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "sarki",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/sarki/2/",
@@ -44,7 +44,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
@@ -57,8 +57,8 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/1/",
@@ -72,21 +72,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/3/",
@@ -100,21 +100,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/4/",
@@ -128,21 +128,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/5/",
@@ -156,21 +156,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/7/",
@@ -184,21 +184,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "ramat",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/ramat/2/",
@@ -212,21 +212,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Ramat",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/8/",
@@ -240,21 +240,21 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Der prinz",
                     "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americana",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
                 }
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "der prinz",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/9/",
@@ -268,7 +268,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
@@ -281,8 +281,8 @@
             ]
         },
         {
-            "categoria": "dormitorios",
-            "linea": "americanos con cajones",
+            "categoría": "dormitorios",
+            "línea": "americanos",
             "tamaño": "king",
             "modelo": "thaleo pocket",
             "ruta": "/productos/dormitorios/king/americanos-con-cajones/thaleo-pocket/1/",
@@ -296,7 +296,7 @@
             "tipo-de-envio": "Gratis",
             "detalles-del-producto":[
                 {
-                    "línea": "Americana",
+                    "línea": "americanos",
                     "tamaño": "King",
                     "cajones": "Si",
                     "base-encajonada": "No",
