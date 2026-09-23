@@ -17,14 +17,6 @@
                     "foto": "/assets/imagenes/productos/almohada.webp"
                 }
             ],
-            "resumen-del-producto":[
-                {
-                    "modelo-de-colchón": "Adel",
-                    "tamaño": "1 plaza y media",
-                    "línea-de-colchón": "Semi ortopédicos",
-                    "nivel-de-confort": "Muy confortable"
-                }
-            ],
             "tamaños-disponibles":[
                 {
                     "nombre": "1 plaza",
@@ -45,9 +37,20 @@
                     "tipo-de-resorte": "Bonell"
                 }
             ],
+            "mensajes":[
+                "Este colchón ofrece una construcción básica y funcional, ideal para usos ligeros o temporales. Su estructura cuenta con 8 filas de resortes en forma vertical, proporcionando un soporte simple para el descanso.",
+                "La tela Tricop aporta resistencia y una superficie de contacto estándar, mientras que la espuma de 16 kg/m³ brinda un nivel de confort básico. Al ser de uso por ambos lados, permite rotarlo para prolongar su vida útil.",
+                "Pensado para pesos moderados, soporta hasta 55 kg por persona, lo que lo convierte en una opción práctica para habitaciones secundarias o uso ocasional. Incluye 1 año de garantía."
+            ],
             "descripcion":[
                 {
-                    "resortes": "8 filas en forma vertical",
+                    "marca": "kamas",
+                    "modelo-de-colchón": "Adel",
+                    "tamaño": "1 plaza y media",
+                    "resortes": "bonell",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Confortable",
+                    "cantidad-de-resortes": "8 filas en forma vertical",
                     "tela": "Tricop",
                     "densidad-de-la-espuma": "16kg/m3",
                     "tipo-de-uso": "Ambos lados",
