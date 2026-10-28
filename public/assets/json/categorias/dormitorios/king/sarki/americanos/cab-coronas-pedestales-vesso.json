@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/155/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/1/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/157/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL VESSO CAPITONEADA - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-curvos/vesso/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2599,
+            "precioVenta": 2019,
+            "stock": 9,
+            "sku": "K324235N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

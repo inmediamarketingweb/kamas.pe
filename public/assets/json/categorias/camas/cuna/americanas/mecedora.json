@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "cuna",
+            "línea": "americanas",
+            "nombre": "CAMA CUNA MECEDORA SIN COLCHON ENCOFRADO ALTO - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/7/",
+            "precioRegular": 2099,
+            "precioNormal": 1399,
+            "precioVenta": 1299,
+            "stock": 15,
+            "sku": "K200NCTM10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "cuna",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "mecedora"
+                }
+            ]
+        }
+    ]
+}

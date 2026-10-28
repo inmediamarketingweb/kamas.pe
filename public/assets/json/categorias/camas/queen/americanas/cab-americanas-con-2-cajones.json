@@ -1,0 +1,112 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/101/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CON 2 CAJONES AL PIE + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/queen/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1169,
+            "stock": 12,
+            "sku": "K223113N125",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/1/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 2 CAJONES AL PIE - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1169,
+            "stock": 15,
+            "sku": "K223112N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CUADROS 1 + 2 CAJONES AL PIE - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1169,
+            "stock": 15,
+            "sku": "K2231113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/5/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CUADROS 2 + 2 CAJONES AL PIE - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas-con-patas/bloques/sin-brazos/cuadros-2/2/",
+            "precioRegular": 1899,
+            "precioNormal": 1599,
+            "precioVenta": 1169,
+            "stock": 15,
+            "sku": "K2231113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

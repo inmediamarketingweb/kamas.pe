@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/31/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL MAJESTAD - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 1599,
+            "precioNormal": 1099,
+            "precioVenta": 879,
+            "stock": 15,
+            "sku": "K222225N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/32/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL MAJESTAD - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 1599,
+            "precioNormal": 1099,
+            "precioVenta": 879,
+            "stock": 15,
+            "sku": "K222225N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

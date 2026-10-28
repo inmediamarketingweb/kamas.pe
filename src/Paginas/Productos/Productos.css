@@ -1,85 +1,164 @@
-.loading-products{
-    width: 100%;
-    height: 300px;
-}
-
 .pagina-productos-content{
     display: grid;
-    grid-template-columns: 320px 1fr;
-    gap: 10px;
+    grid-template-columns: 280px 1fr;
+    gap: 20px;
 }
 
-.pagina-productos-content .products-list{
+.pg-prds-top-container{
+    grid-column: 1/-1;
+}
+
+.pg-prd-banner-gallery{
+    grid-column: 1/-1;
+    display: flex;
     width: 100%;
+    height: 180px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.pg-prd-banner-gallery img{
+    object-fit: cover;
+}
+
+.prd-order{
+    /* background: palegreen; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.products-list{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
 }
 
-.no-hay-productos{
-    width: 100%;
-    grid-column: 1/-1;
+.filters-order{
+    position: relative;
+    display: flex;
 }
 
-.pagina-productos-navigation{
+.filters-order-button{
+    width: auto;
+    height: 40px;
+    border: 1px solid var(--component-border);
+    padding: 0 10px;
+    border-radius: 6px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 20px;
+    justify-content: left;
+    transition: var(--t-200ms-linear);
+    gap: 10px;
 }
 
-.pagina-productos-navigation ul{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
+.filters-order-button.active{
+    border-radius: 6px 6px 0 6px;
 }
 
-.pagina-productos-navigation-button{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 48px;
-    height: auto;
-    aspect-ratio: 1/1;
-    border-radius: 3px;
-    border: 1px solid #D9D9D9;
-}
-
-.pagina-productos-navigation-button span{
+.filters-order-button span{
     color: var(--text);
 }
 
-.pagina-productos-navigation-button-arrow{
+.filters-order-list{
+    background: var(--body);
+    border: 1px solid var(--component-border);
+    border-radius: 6px 0 6px 6px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: calc(100% + 5px);
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    transition: var(--t-200ms-linear);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+
+    z-index: 10;
+}
+
+.filters-order-list.active{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+}
+
+.filters-order-list li{
+    display: flex;
+    width: 100%;
+}
+
+.filters-order-list li button{
+    width: 100%;
+    height: 40px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    transition: var(--t-200ms-linear);
+    gap: 10px;
+}
+
+.filters-order-list li button:hover{
+    background: rgba(0 0 0 / 0.075);
+}
+
+.filters-bnt-open{
+    width: auto;
+    padding: 0 10px;
+    height: 40px;
+    border: 1px solid var(--component-border);
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 48px;
-    height: auto;
-    aspect-ratio: 1/1;
-    border-radius: 100%;
-    background: var(--color-1);
+    border-radius: 3px;
+    margin-left: auto;
+    margin-top: 10px;
+
+    display: none;
 }
 
-.pagina-productos-navigation-button-arrow span{
-    color: var(--white);
-}
-
-.productos-main .conteo-container{
-    display: none !important;
+.filters-bnt-open span,
+.filters-bnt-open p{
+    color: var(--text);
 }
 
 @media screen and (max-width: 600px){
-    .pagina-productos-content{
-        grid-template-columns: 1fr !important;
+    .pg-prd-banner-gallery{
+        height: 120px;
     }
 
-    .pagina-productos-content .products-list{
-        margin-top: 54px;
-        grid-template-columns: repeat(2, 1fr);
+    .filters-bnt-open{
+        display: flex;
     }
-    
-    .pagina-productos-navigation-button{
-        width: 40px;
+
+    .pagina-productos-content{
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .prd-order{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        align-items: unset;
+        justify-content: unset;
+    }
+
+    .filters-order{
+        width: 100%;
+    }
+
+    .filters-order-button{
+        width: 100%;
+    }
+
+    .products-list{
+        grid-template-columns: repeat(2, 1fr);
     }
 }

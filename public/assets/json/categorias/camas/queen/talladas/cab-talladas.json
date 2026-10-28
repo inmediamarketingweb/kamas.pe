@@ -1,0 +1,94 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "talladas",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CEDRO + CABECERA AÉREA CORONA + PIECERA CON DISEÑO - DORADO CON CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/talladas/talladas/1/",
+            "precioRegular": 8099,
+            "precioNormal": 7799,
+            "precioVenta": 7499,
+            "stock": 15,
+            "sku": "K2345NTT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "piecera": "si",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "talladas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "talladas",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CEDRO + CABECERA AÉREA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/talladas/talladas/2/",
+            "precioRegular": 9499,
+            "precioNormal": 9299,
+            "precioVenta": 8999,
+            "stock": 15,
+            "sku": "K2345NTT11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "talladas",
+                    "madera":  "cedro",
+                    "cajones": "No",
+                    "piecera": "si",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "talladas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "talladas",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CEDRO + CABECERA AÉREA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/talladas/talladas/3/",
+            "precioRegular": 9899,
+            "precioNormal": 9499,
+            "precioVenta": 9299,
+            "stock": 15,
+            "sku": "K2345NTT12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "talladas",
+                    "madera":  "cedro",
+                    "cajones": "No",
+                    "piecera": "si",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "talladas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

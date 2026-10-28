@@ -1,0 +1,114 @@
+{
+    "productos":[
+        {
+            "id": 174,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/116/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + BAUL - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/capitoneado/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224223N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 182,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/124/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL EMPERATRIZ + BAUL - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224223N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 225,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas/king/americanas/149/",
+            "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA PEDESTAL CAPITONEADA + BAÚL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/capitoneado/5/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 12,
+            "sku": "K224223N29",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 226,
+            "categoria": "camas box tarimas",
+            "subcategoria": "americanas",
+            "ruta": "/productos/camas/king/americanas/150/",
+            "nombre": "CAMA BOX TARIMA AMERICANO KING + CABECERA PEDESTAL CAPITONEADA + BAÚL - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/capitoneado/6/",
+            "precioRegular": 2799,
+            "precioNormal": 2199,
+            "precioVenta": 1699,
+            "stock": 12,
+            "sku": "K224223N30",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

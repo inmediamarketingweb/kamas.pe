@@ -1,0 +1,354 @@
+{
+    "productos":[
+        {
+            "id": 45,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/35/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/6/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/36/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/2/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/38/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - UVA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/4/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/39/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/corona/5/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/52/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/7/",
+            "precioRegular": 1839,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/54/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/2/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/55/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/3/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/56/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/4/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/57/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/5/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/58/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/6/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N21",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/59/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PALACIO DE REY - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/palacio-de-rey/7/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N22",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Palacio de rey"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/67/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PRINCESA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/princesa/1/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "princesa"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/68/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PRINCESA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/princesa/2/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "princesa"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/69/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS PRINCESA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-rectos/princesa/3/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "princesa"
+                }
+            ]
+        }
+    ]
+}

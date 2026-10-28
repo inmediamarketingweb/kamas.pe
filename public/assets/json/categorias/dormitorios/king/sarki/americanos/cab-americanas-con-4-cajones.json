@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/sarki/1/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES LATERALES + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2399,
+            "precioNormal": 2799,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324133N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

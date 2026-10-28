@@ -53,9 +53,9 @@ function Categorias(){
                             </a>
                         </li>
                         <li>
-                            <a href='/productos/camas-box-tarimas/' title='Camas box tarimas | Kamas'>
+                            <a href='/productos/camas/' title='Camas | Kamas'>
                                 <LazyImage src='/assets/imagenes/paginas/pagina-principal/categorias/camas-box-tarimas.webp' width={isSmallScreen ? 198 : 100} height={isSmallScreen ? 200 : 440} alt='Camas box tarimas | Kamas'/>
-                                <p className='title'>Camas box tarimas</p>
+                                <p className='title'>Camas</p>
                             </a>
                         </li>
                         <li>

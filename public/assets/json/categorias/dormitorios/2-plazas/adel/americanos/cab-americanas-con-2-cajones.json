@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322113N10",
+            "tipo-de-envio": "Gratis",
+           "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322113N11",
+            "tipo-de-envio": "Gratis",
+           "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 1999,
+            "precioNormal": 1599,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322113N13",
+            "tipo-de-envio": "Gratis",
+           "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CAPITONEADA + 2 CAJONES AL PIE - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 1999,
+            "precioNormal": 1699,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K322113N16",
+            "tipo-de-envio": "Gratis",
+           "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

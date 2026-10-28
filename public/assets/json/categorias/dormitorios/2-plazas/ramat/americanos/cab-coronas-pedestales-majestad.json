@@ -1,0 +1,243 @@
+{
+    "productos":[
+        {
+            "id": 32,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/15/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/16/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/17/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/21/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/8/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/23/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/10/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/24/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/11/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/25/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/12/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/27/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/coronas/brazos-curvos/majestad/14/",
+            "precioRegular": 2459,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K322175N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

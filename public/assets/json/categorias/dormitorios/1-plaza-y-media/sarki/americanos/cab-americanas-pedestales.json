@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/7/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/2/",
+            "precioRegular": 1899,
+            "precioNormal": 1449,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K3215232N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/9/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/4/",
+            "precioRegular": 1899,
+            "precioNormal": 1449,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K3215232N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/11/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/6/",
+            "precioRegular": 1899,
+            "precioNormal": 1449,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K3215232N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/13/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CLÁSICA 1 - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/clasica/brazos-rectos/clasica-1/8/",
+            "precioRegular": 1899,
+            "precioNormal": 1449,
+            "precioVenta": 999,
+            "stock": 13,
+            "sku": "K3215232N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clasica 1"
+                }
+            ]
+        }
+    ]
+}

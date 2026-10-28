@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "id": 470,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA LINEAL 4 - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/lineal-4/1/",
+            "precioRegular": 4049,
+            "precioNormal": 3419,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K3242106N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 474,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/thaleo-pocket/10/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA RECTANGULAR 2 - ANTIFLUIDO PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thaleo-pocket/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 4049,
+            "precioNormal": 3419,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K3242106N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Thaleo pocket",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        }
+    ]
+}

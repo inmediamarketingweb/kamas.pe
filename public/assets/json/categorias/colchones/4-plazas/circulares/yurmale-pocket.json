@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "4 plazas",
+            "formato": "circulares",
+            "modelo-de-colchón": "yurmale pocket",
+            "ruta": "/productos/colchones/4-plazas/circulares/yurmale-pocket/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS 4 PLAZAS EXTRA ORTOPÉDICO YURMALE POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/circular-4-plazas/",
+            "precioRegular": 3999,
+            "precioNormal": 3789,
+            "precioVenta": 3499,
+            "stock": 99,
+            "sku": "K153CNXC1017",
+            "regalos":[ "4 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/circulares/yurmale-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "ruta": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=yurmale-pocket"
+                }
+            ],
+            "mensajes":[
+                "Descubre una experiencia de descanso extraordinaria con el colchón circular de 4 plazas Yurmale Pocket, creado para quienes buscan máxima firmeza, amplitud y un diseño exclusivo. Su imponente forma circular ofrece una superficie de descanso mucho más amplia y envolvente, permitiendo disfrutar de mayor libertad de movimiento y aprovechar el espacio de una manera completamente diferente a un colchón tradicional.",
+                "Perteneciente a la línea Extra Ortopédicos, el Yurmale Pocket ofrece un nivel de confort muy firme, ideal para quienes prefieren una sensación de soporte sólido y estable. Incorpora tecnología de resortes Pocket con 880 resortes independientes, además de Sistema One Size y Sistema PT, que complementan su estructura para brindar una experiencia de descanso firme y confortable.",
+                "Cuenta con refuerzos centrales, espuma de 25 kg/m³ y un marco de espuma, elementos que aportan mayor estabilidad y resistencia. Su agradable tela de algodón tejido en punto complementa la superficie de descanso, mientras que sus impresionantes 44 cm de grosor le otorgan una presencia robusta y premium.",
+                "Diseñado para utilizarse por ambos lados, soporta hasta 130 kg por persona y cuenta con una destacada garantía de 12 años. El Yurmale Pocket Circular de 4 plazas es una elección excepcional para quienes quieren llevar el descanso a otro nivel, combinando espacio, ergonomía, máxima firmeza y el diseño único de un colchón circular."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "4 plazas",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "yurmale pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "880",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "incorpora": "Sitema PT",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

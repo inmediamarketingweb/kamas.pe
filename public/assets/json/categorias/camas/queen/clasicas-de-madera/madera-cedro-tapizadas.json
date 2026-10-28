@@ -1,0 +1,221 @@
+{
+    "productos":[
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA LINEAL 1 - CUERO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/3/",
+            "precioRegular": 3999,
+            "precioNormal": 3099,
+            "precioVenta": 2899,
+            "stock": 15,
+            "sku": "K2373MTC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO CON PIECERA + CABECERA AÉREA LINEAL 1 - CUERO PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/4/",
+            "precioRegular": 4199,
+            "precioNormal": 3199,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K2373MTC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO CON PIECERA + CABECERA AÉREA LINEAL 1 - CUERO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/5/",
+            "precioRegular": 4199,
+            "precioNormal": 3199,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K2373MTC13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO CON PIECERA + CABECERA AÉREA CURVA CAPITONEADO - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/6/",
+            "precioRegular": 4599,
+            "precioNormal": 3499,
+            "precioVenta": 3299,
+            "stock": 15,
+            "sku": "K2373MTC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO CON PIECERA + CABECERA PEDESTAL - MARRÓN + IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/7/",
+            "precioRegular": 4599,
+            "precioNormal": 3499,
+            "precioVenta": 3299,
+            "stock": 15,
+            "sku": "K2373MTC15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA CEDRO ENCAJONADA + CABECERA PEDESTAL BLOQUES - CUERO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/8/",
+            "precioRegular": 4599,
+            "precioNormal": 3499,
+            "precioVenta": 3299,
+            "stock": 15,
+            "sku": "K2373MTC15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA QUEEN DE MADERA CEDRO ENCAJONADA + CABECERA AÉREA CAPITONEADA + PIECERA ESPECIAL - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/9/",
+            "precioRegular": 5499,
+            "precioNormal": 3999,
+            "precioVenta": 3799,
+            "stock": 15,
+            "sku": "K2373MTC15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

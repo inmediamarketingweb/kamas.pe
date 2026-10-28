@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADA + VELADOR SHELTER - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/14/",
+            "precioRegular": 1749,
+            "precioNormal": 1249,
+            "precioVenta": 1029,
+            "stock": 15,
+            "sku": "K2222113N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADA + VELADOR SHELTER - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/15/",
+            "precioRegular": 1749,
+            "precioNormal": 1249,
+            "precioVenta": 1029,
+            "stock": 15,
+            "sku": "K2222113N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

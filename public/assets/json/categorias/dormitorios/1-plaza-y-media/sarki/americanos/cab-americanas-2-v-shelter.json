@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/2/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 2 VELADOR VINTAGE - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 2349,
+            "precioNormal": 1689,
+            "precioVenta": 1249,
+            "stock": 13,
+            "sku": "K3215233N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

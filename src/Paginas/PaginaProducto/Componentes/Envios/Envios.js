@@ -172,7 +172,7 @@ function Envios({ producto, onConfirm }){
         <>
             <div className="d-flex-column gap-10">
                 <div className="d-flex-center-left gap-5">
-                    <span className="material-symbols-outlined color-color-1">local_shipping</span>
+                    {/* <span className="material-symbols-outlined color-color-1">local_shipping</span> */}
                     <p className="title color-color-1">Lugar y tipo de envío</p>
                 </div>
 

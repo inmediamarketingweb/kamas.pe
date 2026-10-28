@@ -1,0 +1,497 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE BRAZOS P - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/1/",
+            "precioRegular": 2699,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 23,
+            "sku": "K3340NN10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "brazos p",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE GOTA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/2/",
+            "precioRegular": 2699,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 23,
+            "sku": "K3340NN11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE GOTA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/3/",
+            "precioRegular": 2699,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 23,
+            "sku": "K3340NN12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE ORION - TEJIDO BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/4/",
+            "precioRegular": 2799,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 23,
+            "sku": "K3340NN13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube orion"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE ORION - TEJIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/5/",
+            "precioRegular": 2799,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 23,
+            "sku": "K3340NN14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube orion"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE LINEAL - DURAZNO LADRILLO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/6/",
+            "precioRegular": 2799,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 23,
+            "sku": "K3340NN15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE LINEAL 1 - TEJIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/7/",
+            "precioRegular": 2799,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 23,
+            "sku": "K3340NN16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE ORION - VERDE PANTANO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/8/",
+            "precioRegular": 2799,
+            "precioNormal": 2499,
+            "precioVenta": 2099,
+            "stock": 23,
+            "sku": "K3340NN17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "nube orion"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE FLOR - TEJIDO ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/9/",
+            "precioRegular": 2899,
+            "precioNormal": 2559,
+            "precioVenta": 2249,
+            "stock": 23,
+            "sku": "K3340NN18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "flor"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE FLOR - TEJIDO ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/10/",
+            "precioRegular": 2899,
+            "precioNormal": 2559,
+            "precioVenta": 2249,
+            "stock": 23,
+            "sku": "K3340NN19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "flor"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE ESCALERA - VERDE PANTANO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/11/",
+            "precioRegular": 3099,
+            "precioNormal": 2799,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K3340NN20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "escalera"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE ESCALERA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/12/",
+            "precioRegular": 3099,
+            "precioNormal": 2799,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K3340NN21",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "escalera"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE LINEAS CURVAS - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/13/",
+            "precioRegular": 3099,
+            "precioNormal": 2799,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K3340NN22",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineas curvas"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING + CABECERA PEDESTAL NUBE LINEAS CURVAS - TEJIDO ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/14/",
+            "precioRegular": 3099,
+            "precioNormal": 2799,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K3340NN23",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineas curvas"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING CAJON ALTO + CABECERA BAJA - TEJIDO ACERO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/15/",
+            "precioRegular": 2999,
+            "precioNormal": 2699,
+            "precioVenta": 2299,
+            "stock": 23,
+            "sku": "K3340NN24",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING CAJON ALTO + CABECERA BAJA REPOSO - TEJIDO ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/16/",
+            "precioRegular": 3199,
+            "precioNormal": 2899,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K3340NN25",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "reposo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "nube",
+            "nombre": "CAMA NUBE KING CAJON ALTO + CABECERA BAJA REPOSO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/nube/18/",
+            "precioRegular": 3199,
+            "precioNormal": 2899,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K3340NN26",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "reposo"
+                }
+            ]
+        }
+    ]
+}

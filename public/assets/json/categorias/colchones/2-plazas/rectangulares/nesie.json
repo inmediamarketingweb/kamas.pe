@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "nesie",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/nesie/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS HOTELERO NESIE",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/2-plazas/",
+            "precioRegular": 1319,
+            "precioNormal": 1079,
+            "precioVenta": 599,
+            "stock": 99,
+            "sku": "K124N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/nesie/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/nesie/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/nesie/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=nesie"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Neise es un colchón diseñado para un uso intensivo, ideal para hoteles o personas que buscan durabilidad y confort constante. Su sistema de resortes Bonell con 15 filas ofrece un soporte equilibrado y resistente, mientras que su nivel de confort confortable brinda una sensación agradable para el descanso diario.",
+                "Viene con tela jacquard, espuma de 20 kg/m³, diseño ambos lados y marco sellado, lo que prolonga su vida útil.",
+                "Soporta hasta 85 kg por persona y cuenta con 6 años de garantía, perfecto para quienes necesitan un colchón firme, confiable y preparado para alto tráfico."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "nesie",
+                    "resortes": "15 filas",
+                    "tela": "Tela jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

@@ -33,3 +33,9 @@
 .product-page-direction ul li:nth-last-child(1):after{
     display: none;
 }
+
+@media screen and (max-width: 600px){
+    .product-page-direction{
+        padding: 0 !important;
+    }
+}

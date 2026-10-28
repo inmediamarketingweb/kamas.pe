@@ -1,0 +1,164 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL + DISEÑO EN PIECERA - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/acero-inoxidable/tapizadas/1/",
+            "precioRegular": 6299,
+            "precioNormal": 6099,
+            "precioVenta": 5499,
+            "stock": 14,
+            "sku": "K2123AITN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL + DISEÑO EN PIECERA - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/acero-inoxidable/tapizadas/2/",
+            "precioRegular": 6599,
+            "precioNormal": 6299,
+            "precioVenta": 5899,
+            "stock": 14,
+            "sku": "K2123AITN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL + DISEÑO EN PIECERA - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/acero-inoxidable/tapizadas/3/",
+            "precioRegular": 6599,
+            "precioNormal": 6299,
+            "precioVenta": 5899,
+            "stock": 14,
+            "sku": "K2123AITN12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL TURRONIX + DISEÑO EN PIECERA - ACABADOS EN MADERA CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/acero-inoxidable/tapizadas/4/",
+            "precioRegular": 6699,
+            "precioNormal": 6399,
+            "precioVenta": 6099,
+            "stock": 14,
+            "sku": "K2123AITN13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "turronix"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL CAPITONEADO + DISEÑO EN PIECERA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/acero-inoxidable/tapizadas/5/",
+            "precioRegular": 6999,
+            "precioNormal": 6799,
+            "precioVenta": 6499,
+            "stock": 14,
+            "sku": "K2123AITN14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        }
+    ]
+}

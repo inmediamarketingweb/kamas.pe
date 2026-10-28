@@ -1,0 +1,91 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/20/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA + 2 VELADOR SHELTER - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/1/",
+            "precioRegular": 2499,
+            "precioNormal": 2099,
+            "precioVenta": 1549,
+            "stock": 13,
+            "sku": "K322235N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/21/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA + 2 VELADOR SHELTER - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/2/",
+            "precioRegular": 2499,
+            "precioNormal": 2099,
+            "precioVenta": 1549,
+            "stock": 13,
+            "sku": "K322235N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/22/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA + 2 VELADOR SHELTER - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/3/",
+            "precioRegular": 2499,
+            "precioNormal": 2099,
+            "precioVenta": 1549,
+            "stock": 13,
+            "sku": "K322235N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/2-plazas/",
+            "precioRegular": 749,
+            "precioNormal": 619,
+            "precioVenta": 399,
+            "stock": 99,
+            "sku": "K123CN10",
+            "regalos": [ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/rectangulares/sarki/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Sarki, uno de los modelos más representativos de la marca, destaca por su equilibrio entre confort y soporte.",
+                "Su sistema de resortes Bonell con 9 filas brinda una base estable y cómoda para el descanso diario.",
+                "Cuenta con tela de algodón tejido en punto, espuma de 18 kg/m³, diseño ambos lados y marco sellado, construido para ofrecer durabilidad y una sensación de apoyo uniforme.",
+                "Soporta hasta 65 kg por persona y viene con 2 años de garantía."
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circulares",
+                    "ruta": "/productos/colchones/?orden=menor-a-mayor&formato=circulares&modelo-de-colchón=sarki"
+                }
+            ],
+            "sellers":[
+                {
+                    "nombre": "Falabella",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/149085375/COLCHON-2-PLAZAS-KAMAS-SARKI/149085376"
+                }
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "9 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

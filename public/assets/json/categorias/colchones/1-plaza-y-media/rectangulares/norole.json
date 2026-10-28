@@ -1,0 +1,56 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "norole",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/norole/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA EXTRA ORTOPÉDICO NOROLE",
+            "fotos": "/assets/imagenes/productos/colchones/norole/1-plaza-y-media/",
+            "precioRegular": 1459,
+            "precioNormal": 1149,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K1159MFN10",
+            "tipo-de-envio": "Envío preferente",
+            "regalos":[ "1 almohada" ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/norole/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/norole/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/norole/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Norole ofrece un soporte muy firme, ideal para quienes buscan estabilidad y correcto alineamiento corporal. Cuenta con resortes Bonell de 12 filas y espuma de 23 kg/m³, brindando resistencia y durabilidad.",
+                "Su tela de algodón tejido en punto aporta frescura y comodidad. Es de uso por ambos lados y posee marco sellado reforzado para mayor estabilidad.",
+                "Soporta hasta 85 kg por persona y viene con 7 años de garantía, convirtiéndolo en una opción ortopédica confiable y de larga duración."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "norole",
+                    "línea-de-colcón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "12 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

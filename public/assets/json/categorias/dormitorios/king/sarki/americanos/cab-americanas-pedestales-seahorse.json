@@ -1,0 +1,207 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/145/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/1/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N55",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/146/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/2/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N56",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/147/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/3/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N58",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/148/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/4/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N57",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/151/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/7/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N61",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/152/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/8/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N62",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/153/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL SEAHORSE CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/americanas/brazos-seahorse/capitoneado/9/",
+            "precioRegular": 3199,
+            "precioNormal": 2689,
+            "precioVenta": 1949,
+            "stock": 9,
+            "sku": "K324233N63",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "files":[
+        "/assets/json/categorias/camas/cuna/americanas/clasicas.json",
+        "/assets/json/categorias/camas/cuna/americanas/tina.json",
+        "/assets/json/categorias/camas/cuna/americanas/mecedora.json",
+        "/assets/json/categorias/camas/cuna/clasicas-de-madera/madera-pino.json",
+        "/assets/json/categorias/camas/cuna/clasicas-de-madera/madera-cedro.json",
+
+
+        
+        "/assets/json/categorias/camas/1-plaza/infantiles/cab-pedestales.json",
+
+
+
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-americanas-con-3-cajones.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-americanas-pedestales-con-2-cajones.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-americanas.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/americanas/cab-coronas-pedestales-sofa-baul.json",
+
+        "/assets/json/categorias/camas/1-plaza-y-media/camarotes/madera-capirona.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/camarotes/madera-cedro.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/camarotes/madera-pino.json",
+
+        "/assets/json/categorias/camas/1-plaza-y-media/europeas/cab-americanas-pedestales.json",
+
+        "/assets/json/categorias/camas/1-plaza-y-media/infantiles/cab-aereas-con-patas.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/infantiles/cab-corporativas.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/infantiles/cab-pedestales.json",
+        "/assets/json/categorias/camas/1-plaza-y-media/infantiles/cab-semi-basicas.json",
+
+
+
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-1-v-clasico-1-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-1-v-shelter.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-2-v-clasico-1-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-2-v-shelter.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-2-v-vintage.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-con-marco-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-con-marco-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-con-marco.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-1-v-clasico-1.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-1-v-vintage-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-2-v-vintage-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-2-v-vintage.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-baul.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-con-4-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-americanas.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-bloques-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-bloques-con-sabanera.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-bloques-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-bloques.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas-pedestales-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas-pedestales-majestad-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas-pedestales-majestad.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas-pedestales-piecera.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/americanas/cab-coronas.json",
+
+
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas-con-marco.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas-pedestales-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas-sofa-baul.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-americanas.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-coronas-pedestales-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-coronas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/europeas/cab-coronas.json",
+
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-cedro-tapizadas.json",
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-cedro.json",
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-pino-tapizadas.json",
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-pino.json",
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-tornillo-tapizadas.json",
+        "/assets/json/categorias/camas/2-plazas/clasicas-de-madera/madera-tornillo.json",
+
+        "/assets/json/categorias/camas/2-plazas/bases-y-tarimas/americanas-encajonadas.json",
+        "/assets/json/categorias/camas/2-plazas/bases-y-tarimas/europeas-con-2-cajones.json",
+        "/assets/json/categorias/camas/2-plazas/bases-y-tarimas/europeas.json",
+
+        "/assets/json/categorias/camas/2-plazas/box-espacios/americanos-cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/americanos-cab-coronas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/americanos-cab-coronas-princesa.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/americanos-sin-cab.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/europeos-cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/madera-cedro.json",
+        "/assets/json/categorias/camas/2-plazas/box-espacios/madera-pino.json",
+
+        "/assets/json/categorias/camas/2-plazas/camarotes/madera-capirona.json",
+        "/assets/json/categorias/camas/2-plazas/camarotes/madera-cedro.json",
+        "/assets/json/categorias/camas/2-plazas/camarotes/madera-pino.json",
+
+        "/assets/json/categorias/camas/2-plazas/infantiles/cab-pedestales-con-baul.json",
+        "/assets/json/categorias/camas/2-plazas/infantiles/cab-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/infantiles/cab-semi-basicas.json",
+
+        "/assets/json/categorias/camas/2-plazas/divanes/americanas-cab-americanas-aereas-con-patas.json",
+        "/assets/json/categorias/camas/2-plazas/divanes/americanas-cab-americanas-aereas.json",
+        "/assets/json/categorias/camas/2-plazas/divanes/americanas-cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/2-plazas/divanes/americanas-sin-cab.json",
+
+        "/assets/json/categorias/camas/2-plazas/talladas/cab-talladas.json",
+
+        "/assets/json/categorias/camas/2-plazas/acero-inoxidable/cab-tapizadas.json",
+        "/assets/json/categorias/camas/2-plazas/acero-inoxidable/sin-tapizar.json",
+
+        "/assets/json/categorias/camas/2-plazas/nube/cab-pedestales.json",
+
+
+
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas-con-4-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas-con-6-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas-pedestales-con-2-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas-pedestales-con-6-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-americanas.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-bloques-pedestales-con-4-cajones.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-bloques.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-coronas-pedestales-majestad.json",
+        "/assets/json/categorias/camas/queen/americanas/cab-coronas-pedestales.json",
+
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/americanas-con-3-cajones.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/americanas-con-4-cajones.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/americanas.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/europeas.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/europeas-con-2-cajones.json",
+        "/assets/json/categorias/camas/queen/bases-y-tarimas/europeas-con-4-cajones.json",
+
+        "/assets/json/categorias/camas/queen/box-espacios/americanos-sin-cab.json",
+        "/assets/json/categorias/camas/queen/box-espacios/clasicos-de-madera-cedro.json",
+
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-cedro-tapizadas.json",
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-cedro.json",
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-pino-tapizadas.json",
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-pino.json",
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-tornillo-tapizadas.json",
+        "/assets/json/categorias/camas/queen/clasicas-de-madera/madera-tornillo.json",
+
+        "/assets/json/categorias/camas/queen/acero-inoxidable/cab-tapizadas.json",
+
+        "/assets/json/categorias/camas/queen/talladas/cab-talladas.json",
+        "/assets/json/categorias/camas/queen/talladas/cab-tapizadas.json",
+
+        "/assets/json/categorias/camas/queen/nube/cab-pedestales.json",
+
+
+
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-1-v-clasico-1.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-1-v-shelter.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-2-v-vintage.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-con-4-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-con-marco-pedestales-2-v-madera.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-con-marco.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-2-v-vintage.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-baul.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-con-2-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-con-4-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-con-6-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales-seahorse.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/king/americanas/cab-americanas.json",
+        "/assets/json/categorias/camas/king/americanas/cab-bloques-pedestales-con-4-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-bloques.json",
+        "/assets/json/categorias/camas/king/americanas/cab-coronas-pedestales-majestad-con-2-cajones.json",
+        "/assets/json/categorias/camas/king/americanas/cab-coronas-pedestales-majestad.json",
+        "/assets/json/categorias/camas/king/americanas/cab-coronas-pedestales-princesa-con-piecera.json",
+        "/assets/json/categorias/camas/king/americanas/cab-coronas-pedestales-vesso.json",
+        "/assets/json/categorias/camas/king/americanas/cab-coronas.json",
+
+        "/assets/json/categorias/camas/king/clasicas-de-madera/madera-cedro.json",
+        "/assets/json/categorias/camas/king/clasicas-de-madera/madera-cedro-tapizadas.json",
+        "/assets/json/categorias/camas/king/clasicas-de-madera/madera-pino.json",
+        "/assets/json/categorias/camas/king/clasicas-de-madera/madera-pino-tapizadas.json",
+        "/assets/json/categorias/camas/king/clasicas-de-madera/madera-tornillo.json",
+
+        "/assets/json/categorias/camas/king/europeas/cab-americanas-pedestales-2-cajones.json",
+        "/assets/json/categorias/camas/king/europeas/cab-americanas-pedestales.json",
+        "/assets/json/categorias/camas/king/europeas/cab-americanas.json",
+
+        "/assets/json/categorias/camas/king/bases-y-tarimas/americanas-con-2-cajones.json",
+        "/assets/json/categorias/camas/king/bases-y-tarimas/americanas-con-4-cajones.json",
+        "/assets/json/categorias/camas/king/bases-y-tarimas/americanas.json",
+        "/assets/json/categorias/camas/king/bases-y-tarimas/europeas.json",
+
+        "/assets/json/categorias/camas/king/box-espacios/americanos-cab-americanas.json",
+
+        "/assets/json/categorias/camas/king/circulares/talladas.json",
+        "/assets/json/categorias/camas/king/circulares/cab-nube.json",
+
+        "/assets/json/categorias/camas/king/talladas/cab-tapizadas.json",
+        "/assets/json/categorias/camas/king/talladas/cab-talladas.json",
+
+        "/assets/json/categorias/camas/king/acero-inoxidable/cab-sin-tapizar.json",
+        "/assets/json/categorias/camas/king/acero-inoxidable/cab-tapizadas.json",
+
+        "/assets/json/categorias/camas/king/nube/cab-pedestales.json",
+
+        "/assets/json/categorias/camas/king/smart/cab-pedestales.json"
+    ]
+}

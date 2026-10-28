@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/rucay/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/aereas-con-patas/americanas/sin-brazos/lineal/1/",
+            "precioRegular": 1579,
+            "precioNormal": 1229,
+            "precioVenta": 839,
+            "stock": 13,
+            "sku": "K3215223N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

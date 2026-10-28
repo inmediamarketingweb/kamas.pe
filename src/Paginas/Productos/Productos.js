@@ -1,345 +1,1402 @@
-import { useEffect, useState, useMemo, useCallback } from "react";
-import { Helmet } from "react-helmet-async";
-import { useLocation } from "react-router-dom";
+// import { useState, useEffect, useMemo, useCallback, useRef } from "react";
+// import { Helmet } from "react-helmet";
+// import { useSearchParams, useLocation } from "react-router-dom";
+
+// import "./Productos.css";
+
+// import { Producto } from "../../Componentes/Plantillas/Producto/Producto";
+// import Filtros, { slugify, productoCumpleGrupo, formatearRangoPrecio } from "./Componentes/Filtros/Filtros";
+// import Paginacion from "./Componentes/Paginacion/Paginacion";
+
+// const PRODUCTOS_POR_PAGINA = 40;
+// const normalizar = (str = "") => String(str).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+
+// function Productos({
+//     categoriaForzada = null,
+//     medida = null,
+//     formato = null,
+//     paramsRuta = null,
+//     titulo = "Productos",
+//     descripcionSeo = "Descubre todos nuestros productos Kamas.",
+// }) {
+//     const [productos, setProductos] = useState([]);
+//     const [skusOfertas, setSkusOfertas] = useState([]);
+//     const [skusParaHoy, setSkusParaHoy] = useState([]);
+//     const [favoritos, setFavoritos] = useState([]);
+//     const [isOfferActive] = useState(true);
+//     const [searchParams, setSearchParams] = useSearchParams();
+//     const location = useLocation();
+//     const [categorias, setCategorias] = useState([]);
+//     const [paginaActual, setPaginaActual] = useState(1);
+
+//     // ✅ Estado y ref para el menú de orden
+//     const [isOrderOpen, setIsOrderOpen] = useState(false);
+//     const orderRef = useRef(null);
+
+//     // ✅ Estado para el panel de filtros en móvil
+//     const [filtrosAbiertos, setFiltrosAbiertos] = useState(false);
+
+//     const abrirFiltros = useCallback(() => {
+//         setFiltrosAbiertos(true);
+//     }, []);
+
+//     const cerrarFiltros = useCallback(() => {
+//         setFiltrosAbiertos(false);
+//     }, []);
+
+//     useEffect(() => {
+//         const cargarCategorias = async () => {
+//             try {
+//                 const res = await fetch("/assets/json/categorias/categorias-2.json");
+//                 if (!res.ok) {
+//                     console.error(
+//                         "❌ No se pudo cargar categorias-2.json:",
+//                         res.status
+//                     );
+//                     return;
+//                 }
+//                 const data = await res.json();
+//                 setCategorias(
+//                     Array.isArray(data?.categorias) ? data.categorias : []
+//                 );
+//             } catch (err) {
+//                 console.error("Error cargando categorías:", err);
+//             }
+//         };
+//         cargarCategorias();
+//     }, []);
+
+//     useEffect(() => {
+//         const cargarOfertas = async () => {
+//             try {
+//                 const res = await fetch("/assets/json/productos/ofertas.json");
+//                 if (!res.ok) {
+//                     setSkusOfertas([]);
+//                     return;
+//                 }
+//                 const data = await res.json();
+//                 setSkusOfertas(Array.isArray(data) ? data : []);
+//             } catch (err) {
+//                 console.error("Error cargando ofertas:", err);
+//                 setSkusOfertas([]);
+//             }
+//         };
+//         cargarOfertas();
+//     }, []);
+
+//     useEffect(() => {
+//         let cancelado = false;
+//         const cargarParaHoy = async () => {
+//             try {
+//                 const res = await fetch("/assets/json/productos/para-hoy.json");
+//                 if (!res.ok) {
+//                     console.error(
+//                         "❌ No se pudo cargar para-hoy.json:",
+//                         res.status
+//                     );
+//                     if (!cancelado) setSkusParaHoy([]);
+//                     return;
+//                 }
+//                 const data = await res.json();
+//                 if (!cancelado) {
+//                     setSkusParaHoy(Array.isArray(data) ? data : []);
+//                 }
+//             } catch (err) {
+//                 console.error("Error cargando para-hoy.json:", err);
+//                 if (!cancelado) setSkusParaHoy([]);
+//             }
+//         };
+
+//         cargarParaHoy();
+//         return () => {
+//             cancelado = true;
+//         };
+//     }, []);
+
+//     useEffect(() => {
+//         try {
+//             const favs = JSON.parse(localStorage.getItem("favoritos") || "[]");
+//             setFavoritos(Array.isArray(favs) ? favs : []);
+//         } catch {
+//             setFavoritos([]);
+//         }
+//     }, []);
+
+//     const { slugCategoria, segmentosExtra } = useMemo(() => {
+//         const partes = location.pathname.split("/").filter(Boolean);
+//         const idx = partes.indexOf("productos");
+//         if (idx === -1) return { slugCategoria: null, segmentosExtra: [] };
+
+//         const slug = partes[idx + 1] || null;
+//         const extra = partes.slice(idx + 2);
+
+//         return {
+//             slugCategoria: categoriaForzada ? normalizar(categoriaForzada) : slug,
+//             segmentosExtra: extra,
+//         };
+//     }, [location.pathname, categoriaForzada]);
+
+//     const categoriaActual = useMemo(() => {
+//         if (!slugCategoria || categorias.length === 0) return null;
+//         const target = normalizar(slugCategoria);
+//         return (
+//             categorias.find((cat) => normalizar(cat.categoría || cat.categoria) === target) || null
+//         );
+//     }, [categorias, slugCategoria]);
+
+//     const breadcrumb = useMemo(() => {
+//         const items = ["Inicio", "Productos"];
+//         if (categoriaActual) {
+//             items.push(categoriaActual.categoría || categoriaActual.categoria);
+//         }
+//         segmentosExtra.forEach((seg) => {
+//             items.push(seg.replace(/-/g, " "));
+//         });
+//         return items;
+//     }, [categoriaActual, segmentosExtra]);
+
+//     const textosCategoria = useMemo(() => {
+//         if (
+//             Array.isArray(categoriaActual?.textos) && categoriaActual.textos.length > 0
+//         ) {
+//             return categoriaActual.textos;
+//         }
+//         return [];
+//     }, [categoriaActual]);
+
+//     const galeriaCategoria = useMemo(() => {
+//         if (
+//             Array.isArray(categoriaActual?.galeria) &&
+//             categoriaActual.galeria.length > 0
+//         ) {
+//             return categoriaActual.galeria[0];
+//         }
+//         return null;
+//     }, [categoriaActual]);
+
+//     const rutaCoincide = useCallback(
+//         (rutaArchivo) => {
+//             if (!rutaArchivo) return false;
+//             const ruta = rutaArchivo.replace(/\.json$/, "").toLowerCase();
+
+//             if (categoriaForzada) {
+//                 const cat = categoriaForzada.toLowerCase();
+//                 if (!ruta.includes(`/categorias/${cat}/`)) return false;
+//             }
+
+//             if (paramsRuta) {
+//                 const segmentos = Object.values(paramsRuta).filter(Boolean).map((s) => slugify(s));
+
+//                 if (segmentos.length > 0) {
+//                     const partes = ruta.split("/").filter(Boolean);
+//                     let idx = 0;
+//                     for (const parte of partes) {
+//                         if (idx >= segmentos.length) break;
+//                         if (parte === segmentos[idx]) idx++;
+//                     }
+//                     if (idx < segmentos.length) return false;
+//                 }
+//             } else {
+//                 if (medida) {
+//                     if (!ruta.includes(`/${slugify(medida)}/`)) return false;
+//                 }
+//                 if (formato) {
+//                     if (!ruta.includes(`/${slugify(formato)}/`)) return false;
+//                 }
+//             }
+
+//             return true;
+//         },
+//         [categoriaForzada, medida, formato, paramsRuta]
+//     );
+
+//     useEffect(() => {
+//         let cancelado = false;
+//         const esProducto = (item) => item && typeof item === "object" && typeof item.sku === "string" && item.sku.length > 0;
+
+//         const cargarRutas = async (rutas, nivel = 0) => {
+//             const resultados = await Promise.all(
+//                 rutas.map(async (ruta) => {
+//                     try {
+//                         const res = await fetch(ruta);
+//                         if (!res.ok) return [];
+
+//                         const contentType = res.headers.get("content-type") || "";
+
+//                         if (!contentType.includes("application/json"))
+//                             return [];
+
+//                         let data;
+//                         try {
+//                             data = await res.json();
+//                         } catch {
+//                             return [];
+//                         }
+
+//                         if (Array.isArray(data)) {
+//                             if (data.length > 0 && esProducto(data[0]))
+//                                 return data;
+//                             const hijas = data.filter(
+//                                 (x) => typeof x === "string"
+//                             );
+//                             if (hijas.length > 0)
+//                                 return await cargarRutas(hijas, nivel + 1);
+//                             return [];
+//                         }
+
+//                         if (data && typeof data === "object") {
+//                             if (Array.isArray(data.productos))
+//                                 return data.productos;
+//                             if (Array.isArray(data.files))
+//                                 return await cargarRutas(data.files, nivel + 1);
+//                             if (esProducto(data)) return [data];
+
+//                             for (const key of Object.keys(data)) {
+//                                 if (
+//                                     Array.isArray(data[key]) &&
+//                                     data[key].length > 0
+//                                 ) {
+//                                     if (esProducto(data[key][0]))
+//                                         return data[key];
+//                                     const hijas = data[key].filter(
+//                                         (x) => typeof x === "string"
+//                                     );
+//                                     if (hijas.length > 0)
+//                                         return await cargarRutas(
+//                                             hijas,
+//                                             nivel + 1
+//                                         );
+//                                 }
+//                             }
+//                         }
+//                         return [];
+//                     } catch {
+//                         return [];
+//                     }
+//                 })
+//             );
+//             return resultados.flat();
+//         };
+
+//         const cargarProductos = async () => {
+//             try {
+//                 const indexRes = await fetch("/assets/json/manifest.json");
+//                 if (!indexRes.ok) {
+//                     if (!cancelado) setProductos([]);
+//                     return;
+//                 }
+//                 const indexData = await indexRes.json();
+//                 const manifiestos = indexData.files || [];
+
+//                 const catEfectiva = categoriaForzada || slugCategoria;
+
+//                 let manifiestosFiltrados = manifiestos;
+//                 if (catEfectiva) {
+//                     const cat = normalizar(catEfectiva);
+//                     manifiestosFiltrados = manifiestos.filter((m) =>
+//                         normalizar(m).includes(`/manifest/${cat}.json`)
+//                     );
+//                 }
+
+//                 if (manifiestosFiltrados.length === 0) {
+//                     if (!cancelado) setProductos([]);
+//                     return;
+//                 }
+
+//                 const todos = await cargarRutas(manifiestosFiltrados, 0);
+
+//                 let filtrados = todos;
+//                 if (paramsRuta) {
+//                     const entradas = Object.entries(paramsRuta).filter(
+//                         ([, v]) => Boolean(v)
+//                     );
+//                     const eq = (a, b) =>
+//                         normalizar(a || "") === normalizar(b || "");
+
+//                     filtrados = filtrados.filter((p) => {
+//                         const desc = Array.isArray(p.descripcion)
+//                             ? p.descripcion[0]
+//                             : null;
+
+//                         if (!desc && entradas.length > 0) return false;
+
+//                         for (const [clave, valor] of entradas) {
+//                             const claveSinGuiones = clave.replace(/-/g, "");
+//                             const valorProd =
+//                                 desc?.[clave] ??
+//                                 desc?.[claveSinGuiones] ??
+//                                 p[clave] ??
+//                                 p[claveSinGuiones] ??
+//                                 "";
+
+//                             if (!eq(valorProd, valor)) return false;
+//                         }
+//                         return true;
+//                     });
+//                 } else if (medida || formato) {
+//                     filtrados = todos.filter((p) => {
+//                         if (!p.ruta) return false;
+//                         const r = p.ruta.toLowerCase();
+//                         if (medida && !r.includes(`/${slugify(medida)}/`))
+//                             return false;
+//                         if (formato && !r.includes(`/${slugify(formato)}/`))
+//                             return false;
+//                         return true;
+//                     });
+//                 } else if (segmentosExtra.length > 0) {
+//                     filtrados = todos.filter((p) => {
+//                         if (!p.ruta) return false;
+//                         const r = p.ruta.toLowerCase();
+//                         return segmentosExtra.every((seg) =>
+//                             r.includes(`/${slugify(seg)}/`)
+//                         );
+//                     });
+//                 }
+
+//                 if (!cancelado) setProductos(filtrados);
+//             } catch (err) {
+//                 console.error("❌ Error general:", err);
+//                 if (!cancelado) setProductos([]);
+//             }
+//         };
+
+//         cargarProductos();
+//         return () => {
+//             cancelado = true;
+//         };
+//     }, [
+//         categoriaForzada,
+//         slugCategoria,
+//         medida,
+//         formato,
+//         paramsRuta,
+//         segmentosExtra,
+//     ]);
+
+//     const handleToggleFavorite = useCallback((prod) => {
+//         setFavoritos((prev) => {
+//             const existe = prev.includes(prod.sku);
+//             const nuevos = existe
+//                 ? prev.filter((s) => s !== prod.sku)
+//                 : [...prev, prod.sku];
+//             localStorage.setItem("favoritos", JSON.stringify(nuevos));
+//             return nuevos;
+//         });
+//     }, []);
+
+//     const truncate = useCallback((str = "", n = 50) => {
+//         if (!str) return "";
+//         return str.length > n ? `${str.slice(0, n).trim()}…` : str;
+//     }, []);
+
+//     const productosFiltrados = useMemo(() => {
+//         const filtrosActivos = {};
+//         for (const [clave, valor] of searchParams.entries()) {
+//             if (clave === "orden") continue;
+//             const slugValor = slugify(valor);
+//             if (!filtrosActivos[clave]) filtrosActivos[clave] = [];
+//             filtrosActivos[clave].push(slugValor);
+//         }
+
+//         if (Object.keys(filtrosActivos).length === 0) return productos;
+
+//         return productos.filter((prod) => {
+//             for (const [clave, valoresSlug] of Object.entries(filtrosActivos)) {
+//                 if (!productoCumpleGrupo(prod, clave, valoresSlug)) return false;
+//             }
+//             return true;
+//         });
+//     }, [productos, searchParams]);
+
+//     // ✅ Orden actual desde la URL
+//     const ordenActual = searchParams.get("orden") || "relevancia";
+
+//     const productosOrdenados = useMemo(() => {
+//         const orden = searchParams.get("orden");
+//         const lista = [...productosFiltrados];
+
+//         if (orden === "menor-a-mayor") {
+//             return lista.sort(
+//                 (a, b) =>
+//                     Number(a.precioVenta || 0) - Number(b.precioVenta || 0)
+//             );
+//         }
+
+//         if (orden === "mayor-a-menor") {
+//             return lista.sort(
+//                 (a, b) =>
+//                     Number(b.precioVenta || 0) - Number(a.precioVenta || 0)
+//             );
+//         }
+
+//         if (orden === "mayor-descuento") {
+//             const descuento = (p) => {
+//                 const precio = Number(p.precioVenta || 0);
+//                 const precioAntes = Number(p.precioAntes || p.precioNormal || 0);
+//                 if (!precioAntes || precioAntes <= precio) return 0;
+//                 return (precioAntes - precio) / precioAntes;
+//             };
+//             return lista.sort((a, b) => descuento(b) - descuento(a));
+//         }
+
+//         return lista.sort((a, b) =>
+//             (a.nombre || "").localeCompare(b.nombre || "")
+//         );
+//     }, [productosFiltrados, searchParams]);
+
+//     const totalPaginas = useMemo(
+//         () =>
+//             Math.max(
+//                 1,
+//                 Math.ceil(productosOrdenados.length / PRODUCTOS_POR_PAGINA)
+//             ),
+//         [productosOrdenados]
+//     );
+
+//     useEffect(() => {
+//         setPaginaActual(1);
+//     }, [
+//         searchParams,
+//         categoriaForzada,
+//         slugCategoria,
+//         medida,
+//         formato,
+//         paramsRuta,
+//     ]);
+
+//     useEffect(() => {
+//         if (paginaActual > totalPaginas) setPaginaActual(totalPaginas);
+//     }, [paginaActual, totalPaginas]);
+
+//     const productosPaginados = useMemo(() => {
+//         const inicio = (paginaActual - 1) * PRODUCTOS_POR_PAGINA;
+//         return productosOrdenados.slice(
+//             inicio,
+//             inicio + PRODUCTOS_POR_PAGINA
+//         );
+//     }, [productosOrdenados, paginaActual]);
+
+//     const handleCambiarPagina = useCallback(
+//         (nuevaPagina) => {
+//             if (nuevaPagina < 1 || nuevaPagina > totalPaginas) return;
+//             setPaginaActual(nuevaPagina);
+//             window.scrollTo({ top: 0, behavior: "smooth" });
+//         },
+//         [totalPaginas]
+//     );
+
+//     const canonicalPath = useMemo(() => {
+//         const partes = ["productos", slugCategoria].filter(Boolean);
+//         segmentosExtra.forEach((seg) => partes.push(slugify(seg)));
+//         return partes.join("/") + "/";
+//     }, [slugCategoria, segmentosExtra]);
+
+//     const filtrosActivosChips = useMemo(() => {
+//         const chips = [];
+//         for (const [clave, valor] of searchParams.entries()) {
+//             if (clave === "orden") continue;
+//             chips.push({ clave, valor });
+//         }
+//         return chips;
+//     }, [searchParams]);
+
+//     // ✅ CORREGIDO: Normalizamos antes de comparar para que el toggle funcione
+//     const eliminarFiltro = useCallback(
+//         (clave, valor) => {
+//             const slugValor = slugify(valor);
+//             const nuevosParams = new URLSearchParams();
+//             for (const [k, v] of searchParams.entries()) {
+//                 if (k === clave && slugify(v) === slugValor) continue;
+//                 nuevosParams.append(k, v);
+//             }
+//             setSearchParams(nuevosParams, { replace: true });
+//         },
+//         [searchParams, setSearchParams]
+//     );
+
+//     // ✅ Nueva función: cambia el orden recibiendo el valor directamente
+//     const handleCambiarOrden = useCallback(
+//         (valor) => {
+//             const nuevosParams = new URLSearchParams(searchParams);
+//             if (valor === "relevancia") {
+//                 nuevosParams.delete("orden");
+//             } else {
+//                 nuevosParams.set("orden", valor);
+//             }
+//             setSearchParams(nuevosParams, { replace: true });
+//             setIsOrderOpen(false); // Cerrar el menú al seleccionar
+//         },
+//         [searchParams, setSearchParams]
+//     );
+
+//     // ✅ Toggle para abrir/cerrar el menú de orden
+//     const toggleOrderMenu = useCallback(() => {
+//         setIsOrderOpen((prev) => !prev);
+//     }, []);
+
+//     // ✅ Texto dinámico del botón principal
+//     const textoOrden = useMemo(() => {
+//         switch (ordenActual) {
+//             case "menor-a-mayor":
+//                 return "Menor a mayor precio";
+//             case "mayor-a-menor":
+//                 return "Mayor a menor precio";
+//             case "mayor-descuento":
+//                 return "Con mayor descuento";
+//             default:
+//                 return "Ordenar por:";
+//         }
+//     }, [ordenActual]);
+
+//     // ✅ Cerrar el menú al hacer click fuera
+//     useEffect(() => {
+//         const handleClickOutside = (e) => {
+//             if (orderRef.current && !orderRef.current.contains(e.target)) {
+//                 setIsOrderOpen(false);
+//             }
+//         };
+
+//         if (isOrderOpen) {
+//             document.addEventListener("mousedown", handleClickOutside);
+//         }
+
+//         return () => {
+//             document.removeEventListener("mousedown", handleClickOutside);
+//         };
+//     }, [isOrderOpen]);
+
+//     return (
+//         <>
+//             <Helmet>
+//                 <title>{titulo} | Kamas</title>
+//                 <meta name="description" content={descripcionSeo} />
+//                 <link rel="canonical" href={`https://kamas.pe/${canonicalPath}`} />
+//             </Helmet>
+
+//             <main className="productos-main d-flex-column gap-20">
+//                 <div className="block-container">
+//                     <section className="block-content">
+//                         <div className="pagina-productos-content">
+//                             <div className="pg-prds-top-container d-flex-column">
+//                                 <div className="d-flex-center-left gap-10 margin-left-menos-10">
+//                                     {breadcrumb.map((item, i) => (
+//                                         <div key={i} className="d-flex-center-center gap-10">
+//                                             <span className="text color-color-1">{i > 0 && " > "}</span>
+//                                             <span className="text first-uppercase">{item}</span>
+//                                         </div>
+//                                     ))}
+//                                 </div>
+
+//                                 <p className="super-title text-left first-uppercase">{categoriaActual?.categoría || categoriaActual?.categoria || "Productos"}</p>
+
+//                                 {textosCategoria.map((txt, i) => (
+//                                     <p key={i} className="text first-uppercase">{txt}</p>
+//                                 ))}
+
+//                                 <button type="button" className="filters-bnt-open" onClick={abrirFiltros}>
+//                                     <span className="material-symbols-outlined">filter_alt</span>
+//                                     <p className="text">Filtros</p>
+//                                 </button>
+//                             </div>
+
+//                             {galeriaCategoria && (
+//                                 <a href={galeriaCategoria.link || "/"} className="pg-prd-banner-gallery" title="| Kamas">
+//                                     <img className="d-flex w-100" src={galeriaCategoria.image} alt={galeriaCategoria.alt || ""} />
+//                                 </a>
+//                             )}
+
+//                             <Filtros categoriaForzada={categoriaForzada || slugCategoria} productos={productos} abierto={filtrosAbiertos} onCerrar={cerrarFiltros} />
+
+//                             <div className="d-flex-column gap-20-to-10">
+//                                 <div className="prd-order">
+//                                     <div className="d-flex-column gap-10">
+//                                         <div className="d-flex gap-5">
+//                                             <p className="font-bold text">{productosOrdenados.length}{" "}productos</p>
+//                                         </div>
+
+//                                         {filtrosActivosChips.length > 0 && (
+//                                             <div className="gap-10 d-flex-wrap">
+//                                                 {filtrosActivosChips.map(
+//                                                     ({ clave, valor }, i) => {
+//                                                         const slugValor = slugify(valor);
+//                                                         const label = clave === "precio" ? formatearRangoPrecio(slugValor) : valor.replace(/-/g, " ");
+
+//                                                         return (
+//                                                             <button
+//                                                                 key={`${clave}-${valor}-${i}`}
+//                                                                 type="button"
+//                                                                 className="button-link button-link-8"
+//                                                                 onClick={() =>
+//                                                                     eliminarFiltro(
+//                                                                         clave,
+//                                                                         valor
+//                                                                     )
+//                                                                 }
+//                                                             >
+//                                                                 <p className="button-link-text first-uppercase">{label}</p>
+//                                                                 <span className="material-symbols-outlined">
+//                                                                     close
+//                                                                 </span>
+//                                                             </button>
+//                                                         );
+//                                                     }
+//                                                 )}
+//                                             </div>
+//                                         )}
+//                                     </div>
+
+//                                     <div className="filters-order margin-bottom" ref={orderRef}>
+//                                         <button type="button" className={`filters-order-button ${isOrderOpen ? "active" : ""}`} onClick={toggleOrderMenu}>
+//                                             <span className="material-symbols-outlined">list_alt</span>
+//                                             <p className="text">{textoOrden}</p>
+//                                         </button>
+
+//                                         <ul className={`filters-order-list ${isOrderOpen ? "active" : ""}`}>
+//                                             <li>
+//                                                 <button type="button" onClick={() => handleCambiarOrden("menor-a-mayor")} className={ordenActual === "menor-a-mayor" ? "active" : ""}>
+//                                                     <span className="material-symbols-outlined">arrow_warm_up</span>
+//                                                     <p>Menor a mayor precio</p>
+//                                                 </button>
+//                                             </li>
+//                                             <li>
+//                                                 <button type="button" onClick={() => handleCambiarOrden("mayor-a-menor")} className={ordenActual === "mayor-a-menor" ? "active" : ""}>
+//                                                     <span className="material-symbols-outlined">arrow_cool_down</span>
+//                                                     <p>Mayor a menor precio</p>
+//                                                 </button>
+//                                             </li>
+//                                             <li>
+//                                                 <button type="button" onClick={() => handleCambiarOrden("mayor-descuento")} className={ordenActual === "mayor-descuento" ? "active" : ""}>
+//                                                     <span className="material-symbols-outlined">percent</span>
+//                                                     <p>Con mayor descuento</p>
+//                                                 </button>
+//                                             </li>
+//                                         </ul>
+//                                     </div>
+
+//                                     <div className="visible-on-desktop-no-mobile w-100">
+//                                         <Paginacion paginaActual={paginaActual} totalPaginas={totalPaginas} onChange={handleCambiarPagina} />
+//                                     </div>
+//                                 </div>
+
+//                                 {productosOrdenados.length === 0 ? (
+//                                     <p className="productos-vacio">No se encontraron productos con estos filtros. </p>
+//                                 ) : (
+//                                     <ul className="products-list">
+//                                         {productosPaginados.map((prod, i) => (
+//                                             <Producto key={`${prod.sku}-${i}`} producto={prod} truncate={truncate} onToggleFavorite={ handleToggleFavorite } isFavorite={favoritos.includes( prod.sku )} skusOfertas={skusOfertas} isOfferActive={isOfferActive} skusParaHoy={skusParaHoy}/>
+//                                         ))}
+//                                     </ul>
+//                                 )}
+
+//                                 <Paginacion paginaActual={paginaActual} totalPaginas={totalPaginas} onChange={handleCambiarPagina}/>
+//                             </div>
+//                         </div>
+//                     </section>
+//                 </div>
+//             </main>
+//         </>
+//     );
+// }
+
+// export default Productos;
+
+import { useState, useEffect, useMemo, useCallback, useRef } from "react";
+import { Helmet } from "react-helmet";
+import { useSearchParams, useLocation } from "react-router-dom";
 
 import "./Productos.css";
 
-import Filtros from "../../Componentes/Filtros/Filtros";
-import Categorias from "../Ofertas/Componentes/Categorias/Categorias";
-import Top from "../../Componentes/Filtros/Componentes/Top/Top";
 import { Producto } from "../../Componentes/Plantillas/Producto/Producto";
-import ConteoRegresivo from "../../Componentes/ConteoRegresivo/ConteoRegresivo";
+import Filtros, { slugify, productoCumpleGrupo, formatearRangoPrecio } from "./Componentes/Filtros/Filtros";
+import Paginacion from "./Componentes/Paginacion/Paginacion";
 
-const normalizarTexto = (texto) => {
-    if (typeof texto !== "string") return "";
-    return texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, " ").replace(/[^a-z0-9 ]/g, "").trim();
-};
+const PRODUCTOS_POR_PAGINA = 40;
+const normalizar = (str = "") => String(str).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
-const normalizarSlug = (str) => String(str || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-").trim();
-
-function Productos(){
-    const [filtrosPrecio, setFiltrosPrecio] = useState([]);
+function Productos({
+    categoriaForzada = null,
+    medida = null,
+    formato = null,
+    paramsRuta = null,
+    titulo = "Productos",
+    descripcionSeo = "Descubre todos nuestros productos Kamas.",
+}) {
     const [productos, setProductos] = useState([]);
-    const [currentPage, setCurrentPage] = useState(1);
-    const [productsPerPage] = useState(24);
-    const [sortOption, setSortOption] = useState("");
-    const [envioGratis, setEnvioGratis] = useState(false);
-    const [enOferta, setEnOferta] = useState(false);
-    const [loading, setLoading] = useState(true);
-    const [filtrosOpen, setFiltrosOpen] = useState(false);
-    const [favoritos, setFavoritos] = useState([]);
     const [skusOfertas, setSkusOfertas] = useState([]);
-    const [isOfferActive, setIsOfferActive] = useState(true);
+    const [skusParaHoy, setSkusParaHoy] = useState([]);
+    const [favoritos, setFavoritos] = useState([]);
+    const [isOfferActive] = useState(true);
+    const [searchParams, setSearchParams] = useSearchParams();
     const location = useLocation();
-    const searchParams = new URLSearchParams(location.search);
-    const categoriaParam = searchParams.get("categoria");
-    const categoria = useMemo(() => (categoriaParam ? categoriaParam.replace(/-/g, " ") : null), [categoriaParam]);
-    const handleExpire = () => setIsOfferActive(false);
-    const handleActivate = () => setIsOfferActive(true);
+    const [categorias, setCategorias] = useState([]);
+    const [paginaActual, setPaginaActual] = useState(1);
 
-    const filtros = useMemo(() => {
-        const params = new URLSearchParams(location.search);
-        const filtrosObj = {};
-        params.forEach((value, key) => {
-            if (key !== "categoria"){
-                filtrosObj[key] = normalizarSlug(value);
-            }
-        });
-        return filtrosObj;
-    }, [location.search]);
+    // ✅ Estado y ref para el menú de orden
+    const [isOrderOpen, setIsOrderOpen] = useState(false);
+    const orderRef = useRef(null);
 
-    const toggleFavorite = (producto) => {
-        setFavoritos((prevFavoritos) => {
-            const existe = prevFavoritos.some((fav) => fav.sku === producto.sku);
-            if (existe){
-                return prevFavoritos.filter((fav) => fav.sku !== producto.sku);
-            } else {
-                return [...prevFavoritos, producto];
+    // ✅ Estado para el panel de filtros en móvil
+    const [filtrosAbiertos, setFiltrosAbiertos] = useState(false);
+
+    const abrirFiltros = useCallback(() => {
+        setFiltrosAbiertos(true);
+    }, []);
+
+    const cerrarFiltros = useCallback(() => {
+        setFiltrosAbiertos(false);
+    }, []);
+
+    useEffect(() => {
+        const cargarCategorias = async () => {
+            try {
+                const res = await fetch("/assets/json/categorias/categorias-2.json");
+                if (!res.ok) {
+                    console.error(
+                        "❌ No se pudo cargar categorias-2.json:",
+                        res.status
+                    );
+                    return;
+                }
+                const data = await res.json();
+                setCategorias(
+                    Array.isArray(data?.categorias) ? data.categorias : []
+                );
+            } catch (err) {
+                console.error("Error cargando categorías:", err);
             }
-        });
-    };
+        };
+        cargarCategorias();
+    }, []);
 
     useEffect(() => {
         const cargarOfertas = async () => {
             try {
-                const response = await fetch("/assets/json/ofertas.json");
-                const data = await response.json();
-                setSkusOfertas(data);
-            } catch (error){
-                console.error("Error cargando ofertas:", error);
+                const res = await fetch("/assets/json/productos/ofertas.json");
+                if (!res.ok) {
+                    setSkusOfertas([]);
+                    return;
+                }
+                const data = await res.json();
+                setSkusOfertas(Array.isArray(data) ? data : []);
+            } catch (err) {
+                console.error("Error cargando ofertas:", err);
                 setSkusOfertas([]);
             }
         };
-
         cargarOfertas();
     }, []);
 
-    const cargarProductos = useCallback(async () => {
-        try {
-            setLoading(true);
-            const manifestResponse = await fetch("/assets/json/manifest.json");
-            const manifestData = await manifestResponse.json();
-            const archivos = manifestData.files || [];
-            const archivosIniciales = archivos.slice(0, 3);
-            const archivosRestantes = archivos.slice(3);
-
-            const productosPromesas = archivosIniciales.map(async (url) => {
-                const response = await fetch(url);
-                const data = await response.json();
-                return data.productos;
-            });
-
-            const productosPorArchivo = await Promise.all(productosPromesas);
-            const todosProductos = productosPorArchivo.flat();
-
-            setProductos(todosProductos);
-            setLoading(false);
-
-            if (archivosRestantes.length > 0){
-                const restantesPromesas = archivosRestantes.map(async (url) => {
-                    const response = await fetch(url);
-                    const data = await response.json();
-                    return data.productos;
-                });
-
-                const restantesProductos = await Promise.all(restantesPromesas);
-                const productosCompletos = [
-                    ...todosProductos,
-                    ...restantesProductos.flat(),
-                ];
-                setProductos(productosCompletos);
+    useEffect(() => {
+        let cancelado = false;
+        const cargarParaHoy = async () => {
+            try {
+                const res = await fetch("/assets/json/productos/para-hoy.json");
+                if (!res.ok) {
+                    console.error(
+                        "❌ No se pudo cargar para-hoy.json:",
+                        res.status
+                    );
+                    if (!cancelado) setSkusParaHoy([]);
+                    return;
+                }
+                const data = await res.json();
+                if (!cancelado) {
+                    setSkusParaHoy(Array.isArray(data) ? data : []);
+                }
+            } catch (err) {
+                console.error("Error cargando para-hoy.json:", err);
+                if (!cancelado) setSkusParaHoy([]);
             }
-        } catch (error){
-            console.error("Error cargando productos:", error);
-            setLoading(false);
-        }
+        };
+
+        cargarParaHoy();
+        return () => {
+            cancelado = true;
+        };
     }, []);
 
     useEffect(() => {
-        cargarProductos();
-    }, [cargarProductos]);
+        try {
+            const favs = JSON.parse(localStorage.getItem("favoritos") || "[]");
+            setFavoritos(Array.isArray(favs) ? favs : []);
+        } catch {
+            setFavoritos([]);
+        }
+    }, []);
 
-    const productosFiltrados = useMemo(() => {
-        if (productos.length === 0) return [];
+    const { slugCategoria, segmentosExtra } = useMemo(() => {
+        const partes = location.pathname.split("/").filter(Boolean);
+        const idx = partes.indexOf("productos");
+        if (idx === -1) return { slugCategoria: null, segmentosExtra: [] };
 
-        const rangosPrecio = filtrosPrecio.map((rango) => {
-            const [min, max] = rango.split("-").map(Number);
-            return { min, max };
+        const slug = partes[idx + 1] || null;
+        const extra = partes.slice(idx + 2);
+
+        return {
+            slugCategoria: categoriaForzada ? normalizar(categoriaForzada) : slug,
+            segmentosExtra: extra,
+        };
+    }, [location.pathname, categoriaForzada]);
+
+    const categoriaActual = useMemo(() => {
+        if (!slugCategoria || categorias.length === 0) return null;
+        const target = normalizar(slugCategoria);
+        return (
+            categorias.find((cat) => normalizar(cat.categoría || cat.categoria) === target) || null
+        );
+    }, [categorias, slugCategoria]);
+
+    const breadcrumb = useMemo(() => {
+        const items = ["Inicio", "Productos"];
+        if (categoriaActual) {
+            items.push(categoriaActual.categoría || categoriaActual.categoria);
+        }
+        segmentosExtra.forEach((seg) => {
+            items.push(seg.replace(/-/g, " "));
         });
+        return items;
+    }, [categoriaActual, segmentosExtra]);
 
-        return productos.filter((producto) => {
-            if (
-                categoria &&
-                normalizarTexto(producto.categoria) !== normalizarTexto(categoria)
-            ){
-                return false;
+    const textosCategoria = useMemo(() => {
+        if (
+            Array.isArray(categoriaActual?.textos) && categoriaActual.textos.length > 0
+        ) {
+            return categoriaActual.textos;
+        }
+        return [];
+    }, [categoriaActual]);
+
+    const galeriaCategoria = useMemo(() => {
+        if (
+            Array.isArray(categoriaActual?.galeria) &&
+            categoriaActual.galeria.length > 0
+        ) {
+            return categoriaActual.galeria[0];
+        }
+        return null;
+    }, [categoriaActual]);
+
+    const rutaCoincide = useCallback(
+        (rutaArchivo) => {
+            if (!rutaArchivo) return false;
+            const ruta = rutaArchivo.replace(/\.json$/, "").toLowerCase();
+
+            if (categoriaForzada) {
+                const cat = categoriaForzada.toLowerCase();
+                if (!ruta.includes(`/categorias/${cat}/`)) return false;
             }
 
-            for (const [key, value] of Object.entries(filtros)){
-                const valorFiltro = value;
+            if (paramsRuta) {
+                const segmentos = Object.values(paramsRuta).filter(Boolean).map((s) => slugify(s));
 
-                if (producto[key] != null){
-                    if (normalizarSlug(producto[key]) === valorFiltro) continue;
+                if (segmentos.length > 0) {
+                    const partes = ruta.split("/").filter(Boolean);
+                    let idx = 0;
+                    for (const parte of partes) {
+                        if (idx >= segmentos.length) break;
+                        if (parte === segmentos[idx]) idx++;
+                    }
+                    if (idx < segmentos.length) return false;
                 }
-
-                if (Array.isArray(producto["detalles-del-producto"])){
-                    const encontrado = producto["detalles-del-producto"].some(
-                        (detalle) =>
-                            Object.entries(detalle).some(
-                                ([detalleKey, detalleValue]) =>
-                                    normalizarSlug(detalleKey) ===
-                                        normalizarSlug(key) &&
-                                    normalizarSlug(detalleValue) === valorFiltro
-                            )
-                    );
-                    if (encontrado) continue;
+            } else {
+                if (medida) {
+                    if (!ruta.includes(`/${slugify(medida)}/`)) return false;
                 }
-
-                return false;
-            }
-
-            if (rangosPrecio.length > 0){
-                const precio = parseFloat(producto.precioVenta);
-                if (isNaN(precio)) return false;
-
-                const cumplePrecio = rangosPrecio.some(
-                    ({ min, max }) => precio >= min && precio <= max
-                );
-                if (!cumplePrecio) return false;
-            }
-
-            if (
-                envioGratis &&
-                normalizarSlug(producto["tipo-de-envio"]) !== "gratis"
-            ){
-                return false;
-            }
-
-            if (enOferta){
-                if (!skusOfertas.includes(producto.sku)){
-                    return false;
+                if (formato) {
+                    if (!ruta.includes(`/${slugify(formato)}/`)) return false;
                 }
             }
 
             return true;
-        });
-    }, [ productos, categoria, filtros, filtrosPrecio, envioGratis, enOferta, skusOfertas, ]);
-
-    const productosOrdenados = useMemo(() => {
-        if (sortOption === "precio-asc"){
-            return [...productosFiltrados].sort(
-                (a, b) =>
-                    parseFloat(a.precioVenta) - parseFloat(b.precioVenta)
-            );
-        } else if (sortOption === "precio-desc"){
-            return [...productosFiltrados].sort(
-                (a, b) =>
-                    parseFloat(b.precioVenta) - parseFloat(a.precioVenta)
-            );
-        }
-        return productosFiltrados;
-    }, [productosFiltrados, sortOption]);
-
-    const indexOfLastProduct = currentPage * productsPerPage;
-    const indexOfFirstProduct = indexOfLastProduct - productsPerPage;
-    const currentProducts = useMemo(
-        () => productosOrdenados.slice(indexOfFirstProduct, indexOfLastProduct),
-        [productosOrdenados, indexOfFirstProduct, indexOfLastProduct]
+        },
+        [categoriaForzada, medida, formato, paramsRuta]
     );
 
-    const totalPages = Math.ceil(productosOrdenados.length / productsPerPage);
+    useEffect(() => {
+        let cancelado = false;
+        const esProducto = (item) => item && typeof item === "object" && typeof item.sku === "string" && item.sku.length > 0;
 
-    const paginate = useCallback((pageNumber) => {
-        setCurrentPage(pageNumber);
-        window.scrollTo({ top: 0, behavior: "smooth" });
+        const cargarRutas = async (rutas, nivel = 0) => {
+            const resultados = await Promise.all(
+                rutas.map(async (ruta) => {
+                    try {
+                        const res = await fetch(ruta);
+                        if (!res.ok) return [];
+
+                        const contentType = res.headers.get("content-type") || "";
+
+                        if (!contentType.includes("application/json"))
+                            return [];
+
+                        let data;
+                        try {
+                            data = await res.json();
+                        } catch {
+                            return [];
+                        }
+
+                        if (Array.isArray(data)) {
+                            if (data.length > 0 && esProducto(data[0]))
+                                return data;
+                            const hijas = data.filter(
+                                (x) => typeof x === "string"
+                            );
+                            if (hijas.length > 0)
+                                return await cargarRutas(hijas, nivel + 1);
+                            return [];
+                        }
+
+                        if (data && typeof data === "object") {
+                            if (Array.isArray(data.productos))
+                                return data.productos;
+                            if (Array.isArray(data.files))
+                                return await cargarRutas(data.files, nivel + 1);
+                            if (esProducto(data)) return [data];
+
+                            for (const key of Object.keys(data)) {
+                                if (
+                                    Array.isArray(data[key]) &&
+                                    data[key].length > 0
+                                ) {
+                                    if (esProducto(data[key][0]))
+                                        return data[key];
+                                    const hijas = data[key].filter(
+                                        (x) => typeof x === "string"
+                                    );
+                                    if (hijas.length > 0)
+                                        return await cargarRutas(
+                                            hijas,
+                                            nivel + 1
+                                        );
+                                }
+                            }
+                        }
+                        return [];
+                    } catch {
+                        return [];
+                    }
+                })
+            );
+            return resultados.flat();
+        };
+
+        const cargarProductos = async () => {
+            try {
+                const indexRes = await fetch("/assets/json/manifest.json");
+                if (!indexRes.ok) {
+                    if (!cancelado) setProductos([]);
+                    return;
+                }
+                const indexData = await indexRes.json();
+                const manifiestos = indexData.files || [];
+
+                const catEfectiva = categoriaForzada || slugCategoria;
+
+                let manifiestosFiltrados = manifiestos;
+                if (catEfectiva) {
+                    const cat = normalizar(catEfectiva);
+                    manifiestosFiltrados = manifiestos.filter((m) =>
+                        normalizar(m).includes(`/manifest/${cat}.json`)
+                    );
+                }
+
+                if (manifiestosFiltrados.length === 0) {
+                    if (!cancelado) setProductos([]);
+                    return;
+                }
+
+                const todos = await cargarRutas(manifiestosFiltrados, 0);
+
+                let filtrados = todos;
+                if (paramsRuta) {
+                    const entradas = Object.entries(paramsRuta).filter(
+                        ([, v]) => Boolean(v)
+                    );
+                    // ✅ CAMBIO: usamos slugify en ambos lados para que
+                    // "acero inoxidable" (JSON) coincida con "acero-inoxidable" (URL)
+                    const eq = (a, b) =>
+                        slugify(a || "") === slugify(b || "");
+
+                    filtrados = filtrados.filter((p) => {
+                        const desc = Array.isArray(p.descripcion)
+                            ? p.descripcion[0]
+                            : null;
+
+                        if (!desc && entradas.length > 0) return false;
+
+                        for (const [clave, valor] of entradas) {
+                            const claveSinGuiones = clave.replace(/-/g, "");
+                            const valorProd =
+                                desc?.[clave] ??
+                                desc?.[claveSinGuiones] ??
+                                p[clave] ??
+                                p[claveSinGuiones] ??
+                                "";
+
+                            if (!eq(valorProd, valor)) return false;
+                        }
+                        return true;
+                    });
+                } else if (medida || formato) {
+                    filtrados = todos.filter((p) => {
+                        if (!p.ruta) return false;
+                        const r = p.ruta.toLowerCase();
+                        if (medida && !r.includes(`/${slugify(medida)}/`))
+                            return false;
+                        if (formato && !r.includes(`/${slugify(formato)}/`))
+                            return false;
+                        return true;
+                    });
+                } else if (segmentosExtra.length > 0) {
+                    filtrados = todos.filter((p) => {
+                        if (!p.ruta) return false;
+                        const r = p.ruta.toLowerCase();
+                        return segmentosExtra.every((seg) =>
+                            r.includes(`/${slugify(seg)}/`)
+                        );
+                    });
+                }
+
+                if (!cancelado) setProductos(filtrados);
+            } catch (err) {
+                console.error("❌ Error general:", err);
+                if (!cancelado) setProductos([]);
+            }
+        };
+
+        cargarProductos();
+        return () => {
+            cancelado = true;
+        };
+    }, [
+        categoriaForzada,
+        slugCategoria,
+        medida,
+        formato,
+        paramsRuta,
+        segmentosExtra,
+    ]);
+
+    const handleToggleFavorite = useCallback((prod) => {
+        setFavoritos((prev) => {
+            const existe = prev.includes(prod.sku);
+            const nuevos = existe
+                ? prev.filter((s) => s !== prod.sku)
+                : [...prev, prod.sku];
+            localStorage.setItem("favoritos", JSON.stringify(nuevos));
+            return nuevos;
+        });
     }, []);
 
-    const truncate = useCallback((str, maxLength) => {
-        return str.length > maxLength ? str.slice(0, maxLength - 3) + "..." : str;
+    const truncate = useCallback((str = "", n = 50) => {
+        if (!str) return "";
+        return str.length > n ? `${str.slice(0, n).trim()}…` : str;
     }, []);
+
+    const productosFiltrados = useMemo(() => {
+        const filtrosActivos = {};
+        for (const [clave, valor] of searchParams.entries()) {
+            if (clave === "orden") continue;
+            const slugValor = slugify(valor);
+            if (!filtrosActivos[clave]) filtrosActivos[clave] = [];
+            filtrosActivos[clave].push(slugValor);
+        }
+
+        if (Object.keys(filtrosActivos).length === 0) return productos;
+
+        return productos.filter((prod) => {
+            for (const [clave, valoresSlug] of Object.entries(filtrosActivos)) {
+                if (!productoCumpleGrupo(prod, clave, valoresSlug)) return false;
+            }
+            return true;
+        });
+    }, [productos, searchParams]);
+
+    // ✅ Orden actual desde la URL
+    const ordenActual = searchParams.get("orden") || "relevancia";
+
+    const productosOrdenados = useMemo(() => {
+        const orden = searchParams.get("orden");
+        const lista = [...productosFiltrados];
+
+        if (orden === "menor-a-mayor") {
+            return lista.sort(
+                (a, b) =>
+                    Number(a.precioVenta || 0) - Number(b.precioVenta || 0)
+            );
+        }
+
+        if (orden === "mayor-a-menor") {
+            return lista.sort(
+                (a, b) =>
+                    Number(b.precioVenta || 0) - Number(a.precioVenta || 0)
+            );
+        }
+
+        if (orden === "mayor-descuento") {
+            const descuento = (p) => {
+                const precio = Number(p.precioVenta || 0);
+                const precioAntes = Number(p.precioAntes || p.precioNormal || 0);
+                if (!precioAntes || precioAntes <= precio) return 0;
+                return (precioAntes - precio) / precioAntes;
+            };
+            return lista.sort((a, b) => descuento(b) - descuento(a));
+        }
+
+        return lista.sort((a, b) =>
+            (a.nombre || "").localeCompare(b.nombre || "")
+        );
+    }, [productosFiltrados, searchParams]);
+
+    const totalPaginas = useMemo(
+        () =>
+            Math.max(
+                1,
+                Math.ceil(productosOrdenados.length / PRODUCTOS_POR_PAGINA)
+            ),
+        [productosOrdenados]
+    );
 
     useEffect(() => {
-        setCurrentPage(1);
-    }, [categoria, filtros, filtrosPrecio, envioGratis, enOferta, sortOption]);
+        setPaginaActual(1);
+    }, [
+        searchParams,
+        categoriaForzada,
+        slugCategoria,
+        medida,
+        formato,
+        paramsRuta,
+    ]);
 
-    const getVisiblePages = useCallback(() => {
-        const visiblePages = [];
-        if (totalPages <= 5){
-            for (let i = 1; i <= totalPages; i++) visiblePages.push(i);
-        } else {
-            if (currentPage <= 3){
-                visiblePages.push(1, 2, 3, 4, "...", totalPages);
-            } else if (currentPage >= totalPages - 2){
-                visiblePages.push(
-                    1,
-                    "...",
-                    totalPages - 3,
-                    totalPages - 2,
-                    totalPages - 1,
-                    totalPages
-                );
-            } else {
-                visiblePages.push(
-                    1,
-                    "...",
-                    currentPage - 1,
-                    currentPage,
-                    currentPage + 1,
-                    "...",
-                    totalPages
-                );
-            }
+    useEffect(() => {
+        if (paginaActual > totalPaginas) setPaginaActual(totalPaginas);
+    }, [paginaActual, totalPaginas]);
+
+    const productosPaginados = useMemo(() => {
+        const inicio = (paginaActual - 1) * PRODUCTOS_POR_PAGINA;
+        return productosOrdenados.slice(
+            inicio,
+            inicio + PRODUCTOS_POR_PAGINA
+        );
+    }, [productosOrdenados, paginaActual]);
+
+    const handleCambiarPagina = useCallback(
+        (nuevaPagina) => {
+            if (nuevaPagina < 1 || nuevaPagina > totalPaginas) return;
+            setPaginaActual(nuevaPagina);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        },
+        [totalPaginas]
+    );
+
+    const canonicalPath = useMemo(() => {
+        const partes = ["productos", slugCategoria].filter(Boolean);
+        segmentosExtra.forEach((seg) => partes.push(slugify(seg)));
+        return partes.join("/") + "/";
+    }, [slugCategoria, segmentosExtra]);
+
+    const filtrosActivosChips = useMemo(() => {
+        const chips = [];
+        for (const [clave, valor] of searchParams.entries()) {
+            if (clave === "orden") continue;
+            chips.push({ clave, valor });
         }
-        return visiblePages;
-    }, [currentPage, totalPages]);
+        return chips;
+    }, [searchParams]);
+
+    // ✅ CORREGIDO: Normalizamos antes de comparar para que el toggle funcione
+    const eliminarFiltro = useCallback(
+        (clave, valor) => {
+            const slugValor = slugify(valor);
+            const nuevosParams = new URLSearchParams();
+            for (const [k, v] of searchParams.entries()) {
+                if (k === clave && slugify(v) === slugValor) continue;
+                nuevosParams.append(k, v);
+            }
+            setSearchParams(nuevosParams, { replace: true });
+        },
+        [searchParams, setSearchParams]
+    );
+
+    // ✅ Nueva función: cambia el orden recibiendo el valor directamente
+    const handleCambiarOrden = useCallback(
+        (valor) => {
+            const nuevosParams = new URLSearchParams(searchParams);
+            if (valor === "relevancia") {
+                nuevosParams.delete("orden");
+            } else {
+                nuevosParams.set("orden", valor);
+            }
+            setSearchParams(nuevosParams, { replace: true });
+            setIsOrderOpen(false); // Cerrar el menú al seleccionar
+        },
+        [searchParams, setSearchParams]
+    );
+
+    // ✅ Toggle para abrir/cerrar el menú de orden
+    const toggleOrderMenu = useCallback(() => {
+        setIsOrderOpen((prev) => !prev);
+    }, []);
+
+    // ✅ Texto dinámico del botón principal
+    const textoOrden = useMemo(() => {
+        switch (ordenActual) {
+            case "menor-a-mayor":
+                return "Menor a mayor precio";
+            case "mayor-a-menor":
+                return "Mayor a menor precio";
+            case "mayor-descuento":
+                return "Con mayor descuento";
+            default:
+                return "Ordenar por:";
+        }
+    }, [ordenActual]);
+
+    // ✅ Cerrar el menú al hacer click fuera
+    useEffect(() => {
+        const handleClickOutside = (e) => {
+            if (orderRef.current && !orderRef.current.contains(e.target)) {
+                setIsOrderOpen(false);
+            }
+        };
+
+        if (isOrderOpen) {
+            document.addEventListener("mousedown", handleClickOutside);
+        }
+
+        return () => {
+            document.removeEventListener("mousedown", handleClickOutside);
+        };
+    }, [isOrderOpen]);
 
     return (
         <>
             <Helmet>
-                <title>Productos | Kamas</title>
-                <meta name="description" content="Explora nuestra amplia selección de productos"/>
+                <title>{titulo} | Kamas</title>
+                <meta name="description" content={descripcionSeo} />
+                <link rel="canonical" href={`https://kamas.pe/${canonicalPath}`} />
             </Helmet>
 
-            <main className="productos-main">
-                <section className="block-container pagina-productos-container">
-                    <div className="block-content pagina-productos-content">
-                        <Categorias />
-
-                        <Filtros onCambiarPrecio={setFiltrosPrecio} isOpen={filtrosOpen} onClose={() => setFiltrosOpen(false)}/>
-
-                        <div className="d-flex-column gap-10 pagina-productos-productos">
-                            <Top envioGratis={envioGratis} setEnvioGratis={setEnvioGratis} enOferta={enOferta} setEnOferta={setEnOferta} sortOption={sortOption} setSortOption={setSortOption}/>
-
-                            {loading ? (
-                                <div className="loading-products d-flex-center-center d-flex-column gap-10">
-                                    <div className="spinner"></div>
+            <main className="productos-main d-flex-column gap-20">
+                <div className="block-container">
+                    <section className="block-content">
+                        <div className="pagina-productos-content">
+                            <div className="pg-prds-top-container d-flex-column">
+                                <div className="d-flex-center-left gap-10 margin-left-menos-10">
+                                    {breadcrumb.map((item, i) => (
+                                        <div key={i} className="d-flex-center-center gap-10">
+                                            <span className="text color-color-1">{i > 0 && " > "}</span>
+                                            <span className="text first-uppercase">{item}</span>
+                                        </div>
+                                    ))}
                                 </div>
-                            ) : (
-                                <div className="d-flex-column gap-10">
-                                    <button type="button" className="filter-button-open" onClick={() => setFiltrosOpen(true)}>
-                                        <span className="material-symbols-outlined">tune</span>
-                                        <p>Filtros</p>
-                                    </button>
 
-                                    <ul className="products-list">
-                                        {currentProducts.length === 0 ? (
-                                            <div className="no-hay-productos d-flex-column w-100">
-                                                <p className="text">Lo sentimos, no encontramos productos con esos filtros 😢</p>
+                                <p className="super-title text-left first-uppercase">{categoriaActual?.categoría || categoriaActual?.categoria || "Productos"}</p>
 
-                                                <button className="btn-reset-filtros" onClick={() => {
-                                                        setFiltrosPrecio([]);
-                                                        setSortOption("");
-                                                        setEnvioGratis(false);
-                                                        setEnOferta(false);
-                                                        window.history.replaceState(
-                                                            {},
-                                                            "",
-                                                            window.location.pathname
+                                {textosCategoria.map((txt, i) => (
+                                    <p key={i} className="text first-uppercase">{txt}</p>
+                                ))}
+
+                                <button type="button" className="filters-bnt-open" onClick={abrirFiltros}>
+                                    <span className="material-symbols-outlined">filter_alt</span>
+                                    <p className="text">Filtros</p>
+                                </button>
+                            </div>
+
+                            {galeriaCategoria && (
+                                <a href={galeriaCategoria.link || "/"} className="pg-prd-banner-gallery" title="| Kamas">
+                                    <img className="d-flex w-100" src={galeriaCategoria.image} alt={galeriaCategoria.alt || ""} />
+                                </a>
+                            )}
+
+                            <Filtros categoriaForzada={categoriaForzada || slugCategoria} productos={productos} abierto={filtrosAbiertos} onCerrar={cerrarFiltros} />
+
+                            <div className="d-flex-column gap-20-to-10">
+                                <div className="prd-order">
+                                    <div className="d-flex-column gap-10">
+                                        <div className="d-flex gap-5">
+                                            <p className="font-bold text">{productosOrdenados.length}{" "}productos</p>
+                                        </div>
+
+                                        {filtrosActivosChips.length > 0 && (
+                                            <div className="gap-10 d-flex-wrap">
+                                                {filtrosActivosChips.map(
+                                                    ({ clave, valor }, i) => {
+                                                        const slugValor = slugify(valor);
+                                                        const label = clave === "precio" ? formatearRangoPrecio(slugValor) : valor.replace(/-/g, " ");
+
+                                                        return (
+                                                            <button
+                                                                key={`${clave}-${valor}-${i}`}
+                                                                type="button"
+                                                                className="button-link button-link-8"
+                                                                onClick={() =>
+                                                                    eliminarFiltro(
+                                                                        clave,
+                                                                        valor
+                                                                    )
+                                                                }
+                                                            >
+                                                                <p className="button-link-text first-uppercase">{label}</p>
+                                                                <span className="material-symbols-outlined">
+                                                                    close
+                                                                </span>
+                                                            </button>
                                                         );
-                                                    }}
-                                                >Reiniciar filtros</button>
-                                            </div>
-                                        ) : (
-                                            currentProducts.map((producto) => (
-                                                <Producto key={producto.sku} producto={producto} truncate={truncate} onToggleFavorite={toggleFavorite}
-                                                    isFavorite={favoritos.some(
-                                                        (fav) => fav.sku === producto.sku
-                                                    )}
-                                                    skusOfertas={skusOfertas}
-                                                    isOfferActive={isOfferActive}
-                                                />
-                                            ))
-                                        )}
-                                    </ul>
-
-                                    {productosOrdenados.length > productsPerPage && (
-                                        <div className="pagination-controls">
-                                            <button className="pagination-arrow" onClick={() => paginate(Math.max(1, currentPage - 1))} disabled={currentPage === 1}>
-                                                <span className="material-symbols-outlined">chevron_left</span>
-                                            </button>
-
-                                            <div className="d-flex-center-center gap-5">
-                                                {getVisiblePages().map((page, index) =>
-                                                    typeof page === "number" ? (
-                                                        <button key={index} className={`pagination-page ${ currentPage === page ? "active" : "" }`} onClick={() => paginate(page)}>{page}</button>
-                                                    ) : (
-                                                        <span key={index} className="pagination-ellipsis">...</span>
-                                                    )
+                                                    }
                                                 )}
                                             </div>
+                                        )}
+                                    </div>
 
-                                            <button className="pagination-arrow" onClick={ () => paginate( Math.min( totalPages, currentPage + 1 ))} disabled={currentPage === totalPages}>
-                                                <span className="material-symbols-outlined">chevron_right</span>
-                                            </button>
-                                        </div>
-                                    )}
+                                    <div className="filters-order margin-bottom" ref={orderRef}>
+                                        <button type="button" className={`filters-order-button ${isOrderOpen ? "active" : ""}`} onClick={toggleOrderMenu}>
+                                            <span className="material-symbols-outlined">list_alt</span>
+                                            <p className="text">{textoOrden}</p>
+                                        </button>
+
+                                        <ul className={`filters-order-list ${isOrderOpen ? "active" : ""}`}>
+                                            <li>
+                                                <button type="button" onClick={() => handleCambiarOrden("menor-a-mayor")} className={ordenActual === "menor-a-mayor" ? "active" : ""}>
+                                                    <span className="material-symbols-outlined">arrow_warm_up</span>
+                                                    <p>Menor a mayor precio</p>
+                                                </button>
+                                            </li>
+                                            <li>
+                                                <button type="button" onClick={() => handleCambiarOrden("mayor-a-menor")} className={ordenActual === "mayor-a-menor" ? "active" : ""}>
+                                                    <span className="material-symbols-outlined">arrow_cool_down</span>
+                                                    <p>Mayor a menor precio</p>
+                                                </button>
+                                            </li>
+                                            <li>
+                                                <button type="button" onClick={() => handleCambiarOrden("mayor-descuento")} className={ordenActual === "mayor-descuento" ? "active" : ""}>
+                                                    <span className="material-symbols-outlined">percent</span>
+                                                    <p>Con mayor descuento</p>
+                                                </button>
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <div className="visible-on-desktop-no-mobile w-100">
+                                        <Paginacion paginaActual={paginaActual} totalPaginas={totalPaginas} onChange={handleCambiarPagina} />
+                                    </div>
                                 </div>
-                            )}
-                        </div>
-                    </div>
-                </section>
 
-                <ConteoRegresivo onExpire={handleExpire} onActivate={handleActivate}/>
+                                {productosOrdenados.length === 0 ? (
+                                    <p className="productos-vacio">No se encontraron productos con estos filtros. </p>
+                                ) : (
+                                    <ul className="products-list">
+                                        {productosPaginados.map((prod, i) => (
+                                            <Producto key={`${prod.sku}-${i}`} producto={prod} truncate={truncate} onToggleFavorite={ handleToggleFavorite } isFavorite={favoritos.includes( prod.sku )} skusOfertas={skusOfertas} isOfferActive={isOfferActive} skusParaHoy={skusParaHoy}/>
+                                        ))}
+                                    </ul>
+                                )}
+
+                                <Paginacion paginaActual={paginaActual} totalPaginas={totalPaginas} onChange={handleCambiarPagina}/>
+                            </div>
+                        </div>
+                    </section>
+                </div>
             </main>
         </>
     );

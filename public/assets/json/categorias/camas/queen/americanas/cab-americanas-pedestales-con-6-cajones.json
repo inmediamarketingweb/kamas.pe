@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/10/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL CAPITONEADA + 6 CAJONES - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 2299,
+            "precioNormal": 1999,
+            "precioVenta": 1569,
+            "stock": 15,
+            "sku": "K223123N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/12/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL CAPITONEADA + 6 CAJONES - CAMELLO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 2299,
+            "precioNormal": 1999,
+            "precioVenta": 1569,
+            "stock": 15,
+            "sku": "K223123N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

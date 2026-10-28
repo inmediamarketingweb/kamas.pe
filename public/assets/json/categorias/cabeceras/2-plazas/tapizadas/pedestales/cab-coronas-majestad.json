@@ -1,0 +1,179 @@
+{
+    "productos":[
+        {
+            "id": 50,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/40/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/41/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/42/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - FUCSIA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/43/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/44/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - ARENA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/otros-modelos/1/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/45/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/6/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/70/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS MAJESTAD - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/majestad/7/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52241N18",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

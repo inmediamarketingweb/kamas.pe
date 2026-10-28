@@ -1,0 +1,67 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "yurmale pocket",
+            "ruta": "/productos/colchones/king/rectangulares/yurmale/",
+            "nombre": "COLCHÓN KAMAS KING EXTRA ORTOPÉDICO YURMALE POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/king/",
+            "precioRegular": 4199,
+            "precioNormal": 3549,
+            "precioVenta": 2299,
+            "stock": 99,
+            "sku": "K1412N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/yurmale-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=yurmale-pocket"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso de máxima firmeza y gran soporte con el colchón King Yurmale Pocket, perteneciente a la línea Extra Ortopédicos y diseñado especialmente para quienes prefieren un colchón muy firme. Su tecnología de resortes Pocket, con 810 resortes independientes, proporciona una estructura sólida y estable, ideal para quienes buscan una sensación de soporte marcada durante el descanso.",
+                "Incorpora Sistema One Size y Sistema PT, además de refuerzos centrales y un marco de espuma que aportan mayor estabilidad y resistencia a su estructura. Su espuma de 25 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, ofreciendo confort sin perder la firmeza que caracteriza a este modelo.",
+                "Con 44 cm de grosor y una capacidad de soporte de hasta 130 kg por persona, el Yurmale Pocket está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y prolongar su vida útil. Además, cuenta con una destacada garantía de 12 años, convirtiéndolo en una excelente opción para quienes buscan un colchón muy firme, robusto y de larga duración."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "yurmale pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "810",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "incorpora": "Sitema PT",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

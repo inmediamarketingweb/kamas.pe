@@ -1,0 +1,357 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA EXPLORER - CUERO AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/bloques/explorer/1/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX260",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "explorer"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA EXPLORER - CUERO CAMELL + CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/bloques/explorer/2/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX270",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "explorer"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/63/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA INLINE - TEJIDO AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/bloques/inline/1/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX280",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "inline"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/64/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA VELUTO - CUERO MARRÓN",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/bloques/veluto/1/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX290",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "veluto"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/52/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA TORTUN - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/7/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/53/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA OLIMPIC - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/1/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX170",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/54/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA OLIMPIC - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/9/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX180",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA GRID - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/2/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX181",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "grid"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA MESHLOCK - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/3/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX182",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "grid"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA VIENNA - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/4/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX183",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "vino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA GRID - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/5/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX184",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "grid"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA XTRARO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques/6/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K222221NX185",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "xtrato"
+                }
+            ]
+        }
+    ]
+}

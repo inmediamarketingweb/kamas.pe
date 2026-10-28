@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/1-plaza-y-media/",
+            "precioRegular": 659,
+            "precioNormal": 539,
+            "precioVenta": 319,
+            "stock": 99,
+            "sku": "K11153CNX10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/rectangulares/1-plaza-y-media/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/rectangulares/2-plazas/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/rectangulares/queen/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/rectangulares/king/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/rectangulares/4-plazas/sarki/"
+                }
+            ],
+            "mensajes":[
+                "mensaje 1"
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "resortes": "9 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

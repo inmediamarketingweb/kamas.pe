@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 2 VELADORES VINTAGE - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
+            "precioRegular": 2349,
+            "precioNormal": 2099,
+            "precioVenta": 1449,
+            "stock": 9,
+            "sku": "K322133N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + VELADOR CLÁSICO 1 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/9/",
+            "precioRegular": 2199,
+            "precioNormal": 1649,
+            "precioVenta": 1269,
+            "stock": 9,
+            "sku": "K322133N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

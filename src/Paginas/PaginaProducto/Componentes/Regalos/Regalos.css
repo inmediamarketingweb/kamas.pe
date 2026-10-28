@@ -1,82 +1,42 @@
-.product-page-gifts{
-    width: auto;
-    margin-right: auto;
+.product-page-gifts > ul{
     display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 10px;
-    background: rgba(0 0 0 / 0.05);
-    border-radius: 4px;
+    align-items: center;
+    justify-content: left;
+    gap: 5px;
 }
 
-.product-page-gifts ul{
-    width: 100%;
+.product-page-gifts > ul li{
     display: flex;
-    gap: 10px;
-}
-
-.product-page-gifts ul li{
+    padding: 5px;
+    border: 1px solid var(--component-border);
+    border-radius: 3px;
     position: relative;
-    background: var(--white);
-    padding: 10px;
-    border-radius: 4px;
-    display: flex;
 }
 
-.product-page-gifts ul li img{
-    margin: auto;
-    object-fit: contain;
+.product-page-gifts > ul li img{
+    width: auto;
+    height: 50px;
     aspect-ratio: 1/1;
+    /* border: 1px solid orange; */
 }
 
-.product-page-gifts ul li p{
+.product-page-gifts > ul li p{
+    transition: var(--t-200ms-linear);
     position: absolute;
     left: 0;
-    top: calc(100% + 5px);
+    top: calc(100% - 5px);
     background: var(--color-1);
+    padding: 3px 5px;
+    border-radius: 2px;
     color: var(--white);
-    border-radius: 4px;
-    padding: 6px;
-    font-size: 12px;
-    display: flex;
-    width: auto;
+    font-size: 10px;
+    text-align: center;
 
     opacity: 0;
     pointer-events: none;
     user-select: none;
-    transition: var(--t-200ms-linear);
 }
 
-.product-page-gifts ul li:hover p{
+.product-page-gifts > ul li:hover p{
     opacity: 1;
-}
-
-/**/
-
-@media screen and (max-width: 600px){
-    .product-page-gifts{
-        margin-right: unset;
-    }
-
-    .product-page-gifts ul li{
-        width: 100%;
-    }
-
-    .product-page-gifts ul li p{
-        left: 50%;
-        translate: -50% 0;
-        width: 87px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    }
-
-    .product-page-gifts ul li:nth-child(2) p{
-        width: 74px;
-    }
-
-    .product-page-gifts ul li:nth-child(3) p{
-        width: 54px;
-    }
 }

@@ -1,0 +1,179 @@
+{
+    "productos":[
+        {
+            "id": 70,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/60/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/1/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N23",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/61/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/2/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N24",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/62/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - UVA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/3/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N25",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/63/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/4/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N26",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/64/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/5/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N27",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/65/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/6/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N28",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/66/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS VESSO - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-curvos/vesso/7/",
+            "precioRegular": 619,
+            "precioNormal": 789,
+            "precioVenta": 619,
+            "stock": 9,
+            "sku": "K52242N29",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

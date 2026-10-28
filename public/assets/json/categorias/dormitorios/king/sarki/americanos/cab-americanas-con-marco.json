@@ -1,0 +1,91 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/113/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/2/",
+            "precioRegular": 3499,
+            "precioNormal": 2699,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324234N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/114/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/3/",
+            "precioRegular": 3499,
+            "precioNormal": 2699,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324234N1201010",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/118/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA - VIOLETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/7/",
+            "precioRegular": 3499,
+            "precioNormal": 2699,
+            "precioVenta": 1749,
+            "stock": 9,
+            "sku": "K324234N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

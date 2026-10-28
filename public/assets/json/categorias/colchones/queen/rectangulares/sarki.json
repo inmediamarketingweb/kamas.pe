@@ -1,0 +1,74 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/queen/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS QUEEN ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/king/",
+            "precioRegular": 1499,
+            "precioNormal": 1229,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "K133CN10",
+            "regalos": [ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/rectangulares/sarki/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=sarki"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Sarki es el modelo más comercial de la marca, gracias a su equilibrio ideal entre precio, confort y durabilidad. Pertenece a la línea ortopédica y ofrece un nivel de confort confortable, adecuado para el uso diario.",
+                "Está fabricado con resortes Bonell de acero templado en 16 filas, que brindan un soporte estable y uniforme. Incorpora espuma de 18 kg/m³, refuerzos centrales y marco sellado, ayudando a mantener la firmeza y prolongar su vida útil.",
+                "Su tela de algodón tejido en punto aporta suavidad y buena ventilación. Es de uso por ambos lados, tiene un grosor de 26 cm, soporta hasta 80 kg por persona y cuenta con 2 años de garantía, convirtiéndolo en una opción práctica, confiable y muy demandada."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "16 filas",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "28cm.",
+                    "soporte-de-peso": "80kg. por persona",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

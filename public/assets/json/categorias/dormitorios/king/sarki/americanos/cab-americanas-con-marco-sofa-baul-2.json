@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/1005/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA CON MARCO CAPITONEADA + SOFA BAUL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/con-marco/sin-brazos/capitoneado/10/",
+            "precioRegular": 3649,
+            "precioNormal": 3099,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "K324234N1002",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

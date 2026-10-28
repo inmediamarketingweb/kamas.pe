@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "circulares",
+            "modelo-de-colchón": "der prinz",
+            "ruta": "/productos/colchones/king/circulares/der-prinz/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS KING SÚPER ORTOPÉDICO DER PRINZ",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/circular-king/",
+            "precioRegular": 2199,
+            "precioNormal": 1849,
+            "precioVenta": 1549,
+            "stock": 99,
+            "sku": "K153CNXC10",
+            "regalos": [ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "link": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=der-prinz"
+                }
+            ],
+            "mensajes":[
+                "Descubre una nueva forma de disfrutar el descanso con el colchón circular King Der Prinz, diseñado para combinar espacio, ergonomía y confort en una propuesta diferente. Su exclusiva forma circular aprovecha de manera natural el espacio disponible, creando una superficie amplia que permite disfrutar de mayor libertad de movimiento y una experiencia de descanso envolvente.",
+                "Su estructura de 21 filas de resortes de acero templado, acompañada de refuerzos centrales y un marco sellado, proporciona estabilidad y soporte durante el descanso. Su nivel de confort intermedio, espuma de 20 kg/m³ y agradable tela de algodón tejido en punto ofrecen un equilibrio ideal entre comodidad y soporte.",
+                "Con 32 cm de grosor, el Der Prinz está diseñado para utilizarse por un solo lado, aprovechando al máximo su estructura y configuración. Su diseño circular no solo aporta una estética moderna y sofisticada, sino que también permite disfrutar de un espacio de descanso diferente, amplio y ergonómico, convirtiendo la cama en el verdadero protagonista del dormitorio.",
+                "Soporta hasta 90 kg por persona y cuenta con 6 años de garantía, para que disfrutes de una experiencia de descanso única, confortable y diferente a la de un colchón tradicional."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "formato": "circulares",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper oropédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "21 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "20kg/m3",
+                    "tipo-de-uso": "un solo lado",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "32cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL BLOQUES V - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/con-marco/sin-brazos/v/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222224N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera" : "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Bloques V"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL PRIME 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques-pedestales/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera" : "tapizadas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "prime 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL LINEAL 1 - TEJIDO LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-bloques-pedestales/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera" : "tapizadas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        }
+    ]
+}

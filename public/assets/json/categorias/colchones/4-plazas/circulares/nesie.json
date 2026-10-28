@@ -1,0 +1,53 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "4 plazas",
+            "formato": "circulares",
+            "modelo-de-colchón": "nesie",
+            "ruta": "/productos/colchones/4-plazas/circulares/nesie/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS HOTELERO NESIE 4 PLAZAS",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/circular-4-plazas/",
+            "precioRegular": 2799,
+            "precioNormal": 2549,
+            "precioVenta": 2249,
+            "stock": 99,
+            "sku": "K153CNXC101",
+            "tipo-de-envio": "Gratis",
+            "regalos":[ "4 almohadas" ],
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "ruta": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=nesie"
+                }
+            ],
+            "mensajes":[
+                "Descubre una nueva dimensión de descanso con el colchón circular de 4 plazas Nesie, diseñado para ofrecer amplitud, ergonomía y comodidad en un formato extraordinario. Su generosa superficie circular permite aprovechar mejor el espacio y disfrutar de mayor libertad de movimiento, creando una experiencia de descanso envolvente y diferente a la de una cama tradicional.",
+                "Perteneciente a la línea Hotelera, el Nesie ofrece un nivel de confort firme, ideal para quienes buscan una superficie estable y un soporte equilibrado. Su estructura incorpora 24 filas de resortes Bonell de acero templado, acompañados de refuerzos centrales y un marco sellado, proporcionando una base sólida y resistente.",
+                "Su espuma de 20 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, aportando confort y una sensación acogedora. Con 32 cm de grosor, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y contribuir a prolongar su vida útil.",
+                "Con capacidad de soporte de hasta 90 kg por persona y 6 años de garantía, el Nesie Circular es una excelente elección para quienes buscan un descanso amplio y confortable, con la calidad y presencia de un colchón pensado para espacios de estilo hotelero."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "4 plazas",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "nesie",
+                    "línea-de-colchón": "hoteleros",
+                    "nivel-de-confort": "firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "24 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "32cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

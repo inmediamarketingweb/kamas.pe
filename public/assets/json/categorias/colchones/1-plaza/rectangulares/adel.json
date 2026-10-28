@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza",
+            "modelo-de-colchón": "adel",
+            "formato": "rectangulares",
+            "ruta": "/productos/colchones/1-plaza/rectangulares/adel/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA SEMI ORTOPÉDICO ADEL",
+            "fotos": "/assets/imagenes/productos/colchones/adel/",
+            "precioRegular": 449,
+            "precioNormal": 399,
+            "precioVenta": 249,
+            "stock": 99,
+            "sku": "K1151CNXX10",
+            "tipo-de-envio": "Envío preferente",
+            "regalos":[ "1 almohada" ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/adel/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/adel/"
+                }
+            ],
+            "mensajes":[
+                "Este colchón ofrece una construcción básica y funcional, ideal para usos ligeros o temporales. Su estructura cuenta con 8 filas de resortes en forma vertical, proporcionando un soporte simple para el descanso.",
+                "La tela Tricop aporta resistencia y una superficie de contacto estándar, mientras que la espuma de 16 kg/m³ brinda un nivel de confort básico. Al ser de uso por ambos lados, permite rotarlo para prolongar su vida útil.",
+                "Pensado para pesos moderados, soporta hasta 55 kg por persona, lo que lo convierte en una opción práctica para habitaciones secundarias o uso ocasional. Incluye 1 año de garantía."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza",
+                    "modelo-de-colchón": "adel",
+                    "formato": "rectangulares",
+                    "resortes": "bonell",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Suave",
+                    "cantidad-de-resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "55kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

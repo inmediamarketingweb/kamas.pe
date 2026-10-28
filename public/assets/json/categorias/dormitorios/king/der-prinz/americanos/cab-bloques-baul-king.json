@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 382,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/der-prinz/196/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA EGYPT + BAUL - ANTIFLUIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/der-prinz/aereas-con-patas/bloques/sin-brazos/egyp/3/",
+            "precioRegular": 4099,
+            "precioNormal": 3249,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "K324225N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "baúl": "si",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt"
+                }
+            ]
+        }
+    ]
+}

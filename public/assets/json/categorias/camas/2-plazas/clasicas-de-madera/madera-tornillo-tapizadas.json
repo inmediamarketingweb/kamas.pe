@@ -1,0 +1,37 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "clásicas de madera",
+            "madera": "pino",
+            "nombre": "CAMA DE MADERA PINO 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CON MARCO MURAC + PIECERA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/clasicas-de-madera/tapizadas/3/",
+            "precioRegular": 4699,
+            "precioNormal": 4299,
+            "precioVenta": 4099,
+            "stock": 15,
+            "sku": "K210MTT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "veladores": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,514 @@
+{
+    "productos":[
+        {
+            "id": 399,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/213/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA EGYPT - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/egyp/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N31",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt"
+                }
+            ]
+        },
+        {
+            "id": 400,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/214/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA EGYPT 3 - TRICOLOR",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/egyp-3/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N32",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Egypt 3"
+                }
+            ]
+        },
+        {
+            "id": 401,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/215/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA GAVIOTA - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/gaviota/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N33",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 402,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/216/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA GAVIOTA - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/gaviota/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N34",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Gaviota"
+                }
+            ]
+        },
+        {
+            "id": 403,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/217/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA LINEAL 2 - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/lineal-2/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N35",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 404,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/219/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA NILO - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/nilo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N37",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Nilo"
+                }
+            ]
+        },
+        {
+            "id": 405,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/220/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N38",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 406,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/221/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC - CASTAÑO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N39",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 407,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/222/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA OLIMPIC - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/olimpic/3/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N40",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Olimpic"
+                }
+            ]
+        },
+        {
+            "id": 409,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/224/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA REPTILIAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/reptilian/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N42",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Reptilian"
+                }
+            ]
+        },
+        {
+            "id": 410,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/225/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA ROBLO - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/roblo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N43",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Roblo"
+                }
+            ]
+        },
+        {
+            "id": 411,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/226/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA SIDNEY - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/sidney/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N44",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Sidney"
+                }
+            ]
+        },
+        {
+            "id": 412,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/227/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA TORTUN - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/tortun/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N45",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 413,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/228/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA TORTUN - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/tortun/2/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N46",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Tortun"
+                }
+            ]
+        },
+        {
+            "id": 414,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/229/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA VIENNA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/vienna/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N47",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Vienna"
+                }
+            ]
+        },
+        {
+            "id": 415,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/230/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA WUELO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/wuelo/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N48",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Wuelo"
+                }
+            ]
+        },
+        {
+            "id": 416,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/231/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA AÉREA XPLORER - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 2809,
+            "precioNormal": 2579,
+            "precioVenta": 1849,
+            "stock": 13,
+            "sku": "K3242873N49",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

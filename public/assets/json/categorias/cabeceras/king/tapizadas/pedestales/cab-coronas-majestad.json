@@ -1,0 +1,104 @@
+{
+    "productos":[
+        {
+            "id": 97,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/17/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N11",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/18/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N12",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/19/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N13",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/20/",
+            "nombre": "CABECERA PEDESTAL KING MAJESTAD - ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/majestad/5/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N14",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

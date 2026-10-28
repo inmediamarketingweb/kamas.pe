@@ -1,0 +1,154 @@
+{
+    "productos":[
+        {
+            "id": 56,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/46/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/1/",
+            "precioRegular": 17899,
+            "precioNormal": 1469,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "corona"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/47/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/2/",
+            "precioRegular": 1639,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/48/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/3/",
+            "precioRegular": 1639,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/49/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/4/",
+            "precioRegular": 1639,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/50/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/5/",
+            "precioRegular": 1639,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/51/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CORONA + BAÚL - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/coronas/brazos-seahorse/corona/6/",
+            "precioRegular": 1639,
+            "precioNormal": 1649,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K52243N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

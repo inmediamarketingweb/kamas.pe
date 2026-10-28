@@ -1,0 +1,88 @@
+{
+    "productos":[
+        {
+            "id": 82,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/152/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/17/",
+            "precioRegular": 2399,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 15,
+            "sku": "K2241113N31",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/26/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/20/",
+            "precioRegular": 2399,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 15,
+            "sku": "K2241113N27",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/29/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CAPITONEADA + 2 VELADORES VINTAGE - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/23/",
+            "precioRegular": 2399,
+            "precioNormal": 2099,
+            "precioVenta": 1599,
+            "stock": 15,
+            "sku": "K2241113N30",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

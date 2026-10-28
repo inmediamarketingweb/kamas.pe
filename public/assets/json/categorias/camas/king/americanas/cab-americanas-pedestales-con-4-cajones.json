@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/21/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 4 CAJONES - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K222113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

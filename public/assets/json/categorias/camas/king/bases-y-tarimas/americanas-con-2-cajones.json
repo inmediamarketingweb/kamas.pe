@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "bases y tarimas",
+            "ruta": "/productos/complementos/base-sola/americanas-con-cajones/king/4/",
+            "nombre": "BASE SOLA AMERICANA KING + 2 CAJONES AL PIE - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/king/1/",
+            "precioRegular": 1430,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 14,
+            "sku": "K73422N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "bases y tarimas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ]
+        }
+    ]
+}

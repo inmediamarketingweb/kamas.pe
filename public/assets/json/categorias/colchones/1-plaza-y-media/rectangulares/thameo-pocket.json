@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "thameo pocket",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thameo-pocket/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA SÚPER ORTOPÉDICO THAMEO POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/1-plaza-y-media/",
+            "precioRegular": 849,
+            "precioNormal": 769,
+            "precioVenta": 449,
+            "stock": 99,
+            "sku": "K1158N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/thameo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thameo-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/thameo-pocket/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Thameo Pocket es un colchón súper ortopédico diseñado para brindar un soporte estable con una sensación muy confortable. Cuenta con 364 resortes Pocket, que se adaptan al cuerpo de forma individual para mejorar el descanso y reducir la presión.",
+                "Su estructura incluye tela tejida en punto, refuerzos centrales, espuma de 20 kg/m³ y un marco sellado, logrando un colchón resistente y duradero. Gracias a su diseño de 30 cm de grosor y su uso por ambos lados, ofrece mayor vida útil y soporte de hasta 90 kg por persona.",
+                "Incluye 5 años de garantía, siendo una excelente opción para quienes buscan firmeza, comodidad y calidad superior."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "thameo pocket",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivels-de-confort": "intermedio",
+                    "resortes": "364 resortes pocket",
+                    "tela": "Tejido en punto",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "18kg/m3",
+                    "marco": "sellado",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "5 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA 2 PLAZAS MADERA CEDRO + CABECERA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/talladas/talladas/1/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2222NXTTN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA 2 PLAZAS MADERA CEDRO + CABECERA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/talladas/talladas/2/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2222NXTTN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA 2 PLAZAS MADERA CEDRO + CABECERA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/talladas/talladas/3/",
+            "precioRegular": 7999,
+            "precioNormal": 7499,
+            "precioVenta": 6999,
+            "stock": 14,
+            "sku": "K2222NXTTN12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "talladas",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA 2 PLAZAS MADERA CEDRO + CABECERA CORONA + DISEÑO EN TARIMA - COLOR CAOBA CON DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/talladas/talladas/4/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2222NXTTN13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        }
+    ]
+}

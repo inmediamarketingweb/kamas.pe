@@ -1,0 +1,260 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA LINEAL 1 NEW - DORADO CON NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/1/",
+            "precioRegular": 7199,
+            "precioNormal": 6699,
+            "precioVenta": 6399,
+            "stock": 14,
+            "sku": "K2124AITN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal new"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA CON MARCO LINEAL 1 + PIECERA - DORADO CON AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/2/",
+            "precioRegular": 7799,
+            "precioNormal": 7299,
+            "precioVenta": 6999,
+            "stock": 14,
+            "sku": "K2124AITN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA LINEAL 1 + PIECERA - DORADO CON AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/3/",
+            "precioRegular": 7799,
+            "precioNormal": 7299,
+            "precioVenta": 6999,
+            "stock": 14,
+            "sku": "K2124AITN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA CORONA + PIECERA - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/4/",
+            "precioRegular": 8499,
+            "precioNormal": 7899,
+            "precioVenta": 7699,
+            "stock": 14,
+            "sku": "K2124AITN13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA LINEAL HORI + PIECERA - DORADO CON IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/5/",
+            "precioRegular": 7799,
+            "precioNormal": 7299,
+            "precioVenta": 6999,
+            "stock": 14,
+            "sku": "K2124AITN14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA AÉREA TAPIZADA CORONA - DORADO CON NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/6/",
+            "precioRegular": 8499,
+            "precioNormal": 8099,
+            "precioVenta": 7899,
+            "stock": 14,
+            "sku": "K2124AITN15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL TAPIZADA CUADROS 2 + DISEÑO EN PIECERA - DORADO CON CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/7/",
+            "precioRegular": 8899,
+            "precioNormal": 8549,
+            "precioVenta": 8399,
+            "stock": 14,
+            "sku": "K2124AITN16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL TAPIZADA - DORADO CON IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/tapizadas/8/",
+            "precioRegular": 9999,
+            "precioNormal": 9549,
+            "precioVenta": 9299,
+            "stock": 14,
+            "sku": "K2124AITN17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos de madera",
+            "madera": "tornillo",
+            "nombre": "VELADOR DE MADERA TORNILLO 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos-de-madera/1/",
+            "precioRegular": 579,
+            "precioNormal": 409,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K7133N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos de madera",
+                    "rieles": "telescópicos pesados",
+                    "madera": "tornillo",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos de madera",
+            "madera": "tornillo",
+            "nombre": "VELADOR DE MADERA TORNILLO 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos-de-madera/2/",
+            "precioRegular": 629,
+            "precioNormal": 479,
+            "precioVenta": 419,
+            "stock": 14,
+            "sku": "K7133N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos de madera",
+                    "rieles": "telescópicos pesados",
+                    "madera": "tornillo",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos de madera",
+            "madera": "tornillo",
+            "nombre": "VELADOR DE MADERA TORNILLO 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos-de-madera/3/",
+            "precioRegular": 579,
+            "precioNormal": 409,
+            "precioVenta": 349,
+            "stock": 14,
+            "sku": "K7133N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos de madera",
+                    "rieles": "telescópicos pesados",
+                    "madera": "tornillo",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos de madera",
+            "madera": "cedro",
+            "nombre": "VELADOR DE MADERA CEDRO 3 CAJONES",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos-de-madera/4/",
+            "precioRegular": 639,
+            "precioNormal": 549,
+            "precioVenta": 499,
+            "stock": 14,
+            "sku": "K7133N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos de madera",
+                    "rieles": "telescópicos pesados",
+                    "madera": "cedro",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ]
+        }
+    ]
+}

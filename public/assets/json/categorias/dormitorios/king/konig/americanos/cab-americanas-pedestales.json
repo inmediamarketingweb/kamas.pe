@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/konig/14/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 4299,
+            "precioNormal": 3499,
+            "precioVenta": 2699,
+            "stock": 13,
+            "sku": "K3242113N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Konig",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+    
+}

@@ -42,12 +42,7 @@ function TiposDeEnvio({ shippingOptions, selectedTipo, onSelect, provincia, dist
                     );
                 })}
 
-                <div className='message message-warning'>
-                    <span className="material-symbols-outlined">warning</span>
-                    <p>Seleccione su distrito y tipo de envío para poder continuar</p>
-                </div>
-
-                <p className='tipos-de-envio-ask-button' onClick={() => setIsAskOpen(true)}>¿Tipos de envío?</p>
+                {/* <p className='tipos-de-envio-ask-button' onClick={() => setIsAskOpen(true)}>¿Tipos de envío?</p> */}
 
                 <div className={`tipos-de-envios-ask-content${isAskOpen ? ' active' : ''}`}>
                     <div className='d-flex-center-between'>

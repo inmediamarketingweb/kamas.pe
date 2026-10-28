@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "id": 377,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "línea": "americanos",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL 3 + 1 PUFF  - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "precioRegular": 3689,
+            "precioNormal": 2899,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "K324226N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 378,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "línea": "americanos",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/dormitorios/king/americanos/rucay/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LUXURY - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/rucay/aereas-con-patas/bloques/sin-brazos/luxury/1/",
+            "precioRegular": 3689,
+            "precioNormal": 2899,
+            "precioVenta": 1649,
+            "stock": 9,
+            "sku": "K324226N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Luxury"
+                }
+            ]
+        }
+    ]
+}

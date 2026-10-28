@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "circulares",
+            "modelo-de-colchon": "ramat",
+            "ruta": "/productos/colchones/queen/circulares/ramat/",
+            "nombre": "COLCHÓN CIRCULAR QUEEN KAMAS SÚPER ORTOPÉDICO RAMAT",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/circular-queen/",
+            "precioRegular": 2199,
+            "precioNormal": 1999,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "K153CNXC1012",
+            "regalos": [ "4 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "ruta": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=ramat"
+                }
+            ],
+            "mensajes":[
+                "Descubre una nueva forma de descansar con el colchón circular Queen Ramat, diseñado para combinar ergonomía, amplitud y confort en una propuesta diferente. Su exclusiva forma circular permite aprovechar el espacio de manera más natural, creando una superficie de descanso envolvente que brinda mayor libertad de movimiento y una experiencia única frente a los colchones tradicionales.",
+                "Perteneciente a la línea Súper Ortopédicos, el Ramat ofrece un nivel de confort intermedio, logrando un equilibrio ideal entre comodidad y soporte. Su estructura incorpora 21 filas de resortes de acero templado, junto con refuerzos centrales y un marco sellado, proporcionando estabilidad y resistencia durante el descanso.",
+                "Su espuma de 18 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, ofreciendo una superficie confortable. Con 37 cm de grosor, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y contribuir a prolongar su vida útil.",
+                "Soporta hasta 90 kg por persona y cuenta con 6 años de garantía. El Ramat Circular Queen es ideal para quienes buscan una combinación de ergonomía, comodidad y diseño, con la libertad y amplitud que solo una superficie de descanso circular puede ofrecer."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "ramat",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "21 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "37cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos-con-cajones/adel/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1459,
+            "precioVenta": 979,
+            "stock": 9,
+            "sku": "K3215113N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos-con-cajones/adel/2/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 1899,
+            "precioNormal": 1459,
+            "precioVenta": 979,
+            "stock": 9,
+            "sku": "K3215113N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos-con-cajones/adel/3/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA 2 CAJONES LATERALES + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/1-plaza-y-media/adel/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 1899,
+            "precioNormal": 1459,
+            "precioVenta": 979,
+            "stock": 9,
+            "sku": "K3215113N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/adel/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/adel/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 2199,
+            "precioNormal": 1899,
+            "precioVenta": 1099,
+            "stock": 13,
+            "sku": "K322113N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

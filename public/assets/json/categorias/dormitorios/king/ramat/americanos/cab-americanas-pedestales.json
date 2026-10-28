@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/11/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 3799,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324273N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/16/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 3799,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324273N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/17/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 3799,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324273N26",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/18/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 3799,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324273N27",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "madera": "pino",
+            "nombre": "CAMA ESPACIO 2 PLAZAS DE MADERA PINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/box-espacios/clasicos-de-madera/madera-pino/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 14,
+            "sku": "K41212NMP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "madera": "pino",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        }
+    ]
+}

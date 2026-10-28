@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "nube",
+            "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS DER PRINZ - TEJIDO AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3799,
+            "precioVenta": 2599,
+            "stock": 23,
+            "sku": "K334257N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "nube",
+            "ruta": "/productos/dormitorios/king/cama-nube/der-prinz/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS DER PRINZ - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/der-prinz/2/",
+            "precioRegular": 4299,
+            "precioNormal": 3799,
+            "precioVenta": 2599,
+            "stock": 23,
+            "sku": "K334257N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        }
+    ]
+}

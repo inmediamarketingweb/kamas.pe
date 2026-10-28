@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/160/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LUNAR - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/pedestales/coronas/brazos-rectos/lunar/1/",
+            "precioRegular": 3129,
+            "precioNormal": 2789,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324235N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

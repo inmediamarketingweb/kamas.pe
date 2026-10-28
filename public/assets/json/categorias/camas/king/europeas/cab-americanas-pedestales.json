@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "id": 12,
+            "categorías": "camas",
+            "tamaño": "King",
+            "línea": "Europeas",
+            "ruta": "/productos/camas/king/europeas/11/",
+            "nombre": "CAMA BOX TARIMA EUROPEA KING + CABECERA PEDESTAL EMPERATRIZ - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/king/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 2749,
+            "precioNormal": 2149,
+            "precioVenta": 1649,
+            "stock": 12,
+            "sku": "K234223N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "camas",
+                    "tamaño": "King",
+                    "línea": "Europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

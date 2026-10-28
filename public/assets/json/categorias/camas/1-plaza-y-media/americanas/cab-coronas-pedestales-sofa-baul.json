@@ -1,0 +1,100 @@
+{
+    "productos":[
+        {
+            "id": 206,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/18/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/1/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215225N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "baúl": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/20/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL PRINCESA + SOFÁ BAÚL - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-curvos/princesa/3/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215225N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "baúl": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 210,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/22/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA + SOFÁ BAÚL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/coronas/brazos-rectos/otros-modelos/2/",
+            "precioRegular": 1929,
+            "precioNormal": 1429,
+            "precioVenta": 1229,
+            "stock": 12,
+            "sku": "K2215223N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "baúl": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

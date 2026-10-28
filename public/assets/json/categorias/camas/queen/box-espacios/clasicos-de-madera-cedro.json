@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "box espacios",
+            "nombre": "BOX ESPACIO QUEEN DE MADERA CEDRO SIN CABECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/espacios/clasicas-de-madera/1/",
+            "precioRegular": 3459,
+            "precioNormal": 3249,
+            "precioVenta": 2899,
+            "stock": 14,
+            "sku": "K33NBE10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "box espacios",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Sin cabecera"
+                }
+            ]
+        }
+    ]
+}

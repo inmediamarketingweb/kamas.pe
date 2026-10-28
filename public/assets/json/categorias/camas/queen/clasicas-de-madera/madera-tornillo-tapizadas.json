@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA CUADROS 1 - TEJIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/2/",
+            "precioRegular": 3999,
+            "precioNormal": 3099,
+            "precioVenta": 2899,
+            "stock": 15,
+            "sku": "K2373MTT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "cuadros 1"
+                }
+            ]
+        }
+    ]
+}

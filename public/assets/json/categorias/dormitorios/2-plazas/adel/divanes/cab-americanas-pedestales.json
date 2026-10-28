@@ -1,0 +1,178 @@
+{
+    "productos":[
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/19/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/19/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N28",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/20/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/20/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N29",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/21/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/21/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N30",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/22/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/22/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N31",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/23/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/23/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N32",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/25/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/25/",
+            "precioRegular": 1899,
+            "precioNormal": 1669,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K43212N34",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "colchón": "si",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

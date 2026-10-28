@@ -1,0 +1,53 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "circulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/king/circulares/sarki/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS KING SÚPER ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/circular-king/",
+            "precioRegular": 1899,
+            "precioNormal": 1499,
+            "precioVenta": 1299,
+            "stock": 99,
+            "sku": "K153CNXC1014",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "link": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=sarki"
+                }
+            ],
+            "mensajes":[
+                "Descubre una nueva manera de disfrutar el descanso con el colchón circular King Sarki, diseñado para combinar espacio, ergonomía y confort en una propuesta única. Su exclusiva forma circular crea una amplia superficie de descanso que permite aprovechar mejor el espacio y disfrutar de mayor libertad de movimiento, convirtiendo la cama en el centro de atención del dormitorio.",
+                "Su estructura de 21 filas de resortes de acero templado, junto con los refuerzos centrales y el marco sellado, proporciona estabilidad y resistencia. Su nivel de confort suave, combinado con espuma de 18 kg/m³ y tela de algodón tejido en punto, ofrece una sensación acogedora y agradable para disfrutar cada noche.",
+                "Con 31 cm de grosor, el Sarki está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y contribuir a prolongar su vida útil. Su diseño circular aporta una experiencia de descanso más envolvente y una distribución natural del espacio, además de darle al dormitorio una apariencia moderna, original y sofisticada.",
+                "Soporta hasta 90 kg por persona y cuenta con 3 años de garantía, convirtiéndolo en una excelente elección para quienes buscan combinar comodidad, amplitud y un diseño realmente diferente."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "21 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "31cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

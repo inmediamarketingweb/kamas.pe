@@ -1,0 +1,25 @@
+{
+    "files":[
+        "/assets/json/categorias/complementos/puffs/acero-inoxidable.json",
+        "/assets/json/categorias/complementos/puffs/circulares.json",
+        "/assets/json/categorias/complementos/puffs/clasicos.json",
+        "/assets/json/categorias/complementos/puffs/con-tapa.json",
+        "/assets/json/categorias/complementos/puffs/decorativos.json",
+        "/assets/json/categorias/complementos/puffs/vintage.json",
+
+        "/assets/json/categorias/complementos/veladores/acero-inoxidable.json",
+        "/assets/json/categorias/complementos/veladores/clasicos-de-madera.json",
+        "/assets/json/categorias/complementos/veladores/clasicos.json",
+        "/assets/json/categorias/complementos/veladores/otros-modelos.json",
+        "/assets/json/categorias/complementos/veladores/shelter.json",
+
+        "/assets/json/categorias/complementos/sabanas-y-cobertores/clasicas.json",
+
+        "/assets/json/categorias/complementos/baules/clasicos.json",
+        "/assets/json/categorias/complementos/baules/sofa-baul-1.json",
+        "/assets/json/categorias/complementos/baules/sofa-baul-2.json",
+        "/assets/json/categorias/complementos/baules/otros-modelos.json",
+
+        "/assets/json/categorias/complementos/almohadas/clasicas.json"
+    ]
+}

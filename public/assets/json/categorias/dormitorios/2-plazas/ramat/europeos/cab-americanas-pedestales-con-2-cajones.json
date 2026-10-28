@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "ramat",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/europeos-con-cajones/ramat/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL CAPITONEADO - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/2-plazas/ramat/pedestales/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 2599,
+            "precioNormal": 2099,
+            "precioVenta": 1449,
+            "stock": 23,
+            "sku": "K332173N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "europeos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        }
+    ]
+}

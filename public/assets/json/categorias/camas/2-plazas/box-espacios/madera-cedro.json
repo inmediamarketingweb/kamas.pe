@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "madera": "cedro",
+            "nombre": "CAMA ESPACIO 2 PLAZAS DE MADERA CEDRO + CABECERA AÉREA MESHLOCK - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/box-espacios/clasicos-de-madera/madera-cedro/1/",
+            "precioRegular": 3879,
+            "precioNormal": 3199,
+            "precioVenta": 2799,
+            "stock": 14,
+            "sku": "K41212NMC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "meshlock"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "madera": "cedro",
+            "nombre": "CAMA ESPACIO 2 PLAZAS DE MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/box-espacios/clasicos-de-madera/madera-cedro/2/",
+            "precioRegular": 3049,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 14,
+            "sku": "K41212NMC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "id": 74,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "línea": "de madera",
+            "tipo-de-cabecera": "aéreas con patas",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/74/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/1/",
+            "precioRegular": 1699,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX105",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "línea": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "línea": "de madera",
+            "tipo-de-cabecera": "aéreas con patas",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/75/",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/2/",
+            "precioRegular": 2499,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX106",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "línea": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        }
+    ]
+}

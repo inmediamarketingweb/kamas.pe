@@ -1,0 +1,61 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "norole",
+            "ruta": "/productos/colchones/queen/rectangulares/norole/",
+            "nombre": "COLCHÓN KAMAS QUEEN EXTRA ORTOPÉDICO NOROLE",
+            "fotos": "/assets/imagenes/productos/colchones/norole/king/",
+            "precioRegular": 2689,
+            "precioNormal": 2309,
+            "precioVenta": 1499,
+            "stock": 99,
+            "sku": "K139MFN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/norole/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/norole/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/norole/"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Norole Queen es un modelo EXTRA ORTOPÉDICO, diseñado especialmente para quienes requieren un soporte muy firme y una correcta alineación de la columna. Su estructura de resortes Bonell con 18 filas de acero templado proporciona alta resistencia y estabilidad, ideal para un descanso seguro y duradero.",
+                "Incorpora espuma de alta densidad de 23 kg/m³, que refuerza su carácter extra ortopédico, ofreciendo un soporte sólido sin deformaciones. El sistema One Size, junto con los refuerzos centrales y el marco de espuma, garantiza una distribución uniforme del peso y mayor firmeza en toda la superficie.",
+                "Revestido con tela de algodón tejido en punto, fresca y suave al tacto, este colchón está diseñado para uso de un solo lado y cuenta con un grosor de 40 cm, soportando hasta 110 kg por persona. Con 7 años de garantía, el Kamas Norole Queen es la opción ideal para quienes buscan un colchón extra ortopédico, robusto y confiable para un descanso firme y saludable."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "norole",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "18 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "40cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

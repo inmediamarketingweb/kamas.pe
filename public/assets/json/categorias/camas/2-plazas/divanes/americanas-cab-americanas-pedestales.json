@@ -1,0 +1,698 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/1/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/2/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/3/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/4/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/5/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - VINO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/6/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/7/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/9/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/9/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/10/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/10/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/11/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/11/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/13/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - GRIS RATON",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/13/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/15/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/15/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N24",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/16/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/16/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "ruta": "/productos/camas/2-plazas/divanes/americanos/18/",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL EMPERATRIZ - VINO CLARO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/divanes/americanos/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/18/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N27",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CUADROS 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N28",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N29",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/3/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N30",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADO - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/4/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N31",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADO - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/5/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N32",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADO - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/6/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N33",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/6/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N34",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL CAPITONEADO - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/8/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N35",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL LINEAL HORI - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/9/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N36",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA PEDESTAL - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-pedestales/10/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K43212N37",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

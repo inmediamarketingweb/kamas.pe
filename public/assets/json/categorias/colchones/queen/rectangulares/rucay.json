@@ -1,0 +1,59 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/colchones/queen/rectangulares/rucay/",
+            "nombre": "COLCHÓN KAMAS QUEEN ANÁTOMICO RUCAY",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/king/",
+            "precioRegular": 1329,
+            "precioNormal": 1079,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K132CN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/rucay/"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Rucay pertenece a la línea Anatómica, diseñado para ofrecer un descanso confortable con soporte equilibrado. Incorpora resortes Bonell distribuidos en 15 filas, que brindan estabilidad y una adecuada adaptación al cuerpo durante el descanso.",
+                "Está elaborado con espuma de 16 kg/m³ y cuenta con refuerzos centrales, lo que ayuda a mantener la firmeza en las zonas de mayor presión. Su tela de algodón tejido en punto aporta suavidad y buena ventilación, favoreciendo una sensación fresca al dormir.",
+                "Con un grosor de 25 cm, uso por un solo lado y marco sellado, el colchón Kamas Rucay soporta hasta 70 kg por persona. Es una opción práctica y funcional, respaldada por 1 año de garantía, ideal para quienes buscan comodidad y soporte básico a un precio accesible."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "15 filas en forma vertical",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "grosor": "27cm.",
+                    "refuerzos": "Centrales",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

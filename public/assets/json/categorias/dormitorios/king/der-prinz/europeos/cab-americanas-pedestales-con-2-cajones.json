@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/der-prinz/1/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 4249,
+            "precioNormal": 3549,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K334153N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "europeos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/der-prinz/3/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 4249,
+            "precioNormal": 3549,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K334153N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "europeos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/der-prinz/6/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 4249,
+            "precioNormal": 3549,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K334153N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "europeos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos-con-cajones/der-prinz/8/",
+            "nombre": "DORMITORIO EUROPEO KING CON 2 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL EMPERATRIZ - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 4249,
+            "precioNormal": 3549,
+            "precioVenta": 2499,
+            "stock": 23,
+            "sku": "K334153N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "europeos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

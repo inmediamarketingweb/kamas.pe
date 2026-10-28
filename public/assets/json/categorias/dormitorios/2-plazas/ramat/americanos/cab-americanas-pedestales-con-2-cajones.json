@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/28/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2249,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K322173N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/30/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/3/",
+            "precioRegular": 3099,
+            "precioNormal": 2249,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K322173N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/31/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - LILA IKER",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/4/",
+            "precioRegular": 3099,
+            "precioNormal": 2249,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K322173N26",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/33/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES AL PIE + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATRIZ - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 3099,
+            "precioNormal": 2249,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K322173N28",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

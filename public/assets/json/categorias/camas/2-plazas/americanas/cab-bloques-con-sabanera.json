@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON SABANERA + CABECERA AÉREA XTRATO - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-bloques/5/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K222221NX190",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "xtrato"
+                }
+            ]
+        }
+    ]
+}

@@ -33,7 +33,7 @@
 .product-page-container{
     width: 100%;
     display: grid;
-    grid-template-columns: 700px 1fr;
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
 
@@ -97,13 +97,13 @@
 .page-product-normal-price{
     color: var(--gray);
     text-decoration: line-through;
-    font-size: 19px;
+    font-size: 16px;
 }
 
 .page-product-sale-price{
     color: var(--color-1);
     font-weight: bold;
-    font-size: 30px;
+    font-size: 36px;
 }
 
 .page-product-sale-price-line{
@@ -161,30 +161,33 @@
     position: relative;
 }
 
-.sin-stock{
-    filter: grayscale(1) !important;
-    pointer-events: none !important;
-    user-select: none !important;
-}
-
-.sin-stock-message{
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: 1;
-    display: none;
-    color: gray;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 32px;
-}
-
-.sin-stock .sin-stock-message{
+.product-page-top-info{
+    padding-bottom: 20px;
     display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
-.beneficios-tablet{
-    display: none;
+.stars{
+    margin-top: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 10px;
+
+    color: var(--text);
+    font-size: 12px;
+}
+
+.stars div span{
+    color: #F90;
+    font-size: 17px;
+    margin-right: -2px;
+}
+
+.product-page-top-info{
+    border-bottom: 1px solid var(--component-border);
 }
 
 @media screen and (max-width: 800px){
@@ -275,5 +278,9 @@
 
     .beneficios-desktop{
         display: unset;
+    }
+
+    .product-page-container{
+        padding: 0 !important;
     }
 }

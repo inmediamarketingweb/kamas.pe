@@ -1,0 +1,27 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "bases y tarimas",
+            "ruta": "/productos/camas/2-plazas/bases-y-tarimas/1/",
+            "nombre": "BASE SOLA AMERICANA 2 PLAZAS ENCAJONADA - MORO",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas/2-plazas/1/",
+            "precioRegular": 749,
+            "precioNormal": 589,
+            "precioVenta": 439,
+            "stock": 14,
+            "sku": "K7321N10",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "bases y tarimas",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ]
+        }
+    ]
+}

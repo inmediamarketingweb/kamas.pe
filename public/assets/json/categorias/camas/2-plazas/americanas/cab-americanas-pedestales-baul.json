@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/40/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADA + BAÚL + 2 PUFF - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K222213N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/44/",
+            "nombre": "CAMA BOX TARIMA AMERICANO 2 PLAZAS + CABECERA PEDESTAL EMPERATRIZ + BAÚL + 2 PUFF - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/15/",
+            "precioRegular": 1749,
+            "precioNormal": 1349,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K222223N24",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

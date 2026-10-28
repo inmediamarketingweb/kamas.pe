@@ -15,7 +15,7 @@ function Center(){
     useEffect(() => {
         const fetchCategories = async () => {
             try{
-                const response = await fetch('/assets/json/categorias/categorias.json');
+                const response = await fetch('/assets/json/categorias/categorias-2.json');
                 if (!response.ok) {
                     throw new Error('Failed to fetch categories');
                 }
@@ -31,9 +31,11 @@ function Center(){
     }, []);
 
     if(error){
-        return <div className="d-flex-center-center w-100 h-70-px bg-loading">
-            <p className='text'>Error al cargar el menú: <b className='color-color-1'>{error}</b></p>
-        </div>;
+        return(
+            <div className="d-flex-center-center w-100 h-70-px bg-loading">
+                <p className='text'>Error al cargar el menú: <b className='color-color-1'>{error}</b></p>
+            </div>
+        )
     }
 
     if(!categories){
@@ -44,112 +46,180 @@ function Center(){
         )
     }
 
-    const handleCategoryClick = (categoryId) => {
-        setActiveCategory(prev => prev === categoryId ? null : categoryId);
+    const categorias = Array.isArray(categories) ? categories : (Array.isArray(categories.categorias) ? categories.categorias : []);
+    const handleCategoryClick = (categoryId) => { setActiveCategory(prev => prev === categoryId ? null : categoryId); };
+    const handleMenuClick = () => { setIsMenuOpen(prev => !prev); };
+    const hasSubmenu = (categoria) => { return Array.isArray(categoria.listas) && categoria.listas.length > 0; };
+    const toArray = (val) => Array.isArray(val) ? val : (val ? [val] : []);
+
+    const renderLinkList = (items) => {
+        const list = toArray(items);
+        if (list.length === 0) return null;
+
+        return (
+            <ul className='submenu-list'>
+                {list.map((item) => (
+                    <li key={uuidv4()}>
+                        <a href={item.link} title={item.texto} className='submenu-list-link'>
+                            {item.image ? (
+                                <img className='submenu-list-link-img' src={item.image} alt={item['image-alt'] || item.texto} />
+                            ) : null}
+                            <div className='position-relative'>
+                                <h4 className='text font-bold first-uppercase'>{item.texto}</h4>
+                                <span className="material-symbols-outlined">chevron_right</span>
+                                {item.estado && <span className='submenu-list-link-status'>{item.estado}</span>}
+                            </div>
+                        </a>
+                    </li>
+                ))}
+            </ul>
+        );
     };
 
-    const handleMenuClick = () => {
-        setIsMenuOpen(prev => !prev);
+    const renderLinkSuelto = (item) => (
+        <a href={item.link} title={item.titulo} className='d-flex-center-between gap-10'>
+            {item.image ? (
+                <img className='submenu-list-link-img' src={item.image} alt={item['image-alt'] || item.titulo} />
+            ) : null}
+            <div className='w-100 d-flex-center-between'>
+                <div className='d-flex-column'>
+                    <h4 className='color-color-1 font-bold first-uppercase'>{item.titulo}</h4>
+                    <p className='text first-uppercase'>{item.texto}</p>
+                </div>
+
+                <span className="material-symbols-outlined text">chevron_right</span>
+            </div>
+        </a>
+    );
+
+    const renderListaGroup = (listaObj) => {
+        if (!listaObj || typeof listaObj !== 'object') return null;
+
+        const entries = Object.entries(listaObj);
+
+        return entries.map(([key, value]) => {
+            const title = key.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+            if (key === 'link-suelto') {
+                return (
+                    <div key={uuidv4()} className='submenu-lista-group submenu-lista-group-link-suelto'>
+                        {toArray(value).map((item) => (
+                            <div key={uuidv4()}>{renderLinkSuelto(item)}</div>
+                        ))}
+                    </div>
+                );
+            }
+
+            return (
+                <div key={uuidv4()} className='submenu-lista-group'>
+                    <h4 className='color-color-1 uppercase font-bold'>{title}</h4>
+                    {renderLinkList(value)}
+                </div>
+            );
+        });
     };
 
     return(
         <div className='header-center-container d-flex w-100'>
             <section className='header-center'>
-                <div className='d-flex-center-left gap-10'>
-                    <a href='https://kamas.pe' title='Kamas | Fabricantes de camas' className='header-logo'>
-                        <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={185} height={42} alt="Kamas"/>
-                    </a>
+                <a href='https://kamas.pe' title='Kamas | Fabricantes de camas' className='header-logo'>
+                    <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={185} height={42} alt="Kamas"/>
+                </a>
 
-                    <div className='search-bar-tablet'>
-                        <SearchBar/>
+                <div className='search-bar-tablet'>
+                    <SearchBar/>
+                </div>
+
+                <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
+                    <p>Menu</p>
+                    <div>
+                        <span className="material-symbols-outlined">menu</span>
+                        <span className="material-symbols-outlined">close</span>
                     </div>
+                </button>
 
-                    <button type='button' className={`menu-button ${isMenuOpen ? 'active' : ''}`} onClick={handleMenuClick}>
-                        <p>Menu</p>
-                        <div>
-                            <span className="material-symbols-outlined">menu</span>
-                            <span className="material-symbols-outlined">close</span>
-                        </div>
-                    </button>
+                <nav className={`menu-container ${isMenuOpen ? 'active' : ''}`}>
+                    <ul className='menu'>
+                        {categorias.map((categoria, index) => {
+                            const submenu = hasSubmenu(categoria);
+                            const icono = toArray(categoria.icono)[0];
+                            const image1 = toArray(categoria['image-1'])[0];
+                            const image2 = toArray(categoria['image-2'])[0];
 
-                    <nav className={`menu-container ${isMenuOpen ? 'active' : ''}`}>
-                        <ul className='menu'>
-                            {categories.categorias.map((categoria) => (
-                                <li key={uuidv4()} className={`menu-li ${activeCategory === categoria.id ? 'active' : ''}`} onClick={() => categoria.subCategorias && handleCategoryClick(categoria.id)}>
+                            return(
+                                <li key={categoria.id ?? uuidv4()}
+                                    className={`menu-li ${activeCategory === categoria.id ? 'active' : ''}`}
+                                    onClick={() => submenu && handleCategoryClick(categoria.id)}
+                                >
                                     <div className='menu-li-div'>
-                                        <a href={categoria.ruta} title={categoria.categoria} className='menu-link'>
-                                            {categoria.icono === "sell" ? (
-                                                <span className="material-symbols-outlined">{categoria.icono}</span>
-                                            ) : (
-                                                <img src={categoria.icono} alt={categoria.iconoAlt}/>
-                                            )}
-                                            <h2>{categoria.categoria}</h2>
+                                        <a href={categoria.link} title={`${categoria.categoría} | Kamas`} className='menu-link'>
+                                            {icono?.src ? (
+                                                <img src={icono.src} alt={icono.alt || categoria.categoría}/>
+                                            ) : null}
+                                            <h2 className='first-uppercase'>{categoria.categoría}</h2>
                                         </a>
 
-                                        {categoria.subCategorias && (
+                                        {submenu && (
                                             <button type='button' className='menu-link-button'>
                                                 <span className="material-symbols-outlined">keyboard_arrow_down</span>
                                             </button>
                                         )}
                                     </div>
 
-                                    {categoria.subCategorias && (
-                                        <div className={`submenu-container ${activeCategory === categoria.id ? 'active' : ''}`}>
+                                    {submenu && (
+                                        <div className={`submenu-container submenu-container-${index + 1} ${activeCategory === categoria.id ? 'active' : ''}`}>
                                             <nav className='submenu'>
-                                                {categoria.menuMensaje && (
-                                                    <div className='submenu-target submenu-target-1'>
-                                                        <h3 className='submenu-target-title'>{categoria.categoria}</h3>
-                                                        <p className='text'>{categoria.menuMensaje[0]?.text}</p>
-                                                    </div>
-                                                )}
+                                                <div className='submenu-lista-group submenu-lista-group-1'>
+                                                    <p className='block-title text-left color-color-1'>{categoria.categoría}</p>
 
-                                                {categoria.medidas && (
-                                                    <div className='submenu-target submenu-target-3'>
-                                                        <h3 className='submenu-target-title'>Medidas:</h3>
-                                                        <ul>
-                                                            {categoria.medidas.map((medida) => (
-                                                                <li key={uuidv4()}>
-                                                                    <a href={medida.ruta} title={medida.medida}>
-                                                                        <h4>{medida.medida}</h4>
-                                                                    </a>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    </div>
-                                                )}
+                                                    {toArray(categoria.textos).map((txt) => (
+                                                        <p key={uuidv4()} className='text first-uppercase'>{txt}</p>
+                                                    ))}
 
-                                                {categoria.subCategorias && (
-                                                    <div className='submenu-target submenu-target-2'>
-                                                        <h3 className='submenu-target-title'>{categoria.subCategoriasTitulo?.[0]?.text || 'Subcategorías'}:</h3>
-                                                        <ul>
-                                                            {categoria.subCategorias.map((sub) => (
-                                                                <li key={uuidv4()}>
-                                                                    <a href={sub.ruta} title={sub.subcategoria}>
-                                                                        <h4>{sub.subcategoria}</h4>
-                                                                    </a>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    </div>
-                                                )}
+                                                    <a className='margin-left button-link button-link-2' href={categoria.link}>
+                                                        <p className='button-link-text'>Ver todo</p>
+                                                        <span className="material-symbols-outlined">arrow_right_alt</span>
+                                                    </a>
 
-                                                {categoria.menuImg && (
-                                                    <div className='submenu-target submenu-target-4'>
-                                                        <img width={280} height={280} loading='lazy' src={categoria.menuImg[0]?.imgSrc} alt={categoria.menuImg[0]?.imgAlt || categoria.categoria}/>
+                                                    {image1?.src && (
+                                                        <img src={image1.src} alt={image1.alt || categoria.categoría}/>
+                                                    )}
+                                                </div>
+
+                                                {toArray(categoria.listas).map((listaObj, listaIndex) => {
+                                                    const isLinkSuelto = listaObj && typeof listaObj === 'object' && Object.prototype.hasOwnProperty.call(listaObj, 'link-suelto');
+
+                                                    return (
+                                                        <div key={uuidv4()} className={`submenu-lista-group submenu-lista-group-${listaIndex + 2} ${isLinkSuelto ? 'submenu-lista-group-link-suelto' : ''}`}>
+                                                            {renderListaGroup(listaObj)}
+                                                        </div>
+                                                    );
+                                                })}
+
+                                                {image2?.src && (
+                                                    <div className='submenu-lista-group submenu-lista-group-image-right'>
+                                                        <img loading='lazy' className='submenu-img-large' src={image2.src} alt={image2.alt || categoria.categoría}/>
                                                     </div>
                                                 )}
                                             </nav>
                                         </div>
                                     )}
                                 </li>
-                            ))}
-                        </ul>
-                    </nav>
-                </div>
+                            );
+                        })}
 
-                <div className='search-bar-mobile margin-left d-flex-center-right'>
-                    <SearchBar/>
-                </div>
+                        <li className='menu-li menu-li-ofert'>
+                            <div className='menu-li-div'>
+                                <a className='menu-link-ofert' href='/ofertas/' title='Ofertas | Kamas'>
+                                    <span className="material-symbols-outlined">sell</span>
+                                    <h2 className='first-uppercase'>Ofertas</h2>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+
+                <SearchBar/>
             </section>
         </div>
     )

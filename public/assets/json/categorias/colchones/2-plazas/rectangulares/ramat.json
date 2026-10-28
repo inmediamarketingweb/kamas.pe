@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "ramat",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/ramat/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS SÚPER ORTOPÉDICO RAMAT",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/2-plazas/",
+            "precioRegular": 1249,
+            "precioNormal": 1079,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K125MCN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/ramat/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Ramat en tamaño 2 plazas ofrece un descanso muy confortable gracias a su diseño súper ortopédico y su sistema de resortes Bonell con 15 filas, que brinda un soporte estable y duradero.",
+                "Cuenta con tela jacquard, espuma de 20 kg/m³, diseño de un solo lado y doble pestaña, que mejora su resistencia y forma. Su marco sellado y capacidad de soporte de 85 kg por persona lo convierten en una opción confiable para el uso diario.",
+                "Incluye 4 años de garantía."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "ramat",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "bonell",
+                    "cantiad-de-resortes": "15 filas",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "doble-pestaña": "Si",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

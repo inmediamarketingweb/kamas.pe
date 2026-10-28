@@ -1,0 +1,478 @@
+{
+    "productos":[
+        {
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/1/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - CUERO CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/1/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/2/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO -  CUERO ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/2/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/3/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO -  CUERO ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/3/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/4/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - PALO ROSA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/4/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/5/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/5/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/6/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - CUERO VIOLETA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/6/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/7/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/7/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/8/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - CUERO LILA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/8/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/9/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CUADROS 2 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/cuadros-2/1/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/10/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/cuadros-2/2/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/11/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CUADROS 2 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/cuadros-2/3/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/12/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/9/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/14/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/10/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/15/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/11/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/16/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/americanas/brazos-rectos/capitoneado/12/",
+            "precioRegular": 619,
+            "precioNormal": 519,
+            "precioVenta": 399,
+            "stock": 9,
+            "sku": "K52221N21",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/17/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-1/1/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/18/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-1/2/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/19/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 1 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-1/3/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoría": "cabeceras",
+            "tamaño": "2 plazas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/20/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 1 - MORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-1/4/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 1"
+                }
+            ]
+        }
+    ]
+}

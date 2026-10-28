@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "4 plazas",
+            "formato": "circulares",
+            "modelo-de-colchón": "safynnte",
+            "ruta": "/productos/colchones/4-plazas/circulares/safynnte/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS 4 PLAZAS SÚPER ORTOPÉDICO SAFYNNTE",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/circular-4-plazas/",
+            "precioRegular": 2399,
+            "precioNormal": 2099,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "K153CNXC1013",
+            "regalos": ["4 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "formatos":[
+                {
+                    "nombre": "Rectangulares",
+                    "ruta": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=safynnte"
+                }
+            ],
+            "mensajes":[
+                "Descubre una nueva forma de disfrutar el descanso con el colchón circular de 4 plazas Safynnte, diseñado para quienes buscan amplitud, comodidad y un diseño único. Su exclusiva forma circular transforma por completo el dormitorio, ofreciendo una generosa superficie de descanso que permite mayor libertad de movimiento y una experiencia más envolvente, aprovechando el espacio de una manera diferente a un colchón tradicional.",
+                "Perteneciente a la línea Súper Ortopédicos, el Safynnte ofrece un nivel de confort intermedio, logrando un equilibrio entre comodidad y soporte. Su estructura incorpora 25 filas de resortes de acero templado, junto con refuerzos centrales y un marco sellado, proporcionando una base estable, resistente y preparada para el descanso diario.",
+                "Su espuma de 20 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, brindando una superficie confortable y acogedora. Con 31 cm de grosor, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y contribuir a prolongar su vida útil.",
+                "Con capacidad de soporte de hasta 100 kg por persona y 6 años de garantía, el Safynnte Circular de 4 plazas es ideal para quienes quieren disfrutar de un espacio de descanso extraordinariamente amplio, con la comodidad de un colchón ortopédico y el diseño exclusivo de una forma circular."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "4 plazas",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "safynnte",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "25 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "31cm.",
+                    "soporte-de-peso": "100kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

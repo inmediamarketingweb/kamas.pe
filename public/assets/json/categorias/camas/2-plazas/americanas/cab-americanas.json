@@ -1,0 +1,454 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - UVA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/1/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/2/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/3/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/4/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/5/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - MORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/6/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA ENCAJONADA + CABECERA AÉREA CAPITONEADO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/7/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K2222113N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA ENCAJONADA + CABECERA AÉREA LINEAS - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/8/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineas"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CLÁSICA - ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/9/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "clásica"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CLÁSICA 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/10/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "clásica 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CLÁSICA 2 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/11/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "clásica 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CLÁSICA - TEJIDO CASPEADO PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/12/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "clásica 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/13/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADO + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/20/",
+            "precioRegular": 1339,
+            "precioNormal": 1019,
+            "precioVenta": 799,
+            "stock": 15,
+            "sku": "K2222113N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA LINEAL 1 - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/21/",
+            "precioRegular": 1249,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222113N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        }
+    ]
+}

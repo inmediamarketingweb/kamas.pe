@@ -1,0 +1,79 @@
+{
+    "productos":[
+        {
+            "id": 102,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/22/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - AZUL ELECTRICO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/2/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N16",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/23/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/3/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N17",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/25/",
+            "nombre": "CABECERA PEDESTAL KING VESSO - LILA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-curvos/vesso/5/",
+            "precioRegular": 1619,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K54242N19",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/rucay/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS ANÁTOMICO RUCAY",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/2-plazas/",
+            "precioRegular": 619,
+            "precioNormal": 539,
+            "precioVenta": 349,
+            "stock": 99,
+            "sku": "K122CN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/rucay/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Rucay es un colchón básico, ideal para quienes buscan una opción económica pero confiable. Su estructura de resortes Bonell con 12 filas brinda un soporte adecuado y una sensación confortable para el descanso diario.",
+                "Tiene tela de algodón tejido en punto, espuma de 16 kg/m³, diseño de un solo lado y marco sellado, pensado para un uso práctico y sin complicaciones.",
+                "Soporta hasta 70 kg por persona y ofrece 1 año de garantía."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "12 filas en forma vertical",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "marco": "Marco sellado",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

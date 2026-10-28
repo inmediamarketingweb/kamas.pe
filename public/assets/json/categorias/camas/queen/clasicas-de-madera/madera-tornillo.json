@@ -1,0 +1,221 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA PEDESTAL + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/sin-tapizar/5/",
+            "precioRegular": 3299,
+            "precioNormal": 2899,
+            "precioVenta": 2699,
+            "stock": 15,
+            "sku": "K2373MT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA PEDESTAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/sin-tapizar/6/",
+            "precioRegular": 3399,
+            "precioNormal": 2999,
+            "precioVenta": 2799,
+            "stock": 15,
+            "sku": "K2373MT11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA + SABANERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tornillo/sin-tapizar/1/",
+            "precioRegular": 3999,
+            "precioNormal": 3599,
+            "precioVenta": 3299,
+            "stock": 15,
+            "sku": "K2373MT12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tornillo/sin-tapizar/2/",
+            "precioRegular": 4799,
+            "precioNormal": 4299,
+            "precioVenta": 3899,
+            "stock": 15,
+            "sku": "K2373MT13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tornillo/sin-tapizar/3/",
+            "precioRegular": 4799,
+            "precioNormal": 4299,
+            "precioVenta": 3899,
+            "stock": 15,
+            "sku": "K2373MT14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tornillo/sin-tapizar/4/",
+            "precioRegular": 4799,
+            "precioNormal": 4299,
+            "precioVenta": 3899,
+            "stock": 15,
+            "sku": "K2373MT14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA QUEEN DE MADERA TORNILLO + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tornillo/sin-tapizar/5/",
+            "precioRegular": 4799,
+            "precioNormal": 4299,
+            "precioVenta": 3899,
+            "stock": 15,
+            "sku": "K2373MT15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "de madera",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

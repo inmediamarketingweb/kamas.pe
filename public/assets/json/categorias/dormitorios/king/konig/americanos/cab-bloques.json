@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 398,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/konig/212/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA XPLORER - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3699,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242873N30",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "konig",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

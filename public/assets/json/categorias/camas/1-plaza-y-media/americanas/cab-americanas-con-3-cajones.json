@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas con cajones",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/16/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 3 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1379,
+            "precioNormal": 979,
+            "precioVenta": 779,
+            "stock": 12,
+            "sku": "K2215113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

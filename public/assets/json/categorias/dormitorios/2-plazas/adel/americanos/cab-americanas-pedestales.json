@@ -1,0 +1,265 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/1/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - MORADO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/2/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/3/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/4/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/4/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/5/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/6/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - TURQUESA",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/6/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/7/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/7/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA PEDESTAL CLASICA - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-1/8/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 799,
+            "stock": 13,
+            "sku": "K312212N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "adel",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/adel/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS ADEL + CABECERA AÉREA CLÁSICA 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/adel/pedestales/brazos-rectos/clasica-2/1/",
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 699,
+            "stock": 13,
+            "sku": "K312212N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Adel",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 2"
+                }
+            ]
+        }
+    ]
+}

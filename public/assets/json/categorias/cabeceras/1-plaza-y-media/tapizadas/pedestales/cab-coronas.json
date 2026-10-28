@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "id": 11,
+            "categoría": "cabeceras",
+            "tamaño": "1 plaza y media",
+            "línea": "tapizadas",
+            "tipo-de-cabecera": "pedestales",
+            "ruta": "/productos/cabeceras/1-plaza-y-media/pedestales/11/",
+            "nombre": "CABECERA PEDESTAL 1 PLAZA Y MEDIA ABANICO - ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/1-plaza-y-media/pedestales/otras-formas/sin-brazos/abanico/1/",
+            "precioRegular": 719,
+            "precioNormal": 599,
+            "precioVenta": 469,
+            "stock": 9,
+            "sku": "K515270N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "1 plaza y media",
+                    "línea": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Abanico"
+                }
+            ]
+        }
+    ]
+}

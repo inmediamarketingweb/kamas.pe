@@ -80,19 +80,3 @@
 .copied.active{
     opacity: 1;
 }
-
-.product-page-top-info{
-    padding-bottom: 20px;
-    position: relative;
-}
-
-.product-page-top-info::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 2px;
-    background: rgba(0 0 0 / 0.25);
-    border-radius: 10px;
-}

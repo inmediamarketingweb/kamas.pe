@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "id": 440,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "thameo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/256/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO POCKET + CABECERA AÉREA CUADROS 2 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/cuadros-2/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2749,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K324266N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 451,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "thameo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/thameo-pocket/267/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS THAMEO POCKET + CABECERA AÉREA RECTANGULAR 2 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/thameo-pocket/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 3449,
+            "precioNormal": 2749,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K324266N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        }
+    ]
+}

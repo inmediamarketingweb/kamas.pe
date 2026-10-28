@@ -1,0 +1,280 @@
+{
+    "productos":[
+        {
+            "id": 48,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/48/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/capitoneado-1/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N57",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/50/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/capitoneado-1/3/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N58",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            
+            "id": 51,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/51/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 1 - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/capitoneado-1/4/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N59",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 1"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/52/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 2 - CENIZO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/capitoneado-2/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N60",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 2"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/53/",
+            "nombre": "CABECERA AEREA CON PATAS KING CAPITONEADO 3 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/capitoneado-3/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N61",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado 3"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/54/",
+            "nombre": "CABECERA AEREA CON PATAS KING CLASICA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/clasica/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N62",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Clasica"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/55/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/cuadros-1/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N63",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/56/",
+            "nombre": "CABECERA AEREA CON PATAS KING CUADROS 2 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/cuadros-2/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N64",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/58/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 3 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/lineal-3/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N66",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/59/",
+            "nombre": "CABECERA AEREA CON PATAS KING LINEAL 4 - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/lineal-4/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N67",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 4"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "categoría": "cabeceras",
+            "subcategoría": "aéreas con patas",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/aereas-con-patas/64/",
+            "nombre": "CABECERA AEREA CON PATAS KING RETANGULAR 2 - PLOMO ANTIFLUIDO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/americanas/rectangular-2/1/",
+            "precioRegular": 619,
+            "precioNormal": 859,
+            "precioVenta": 629,
+            "stock": 9,
+            "sku": "K54150N72",
+            "tipo-de-envio": "Envío aplicado",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Retangular 2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 1 CAJÓN - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/1/",
+            "precioRegular": 309,
+            "precioNormal": 289,
+            "precioVenta": 219,
+            "stock": 14,
+            "sku": "K7133N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 1 CAJÓN - BLANCO CON AZUL",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/2/",
+            "precioRegular": 309,
+            "precioNormal": 289,
+            "precioVenta": 219,
+            "stock": 14,
+            "sku": "K7133N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 1 CAJÓN - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/3/",
+            "precioRegular": 309,
+            "precioNormal": 289,
+            "precioVenta": 219,
+            "stock": 14,
+            "sku": "K7133N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 2 CAJONES - GRIS",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/4/",
+            "precioRegular": 319,
+            "precioNormal": 299,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K7133N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 2 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/5/",
+            "precioRegular": 319,
+            "precioNormal": 299,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K7133N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 2 CAJONES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/6/",
+            "precioRegular": 319,
+            "precioNormal": 299,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K7133N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/7/",
+            "precioRegular": 319,
+            "precioNormal": 299,
+            "precioVenta": 229,
+            "stock": 14,
+            "sku": "K7133N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "2"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "COMBO 2 VELADORES DE 1 CAJÓN - BLANCO CON GRIS",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/8/",
+            "precioRegular": 689,
+            "precioNormal": 529,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "K7133N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "COMBO 2 VELADORES DE 1 CAJÓN - BLANCO CON AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/9/",
+            "precioRegular": 689,
+            "precioNormal": 529,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "K7133N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "COMBO 2 VELADORES DE 1 CAJÓN - BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/10/",
+            "precioRegular": 689,
+            "precioNormal": 529,
+            "precioVenta": 479,
+            "stock": 14,
+            "sku": "K7133N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/11/",
+            "precioRegular": 429,
+            "precioNormal": 349,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "K7133N20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - BLANCO CON NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/12/",
+            "precioRegular": 429,
+            "precioNormal": 349,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "K7133N21",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - ROJO CON BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/13/",
+            "precioRegular": 429,
+            "precioNormal": 349,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "K7133N22",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "clásicos",
+            "nombre": "VELADOR CLÁSICO 3 CAJONES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/clasicos/14/",
+            "precioRegular": 429,
+            "precioNormal": 349,
+            "precioVenta": 319,
+            "stock": 14,
+            "sku": "K7133N23",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "clásicos",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "3"
+                }
+            ]
+        }
+    ]
+}

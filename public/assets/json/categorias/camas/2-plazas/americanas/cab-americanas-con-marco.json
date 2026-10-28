@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/13/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA AÉREA CAPITONEADA CON MARCO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/aereas-con-patas/con-marco/sin-brazos/corona/1/",
+            "precioRegular": 1449,
+            "precioNormal": 949,
+            "precioVenta": 729,
+            "stock": 15,
+            "sku": "K2222114N10",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

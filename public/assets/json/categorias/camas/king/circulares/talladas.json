@@ -1,0 +1,97 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR TALLADA KING CORONA DEL REY + 2 VELADORES - DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/talladas/1/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2121NXT10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "tallada",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR TALLADA KING CORONA DEL REY + 2 VELADORES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/talladas/2/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2121NXT11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "tallada",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR TALLADA KING CORONA DEL REY + 2 VELADORES - DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/talladas/3/",
+            "precioRegular": 8999,
+            "precioNormal": 8499,
+            "precioVenta": 7999,
+            "stock": 14,
+            "sku": "K2121NXT12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "madera": "tornillo",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "tallada",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        }
+    ]
+}

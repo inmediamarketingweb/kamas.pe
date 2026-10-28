@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/22/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING CON 4 CAJONES + CABECERA PEDESTAL WELO - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/bloques/welo/1/",
+            "precioRegular": 2699,
+            "precioNormal": 2099,
+            "precioVenta": 1499,
+            "stock": 15,
+            "sku": "K222116N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+            "categoría": "sofás",
+            "línea": "juegos de sala",
+            "tamaño": "1",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/juegos-de-sala/1/2/",
+            "nombre": "SOFÁ LLANO KING MODELO LINEAL 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/sofas/juegos-de-sala/39/",
+            "precioRegular": 4159,
+            "precioNormal": 3399,
+            "precioVenta": 2999,
+            "stock": 9,
+            "sku": "K6322NX11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sofás",
+                    "línea": "juegos de sala",
+                    "tamaño": "1",
+                    "colección": "tapizados",
+                    "modelo": "juegos de sala"
+                }
+            ]
+        }
+    ]
+}

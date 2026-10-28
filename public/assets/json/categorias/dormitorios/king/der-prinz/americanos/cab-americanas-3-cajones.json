@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/9/",
+            "nombre": "DORMITORIO AMERICANO KING CON 3 CAJONES AL PIE + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/bloques/sin-brazos/moki/1/",
+            "precioRegular": 3789,
+            "precioNormal": 2919,
+            "precioVenta": 2049,
+            "stock": 9,
+            "sku": "K324153N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ]
+}

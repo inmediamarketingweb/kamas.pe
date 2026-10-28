@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/sarki/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 2 VELADOR VINTAGE - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 2249,
+            "precioNormal": 1989,
+            "precioVenta": 1349,
+            "stock": 13,
+            "sku": "K322233N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

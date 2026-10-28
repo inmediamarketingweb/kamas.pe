@@ -1,9 +1,22 @@
 import { useEffect, useRef, useState } from "react";
 
-function LazyImage({ src, alt, width, height, className, fetchPriority = "low", ...props }) {
+function LazyImage({
+    src,
+    srcs = [], // 👈 array de fuentes alternativas (fallback)
+    alt,
+    width,
+    height,
+    className,
+    fetchPriority = "low",
+    ...props
+}) {
     const imgRef = useRef();
     const [isLoaded, setIsLoaded] = useState(false);
     const [isVisible, setIsVisible] = useState(false);
+    const [currentSrc, setCurrentSrc] = useState(src);
+
+    // Lista combinada: src + srcs alternativos (sin duplicados ni vacíos)
+    const candidates = [src, ...srcs].filter(Boolean);
 
     useEffect(() => {
         if (!imgRef.current) return;
@@ -16,8 +29,8 @@ function LazyImage({ src, alt, width, height, className, fetchPriority = "low", 
                 }
             },
             {
-                rootMargin: '50px',
-                threshold: 0.01 
+                rootMargin: "50px",
+                threshold: 0.01,
             }
         );
 
@@ -26,33 +39,58 @@ function LazyImage({ src, alt, width, height, className, fetchPriority = "low", 
     }, []);
 
     useEffect(() => {
-        if (isVisible && src) {
+        if (!isVisible || candidates.length === 0) return;
+
+        let cancelled = false;
+        let index = 0;
+
+        const tryNext = () => {
+            if (cancelled || index >= candidates.length) return;
+            const candidate = candidates[index];
             const img = new Image();
-            img.src = src;
-            img.onload = () => setIsLoaded(true);
-        }
-    }, [isVisible, src]);
+            img.src = candidate;
+            img.onload = () => {
+                if (cancelled) return;
+                setCurrentSrc(candidate);
+                setIsLoaded(true);
+            };
+            img.onerror = () => {
+                index += 1;
+                tryNext();
+            };
+        };
+
+        tryNext();
+
+        return () => {
+            cancelled = true;
+        };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [isVisible, candidates.join("|")]);
 
     const getLoadingValue = () => {
-        if (fetchPriority === 'high') {
-            return 'eager';
-        }
-        return 'lazy';
+        if (fetchPriority === "high") return "eager";
+        return "lazy";
     };
 
     return (
-        <img ref={imgRef}
-            src={isLoaded ? src : "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='" + width + "' height='" + height + "'%3E%3Crect width='100%' height='100%' fill='%23f5f5f5'/%3E%3C/svg%3E"}
+        <img
+            ref={imgRef}
+            src={
+                isLoaded
+                    ? currentSrc
+                    : `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='${width}' height='${height}'%3E%3Crect width='100%' height='100%' fill='%23f5f5f5'/%3E%3C/svg%3E`
+            }
             alt={alt}
             width={width}
             height={height}
             loading={getLoadingValue()}
             decoding="async"
-            className={`${className} ${isLoaded ? 'loaded' : 'loading'}`}
-            style={{ 
-                backgroundColor: '#FFFFFF',
-                transition: 'opacity 0.3s',
-                opacity: isLoaded ? 1 : 0.5
+            className={`${className} ${isLoaded ? "loaded" : "loading"}`}
+            style={{
+                backgroundColor: "#FFFFFF",
+                transition: "opacity 0.3s",
+                opacity: isLoaded ? 1 : 0.5,
             }}
             {...props}
         />

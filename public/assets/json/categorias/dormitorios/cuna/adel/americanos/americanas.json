@@ -1,0 +1,154 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "dormitorios",
+            "tamaño": "cuna",
+            "modelo-de-colchón": "adel",
+            "línea": "americanas",
+            "nombre": "CUNA ENCOFRADO ALTO CON DISEÑO CAPITONEADO + COLCHON KAMAS ADEL - GRIS",
+            "fotos": "/assets/imagenes/productos/dormitorios/cunas/tapizadas/1/",
+            "precioRegular": 1699,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 15,
+            "sku": "K200NCA10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "cuna",
+                    "modelo-de-colchón": "adel",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "dormitorios",
+            "tamaño": "cuna",
+            "modelo-de-colchón": "adel",
+            "línea": "americanas",
+            "nombre": "CUNA ENCOFRADO ALTO DISEÑO CONEJO + COLCHÓN KAMAS ADEL - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/dormitorios/cunas/tapizadas/3/",
+            "precioRegular": 1899,
+            "precioNormal": 1099,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K200NCA11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "cuna",
+                    "modelo-de-colchón": "adel",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "cojeno"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "dormitorios",
+            "tamaño": "cuna",
+            "modelo-de-colchón": "adel",
+            "línea": "americanas",
+            "nombre": "CUNA ENCOFRADO ALTO DISEÑO CORONA + COLCHÓN KAMAS ADEL - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cunas/tapizadas/4/",
+            "precioRegular": 1899,
+            "precioNormal": 1099,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K200NCA12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "cuna",
+                    "modelo-de-colchón": "adel",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "corona"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "dormitorios",
+            "tamaño": "cuna",
+            "modelo-de-colchón": "adel",
+            "línea": "americanas",
+            "nombre": "CUNA ENCOFRADO ALTO CON BARANDA DISEÑO CAPITONEADO + COLCHÓN KAMAS ADEL  - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cunas/tapizadas/5/",
+            "precioRegular": 1899,
+            "precioNormal": 1099,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K200NCA13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "cuna",
+                    "modelo-de-colchón": "adel",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "dormitorios",
+            "tamaño": "cuna",
+            "modelo-de-colchón": "adel",
+            "línea": "americanas",
+            "nombre": "CUNA MECEDORA ENCOFRADO ALTO DISEÑO CAPITONEADO + COLCHÓN KAMAS ADEL - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cunas/tapizadas/6/",
+            "precioRegular": 1899,
+            "precioNormal": 1099,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K200NCA14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "cuna",
+                    "modelo-de-colchón": "adel",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera",
+                    "diseño": "capitoneado"
+                }
+            ]
+        }
+    ]
+}

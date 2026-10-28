@@ -1,0 +1,63 @@
+{
+    "productos":[
+        {
+            "id": 176,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/118/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/capitoneado/3/",
+            "precioRegular": 1799,
+            "precioNormal": 2359,
+            "precioVenta": 1657,
+            "stock": 15,
+            "sku": "K224223N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 177,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/119/",
+            "nombre": "BOX KING AMERICANA + CABECERA PEDESTAL CAPITONEADA + 2 VELADORES VINTAGE - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/pedestales/1/",
+            "precioRegular": 1799,
+            "precioNormal": 2359,
+            "precioVenta": 1657,
+            "stock": 15,
+            "sku": "K224223N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        }
+    ]
+}

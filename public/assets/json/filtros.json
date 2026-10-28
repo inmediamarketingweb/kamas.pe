@@ -1,9 +1,12 @@
 [
     {
-        "categoria": "colchones",
+        "categoría": "colchones",
         "filtros":[
             {
                 "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
                     {
                         "tamaño": "1 plaza y media"
                     },
@@ -22,7 +25,17 @@
                 ]
             },
             {
-                "línea-de-colchón":[
+                "formato":[
+                    {
+                        "formato": "rectangulares"
+                    },
+                    {
+                        "formato": "circulares"
+                    }
+                ]
+            },
+            {
+                "sensación-de-colchón":[
                     {
                         "línea-de-colchón": "semi ortopédicos"
                     },
@@ -115,10 +128,13 @@
         ]
     },
     {
-        "categoria": "camas",
+        "categoría": "camas",
         "filtros":[
             {
                 "tamaño":[
+                    {
+                        "tamaño": "cuna"
+                    },
                     {
                         "tamaño": "1 plaza"
                     },
@@ -133,33 +149,103 @@
                     },
                     {
                         "tamaño": "king"
+                    },
+                    {
+                        "tamaño": "4 plazas"
+                    },
+                    {
+                        "tamaño": "mixto"
                     }
                 ]
             },
             {
                 "línea":[
                     {
-                        "línea": "infantil"
+                        "línea": "americanas"
                     },
                     {
-                        "línea": "clásica"
+                        "línea": "europeas"
                     },
                     {
-                        "línea": "americana"
+                        "línea": "clásicas de madera"
                     },
                     {
-                        "línea": "europea"
+                        "línea": "camas espacios"
+                    },
+                    {
+                        "línea": "camarotes"
+                    },
+                    {
+                        "línea": "infantiles"
+                    },
+                    {
+                        "línea": "cunas"
+                    },
+                    {
+                        "línea": "divanes"
+                    },
+                    {
+                        "línea": "smart"
                     },
                     {
                         "línea": "nube"
                     },
                     {
-                        "línea": "circular"
+                        "línea": "talladas"
+                    },
+                    {
+                        "línea": "acero inoxidable"
+                    },
+                    {
+                        "línea": "circulares"
+                    }
+                ]
+            },
+            {
+                "madera":[
+                    {
+                        "madera": "pino"
+                    },
+                    {
+                        "madera": "tornillo"
+                    },
+                    {
+                        "madera": "cedro"
                     }
                 ]
             },
             {
                 "cajones":[
+                    {
+                        "cajones": "si"
+                    },
+                    {
+                        "cajones": "no"
+                    }
+                ]
+            },
+            {
+                "veladores":[
+                    {
+                        "veladores": "si"
+                    },
+                    {
+                        "veladores": "no"
+                    }
+                ]
+            },
+            {
+                "baúl":[
+                    {
+                        "cajones": "si"
+                    },
+                    {
+                        "cajones": "no"
+                    }
+                ]
+            },
+            {
+                "piecera":[
                     {
                         "cajones": "si"
                     },
@@ -179,15 +265,34 @@
                 ]
             },
             {
+                "línea-de-cabecera":[
+                    {
+                        "tipo-de-cabecera": "sin cabecera"
+                    },
+                    {
+                        "tipo-de-cabecera": "tapizadas"
+                    },
+                    {
+                        "tipo-de-cabecera": "de madera"
+                    },
+                    {
+                        "tipo-de-cabecera": "talladas"
+                    },
+                    {
+                        "tipo-de-cabecera": "de acero inoxidable"
+                    }
+                ]
+            },
+            {
                 "tipo-de-cabecera":[
                     {
-                        "tipo-de-cabecera": "aérea"
+                        "tipo-de-cabecera": "aéreas"
                     },
                     {
-                        "tipo-de-cabecera": "aérea con patas"
+                        "tipo-de-cabecera": "aéreas con patas"
                     },
                     {
-                        "tipo-de-cabecera": "pedestal"
+                        "tipo-de-cabecera": "pedestales"
                     }
                 ]
             },
@@ -197,7 +302,7 @@
                         "diseño-de-cabecera": "infantil"
                     },
                     {
-                        "diseño-de-cabecera": "clásica"
+                        "diseño-de-cabecera": "clásicas de madera"
                     },
                     {
                         "diseño-de-cabecera": "americanas"
@@ -206,7 +311,7 @@
                         "diseño-de-cabecera": "con marco"
                     },
                     {
-                        "diseño-de-cabecera": "corona"
+                        "diseño-de-cabecera": "coronas"
                     },
                     {
                         "diseño-de-cabecera": "bloques"
@@ -238,10 +343,13 @@
         ]
     },
     {
-        "categoria": "dormitorios",
+        "categoría": "dormitorios",
         "filtros":[
             {
                 "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
                     {
                         "tamaño": "1 plaza y media"
                     },
@@ -262,16 +370,16 @@
             {
                 "línea":[
                     {
-                        "línea": "clásicos"
-                    },
-                    {
                         "línea": "americanos"
                     },
                     {
                         "línea": "europeos"
                     },
                     {
-                        "línea": "cama nube"
+                        "línea": "clásicos de madera"
+                    },
+                    {
+                        "línea": "nube"
                     },
                     {
                         "línea": "circular"
@@ -398,145 +506,13 @@
         ]
     },
     {
-        "categoria": "camas funcionales",
+        "categoría": "cabeceras",
         "filtros":[
-            {
-                "subcategoría":[
-                    {
-                        "subcategoría": "box espacio",
-                        "colchón":[
-                            {
-                                "colchón": "si"
-                            },
-                            {
-                                "colchón": "no"
-                            }
-                        ]
-                    },
-                    {
-                        "subcategoría": "box con baúl"
-                    },
-                    {
-                        "subcategoría": "divanes"
-                    },
-                    {
-                        "subcategoría": "camarotes"
-                    },
-                    {
-                        "subcategoría": "cunas"
-                    }
-                ]
-            },
-            {
-                "línea":[
-                    {
-                        "línea": "clásica"
-                    },
-                    {
-                        "línea": "americana"
-                    },
-                    {
-                        "línea": "europea"
-                    },
-                    {
-                        "línea": "premium"
-                    }
-                ]
-            },
-            {
-                "cajones":[
-                    {
-                        "cajones": "si"
-                    },
-                    {
-                        "cajones": "no"
-                    }
-                ]
-            },
-            {
-                "base-encajonada":[
-                    {
-                        "base-encajonada": "si"
-                    },
-                    {
-                        "base-encajonada": "no"
-                    }
-                ]
-            },
-            {
-                "tipo-de-cabecera":[
-                    {
-                        "tipo-de-cabecera": "aérea"
-                    },
-                    {
-                        "tipo-de-cabecera": "aérea con patas"
-                    },
-                    {
-                        "tipo-de-cabecera": "pedestal"
-                    }
-                ]
-            },
-            {
-                "diseño-de-cabecera":[
-                    {
-                        "diseño-de-cabecera": "infantil"
-                    },
-                    {
-                        "diseño-de-cabecera": "clásica"
-                    },
-                    {
-                        "diseño-de-cabecera": "americana"
-                    },
-                    {
-                        "diseño-de-cabecera": "con marco"
-                    },
-                    {
-                        "diseño-de-cabecera": "corona"
-                    },
-                    {
-                        "diseño-de-cabecera": "bloques"
-                    },
-                    {
-                        "diseño-de-cabecera": "otras formas"
-                    }
-                ]
-            },
-            {
-                "brazos-de-cabecera":[
-                    {
-                        "brazos-de-cabecera": "sin brazos"
-                    },
-                    {
-                        "brazos-de-cabecera": "brazos rectos"
-                    },
-                    {
-                        "brazos-de-cabecera": "brazos curvos"
-                    },
-                    {
-                        "brazos-de-cabecera": "brazos p"
-                    },
-                    {
-                        "brazos-de-cabecera": "brazos seahorse"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "categoria": "cabeceras",
-        "filtros":[
-            {
-                "línea":[
-                    {
-                        "línea": "Americana"
-                    },
-                    {
-                        "línea": "Premium"
-                    }
-                ]
-            },
             {
                 "tamaño":[
+                    {
+                        "tamaño": "1 plaza"
+                    },
                     {
                         "tamaño": "1 plaza y media"
                     },
@@ -548,6 +524,40 @@
                     },
                     {
                         "tamaño": "King"
+                    },
+                    {
+                        "tamaño": "4 plazas"
+                    }
+                ]
+            },
+            {
+                "línea":[
+                    {
+                        "línea": "tapizadas"
+                    },
+                    {
+                        "línea": "De madera"
+                    },
+                    {
+                        "línea": "Talladas"
+                    },
+                    {
+                        "línea": "De acero inoxidable"
+                    },
+                    {
+                        "línea": "Con LED"
+                    },
+                    {
+                        "línea": "Con veladores integrados"
+                    },
+                    {
+                        "línea": "Con almacenamiento"
+                    },
+                    {
+                        "línea": "Para camas circulares"
+                    },
+                    {
+                        "línea": "Infantiles"
                     }
                 ]
             },
@@ -560,7 +570,7 @@
                         "tipo-de-cabecera": "Aéreas con patas"
                     },
                     {
-                        "tipo-de-cabecera": "Pedestal"
+                        "tipo-de-cabecera": "Pedestales"
                     }
                 ]
             },
@@ -568,9 +578,6 @@
                 "diseño-de-cabecera":[
                     {
                         "diseño-de-cabecera": "Infantiles"
-                    },
-                    {
-                        "diseño-de-cabecera": "Clásica"
                     },
                     {
                         "diseño-de-cabecera": "Americanas"
@@ -611,30 +618,33 @@
         ]
     },
     {
-        "categoria": "sofás",
+        "categoría": "sofás",
         "filtros":[
             {
-                "modelo":[
+                "línea":[
                     {
-                        "modelo": "Juegos de sala"
+                        "línea": "Sófas fijos"
                     },
                     {
-                        "modelo": "Seccionales"
+                        "línea": "Seccionales"
                     },
                     {
-                        "modelo": "Sófa cama"
+                        "línea": "Sófas camas"
                     },
                     {
-                        "modelo": "Reclinables"
+                        "línea": "Reclinables"
                     },
                     {
-                        "modelo": "Sofás y sillones"
+                        "línea": "Juegos de sala"
                     },
                     {
-                        "modelo": "Mecedoras"
+                        "línea": "Sillones"
                     },
                     {
-                        "modelo": "Butacas"
+                        "línea": "Butacas"
+                    },
+                    {
+                        "línea": "Mecedoras"
                     }
                 ]
             },
@@ -660,7 +670,38 @@
         ]
     },
     {
-        "categoria": "complementos",
+        "categoría": "pet",
+        "filtros":[
+            {
+                "subcategoría":[
+                    {
+                        "subcategoría": "camas tapizadas"
+                    }
+                ]
+            },
+            {
+                "tamaño":[
+                    {
+                        "tamaño": "s"
+                    },
+                    {
+                        "tamaño": "m"
+                    },
+                    {
+                        "tamaño": "l"
+                    },
+                    {
+                        "tamaño": "xl"
+                    },
+                    {
+                        "tamaño": "xxl"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoría": "complementos",
         "filtros":[
             {
                 "subcategoría":[
@@ -684,6 +725,13 @@
                     },
                     {
                         "subcategoría": "Cama perro"
+                    }
+                ]
+            },
+            {
+                "línea":[
+                    {
+                        "línea": "acero inoxidable"
                     }
                 ]
             },

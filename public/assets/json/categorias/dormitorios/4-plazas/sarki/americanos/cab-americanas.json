@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/1/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/", 
+            "precioRegular": 4399,
+            "precioNormal": 3499,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K325233N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/2/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/2/",
+            "precioRegular": 4399,
+            "precioNormal": 3499,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K325233N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/3/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/3/",
+            "precioRegular": 4399,
+            "precioNormal": 3499,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K325233N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/sarki/5/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS SARKI + CABECERA AÉREA CUADROS 2 + 2 PUFF - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/sarki/aereas-con-patas/americanas/sin-brazos/cuadros-2/5/",
+            "precioRegular": 4399,
+            "precioNormal": 3499,
+            "precioVenta": 2299,
+            "stock": 13,
+            "sku": "K325233N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

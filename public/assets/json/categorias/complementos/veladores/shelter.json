@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "shelter",
+            "ruta": "/productos/complementos/veladores/shelter/1/",
+            "nombre": "VELADOR SHELTER 6 CAJONES - BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/1/",
+            "precioRegular": 499,
+            "precioNormal": 419,
+            "precioVenta": 399,
+            "stock": 14,
+            "sku": "K712N10",
+            "tipo-de-envio": "Envío preferente",
+            "video":[
+                {
+                    "ruta": "/assets/imagenes/productos/complementos/veladores/shelter/1/video.mp4",
+                    "url": "https://www.tiktok.com/@kamas.pe/video/7303605519950826757"
+                }
+            ],
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "shelter",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "6"
+                }
+            ]
+        },
+        {
+            "categoria": "complementos",
+            "subcategoria": "veladores",
+            "modelo": "shelter",
+            "ruta": "/productos/complementos/veladores/shelter/2/",
+            "nombre": "VELADOR SHELTER 6 CAJONES - NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/shelter/2/",
+            "precioRegular": 499,
+            "precioNormal": 419,
+            "precioVenta": 399,
+            "stock": 14,
+            "sku": "K712N11",
+            "tipo-de-envio": "Envío preferente",
+            "video":[
+                {
+                    "ruta": "/assets/imagenes/productos/complementos/veladores/shelter/2/video.mp4",
+                    "url": "https://www.tiktok.com/@kamas.pe/video/7302050100581371142"
+                }
+            ],
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "shelter",
+                    "material": "melamine",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "6"
+                }
+            ]
+        }
+    ]
+}

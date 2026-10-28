@@ -1,0 +1,69 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/1-plaza-y-media/",
+            "precioRegular": 659,
+            "precioNormal": 539,
+            "precioVenta": 319,
+            "stock": 99,
+            "sku": "K1153CN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/sarki/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/sarki/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=sarki"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Sarki es el modelo insignia de la marca, reconocido por su durabilidad, comodidad y excelente relación calidad-precio. Ofrece un confort ortopédico y confortable, gracias a su sistema de resortes Bonell con 9 filas, espuma de 18 kg/m³ y una suave tela de algodón tejido en punto.",
+                "Su estructura de uso por ambos lados y marco sellado brinda estabilidad y una larga vida útil. Soporta hasta 65 kg por persona e incluye 3 años de garantía, convirtiéndose en la opción clásica y confiable para quienes buscan descanso seguro y confortable."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "9 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "2 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/1/",
+            "precioRegular": 3349,
+            "precioNormal": 2699,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "K442NMP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO CON 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1899,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K442NMP11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/3/",
+            "precioRegular": 2499,
+            "precioNormal": 1999,
+            "precioVenta": 1699,
+            "stock": 9,
+            "sku": "K442NMP12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO CON 2 CAJONES Y LIBRERO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/4/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K442NMP13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO CON SABANERA - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/5/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K442NMP14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO CON LIBRERO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/6/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K442NMP15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA + 2 CUNAS + ESCALERA CON CAJONES + CAJONES - BLANCO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/7/",
+            "precioRegular": 3099,
+            "precioNormal": 2699,
+            "precioVenta": 2399,
+            "stock": 9,
+            "sku": "K442NMP16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO CON SABANERA - NOGAL OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/8/",
+            "precioRegular": 3199,
+            "precioNormal": 2399,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K442NMP17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/9/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K442NMP18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "pino",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA PINO - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-pino/10/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K442NMP19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "pino"
+                }
+            ]
+        }
+    ]
+}

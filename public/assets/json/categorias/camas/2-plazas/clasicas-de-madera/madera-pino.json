@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoria": "camas",
+            "tamaño": "2 plazas",
+            "línea": "clásicas de madera",
+            "madera": "pino",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS PINO + CABECERA AÉREA + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/clasicas-de-madera/sin-tapizar/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2999,
+            "precioVenta": 2799,
+            "stock": 15,
+            "sku": "K223NMP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoria": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "clásicas de madera",
+                    "madera": "pino",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "piecera": "si",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

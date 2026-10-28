@@ -1,0 +1,75 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "4 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/4-plazas/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS 4 PLAZAS ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/4-plazas/",
+            "precioRegular": 4199,
+            "precioNormal": 2999,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "K153CN10",
+            "regalos": [ "4 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/rectangulares/sarki/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=sarki"
+                }
+            ], 
+            "mensajes":[
+                "Descubre el colchón Sarki de 4 plazas, el modelo estrella de nuestra marca Kamas, creado para quienes buscan una experiencia de descanso amplia, confortable y suave. Su formato de gran tamaño ofrece mayor superficie para descansar con libertad, mientras su diseño rectangular clásico se integra perfectamente en espacios donde el confort y la amplitud son protagonistas.",
+                "Perteneciente a la línea Ortopédicos, el Sarki ofrece un nivel de confort suave, acompañado por un sistema de 24 filas de resortes Bonell de acero templado que proporciona estabilidad y soporte durante el descanso. Sus refuerzos centrales y su marco sellado complementan la estructura, aportando mayor resistencia y soporte al colchón.",
+                "Su superficie incorpora tela de algodón tejido en punto y espuma de 18 kg/m³, proporcionando una sensación agradable y confortable. Con 31 cm de grosor y diseñado para utilizarse por ambos lados, permite aprovechar mejor su estructura y contribuir a una mayor durabilidad.",
+                "El Sarki 4 Plazas soporta hasta 90 kg por persona y cuenta con 3 años de garantía. Una de las mejores opciones de Kamas para quienes desean combinar amplitud, suavidad, soporte y comodidad, con la calidad y respaldo de nuestro modelo estrella."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "4 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "24 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "31cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

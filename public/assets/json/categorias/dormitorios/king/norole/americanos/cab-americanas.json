@@ -1,0 +1,179 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324293N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA CAPITONEADA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324293N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },       
+        {
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324293N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324293N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/5/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA CAPITONEADA - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 13,
+            "sku": "K324293N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 374,
+            "categoría": "dormitorios",
+            "modelo-de-colchón": "norole",
+            "tamaño": "king",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/7/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "K24286N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Norole",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        }
+    ]
+}
