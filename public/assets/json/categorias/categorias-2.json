@@ -1,4 +1,4 @@
-{
+  {
     "categorias":[
         {
             "id": 1,
@@ -215,19 +215,19 @@
                         {
                             "texto": "Americanas",
                             "link": "/productos/camas/?línea=americanas",
-                            "image": "https://dormihogar.pe/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/bloques/sin-brazos/meshlock/6/1.jpg",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/americanas.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Europeas",
                             "link": "/productos/camas/?línea=europeas",
-                            "image": "https://kamas.pe/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/7/1.jpg",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/europeas.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Clásicas de madera",
                             "link": "/productos/camas/?línea=clásicas-de-madera",
-                            "image": "https://thumbs.dreamstime.com/b/estructura-de-cama-duradera-madera-y-metal-dise%C3%B1o-minimalista-l%C3%ADneas-limpias-sin-colch%C3%B3n-fondo-blanco-%C3%A1ngulo-frontal-izquierdo-431211821.jpg",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/clasicas-de-madera.jpg",
                             "image-alt": ""
                         },
                         {
@@ -239,7 +239,7 @@
                         {
                             "texto": "Camarotes",
                             "link": "/productos/camas/?línea=camarotes",
-                            "image": "https://macrumo.com.pe/wp-content/uploads/2023/12/camarote-capirona-acabado-cedro-FONDO-BLANCO-1000x1000.jpg",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/camarotes.jpg",
                             "image-alt": ""
                         },
                         {
@@ -251,13 +251,13 @@
                         {
                             "texto": "Cunas",
                             "link": "/productos/camas/?línea=cunas",
-                            "image": "https://media.istockphoto.com/id/489117256/es/foto/cuna-de-beb%C3%A9-aislado-en-el-fondo-blanco.jpg?s=612x612&w=0&k=20&c=4yJaXQwGiSwHDfYbGEYOj65-vkFInOw7krTuL6lIQj8=",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/cunas.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Divanes",
                             "link": "/productos/camas/?línea=divanes",
-                            "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2064318128687/image1-2064318128687.jpg",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/divan.jpg",
                             "image-alt": ""
                         }
                     ]
@@ -268,13 +268,13 @@
                             "estado": "Nuevo",
                             "texto": "Smart",
                             "link": "/productos/camas/?línea=smart",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/smart.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Nube",
                             "link": "/productos/camas/?línea=nube",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/nube.jpg",
                             "image-alt": ""
                         },
                         {
@@ -288,25 +288,25 @@
                             "estado": "Nuevo",
                             "texto": "Acero inoxidable",
                             "link": "/productos/camas/?línea=acero-inoxidable",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/acero-inoxidable.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Circulares",
                             "link": "/productos/camas/?línea=circulares",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/circulares.jpg",
                             "image-alt": ""
                         },
                         {
                             "texto": "Camas con veladores",
                             "link": "/productos/camas/?veladores=si",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/con-veladores.jpg",
                             "image-alt": ""
                         },
                         {
-                            "texto": "Camas con baules",
+                            "texto": "Camas con baúl",
                             "link": "/productos/camas/?baúl=si",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/con-baul.jpg",
                             "image-alt": ""
                         }
                     ]
@@ -354,7 +354,7 @@
                             "titulo": "Bases y tarimas",
                             "texto": "Bases tapizadas, tarimas, con baúl y más",
                             "link": "/productos/camas/?línea=bases-y-tarimas",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image": "/assets/imagenes/productos/camas-box-tarimas/bases-y-tarimas.jpg",
                             "image-alt": ""
                         }
                     ]

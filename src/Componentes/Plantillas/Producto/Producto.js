@@ -30,11 +30,7 @@
 
 //         const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
 //         const formato = producto.formato || producto["línea"] || producto.linea || "";
-//         const modelo =
-//             producto["modelo-de-colchón"] ||
-//             producto["modelo-de-colchon"] ||
-//             producto.modelo ||
-//             "";
+//         const modelo = producto["modelo-de-colchón"] || producto["modelo-de-colchon"] || producto.modelo || "";
 //         const partes = [
 //             "productos",
 //             categoriaSlug,
@@ -48,11 +44,7 @@
 
 //     if (categoriaSlug.includes("dormitorio")) {
 //         const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
-//         const modelo =
-//             producto["modelo-de-colchón"] ||
-//             producto["modelo-de-colchon"] ||
-//             producto.modelo ||
-//             "";
+//         const modelo = producto["modelo-de-colchón"] || producto["modelo-de-colchon"] || producto.modelo || "";
 //         const linea = producto["línea"] || producto.linea || "";
 //         const partes = [
 //             "productos",
@@ -100,6 +92,29 @@
 //         return "/" + partes.join("/") + "/";
 //     }
 
+//     if (categoriaSlug.includes("complemento")) {
+//         const subcategoria =
+//             producto.subcategoría ||
+//             producto.subcategoria ||
+//             producto["subcategoría"] ||
+//             producto["subcategoria"] ||
+//             "";
+//         const linea =
+//             producto["línea"] ||
+//             producto.linea ||
+//             producto.material ||
+//             "";
+//         const partes = [
+//             "productos",
+//             categoriaSlug,
+//             subcategoria ? slugify(subcategoria) : "",
+//             linea ? slugify(linea) : "",
+//             sku ? String(sku).trim() : "",
+//         ].filter(Boolean);
+
+//         return "/" + partes.join("/") + "/";
+//     }
+
 //     const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
 //     const linea = producto["línea"] || producto.linea || producto.formato || "";
 
@@ -114,19 +129,16 @@
 //     return "/" + partes.join("/") + "/";
 // }
 
-// // 👇 Devuelve true si estamos antes de las 11:00 am (hora local del navegador)
 // function esAntesDeLas11() {
 //     const ahora = new Date();
 //     const hora = ahora.getHours();
 //     return hora < 11;
 // }
 
-// // 👇 Normaliza un SKU para comparaciones robustas
 // function normalizarSku(sku) {
 //     return String(sku || "").trim().toUpperCase();
 // }
 
-// // 👇 Extensiones soportadas, en orden de preferencia
 // const EXTENSIONES_IMAGEN = ["webp", "jpg", "png", "jfif"];
 
 // export function Producto({
@@ -150,8 +162,6 @@
 //     }, [isOfferActive]);
 
 //     const [secondImageError, setSecondImageError] = useState(false);
-
-//     // 👇 Estado que se recalcula cada minuto para reflejar el cambio de hora
 //     const [esAntes11, setEsAntes11] = useState(() => esAntesDeLas11());
 
 //     useEffect(() => {
@@ -245,7 +255,6 @@
 //         }
 //     }, [onToggleFavorite, producto]);
 
-//     // 👇 Construimos las candidatas de imagen con todas las extensiones
 //     const { mainImageSrc, fallbackSrcs } = useMemo(() => {
 //         let basePath = producto.fotos;
 
@@ -253,14 +262,13 @@
 //             basePath += "/";
 //         }
 
-//         // Genera: /ruta/1.webp, /ruta/1.jpg, /ruta/1.png, /ruta/1.jfif
 //         const candidates = EXTENSIONES_IMAGEN.map(
 //             (ext) => `${basePath}1.${ext}`
 //         );
 
 //         return {
-//             mainImageSrc: candidates[0], // intenta primero .webp
-//             fallbackSrcs: candidates.slice(1), // el resto como fallback
+//             mainImageSrc: candidates[0],
+//             fallbackSrcs: candidates.slice(1),
 //         };
 //     }, [producto.fotos]);
 
@@ -438,10 +446,14 @@
 //         stock: PropTypes.number.isRequired,
 //         categoría: PropTypes.string,
 //         categoria: PropTypes.string,
+//         subcategoría: PropTypes.string,
+//         subcategoria: PropTypes.string,
 //         tamaño: PropTypes.string,
 //         medida: PropTypes.string,
 //         línea: PropTypes.string,
+//         linea: PropTypes.string,
 //         formato: PropTypes.string,
+//         material: PropTypes.string,
 //         "modelo-de-colchón": PropTypes.string,
 //         "modelo-de-colchon": PropTypes.string,
 //         modelo: PropTypes.string,
@@ -492,11 +504,7 @@ function construirRutaProducto(producto) {
 
         const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
         const formato = producto.formato || producto["línea"] || producto.linea || "";
-        const modelo =
-            producto["modelo-de-colchón"] ||
-            producto["modelo-de-colchon"] ||
-            producto.modelo ||
-            "";
+        const modelo = producto["modelo-de-colchón"] || producto["modelo-de-colchon"] || producto.modelo || "";
         const partes = [
             "productos",
             categoriaSlug,
@@ -510,11 +518,7 @@ function construirRutaProducto(producto) {
 
     if (categoriaSlug.includes("dormitorio")) {
         const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
-        const modelo =
-            producto["modelo-de-colchón"] ||
-            producto["modelo-de-colchon"] ||
-            producto.modelo ||
-            "";
+        const modelo = producto["modelo-de-colchón"] || producto["modelo-de-colchon"] || producto.modelo || "";
         const linea = producto["línea"] || producto.linea || "";
         const partes = [
             "productos",
@@ -562,8 +566,6 @@ function construirRutaProducto(producto) {
         return "/" + partes.join("/") + "/";
     }
 
-    // ✅ NUEVA RAMA: COMPLEMENTOS
-    // Estructura: /productos/complementos/{subcategoría}/{línea}/{sku}/
     if (categoriaSlug.includes("complemento")) {
         const subcategoria =
             producto.subcategoría ||
@@ -587,7 +589,6 @@ function construirRutaProducto(producto) {
         return "/" + partes.join("/") + "/";
     }
 
-    // Fallback general
     const tamaño = producto.tamaño || producto["tamaño"] || producto.medida || "";
     const linea = producto["línea"] || producto.linea || producto.formato || "";
 
@@ -602,19 +603,16 @@ function construirRutaProducto(producto) {
     return "/" + partes.join("/") + "/";
 }
 
-// 👇 Devuelve true si estamos antes de las 11:00 am (hora local del navegador)
 function esAntesDeLas11() {
     const ahora = new Date();
     const hora = ahora.getHours();
     return hora < 11;
 }
 
-// 👇 Normaliza un SKU para comparaciones robustas
 function normalizarSku(sku) {
     return String(sku || "").trim().toUpperCase();
 }
 
-// 👇 Extensiones soportadas, en orden de preferencia
 const EXTENSIONES_IMAGEN = ["webp", "jpg", "png", "jfif"];
 
 export function Producto({
@@ -638,9 +636,20 @@ export function Producto({
     }, [isOfferActive]);
 
     const [secondImageError, setSecondImageError] = useState(false);
-
-    // 👇 Estado que se recalcula cada minuto para reflejar el cambio de hora
     const [esAntes11, setEsAntes11] = useState(() => esAntesDeLas11());
+
+    // 🔽 NUEVO: controla cuándo la imagen real terminó de cargar
+    const [imageLoaded, setImageLoaded] = useState(false);
+
+    const handleImageLoaded = useCallback(() => {
+        setImageLoaded(true);
+    }, []);
+
+    const handleImageError = useCallback(() => {
+        // Si TODAS las fuentes fallan, mantenemos el skeleton visible
+        // (o podrías setear un flag "imageError" para mostrar placeholder fijo)
+        setImageLoaded(false);
+    }, []);
 
     useEffect(() => {
         const intervalId = setInterval(() => {
@@ -733,7 +742,6 @@ export function Producto({
         }
     }, [onToggleFavorite, producto]);
 
-    // 👇 Construimos las candidatas de imagen con todas las extensiones
     const { mainImageSrc, fallbackSrcs } = useMemo(() => {
         let basePath = producto.fotos;
 
@@ -741,14 +749,13 @@ export function Producto({
             basePath += "/";
         }
 
-        // Genera: /ruta/1.webp, /ruta/1.jpg, /ruta/1.png, /ruta/1.jfif
         const candidates = EXTENSIONES_IMAGEN.map(
             (ext) => `${basePath}1.${ext}`
         );
 
         return {
-            mainImageSrc: candidates[0], // intenta primero .webp
-            fallbackSrcs: candidates.slice(1), // el resto como fallback
+            mainImageSrc: candidates[0],
+            fallbackSrcs: candidates.slice(1),
         };
     }, [producto.fotos]);
 
@@ -771,6 +778,14 @@ export function Producto({
                         </span>
                     )}
 
+                    {/* 🔽 SKELETON de la imagen: solo mientras no cargó */}
+                    {!imageLoaded && (
+                        <div
+                            className="product-skeleton product-skeleton-image"
+                            aria-hidden="true"
+                        />
+                    )}
+
                     <a href={rutaProducto} title={producto.nombre}>
                         <LazyImage
                             width={imageSize}
@@ -780,6 +795,8 @@ export function Producto({
                             alt={producto.nombre}
                             className="product-image"
                             fetchPriority="low"
+                            onLoaded={handleImageLoaded}
+                            onLoadError={handleImageError}
                         />
                     </a>
 
@@ -836,78 +853,134 @@ export function Producto({
                     <div className="d-flex-column">
                         <span className="product-card-brand">KAMAS</span>
 
-                        <div className="prd-stars-small">
-                            <span className="material-symbols-outlined">star</span>
-                            <span className="material-symbols-outlined">star</span>
-                            <span className="material-symbols-outlined">star</span>
-                            <span className="material-symbols-outlined">star</span>
-                            <span className="material-symbols-outlined">star_half</span>
-                        </div>
+                        {/* 🔽 Estrellas + nombre: skeleton o contenido real */}
+                        {!imageLoaded ? (
+                            <div
+                                className="d-flex-column product-skeleton-stack"
+                                aria-hidden="true"
+                            >
+                                <div className="product-skeleton-stars">
+                                    {Array.from({ length: 5 }).map((_, i) => (
+                                        <span
+                                            key={i}
+                                            className="product-skeleton"
+                                        />
+                                    ))}
+                                </div>
+                                <div className="product-skeleton product-skeleton-line medium" />
+                                <div className="product-skeleton product-skeleton-line short" />
+                            </div>
+                        ) : (
+                            <>
+                                <div className="prd-stars-small">
+                                    <span className="material-symbols-outlined">
+                                        star
+                                    </span>
+                                    <span className="material-symbols-outlined">
+                                        star
+                                    </span>
+                                    <span className="material-symbols-outlined">
+                                        star
+                                    </span>
+                                    <span className="material-symbols-outlined">
+                                        star
+                                    </span>
+                                    <span className="material-symbols-outlined">
+                                        star_half
+                                    </span>
+                                </div>
 
-                        <p className="product-card-name">
-                            {truncate(producto.nombre, 100)}
-                        </p>
+                                <p className="product-card-name">
+                                    {truncate(producto.nombre, 100)}
+                                </p>
+                            </>
+                        )}
                     </div>
 
-                    <div className="product-card-prices">
-                        <div className="d-flex-column">
-                            <span className="product-card-regular-price">
-                                S/.{producto.precioRegular}
-                            </span>
-                            <span className="product-card-normal-price">
-                                S/.{producto.precioNormal}
-                            </span>
+                    {/* 🔽 Precios: skeleton o contenido real */}
+                    {!imageLoaded ? (
+                        <div
+                            className="product-skeleton-row"
+                            aria-hidden="true"
+                        >
+                            <div className="product-skeleton-col">
+                                <div className="product-skeleton product-skeleton-line tiny" />
+                                <div className="product-skeleton product-skeleton-line short" />
+                            </div>
+                            <div className="product-skeleton product-skeleton-line price" />
                         </div>
+                    ) : (
+                        <div className="product-card-prices">
+                            <div className="d-flex-column">
+                                <span className="product-card-regular-price">
+                                    S/.{producto.precioRegular}
+                                </span>
+                                <span className="product-card-normal-price">
+                                    S/.{producto.precioNormal}
+                                </span>
+                            </div>
 
-                        <div className="d-flex-column">
-                            {isOfferActive && estaEnOfertas ? (
-                                <div className="d-flex-column">
-                                    <span className="product-card-sale-price product-card-sale-price-offer">
-                                        S/.{producto.precioVenta}
-                                    </span>
-                                    <span className="product-card-sale-price-final">
+                            <div className="d-flex-column">
+                                {isOfferActive && estaEnOfertas ? (
+                                    <div className="d-flex-column">
+                                        <span className="product-card-sale-price product-card-sale-price-offer">
+                                            S/.{producto.precioVenta}
+                                        </span>
+                                        <span className="product-card-sale-price-final">
+                                            S/.{precioFinal}
+                                        </span>
+                                    </div>
+                                ) : (
+                                    <span className="product-card-sale-price">
                                         S/.{precioFinal}
                                     </span>
-                                </div>
-                            ) : (
-                                <span className="product-card-sale-price">
-                                    S/.{precioFinal}
-                                </span>
-                            )}
-                        </div>
-                    </div>
-
-                    <div className="w-100 d-flex-center-left gap-5">
-                        {esParaHoy && (
-                            <div className="delivery-today-tomorrow">
-                                <span className="material-symbols-outlined">
-                                    schedule
-                                </span>
-                                <p className="text">
-                                    {esAntes11
-                                        ? "Recíbelo hoy"
-                                        : "Entrega mañana"}
-                                </p>
-
-                                <div className="dtt-message">
-                                    {esAntes11
-                                        ? "Confirma tu pedido antes de las 11:00 am y recibelo hoy mismo"
-                                        : "Confirma tu pedido hoy y recíbelo mañana mismo"}
-                                </div>
+                                )}
                             </div>
-                        )}
-
-                        <div
-                            className={`product-card-tipo-de-envio ${tipoEnvioClase}`}
-                        >
-                            <span>
-                                {producto["tipo-de-envio"] === "Gratis"
-                                    ? "Envío gratis"
-                                    : producto["tipo-de-envio"] ||
-                                      "No especificado"}
-                            </span>
                         </div>
-                    </div>
+                    )}
+
+                    {/* 🔽 Badges de envío: skeleton o contenido real */}
+                    {!imageLoaded ? (
+                        <div
+                            className="product-skeleton-row product-skeleton-row-left"
+                            aria-hidden="true"
+                        >
+                            <div className="product-skeleton product-skeleton-badge" />
+                            <div className="product-skeleton product-skeleton-badge" />
+                        </div>
+                    ) : (
+                        <div className="w-100 d-flex-center-left gap-5">
+                            {esParaHoy && (
+                                <div className="delivery-today-tomorrow">
+                                    <span className="material-symbols-outlined">
+                                        schedule
+                                    </span>
+                                    <p className="text">
+                                        {esAntes11
+                                            ? "Recíbelo hoy"
+                                            : "Entrega mañana"}
+                                    </p>
+
+                                    <div className="dtt-message">
+                                        {esAntes11
+                                            ? "Confirma tu pedido antes de las 11:00 am y recibelo hoy mismo"
+                                            : "Confirma tu pedido hoy y recíbelo mañana mismo"}
+                                    </div>
+                                </div>
+                            )}
+
+                            <div
+                                className={`product-card-tipo-de-envio ${tipoEnvioClase}`}
+                            >
+                                <span>
+                                    {producto["tipo-de-envio"] === "Gratis"
+                                        ? "Envío gratis"
+                                        : producto["tipo-de-envio"] ||
+                                          "No especificado"}
+                                </span>
+                            </div>
+                        </div>
+                    )}
                 </a>
             </div>
         </li>

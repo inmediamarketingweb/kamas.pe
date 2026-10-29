@@ -56,7 +56,7 @@
 .prd-flt-filtros{
     display: flex;
     flex-direction: column;
-    /* gap: 1px; */
+    gap: 10px;
     background: var(--white);
     /* background: var(--component-border); */
 }
@@ -106,6 +106,10 @@
     color: var(--text) !important;
 }
 
+.prd-flt-grupo{
+    border: 1px solid var(--component-border);
+}
+
 .prd-flt-grupo-header{
     width: 100%;
     height: 44px;
@@ -120,8 +124,8 @@
     transition: var(--t-200ms-linear);
 }
 
-.prd-flt-grupo-header:hover{
-    background: rgba(0 0 0 / 0.015) !important;
+.prd-flt-grupo-header.active{
+    border-bottom: 0;
 }
 
 .prd-flt-grupo-header > span{
@@ -155,7 +159,7 @@
 }
 
 .prd-flt-grupo-opciones li:hover{
-    background: rgba(0 0 0 / 0.075);
+    background: rgba(0 0 0 / 0.065);
 }
 
 .prd-flt-grupo-opciones li label{
