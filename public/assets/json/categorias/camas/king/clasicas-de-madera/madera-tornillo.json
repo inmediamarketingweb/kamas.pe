@@ -1,0 +1,252 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO + CABECERA PEDESTAL + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/1/",
+            "precioRegular": 3099,
+            "precioNormal": 2899,
+            "precioVenta": 2399,
+            "stock": 15,
+            "sku": "K237NCMT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO + CABECERA PEDESTAL + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/2/",
+            "precioRegular": 3099,
+            "precioNormal": 2899,
+            "precioVenta": 2399,
+            "stock": 15,
+            "sku": "K237NCMT11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO + CABECERA PEDESTAL + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/3/",
+            "precioRegular": 3099,
+            "precioNormal": 2899,
+            "precioVenta": 2399,
+            "stock": 15,
+            "sku": "K237NCMT12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO CON 2 CAJONES AL PIE + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/4/",
+            "precioRegular": 3799,
+            "precioNormal": 3299,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K237NCMT13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO CON 2 CAJONES AL PIE + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/6/",
+            "precioRegular": 3799,
+            "precioNormal": 3299,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K237NCMT14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO CON 2 CAJONES AL PIE + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/7/",
+            "precioRegular": 3799,
+            "precioNormal": 3299,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K237NCMT15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO + CABECERA PEDESTAL + 2 VELADORES FLOTANTES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/5/",
+            "precioRegular": 3999,
+            "precioNormal": 3499,
+            "precioVenta": 3199,
+            "stock": 15,
+            "sku": "K237NCMT16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "veladores": "si",
+                    "base-encajonada": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "tornillo",
+            "nombre": "CAMA KING DE MADERA TORNILLO CON PIECERA + CABECERA PEDESTAL CORONA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-tornillo/sin-tapizar/8/",
+            "precioRegular": 3999,
+            "precioNormal": 3499,
+            "precioVenta": 3299,
+            "stock": 15,
+            "sku": "K237NCMT17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "tornillo",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "veladores": "no",
+                    "base-encajonada": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

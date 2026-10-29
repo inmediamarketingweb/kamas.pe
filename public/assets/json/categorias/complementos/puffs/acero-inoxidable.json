@@ -1,0 +1,76 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "línea": "acero inoxidable",
+            "nombre": "PUFF DE ACERO INOXIDABLE + ASIENTO TAPIZADO LINEAL 1 - DORADO CON BEIGE",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/acero-inoxidable/1/",
+            "precioRegular": 819,
+            "precioNormal": 749,
+            "precioVenta": 599,
+            "stock": 14,
+            "sku": "K74NPAI10",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "puffs",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "cajones": "no",
+                    "modelo": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "línea": "acero inoxidable",
+            "nombre": "PUFF DE ACERO INOXIDABLE + ASIENTO TAPIZADO CLÁSICO - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/acero-inoxidable/2/",
+            "precioRegular": 819,
+            "precioNormal": 749,
+            "precioVenta": 599,
+            "stock": 14,
+            "sku": "K74NPAI11",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "puffs",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "cajones": "no",
+                    "modelo": "clásico"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "complementos",
+            "subcategoría": "puffs",
+            "línea": "acero inoxidable",
+            "nombre": "PUFF DE ACERO INOXIDABLE REFORZADO + ASIENTO TAPIZADO CAPITONEADO - DORADO CON NEGRO",
+            "fotos": "/assets/imagenes/productos/complementos/puffs/acero-inoxidable/3/",
+            "precioRegular": 879,
+            "precioNormal": 799,
+            "precioVenta": 649,
+            "stock": 14,
+            "sku": "K74NPAI12",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "puffs",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "cajones": "no",
+                    "modelo": "capitoneado"
+                }
+            ]
+        }
+    ]
+}

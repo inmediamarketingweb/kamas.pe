@@ -1,0 +1,139 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/14/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/16/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/3/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/17/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/4/",
+            "precioRegular": 1799,
+            "precioNormal": 1999,
+            "precioVenta": 1439,
+            "stock": 15,
+            "sku": "K224225N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/19/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1749,
+            "precioVenta": 1229,
+            "stock": 15,
+            "sku": "K224125N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/20/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA + 2 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/sin-brazos/capitoneada/2/",
+            "precioRegular": 1799,
+            "precioNormal": 1749,
+            "precioVenta": 1229,
+            "stock": 15,
+            "sku": "K222113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "Americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

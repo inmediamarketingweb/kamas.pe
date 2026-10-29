@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "capirona",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CAPIRONA - MIEL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-capirona/1/",
+            "precioRegular": 2199,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K442NMC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "capirona"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "capirona",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CAPIRONA - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-capirona/2/",
+            "precioRegular": 2199,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K442NMC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "capirona"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "capirona",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CAPIRONA - NOGAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-capirona/3/",
+            "precioRegular": 2199,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K442NMC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "capirona"
+                }
+            ]
+        }
+    ]
+}

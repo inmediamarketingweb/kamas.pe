@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "nesie",
+            "ruta": "/productos/colchones/queen/rectangulares/nesie/",
+            "nombre": "COLCHÓN KAMAS QUEEN HOTELERO NESIE",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/king/",
+            "precioRegular": 2459,
+            "precioNormal": 1919,
+            "precioVenta": 1249,
+            "stock": 99,
+            "sku": "K134N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/nesie/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/nesie/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/nesie/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=nesie"
+                }
+            ],
+            "mensajes":[
+                "El colchón Nesie de línea Hotelera está diseñado para ofrecer un descanso muy firme, resistente y duradero, ideal para un uso intensivo tanto en hoteles como en el hogar. Su estructura de resortes Bonell con 17 filas de acero templado brinda un soporte sólido y uniforme, favoreciendo una correcta postura al dormir.",
+                "Cuenta con espuma de 20 kg/m³, que aporta firmeza y estabilidad, mientras que sus refuerzos centrales y laterales mejoran la resistencia estructural del colchón. El sistema clásico asegura un desempeño confiable y consistente a lo largo del tiempo.",
+                "Está recubierto con tela jacquard, elegante y resistente al uso continuo. Con 30 cm de grosor, diseño de uso por ambos lados, capacidad de soporte de hasta 95 kg por persona y 6 años de garantía, el colchón Nesie es una opción robusta y confiable para quienes buscan firmeza, durabilidad y calidad hotelera."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "nesie",
+                    "línea-de-colchón": "hoteleros",
+                    "nivel-de-confort": "firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "17 filas en forma vertical",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Tela jacquard",
+                    "sistema": "Clásico",
+                    "refuerzos": "Centrales y laterales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "95kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

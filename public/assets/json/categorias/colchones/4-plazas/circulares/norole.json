@@ -1,0 +1,55 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "4 plazas",
+            "formato": "circulares",
+            "modelo-de-colchón": "norole",
+            "ruta": "/productos/colchones/4-plazas/circulares/norole/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS 4 PLAZAS EXTRA ORTOPÉDICO NOROLE",
+            "fotos": "/assets/imagenes/productos/colchones/norole/circular-4-plazas/",
+            "precioRegular": 2999,
+            "precioNormal": 2699,
+            "precioVenta": 2499,
+            "stock": 99,
+            "sku": "K153CNXC1011",
+            "regalos":[ "4 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "link": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=norole"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de una experiencia de descanso diferente con el colchón circular de 4 plazas Nesie, un modelo diseñado para quienes buscan amplitud, comodidad y un diseño realmente exclusivo. Su forma circular crea una amplia superficie de descanso que permite mayor libertad de movimiento y una distribución más natural del espacio, convirtiendo el dormitorio en un ambiente moderno y sofisticado.",
+                "Perteneciente a la línea Hotelera, el Nesie Circular ofrece un nivel de confort firme, ideal para quienes prefieren una sensación estable y un soporte equilibrado. Su estructura incorpora 24 filas de resortes Bonell de acero templado, acompañadas de refuerzos centrales y un marco sellado, proporcionando una base sólida y resistente.",
+                "Su espuma de 20 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, brindando una sensación confortable noche tras noche. Además, al tratarse de un colchón circular, ofrece una experiencia de descanso más envolvente y una estética única que destaca en cualquier dormitorio.",
+                "Con 32 cm de grosor, está diseñado para utilizarse por ambos lados, soporta hasta 90 kg por persona y cuenta con 6 años de garantía, convirtiéndose en una excelente alternativa para quienes buscan un colchón circular amplio, elegante y de gran calidad."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "4 plazas",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "norole",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "filas-de-resortes": "26",
+                    "cantidad-de-resortes": "840 resortes pocket",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "sistema": "one size - PT",
+                    "densidad-de-espuma": "23kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "de espuma",
+                    "grosor": "41cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
+                }
+            ]
+        }
+    ]
+}

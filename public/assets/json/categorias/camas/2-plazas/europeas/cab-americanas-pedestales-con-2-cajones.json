@@ -1,0 +1,244 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/1/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/2/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP101",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/3/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP102",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/4/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP103",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/5/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP104",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/6/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP105",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/7/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP106",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 - DURAZNO CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-cajones/cab-americanas-pedestales/8/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 12,
+            "sku": "K2223NXCMP107",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        }
+    ]
+}

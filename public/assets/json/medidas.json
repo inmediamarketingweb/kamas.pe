@@ -1,0 +1,52 @@
+{
+    "descripciones":[
+        {
+            "1 plaza":[
+                {
+                    "ancho": "0.9m - 90cm",
+                    "largo": "1.9m - 190cm"
+                }
+            ]
+        },
+        {
+            "1 plaza y media":[
+                {
+                    "ancho": "1.05m - 105cm",
+                    "largo": "1.9m - 190cm"
+                }
+            ]
+        },
+        {
+            "2 plazas":[
+                {
+                    "ancho": "1.35m - 135cm",
+                    "largo": "1.9m - 190cm"
+                }
+            ]
+        },
+        {
+            "queen":[
+                {
+                    "ancho": "1.55m - 155cm",
+                    "largo": "2.03m - 203cm"
+                }
+            ]
+        },
+        {
+            "king":[
+                {
+                    "ancho": "1.98m - 198cm",
+                    "largo": "2.03m - 203cm"
+                }
+            ]
+        },
+        {
+            "4 plazas":[
+                {
+                    "ancho": "2.4m - 240cm",
+                    "largo": "2.03m - 203cm"
+                }
+            ]
+        }
+    ]
+}

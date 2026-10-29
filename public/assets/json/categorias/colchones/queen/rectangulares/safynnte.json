@@ -1,0 +1,67 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "safynnte",
+            "ruta": "/productos/colchones/queen/rectangulares/safynnte/",
+            "nombre": "COLCHÓN KAMAS QUEEN SÚPER ORTOPÉDICO SAFYNNTE",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/king/",
+            "precioRegular": 1799,
+            "precioNormal": 1379,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "K136IN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/safynnte/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=safynnte"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Safynnte está diseñado para quienes buscan un descanso firme y seguro, destacando por su nivel de confort súper ortopédico, ideal para mantener una correcta alineación de la columna. Pertenece a la línea intermedia de la marca Kamas y combina resistencia, soporte y durabilidad.",
+                "Cuenta con resortes Bonell fabricados en acero templado, organizados en 16 filas, que proporcionan una estructura sólida y estable. Su interior incorpora espuma de 18 kg/m³ y refuerzos centrales, ayudando a distribuir el peso de manera uniforme y reduciendo puntos de presión.",
+                "Está revestido con tela Drill, reconocida por su alta resistencia al uso diario. Además, incluye Sistema One Size, marco de espuma y diseño de uso por un solo lado, lo que facilita su mantenimiento. Con un grosor de 30 cm, soporta hasta 85 kg por persona y cuenta con 4 años de garantía, siendo una opción confiable para quienes priorizan soporte ortopédico y firmeza."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "safynnte",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "medio suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "16 filas",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "De espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

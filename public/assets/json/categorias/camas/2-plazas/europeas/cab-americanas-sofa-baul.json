@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "ruta": "/productos/camas/2-plazas/europeas/22/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/aereas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1949,
+            "precioNormal": 1349,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K232213N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "ruta": "/productos/camas/2-plazas/europeas/21/",
+            "nombre": "CAMA BOX TARIMA EUROPEA 2 PLAZAS + CABECERA AÉREA CAPITONEADA + SOFÁ BAÚL - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas/2-plazas/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 1179,
+            "stock": 12,
+            "sku": "K2322113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "Europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

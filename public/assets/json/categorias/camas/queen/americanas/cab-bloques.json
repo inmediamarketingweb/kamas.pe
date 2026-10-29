@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas/3/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AÉREA MOKI - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/queen/aereas-con-patas/bloques/sin-brazos/moki/1/",
+            "precioRegular": 1599,
+            "precioNormal": 1499,
+            "precioVenta": 1069,
+            "stock": 15,
+            "sku": "K2232113N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ]
+}

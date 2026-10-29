@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA AÉREA CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas/1/",
+            "precioRegular": 1699,
+            "precioNormal": 1049,
+            "precioVenta": 799,
+            "stock": 15,
+            "sku": "K225NX100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

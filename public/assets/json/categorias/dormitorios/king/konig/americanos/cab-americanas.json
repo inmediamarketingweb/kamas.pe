@@ -1,0 +1,179 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 4199,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 4199,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 4199,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242113N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - PLOMO AZULADO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 4199,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242113N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 4199,
+            "precioNormal": 3399,
+            "precioVenta": 2499,
+            "stock": 13,
+            "sku": "K3242113N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 380,
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "tamaño": "king",
+            "modelo": "konig",
+            "ruta": "/productos/dormitorios/king/americanos/konig/30/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/aereas-con-patas/bloques/sin-brazos/lineal-3/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3699,
+            "precioVenta": 2499,
+            "stock": 9,
+            "sku": "K324226N29",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Konig",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+.product-page-sellers li a{
+    position: relative;
+}
+
+.product-page-sellers li a img{
+    width: 27px;
+    height: auto;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+}
+
+.product-page-sellers li a p{
+    position: absolute;
+    left: 50%;
+    top: calc(100% + 5px);
+    translate: -50% 0;
+    font-size: 11px;
+    background: rgba(0 0 0 / 0.075);
+    padding: 2px 4px;
+    border-radius: 3px;
+    border: 1px solid var(--component-border);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.product-page-sellers li a:hover p{
+    opacity: 1;
+}

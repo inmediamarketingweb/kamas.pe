@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/5/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CUADROS 2 + 2 VELADORES VINTAGE - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/bloques/brazos-rectos/cuadros-2/1/",
+            "precioRegular": 2099,
+            "precioNormal": 1799,
+            "precioVenta": 1349,
+            "stock": 13,
+            "sku": "K3215236N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

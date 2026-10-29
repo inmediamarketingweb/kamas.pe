@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CON MARCO - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/8/",
+            "precioRegular": 1399,
+            "precioNormal": 1099,
+            "precioVenta": 879,
+            "stock": 12,
+            "sku": "K221NXCM10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

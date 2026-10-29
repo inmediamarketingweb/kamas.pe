@@ -1,0 +1,758 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/36/",
+            "precioRegular": 1249,
+            "precioNormal": 1049,
+            "precioVenta": 849,
+            "stock": 12,
+            "sku": "K221NCIP38",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/37/",
+            "precioRegular": 1249,
+            "precioNormal": 1049,
+            "precioVenta": 849,
+            "stock": 12,
+            "sku": "K221NCIP39",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA REINA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/38/",
+            "precioRegular": 1249,
+            "precioNormal": 1049,
+            "precioVenta": 849,
+            "stock": 12,
+            "sku": "K221NCIP40",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA FLOR - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/39/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP41",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL NUBE MOÑO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/40/",
+            "precioRegular": 1249,
+            "precioNormal": 1049,
+            "precioVenta": 849,
+            "stock": 12,
+            "sku": "K221NCIP42",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/41/",
+            "precioRegular": 1249,
+            "precioNormal": 1049,
+            "precioVenta": 849,
+            "stock": 12,
+            "sku": "K221NCIP43",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL AROIRIS - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/42/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP44",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CORONA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/43/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP45",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CORONA NUBE - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/44/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP46",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL OSO - TEJIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/45/",
+            "precioRegular": 1549,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP47",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CON MARCO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/46/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP48",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL OSITO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/48/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP49",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CON MARCO CORONA MOÑO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/49/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP50",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL BLOQUES - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/50/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP51",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL GATITO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/51/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP52",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CORONA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/52/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP53",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL ABANICO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/53/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP54",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL PELOTA - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/55/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP55",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL GATITO - FUCSIA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/56/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP56",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCOFRADO ALTO + CABECERA PEDESTAL CORONA CAPITONEADO + PIECERA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/57/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP57",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "si",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCOFRADO ALTO + CABECERA PEDESTAL CORONA NUBE - VERDE JADE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/58/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP58",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS + CABECERA PEDESTAL CORONA + PIECERA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/59/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP59",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL MARIPOSA + PIECERA - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/60/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP60",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL MARIPOSA + PIECERA - IVORY + ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/61/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP61",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL 2 CORAZONES + PIECERA - IVORY + DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/62/",
+            "precioRegular": 1449,
+            "precioNormal": 1249,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K221NCIP62",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 2 PLAZAS ENCAJONADA + CABECERA PEDESTAL CRAFT - VARIOS COLORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/54/",
+            "precioRegular": 1349,
+            "precioNormal": 1149,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K221NCIP63",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "craft"
+                }
+            ]
+        }
+    ]
+}

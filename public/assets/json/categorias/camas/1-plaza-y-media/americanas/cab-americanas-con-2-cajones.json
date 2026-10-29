@@ -1,0 +1,140 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - VIOLETA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "cantidad-de-cajones": 2,
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/4/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/6/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/7/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "ruta": "/productos/camas/1-plaza-y-media/americanas/8/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas-con-patas/americanas/sin-brazos/capitoneado/8/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K22151113N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "cuna",
+            "línea": "clásicas de madera",
+            "madera": "pino",
+            "nombre": "CAMA CUNA DE MADERA PINO SIN COLCHÓN - MIEL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/madera/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1199,
+            "precioVenta": 1099,
+            "stock": 15,
+            "sku": "K200NMP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "cuna",
+                    "línea": "clásicas de madera",
+                    "madera": "pino",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "sin cabecera",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        }
+    ]
+}

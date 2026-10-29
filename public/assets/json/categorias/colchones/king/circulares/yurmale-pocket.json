@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "circulares",
+            "modelo-de-colchón": "yurmale pocket",
+            "ruta": "/productos/colchones/king/circulares/yurmale-pocket/",
+            "nombre": "COLCHÓN CIRCULAR KAMAS KING EXTRA ORTOPÉDICO YURMALE POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/circular-king/",
+            "precioRegular": 3549,
+            "precioNormal": 3379,
+            "precioVenta": 2949,
+            "stock": 99,
+            "sku": "K153CNXC1016",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/circulares/yurmale-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "rectangulares",
+                    "ruta": "/productos/colchones/?formato=rectangulares&modelo-de-colchón=yurmale-pocket"
+                }
+            ],
+            "mensajes":[
+                "Descubre una experiencia de descanso extraordinaria con el colchón circular King Yurmale Pocket, una propuesta que combina diseño, amplitud, ergonomía y máxima firmeza. Su exclusiva forma circular transforma el dormitorio y crea una amplia superficie de descanso, permitiendo disfrutar de mayor libertad de movimiento y una sensación más envolvente y diferente a la de un colchón tradicional.",
+                "Perteneciente a la línea Extra Ortopédicos, el Yurmale Pocket ofrece un nivel de confort muy firme, ideal para quienes buscan un soporte sólido y una sensación de mayor estabilidad al descansar. Su estructura incorpora 900 resortes Bonell, junto con refuerzos centrales y un marco sellado, proporcionando una base resistente y estable.",
+                "Su espuma de 25 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia de descanso. Con 44 cm de grosor, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y contribuir a prolongar su vida útil.",
+                "Además, soporta hasta 130 kg por persona y cuenta con una destacada garantía de 12 años. El Yurmale Pocket es una elección ideal para quienes buscan un colchón muy firme, robusto y espacioso, sin renunciar a un diseño circular que convierte la cama en el verdadero protagonista del dormitorio."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "circulares",
+                    "modelo-de-colchón": "yurmale pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "900",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "44cm.",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

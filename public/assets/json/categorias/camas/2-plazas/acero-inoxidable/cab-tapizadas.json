@@ -1,0 +1,196 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA TAPIZADA + PIECERA TAPIZADA - DORADO CON VERDE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/1/",
+            "precioRegular": 3599,
+            "precioNormal": 3299,
+            "precioVenta": 2999,
+            "stock": 14,
+            "sku": "K2321NAIT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA TAPIZADA + PIECERA TAPIZADA - DORADO CON PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/2/",
+            "precioRegular": 3599,
+            "precioNormal": 3299,
+            "precioVenta": 2999,
+            "stock": 14,
+            "sku": "K2321NAIT11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA TAPIZADA - DORADO CON IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/3/",
+            "precioRegular": 3899,
+            "precioNormal": 3699,
+            "precioVenta": 3399,
+            "stock": 14,
+            "sku": "K2321NAIT12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "si",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA CON MARCO BURBUJA + PIECERA - DORADO CON AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/4/",
+            "precioRegular": 4199,
+            "precioNormal": 3999,
+            "precioVenta": 3799,
+            "stock": 14,
+            "sku": "K2321NAIT13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "burbuja"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA PEDESTAL CORONA + PIECERA - DORADO CON PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/5/",
+            "precioRegular": 4699,
+            "precioNormal": 4399,
+            "precioVenta": 4199,
+            "stock": 14,
+            "sku": "K2321NAIT14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA PEDESTAL TAPIZADA - PLATEADO CON VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/tapizadas/6/",
+            "precioRegular": 4899,
+            "precioNormal": 4699,
+            "precioVenta": 4499,
+            "stock": 14,
+            "sku": "K2321NAIT14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

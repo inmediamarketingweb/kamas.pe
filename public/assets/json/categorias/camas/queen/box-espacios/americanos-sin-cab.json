@@ -1,0 +1,27 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "box espacios",
+            "nombre": "BOX ESPACIO AMERICANO QUEEN SIN CABECERA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/espacios/americanas/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1789,
+            "precioVenta": 1499,
+            "stock": 14,
+            "sku": "K4131N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Sin cabecera"
+                }
+            ]
+        }
+    ]
+}

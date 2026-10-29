@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "thaleo pocket",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/thaleo-pocket/1/",
+            "nombre": "DORMITORIO AMERICANO KING CON 3 CAJONES AL PIE + COLCHÓN KAMAS THALEO POCKET + CABECERA AÉREA MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/thaleo-pocket/aereas-con-patas/americanas/sin-brazos/moki/1/",
+            "precioRegular": 3539,
+            "precioNormal": 2999,
+            "precioVenta": 2349,
+            "stock": 9,
+            "sku": "K3241106N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+
+    ]
+}

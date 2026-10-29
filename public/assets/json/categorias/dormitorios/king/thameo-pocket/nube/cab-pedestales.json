@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "línea": "nube",
+            "modelo-de-colchón": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/cama-nube/thameo-pocket/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS THAMEO POCKET- DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/thameo-pocket/1/",
+            "precioRegular": 4299,
+            "precioNormal": 3799,
+            "precioVenta": 2599,
+            "stock": 23,
+            "sku": "K324267N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "línea": "nube",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "línea": "nube",
+            "modelo-de-colchón": "thameo pocket",
+            "ruta": "/productos/dormitorios/king/cama-nube/thameo-pocket/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS THAMEO POCKET- AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/thameo-pocket/2/",
+            "precioRegular": 4299,
+            "precioNormal": 3799,
+            "precioVenta": 2599,
+            "stock": 23,
+            "sku": "K324267N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "línea": "nube",
+                    "modelo-de-colchón": "Thameo pocket",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        }
+    ]
+}

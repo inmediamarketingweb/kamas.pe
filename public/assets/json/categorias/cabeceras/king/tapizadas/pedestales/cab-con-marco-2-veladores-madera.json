@@ -1,0 +1,29 @@
+{
+    "productos":[
+        {
+            "id": 95,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/15/",
+            "nombre": "CABECERA PEDESTAL KING CON MARCO + 2 VELADORES - HUESO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/con-marco/sin-brazos/capitoneado/1/",
+            "precioRegular": 2119,
+            "precioNormal": 1899,
+            "precioVenta": 1628,
+            "stock": 9,
+            "sku": "K54230N10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

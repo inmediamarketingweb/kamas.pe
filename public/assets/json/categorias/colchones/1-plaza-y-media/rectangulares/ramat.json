@@ -1,0 +1,57 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "ramat",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/ramat/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA SÚPER ORTOPÉDICO RAMAT",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/1-plaza-y-media/",
+            "precioRegular": 1299,
+            "precioNormal": 999,
+            "precioVenta": 549,
+            "stock": 99,
+            "sku": "K1155MCN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/ramat/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Ramat ofrece un soporte súper ortopédico con una sensación muy confortable, gracias a su sistema de resortes Bonell con 11 filas y espuma de 20 kg/m³.",
+                "Su tela Jacquard le da resistencia y frescura, y su diseño de ambos lados extiende su vida útil. Incluye doble pestaña y un marco sellado reforzado que mejora la estabilidad.",
+                "Soporta hasta 75 kg por persona y cuenta con 4 años de garantía, siendo una opción cómoda, confiable y duradera."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "ramat",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "11 filas",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

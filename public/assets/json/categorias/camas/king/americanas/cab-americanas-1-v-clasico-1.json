@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "id": 121,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CUADROS 2 + 1 VELADOR - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/34/",
+            "precioRegular": 2899,
+            "precioNormal": 2299,
+            "precioVenta": 1600,
+            "stock": 15,
+            "sku": "K231113N42",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

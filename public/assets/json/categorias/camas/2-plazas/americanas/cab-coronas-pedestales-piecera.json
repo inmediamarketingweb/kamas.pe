@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/34/",
+            "nombre": "CAMA BOX TARIMA AMERICANA 2 PLAZAS + CABECERA PEDESTAL CORONA LINEAL + PIECERA - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/coronas/sin-brazos/lineal/1/",
+            "precioRegular": 1699,
+            "precioNormal": 1199,
+            "precioVenta": 979,
+            "stock": 15,
+            "sku": "K222225N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

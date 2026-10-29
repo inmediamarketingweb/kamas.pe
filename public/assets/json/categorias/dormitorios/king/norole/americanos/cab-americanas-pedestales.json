@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "norole",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 4109,
+            "precioNormal": 3249,
+            "precioVenta": 2349,
+            "stock": 13,
+            "sku": "K324293N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

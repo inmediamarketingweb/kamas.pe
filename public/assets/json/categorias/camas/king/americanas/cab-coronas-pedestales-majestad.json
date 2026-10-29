@@ -1,0 +1,60 @@
+{
+    "productos":[
+        {
+            "id": 202,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/144/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 15,
+            "sku": "K22325N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "id": 202,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/145/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + BAUL- PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-curvos/majestad/2/",
+            "precioRegular": 2849,
+            "precioNormal": 2249,
+            "precioVenta": 1749,
+            "stock": 15,
+            "sku": "K22325N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "descripciones":[
+        {
+            "americana":[
+                {
+                    "madera": "pino americano seco al horno",
+                    "refuerzos": "centrales y laterales",
+                    "tapa": "MDF Brasileño de 5mm",
+                    "tapizado": "100% algodón hipoalergénico",
+                    "Garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "americanas":[
+                {
+                    "madera": "pino americano seco al horno",
+                    "refuerzos": "centrales y laterales",
+                    "tapa": "MDF Brasileño de 5mm",
+                    "tapizado": "100% algodón hipoalergénico",
+                    "Garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "americano":[
+                {
+                    "madera": "pino americano seco al horno",
+                    "refuerzos": "centrales y laterales",
+                    "tapa": "MDF Brasileño de 5mm",
+                    "tapizado": "100% algodón hipoalergénico",
+                    "Garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "americanos":[
+                {
+                    "madera": "pino americano seco al horno",
+                    "refuerzos": "centrales y laterales",
+                    "tapa": "MDF Brasileño de 5mm",
+                    "tapizado": "100% algodón hipoalergénico",
+                    "Garantía": "2 años"
+                }
+            ]
+        },
+        {
+            "europeo":[
+                {
+                    "madera": "pino americano"
+                }
+            ]
+        },
+        {
+            "europeos":[
+                {
+                    "madera": "pino americano"
+                }
+            ]
+        },
+        {
+            "europea":[
+                {
+                    "madera": "pino americano"
+                }
+            ]
+        },
+        {
+            "europeas":[
+                {
+                    "madera": "pino americano"
+                }
+            ]
+        },
+        {
+            "shelter":[
+                {
+                    "material": "18mm"
+                }
+            ]
+        },
+        {
+            "aéreas-con-patas":[
+                {
+                    "madera": "pino americano seco al horno",
+                    "espuma": "Zebra D18 de alta densidad",
+                    "tapa": "MDF Brasileño de 5mm",
+                    "tapizado": "100% algodón hipoalergénico",
+                    "Garantía": "2 años"
+                }
+            ]
+        }
+    ],
+    "mensajes":[
+        {
+            "madera-tornillo":[
+                "parafo 1",
+                "parafo 2"
+            ]
+        },
+        {
+            "madera-cedro":[
+                "parafo 1",
+                "parafo 2"
+            ]
+        }
+    ]
+}

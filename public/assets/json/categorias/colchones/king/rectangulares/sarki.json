@@ -1,0 +1,75 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "sarki",
+            "ruta": "/productos/colchones/king/rectangulares/sarki/",
+            "nombre": "COLCHÓN KAMAS KING ORTOPÉDICO SARKI",
+            "fotos": "/assets/imagenes/productos/colchones/sarki/king/",
+            "precioRegular": 1919,
+            "precioNormal": 1549,
+            "precioVenta": 999,
+            "stock": 99,
+            "sku": "K143CN10",
+            "regalos": [ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/sarki/"
+                },
+                {
+                    "nombre": "4 plazas",
+                    "ruta": "/productos/colchones/4-plazas/rectangulares/sarki/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=sarki"
+                }
+            ],
+            "mensajes":[
+                "Conoce el colchón King Sarki, el modelo estrella de nuestra marca, creado para quienes buscan disfrutar de un descanso confortable, suave y de calidad. Su diseño combina una estructura resistente con materiales pensados para ofrecer una agradable sensación de descanso noche tras noche, convirtiéndolo en una de nuestras opciones favoritas para el dormitorio.",
+                "El Sarki incorpora un sistema de resortes Bonell con 18 filas de acero templado, acompañado de refuerzos centrales y un marco sellado que brindan estabilidad y resistencia a su estructura. Su nivel de confort suave, junto con la espuma de 18 kg/m³ y la agradable tela de algodón tejido en punto, proporciona una superficie acogedora para relajarte y disfrutar de un descanso placentero.",
+                "Con 31 cm de grosor, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor el colchón y contribuir a prolongar su vida útil. Soporta hasta 80 kg por persona y cuenta con 3 años de garantía.",
+                "Sarki es nuestro colchón estrella, una elección pensada para quienes quieren llevar su experiencia de descanso a otro nivel, con la comodidad y confianza que distinguen a nuestra marca."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "sarki",
+                    "línea-de-colchón": "ortopédicos",
+                    "nivel-de-confort": "suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "18 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "grosor": "31cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "3 años"
+                }
+            ]
+        }
+    ]
+}

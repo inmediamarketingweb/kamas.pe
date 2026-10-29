@@ -1,0 +1,394 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/1/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/2/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/3/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/4/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/5/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CLÁSICA 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/6/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/7/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/8/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/9/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/10/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/11/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADO - TEJIDO AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/12/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA PEDESTAL CUADROS 2 + 2 PUFF - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas-pedestales/13/",
+            "precioRegular": 1569,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 12,
+            "sku": "K22441N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        }
+    ]
+}

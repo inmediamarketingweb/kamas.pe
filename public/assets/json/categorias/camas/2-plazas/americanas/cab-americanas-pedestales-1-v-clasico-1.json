@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CUADROS 2 + 2 VELADORES CLÁSICO 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/19/",
+            "precioRegular": 2349,
+            "precioNormal": 1449,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K22114NVC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        }
+    ]
+}

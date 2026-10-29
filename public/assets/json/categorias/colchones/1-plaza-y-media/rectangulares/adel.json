@@ -1,0 +1,53 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "adel",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/adel/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA SEMI ORTOPÉDICO ADEL",
+            "fotos": "/assets/imagenes/productos/colchones/adel/",
+            "precioRegular": 449,
+            "precioNormal": 399,
+            "precioVenta": 249,
+            "stock": 99,
+            "sku": "K1151CN10",
+            "tipo-de-envio": "Envío preferente",
+            "regalos":[ "1 almohada" ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/adel/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/adel/"
+                }
+            ],
+            "mensajes":[
+                "El Der Prinz de Kamas ofrece un descanso firme y resistente gracias a su sistema de resortes Bonell distribuidos en 11 filas, brindando estabilidad y soporte uniforme durante toda la noche.",
+                "Su tela de algodón tejido en punto aporta suavidad, transpirabilidad y una sensación agradable al contacto, mientras que la espuma de 20 kg/m³ añade comodidad sin perder firmeza. Diseñado para uso de un solo lado, es práctico y fácil de mantener.",
+                "El marco sellado reforzado mejora la durabilidad del colchón y evita deformaciones, garantizando un soporte seguro de hasta 70 kg por persona.",
+                "Respaldado por 6 años de garantía, el Der Prinz es una opción confiable para quienes buscan un colchón resistente, estable y duradero."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "adel",
+                    "línea-de-colchón": "Semi ortopédicos",
+                    "nivel-de-confort": "Suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "55kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADA + 2 VELADORES CLÁSICOS 1 - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/9/",
+            "precioRegular": 1919,
+            "precioNormal": 1389,
+            "precioVenta": 1179,
+            "stock": 15,
+            "sku": "K2113NXX10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas",
+                    "línea-de-cabecera": "tapizadas ",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADA + 2 VELADORES CLÁSICOS 1 - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/11/",
+            "precioRegular": 1919,
+            "precioNormal": 1389,
+            "precioVenta": 1179,
+            "stock": 15,
+            "sku": "K2113NXX12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas",
+                    "línea-de-cabecera": "tapizadas ",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

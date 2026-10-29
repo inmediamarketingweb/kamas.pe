@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "circulares",
+            "ruta": "/productos/dormitorios/king/circulares/sarki/1/",
+            "nombre": "DORMITORIO CIRCULAR KING + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MOKI - TEJIDO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/circulares/king/sarki/1/",
+            "precioRegular": 5199,
+            "precioNormal": 4099,
+            "precioVenta": 2499,
+            "stock": 9,
+            "sku": "K364236N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "circulares",
+                    "medida": "200cm x 200cm",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Moki"
+                }
+            ]
+        }
+    ]
+}

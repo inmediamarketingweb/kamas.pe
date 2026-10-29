@@ -13,7 +13,7 @@ function Slider(){
     const isTransitioningRef = useRef(false);
 
     useEffect(() => {
-        fetch('/assets/json/paginas/principal/slider.json')
+        fetch('/assets/json/componentes/slider.json')
             .then((res) => res.json())
             .then((data) => {
                 setSliderItems(data.slider || []);
@@ -133,7 +133,7 @@ function Slider(){
                             {extendedItems.map((slide, index) => (
                                 <li key={`slide-${index}`} style={{ width: `${100 / totalSlides}%` }}>
                                     <a href={slide.link} aria-label={slide.alt}>
-                                        <LazyImage width={isSmallScreen ? 425 : 2000} height={isSmallScreen ? 180 : 600} 
+                                        <LazyImage
                                             src={isSmallScreen ? slide["foto-mobile"] : slide["foto-desktop"]} 
                                             title={slide.alt}
                                             alt={slide.alt}

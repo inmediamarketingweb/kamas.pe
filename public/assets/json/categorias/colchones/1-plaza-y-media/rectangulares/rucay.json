@@ -1,0 +1,61 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/rucay/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA ANÁTOMICO RUCAY",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/1-plaza-y-media/",
+            "precioRegular": 549,
+            "precioNormal": 459,
+            "precioVenta": 289,
+            "stock": 99,
+            "sku": "K1152CN10",
+            "tipo-de-envio": "Envío preferente",
+            "regalos":[ "1 almohada" ],
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/rucay/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Rucay es un colchón básico mejorado, un nivel por encima del Adel. Ofrece un confort agradable gracias a su sistema de resortes Bonell con 8 filas verticales y espuma de 16 kg/m³.",
+                "Su diseño de un solo lado, tela tricop y marco sellado lo convierten en una opción sencilla, funcional y accesible.",
+                "Soporta hasta 60 kg por persona y cuenta con 1 año de garantía, ideal para quienes buscan un colchón económico pero con mejor soporte que los modelos más básicos."
+            ],
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "rucay",
+                    "línea-de-colchón": "anátomicos",
+                    "nivel-de-confort": "Suave",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "8 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "60kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

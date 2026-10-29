@@ -1,0 +1,67 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "norole",
+            "ruta": "/productos/colchones/king/rectangulares/norole/",
+            "nombre": "COLCHÓN KAMAS KING EXTRA ORTOPÉDICO NOROLE",
+            "fotos": "/assets/imagenes/productos/colchones/norole/king/",
+            "precioRegular": 3199,
+            "precioNormal": 2599,
+            "precioVenta": 1699,
+            "stock": 99,
+            "sku": "K149MFN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/norole/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/norole/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/norole/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=norole"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso con mayor firmeza y soporte con el colchón King Norole, perteneciente a la línea Extra Ortopédica, ideal para quienes prefieren una superficie muy firme y una estructura resistente. Su sistema de resortes Bonell, con 20 filas de resortes de acero templado, proporciona una base sólida y estable para un descanso confortable noche tras noche.",
+                "Cuenta con espuma de 23 kg/m³, refuerzos centrales y un marco de espuma que contribuyen a una estructura más firme y resistente. Su sistema One Size y la agradable tela de algodón tejido en punto complementan la experiencia, ofreciendo comodidad sin perder el soporte que caracteriza a esta línea.",
+                "Con 40 cm de grosor, el Norole soporta hasta 110 kg por persona y está diseñado para utilizarse por un solo lado. Además, cuenta con 7 años de garantía, brindándote mayor confianza y tranquilidad para disfrutar de un descanso firme y duradero."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "norole",
+                    "resortes": "bonell",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "cantidad-de-resortes": "20 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "40cm.",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

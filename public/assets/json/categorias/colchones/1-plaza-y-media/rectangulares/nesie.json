@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "nesie",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/nesie/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA HOTELERO NESIE",
+            "fotos": "/assets/imagenes/productos/colchones/nesie/1-plaza-y-media/",
+            "precioRegular": 1429,
+            "precioNormal": 1149,
+            "precioVenta": 699,
+            "stock": 99,
+            "sku": "K1154N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/nesie/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/nesie/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/nesie/"
+                }
+            ],
+            "mensajes":[
+                "El colchón Nesie, diseñado para uso hotelero, ofrece resistencia, durabilidad y un descanso uniforme incluso con alto flujo de huéspedes. Su estructura de resortes Bonell con 11 filas en forma vertical garantiza soporte firme y estable, ideal para un uso constante.",
+                "La tela jacquard, reconocida por su resistencia y elegancia, aporta una presentación profesional y gran durabilidad frente al desgaste. La espuma de 20 kg/m³ brinda un nivel de confort adecuado para distintos tipos de usuarios.",
+                "Su construcción de uso por ambos lados ayuda a prolongar la vida útil del colchón, mientras que el marco sellado reforzado evita deformaciones y mantiene la forma incluso con uso intensivo.",
+                "Con capacidad de 75 kg por persona y 6 años de garantía, es una opción confiable para hoteles, hostales y alojamientos que buscan rendimiento y confort."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "nesie",
+                    "línea-de-colchón": "hoteleros",
+                    "nivel-de-confort": "firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "11 filas en forma vertical",
+                    "tela": "Tela jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "75kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

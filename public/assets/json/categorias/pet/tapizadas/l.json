@@ -1,0 +1,92 @@
+{
+    "productos":[
+        {
+            "categoría": "pet",
+            "subcategoría": "camas tapizadas",
+            "tamaño": "l",
+            "nombre": "CAMA PET TAPIZADA ENCAJONADA + CABECERA PEDESTAL CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/pet/tapizadas/2/",
+            "precioRegular": 249,
+            "precioNormal": 189,
+            "precioVenta": 169,
+            "stock": 14,
+            "sku": "K77212N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "pet",
+                    "subcategoría": "camas tapizadas",
+                    "tamaño": "l",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ]
+        },
+        {
+            "categoría": "pet",
+            "subcategoría": "camas tapizadas",
+            "tamaño": "l",
+            "nombre": "CAMA PET TAPIZADA ENCAJONADA + CABECERA PEDESTAL CAPITONEADA - IKER PALO ROSA",
+            "fotos": "/assets/imagenes/productos/pet/tapizadas/3/",
+            "precioRegular": 249,
+            "precioNormal": 189,
+            "precioVenta": 169,
+            "stock": 14,
+            "sku": "K77212N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "pet",
+                    "subcategoría": "camas tapizadas",
+                    "tamaño": "l",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ]
+        },
+        {
+            "categoría": "pet",
+            "subcategoría": "camas tapizadas",
+            "tamaño": "l",
+            "nombre": "CAMA PET TAPIZADA ENCAJONADA + CABECERA PEDESTAL CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/pet/tapizadas/4/",
+            "precioRegular": 249,
+            "precioNormal": 189,
+            "precioVenta": 169,
+            "stock": 14,
+            "sku": "K77212N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "pet",
+                    "subcategoría": "camas tapizadas",
+                    "tamaño": "l",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ]
+        },
+        {
+            "categoría": "pet",
+            "subcategoría": "camas tapizadas",
+            "tamaño": "l",
+            "nombre": "CAMA PET TAPIZADA ENCAJONADA + CABECERA PEDESTAL CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/pet/tapizadas/5/",
+            "precioRegular": 249,
+            "precioNormal": 189,
+            "precioVenta": 169,
+            "stock": 14,
+            "sku": "K77212N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "pet",
+                    "subcategoría": "camas tapizadas",
+                    "tamaño": "l",
+                    "cajones": "No",
+                    "base-encajonada": "Si"
+                }
+            ]
+        }
+    ]
+}

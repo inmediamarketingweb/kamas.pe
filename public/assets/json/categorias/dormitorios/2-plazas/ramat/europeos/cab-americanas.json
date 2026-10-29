@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo": "ramat",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/ramat/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS RAMAT + CABECERA AÉREA CAPITONEADO - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/ramat/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1699,
+            "precioVenta": 1299,
+            "stock": 23,
+            "sku": "K332273N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo": "ramat",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Ramat",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneado"
+                }
+            ]
+        }
+    ]
+}

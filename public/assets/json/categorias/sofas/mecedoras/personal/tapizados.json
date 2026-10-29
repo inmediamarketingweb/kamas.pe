@@ -1,0 +1,217 @@
+{
+    "productos":[
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/1/",
+            "nombre": "MECEDORA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/1/",
+            "precioRegular": 999,
+            "precioNormal": 799,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "K622621N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tela": "Piel de potro",
+                    "diseño": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/2/",
+            "nombre": "MECEDORA CAPITONEADA - CELESTE",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/2/",
+            "precioRegular": 999,
+            "precioNormal": 799,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "K622621N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tela": "Piel de potro",
+                    "diseño": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/3/",
+            "nombre": "MECEDORA CAPITONEADA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/3/",
+            "precioRegular": 999,
+            "precioNormal": 799,
+            "precioVenta": 599,
+            "stock": 9,
+            "sku": "K622621N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tela": "Piel de potro",
+                    "diseño": "Capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/4/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/4/",
+            "precioRegular": 1299,
+            "precioNormal": 899,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K622621N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/5/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/5/",
+            "precioRegular": 1499,
+            "precioNormal": 999,
+            "precioVenta": 899,
+            "stock": 9,
+            "sku": "K622621N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/6/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - TEJIDO PLOMO NEW",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/6/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "mecedoras",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/7/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/7/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/8/",
+            "nombre": "MECEDORA CAPITONEADA SILLA - IVORY",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/8/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "sófas",
+            "línea": "mecedoras",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/mecedoras/clasicas/9/",
+            "nombre": "MECEDORA CAPITONEADA SILLA LINEAL - GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/mecedoras/9/",
+            "precioRegular": 1699,
+            "precioNormal": 1099,
+            "precioVenta": 999,
+            "stock": 9,
+            "sku": "K622621N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "modelo": "Mecedoras",
+                    "diseño": "Silla"
+                }
+            ]
+        }
+    ]
+}

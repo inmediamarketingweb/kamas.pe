@@ -1,0 +1,29 @@
+{
+    "productos":[
+        {
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "línea": "Con veladores integrados",
+            "tipo-de-cabecera": "aéreas con patas",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA TORNILLO MURO CON MARCO CON 2 VELADORES 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/tornillo/3/",
+            "precioRegular": 2999,
+            "precioNormal": 2299,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K54150NX107",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "línea": "Con veladores integrados",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        }
+    ]
+}

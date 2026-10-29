@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "rucay",
+            "ruta": "/productos/colchones/king/rectangulares/rucay/",
+            "nombre": "COLCHÓN KAMAS KING ANÁTOMICO RUCAY",
+            "fotos": "/assets/imagenes/productos/colchones/rucay/king/",
+            "precioRegular": 1799,
+            "precioNormal": 1399,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "K142CM10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/rucay/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/rucay/"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Rucay es el modelo King más sencillo de la marca, ideal para quienes buscan comodidad básica a un precio accesible. Su estructura de resortes bonell con 17 filas de acero templado, espuma de 16 kg/m³ y tela de algodón tejido en punto ofrecen un descanso confortable. Diseñado para uso de un solo lado, incorpora refuerzos centrales, marco sellado, 25 cm de grosor y soporta hasta 70 kg por persona. Incluye 1 año de garantía."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "rucay",
+                    "nivel-de-confort": "suave",
+                    "línea-de-colchón": "anátomicos",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "17 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-espuma": "16kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "grosor": "29cm.",
+                    "refuerzos": "Centrales",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "70kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

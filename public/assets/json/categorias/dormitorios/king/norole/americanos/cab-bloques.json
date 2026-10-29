@@ -1,0 +1,34 @@
+{
+    "productos":[
+        { 
+            "id": 375,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "norole",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/norole/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NOROLE + CABECERA AÉREA XPLORER - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/norole/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 4109,
+            "precioNormal": 3099,
+            "precioVenta": 2149,
+            "stock": 9,
+            "sku": "K324293N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "norole",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,279 @@
+{
+    "productos":[
+        {
+            "id": 32,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/22/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-2/2/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N18",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría":"cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/23/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - ROSADO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-2/3/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/24/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-2/4/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/25/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/brazos-rectos/lineal-2/5/",
+            "precioRegular": 619,
+            "precioNormal": 719,
+            "precioVenta": 559,
+            "stock": 9,
+            "sku": "K52251N21",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/26/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/1/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/27/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/2/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/28/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/3/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/29/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/4/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/30/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/5/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/31/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/6/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "categoría": "cabeceras",
+            "tipo-de-cabecera": "pedestales",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/cabeceras/2-plazas/pedestales/33/",
+            "nombre": "CABECERA PEDESTAL 2 PLAZAS LINEAL 2 - AZUL",
+            "fotos": "/assets/imagenes/productos/cabeceras/2-plazas/pedestales/bloques/sin-brazos/otros-modelos/8/",
+            "precioRegular": 619,
+            "precioNormal": 649,
+            "precioVenta": 509,
+            "stock": 9,
+            "sku": "K52250N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "2 plazas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

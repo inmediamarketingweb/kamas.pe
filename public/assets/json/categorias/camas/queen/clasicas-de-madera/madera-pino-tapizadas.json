@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "clásicas de madera",
+            "madera": "pino",
+            "nombre": "CAMA QUEEN DE MADERA PINO + CABECERA AÉREA LINEAL - MIEL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/clasicas-de-madera/tapizadas/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2599,
+            "precioVenta": 2399,
+            "stock": 15,
+            "sku": "K2373MPT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "clásicas de madera",
+                    "madera": "pino",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal"
+                }
+            ]
+        }
+    ]
+}

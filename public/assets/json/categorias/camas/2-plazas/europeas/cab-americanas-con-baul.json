@@ -1,0 +1,124 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADO 1 + SOFÁ BAÚL - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-baul/1/",
+            "precioRegular": 1909,
+            "precioNormal": 1319,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K2223NXCBM100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADO 1 + SOFÁ BAÚL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-baul/2/",
+            "precioRegular": 1909,
+            "precioNormal": 1319,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K2223NXCBM101",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADO 1 + SOFÁ BAÚL + 2 PUFF - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-baul/3/",
+            "precioRegular": 1909,
+            "precioNormal": 1319,
+            "precioVenta": 1129,
+            "stock": 12,
+            "sku": "K2223NXCBM102",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADO 1 + SOFÁ BAÚL 1 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/con-baul/4/",
+            "precioRegular": 2189,
+            "precioNormal": 1319,
+            "precioVenta": 1279,
+            "stock": 12,
+            "sku": "K2223NXCBM103",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "si",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

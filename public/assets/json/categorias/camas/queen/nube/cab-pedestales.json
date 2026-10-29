@@ -1,0 +1,352 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2999,
+            "precioVenta": 2499,
+            "stock": 15,
+            "sku": "K2335NN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE ORION - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/2/",
+            "precioRegular": 3499,
+            "precioNormal": 3099,
+            "precioVenta": 2599,
+            "stock": 15,
+            "sku": "K2335NN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - TEJIDO PALO ROSA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/3/",
+            "precioRegular": 3899,
+            "precioNormal": 3499,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K2335NN12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - TEJIDO AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/4/",
+            "precioRegular": 3899,
+            "precioNormal": 3499,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K2335NN13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - TEJIDO PALO ROSA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/5/",
+            "precioRegular": 3999,
+            "precioNormal": 3699,
+            "precioVenta": 3399,
+            "stock": 15,
+            "sku": "K2335NN14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - POTRO AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/6/",
+            "precioRegular": 3999,
+            "precioNormal": 3699,
+            "precioVenta": 3399,
+            "stock": 15,
+            "sku": "K2335NN15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL ENTRE NUBES - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/7/",
+            "precioRegular": 4299,
+            "precioNormal": 3899,
+            "precioVenta": 3699,
+            "stock": 15,
+            "sku": "K2335NN16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL ENTRE NUBES - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/8/",
+            "precioRegular": 4499,
+            "precioNormal": 3999,
+            "precioVenta": 3799,
+            "stock": 15,
+            "sku": "K2335NN17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL ENTRE NUBES - TEJIDO TABACO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/9/",
+            "precioRegular": 4299,
+            "precioNormal": 3899,
+            "precioVenta": 3699,
+            "stock": 15,
+            "sku": "K2335NN18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - TEJIDO TABACO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/10/",
+            "precioRegular": 4499,
+            "precioNormal": 3999,
+            "precioVenta": 3799,
+            "stock": 15,
+            "sku": "K2335NN19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - DURAZNO PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/11/",
+            "precioRegular": 4499,
+            "precioNormal": 3999,
+            "precioVenta": 3799,
+            "stock": 15,
+            "sku": "K2335NN20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "nube",
+            "nombre": "CAMA NUBE QUEEN CAJÓN ALTO + CABECERA PEDESTAL NUBE - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/nube/12/",
+            "precioRegular": 4099,
+            "precioNormal": 3999,
+            "precioVenta": 3599,
+            "stock": 15,
+            "sku": "K2335NN21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "nube"
+                }
+            ]
+        }
+    ]
+}

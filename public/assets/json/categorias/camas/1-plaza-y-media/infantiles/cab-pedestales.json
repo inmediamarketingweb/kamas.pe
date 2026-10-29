@@ -1,0 +1,534 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/2/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/37/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Conejo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/5/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL CONEJO + SOFÁ BAÚL - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/conejo/4/",
+            "precioRegular": 1779,
+            "precioNormal": 1479,
+            "precioVenta": 1279,
+            "stock": 12,
+            "sku": "K2215221N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Conejo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/6/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/44/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/11/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL RATÓN - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/40/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/12/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/1-plaza-y-media/pedestales/infantiles/sin-brazos/pelota/1/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/13/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL INFANTIL PELOTA - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/41/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215221N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/15/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORAZÓN - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/31/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215227N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corazón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "ruta": "/productos/camas/1-plaza-y-media/infantiles/16/",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/33/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2215227N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Abanico"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - FUSCIA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/34/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "abanico"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ABANICO - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/35/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "abanico"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL ARCOIRIS - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/36/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "arcoiris"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL LITLE WOOF - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/38/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "litle woof"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL WOOF - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/39/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "woof"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL DINO - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/42/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "dino"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL RATÓN - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/43/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL RATÓN - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/46/",
+            "precioRegular": 1329,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K2151NI17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA PEDESTAL OSO - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/50/",
+            "precioRegular": 1529,
+            "precioNormal": 1229,
+            "precioVenta": 1029,
+            "stock": 12,
+            "sku": "K2151NI18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "oso"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA ENCOFRADO ALTO + CABECERA PEDESTAL OSO + ESCALERA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/51/",
+            "precioRegular": 1529,
+            "precioNormal": 1229,
+            "precioVenta": 1029,
+            "stock": 12,
+            "sku": "K2151NI19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "oso"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA 1 PLAZA Y MEDIA CON 2 CAJONES LATERALES + CABECERA PEDESTAL PELOTA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/52/",
+            "precioRegular": 1529,
+            "precioNormal": 1229,
+            "precioVenta": 1029,
+            "stock": 12,
+            "sku": "K2151NI20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "si",
+                    "base-encajonada": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "pelota"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL EGYPT 5 + DISEÑO EN PIECERA - DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/sin-tapizar/1/",
+            "precioRegular": 6899,
+            "precioNormal": 6499,
+            "precioVenta": 5999,
+            "stock": 14,
+            "sku": "K2124AISTN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "acero inoxidable",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "egypt 5"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO KING + CABECERA PEDESTAL + DISEÑO EN PIECERA - DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/acero-inoxidable/sin-tapizar/2/",
+            "precioRegular": 6899,
+            "precioNormal": 6499,
+            "precioVenta": 5999,
+            "stock": 14,
+            "sku": "K2124AISTN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "acero inoxidable",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "acero inoxidable",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

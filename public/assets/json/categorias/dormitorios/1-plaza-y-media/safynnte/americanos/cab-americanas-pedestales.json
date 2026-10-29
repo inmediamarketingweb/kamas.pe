@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "safynnte",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/safynnte/1/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SAFYNNTE + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1819,
+            "precioNormal": 1449,
+            "precioVenta": 1059,
+            "stock": 13,
+            "sku": "K3215243N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Safynnte",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

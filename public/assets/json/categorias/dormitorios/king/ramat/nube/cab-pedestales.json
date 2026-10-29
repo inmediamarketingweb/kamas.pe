@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "nube",
+            "ruta": "/productos/dormitorios/king/cama-nube/ramat/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS RAMAT - AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/ramat/1/",
+            "precioRegular": 5299,
+            "precioNormal": 4559,
+            "precioVenta": 2649,
+            "stock": 23,
+            "sku": "K33427N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "nube",
+            "ruta": "/productos/dormitorios/king/cama-nube/ramat/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS RAMAT - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/ramat/2/",
+            "precioRegular": 5299,
+            "precioNormal": 4559,
+            "precioVenta": 2649,
+            "stock": 23,
+            "sku": "K33427N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "ramat",
+                    "línea": "nube",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas" ,
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        }
+    ]
+}

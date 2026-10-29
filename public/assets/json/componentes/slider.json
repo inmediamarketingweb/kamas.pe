@@ -1,0 +1,57 @@
+{
+    "slider":[
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/1.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/1.jpg",
+            "link": "/productos/dormitorios/?tamaño=king&línea=circulares",
+            "alt": "Dormitorios circulares | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/2.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/2.jpg",
+            "alt": "Envíos gratis todo Lima y Callao | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/3.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/3.jpg",
+            "link": "/envios/envios-a-provincia/",
+            "alt": "Envíos a provincia | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/4.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/4.jpg",
+            "link": "/servicio-al-cliente/medios-de-pago/",
+            "alt": "Medios de pago | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/5.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/5.jpg",
+            "link": "/busqueda?query=orion",
+            "alt": "Dormitorios modelo Orion | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/6.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/6.jpg",
+            "link": "/productos/dormitorios/?línea=nube",
+            "alt": "Dormitorios nube | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/7.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/7.jpg",
+            "link": "/productos/dormitorios/?tamaño=4-plazas",
+            "alt": "Dormitorios 4 plazas | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/8.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/8.jpg",
+            "link": "/productos/dormitorios/?línea=infantiles",
+            "alt": "Dormitorios infantiles | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/componentes/slider/9.jpg",
+            "foto-mobile": "/assets/imagenes/componentes/slider/9.jpg",
+            "link": "/productos/dormitorios/?línea=clasicos-de-madera",
+            "alt": "Dormitorios premium | Kamas"
+        }
+    ]
+}

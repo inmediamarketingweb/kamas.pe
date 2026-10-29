@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "id": 489,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "Sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/sarki/1002/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 3 + SOFÁ BAÚL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/americanas/sin-brazos/lineal-3/3/",
+            "precioRegular": 4099,
+            "precioNormal": 3199,
+            "precioVenta": 2049,
+            "stock": 13,
+            "sku": "K323236N1002",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal 3"
+                }
+            ]
+        }
+    ]
+}

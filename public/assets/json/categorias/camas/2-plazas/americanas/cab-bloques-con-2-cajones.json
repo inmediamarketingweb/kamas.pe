@@ -1,0 +1,217 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/58/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA MOKI - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/moki/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX220",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/59/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA MOKI - ANTIFLUIDO AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/moki/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX230",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/60/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA TORTUN - ANTIFLUIDO VERDE PACAY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/2-plazas/bloques/tortun/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX240",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA VELUTO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-bloques/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX241",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "veluto"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA VIENNA - CUERO CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-bloques/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX242",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "vienna"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA LINEAL HORI - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-bloques/3/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K222221NX243",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA VELUTO + 2 PUFF - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-bloques/4/",
+            "precioRegular": 1619,
+            "precioNormal": 1119,
+            "precioVenta": 899,
+            "stock": 12,
+            "sku": "K222221NX244",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "sin Brazos",
+                    "modelo-de-cabecera": "veluto"
+                }
+            ]
+        }
+    ]
+}

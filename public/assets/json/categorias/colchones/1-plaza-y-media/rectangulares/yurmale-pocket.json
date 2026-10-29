@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "yurmale pocket",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/yurmale-pocket/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA EXTRA ORTOPÉDICO YURMALE POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/1-plaza-y-media/",
+            "precioRegular": 1949,
+            "precioNormal": 1689,
+            "precioVenta": 999,
+            "stock": 99,
+            "sku": "K11512N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/yurmale-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=yurmale-pocket"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Yurmale es el colchón premium de la marca, pensado para quienes buscan máxima firmeza, soporte superior y durabilidad. Su sistema de 364 resortes Pocket brinda independencia de movimiento y un soporte preciso, complementado por refuerzos centrales que aumentan la estabilidad.",
+                "Cuenta con tela algodón tejido en punto, espuma de alta densidad (25 kg/m³) y un robusto marco de espuma. Con sus 44 cm de grosor y diseño one size, ofrece una estructura imponente y de larga vida útil.",
+                "Apto para uso por ambos lados y soporta hasta 130 kg por persona, siendo ideal para quienes necesitan un colchón firme y resistente.",
+                "Incluye 12 años de garantía, reflejando su calidad y categoría premium."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "yurmale pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "364 resortes pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "120kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/1/",
+            "precioRegular": 2249,
+            "precioNormal": 1659,
+            "precioVenta": 1149,
+            "stock": 13,
+            "sku": "K3215225N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/rucay/6/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/5/",
+            "precioRegular": 2249,
+            "precioNormal": 1659,
+            "precioVenta": 1149,
+            "stock": 13,
+            "sku": "K3215225N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "modelo": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/rucay/9/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/8/",
+            "precioRegular": 2249,
+            "precioNormal": 1659,
+            "precioVenta": 1149,
+            "stock": 13,
+            "sku": "K3215225N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Rucay",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

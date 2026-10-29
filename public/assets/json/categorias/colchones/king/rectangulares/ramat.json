@@ -1,0 +1,68 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "ramat",
+            "ruta": "/productos/colchones/king/rectangulares/ramat/",
+            "nombre": "COLCHÓN KAMAS KING SÚPER ORTOPÉDICO RAMAT",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/king/",
+            "precioRegular": 2999,
+            "precioNormal": 2249,
+            "precioVenta": 1449,
+            "stock": 99,
+            "sku": "K145MCN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/ramat/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=ramat"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso confortable y con el soporte que necesitas con el colchón King Ramat, perteneciente a la línea Súper Ortopédicos y diseñado para ofrecer un nivel de confort intermedio, ideal para quienes buscan el equilibrio entre firmeza y comodidad. Su sistema de resortes Bonell, con 19 filas de resortes de acero templado, proporciona una estructura estable y resistente para acompañarte noche tras noche.",
+                "Incorpora Sistema PT, refuerzos centrales y un marco de espuma que contribuyen a mejorar la estabilidad y durabilidad del colchón. Su espuma de 20 kg/m³ y elegante tela Jacquard complementan la experiencia de descanso, mientras que la doble pestaña aporta un acabado más resistente en su estructura.",
+                "Con 37cm de grosor, el Ramat está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor su estructura y prolongar su vida útil. Soporta hasta 90 kg por persona y cuenta con 4 años de garantía, ofreciendo una excelente alternativa para quienes buscan un colchón ortopédico cómodo, resistente y confiable."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "ramat",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "19 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "37cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

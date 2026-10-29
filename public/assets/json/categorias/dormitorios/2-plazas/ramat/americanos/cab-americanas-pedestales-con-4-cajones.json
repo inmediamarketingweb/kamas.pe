@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "Ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/ramat/34/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 4 CAJONES + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL EMPERATIZ - AZUL",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/ramat/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 1929,
+            "precioNormal": 1499,
+            "precioVenta": 1999,
+            "stock": 9,
+            "sku": "K322173N29",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

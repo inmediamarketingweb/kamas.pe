@@ -1,0 +1,56 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "konig",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/konig/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA EXTRA ORTOPÉDICO KONIG",
+            "fotos": "/assets/imagenes/productos/colchones/konig/1-plaza-y-media/",
+            "precioRegular": 1749,
+            "precioNormal": 1459,
+            "precioVenta": 899,
+            "stock": 99,
+            "sku": "K11511MFN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/konig/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/konig/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/konig/"
+                }
+            ],
+            "mensajes":[
+                "El colchón KAMAS Konig pertenece a la línea Extra Ortopédica y está diseñado para quienes buscan un descanso muy firme, con alto nivel de soporte y durabilidad. Su sistema de resortes Bonell en 12 filas proporciona una base sólida y estable, ideal para mantener una correcta alineación de la columna.",
+                "Cuenta con espuma de alta densidad de 25 kg/m³, que refuerza la estructura interna y garantiza mayor resistencia al uso continuo. El refuerzo de marco sellado aporta firmeza en los bordes y prolonga la vida útil del colchón, mientras que su diseño de uso por ambos lados permite un desgaste uniforme.",
+                "La superficie está recubierta con tela de algodón tejido en punto, suave, fresca y resistente. El KAMAS Konig es una excelente opción para personas que requieren un colchón firme y confiable, con capacidad de soportar hasta 100 kg por persona y una sólida garantía de 10 años, reflejo de su calidad superior."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "konig",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "12 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "100kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

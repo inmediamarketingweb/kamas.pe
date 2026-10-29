@@ -1,0 +1,717 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/18/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/5/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/19/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/6/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/21/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/24/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - CUERO CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/11/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/25/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/12/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/27/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL EMPERATRIZ - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/14/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americana/10001/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/clasicas/2-plazas/sin-cajones/pedestales/1/",
+            "precioRegular": 1449,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 14,
+            "sku": "K2115222N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "cama",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americana/10006/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA - MARRÓN",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/clasicas/2-plazas/sin-cajones/pedestales/6/",
+            "precioRegular": 1449,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 14,
+            "sku": "K2115222N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "cama",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americana/10007/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/clasicas/2-plazas/sin-cajones/pedestales/7/",
+            "precioRegular": 1449,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 14,
+            "sku": "K2115222N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "cama",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americana/100010/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/clasicas/2-plazas/sin-cajones/pedestales/10/",
+            "precioRegular": 1449,
+            "precioNormal": 1029,
+            "precioVenta": 829,
+            "stock": 14,
+            "sku": "K2115222N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/36/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL RECTANGULAR - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/otras-formas/sin-brazos/otros-modelos/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222227N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "ruta": "/productos/camas/2-plazas/americanas/37/",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CUADROS 1 - GRIS ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/otras-formas/sin-brazos/otros-modelos/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222227N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA ENCAJONADA + CABECERA PEDESTAL EMPERATRIZ - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/2-plazas/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL LINEAL - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N101",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/3/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N102",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/4/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N103",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/5/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N104",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CAPITONEADA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/6/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N105",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CAPITONEADA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/7/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N106",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CLÁSICA 1 - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/8/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N107",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CAPITONEADA - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/9/",
+            "precioRegular": 1649,
+            "precioNormal": 1149,
+            "precioVenta": 929,
+            "stock": 15,
+            "sku": "K222223N108",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL LINEAL 1 - CHAMPAGNE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas-pedestales/10/",
+            "precioRegular": 1549,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 15,
+            "sku": "K222223N109",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        }
+    ]
+}

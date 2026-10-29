@@ -1,0 +1,50 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-cedro/1/",
+            "precioRegular": 4999,
+            "precioNormal": 3099,
+            "precioVenta": 2799,
+            "stock": 9,
+            "sku": "K442NMCE10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "mixtos",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA Y 2 PLAZAS MADERA CEDRO CON SABANERA + ESCALERA CON CAJONES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/camarotes/madera-cedro/2/",
+            "precioRegular": 5999,
+            "precioNormal": 3899,
+            "precioVenta": 3499,
+            "stock": 9,
+            "sku": "K442NMCE12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "mixtos",
+                    "madera": "cedro"
+                }
+            ]
+        }
+    ]
+}

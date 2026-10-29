@@ -1,0 +1,27 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "bases y tarimas",
+            "nombre": "BASE TARIMA QUEEN EUROPEA CON 4 CAJONES LATERALES - BLANCO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/bases-y-tarimas/9/",
+            "precioRegular": 1659,
+            "precioNormal": 1349,
+            "precioVenta": 1099,
+            "stock": 14,
+            "sku": "K7342NXEC11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "bases y tarimas",
+                    "cajones": "si",
+                    "base-encajonada": "No"
+                }
+            ]
+        }
+    ]
+}

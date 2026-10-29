@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "id": 107,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/27/",
+            "nombre": "CABECERA PEDESTAL KING PRINCESA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-rectos/princesa/1/",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K54241NX10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "categoria": "cabeceras",
+            "subcategoria": "pedestales",
+            "tamaño": "king",
+            "ruta": "/productos/cabeceras/king/pedestales/27/",
+            "nombre": "CABECERA PEDESTAL KING PRINCESA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/coronas/brazos-rectos/princesa/1/",
+            "precioRegular": 619,
+            "precioNormal": 1019,
+            "precioVenta": 789,
+            "stock": 9,
+            "sku": "K54241N10",
+            "tipo-de-envio": "Envío preferente",
+            "detalles-del-producto":[
+                {
+                    "línea": "Americana",
+                    "tamaño": "King",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "Princesa"
+                }
+            ]
+        }
+    ]
+}

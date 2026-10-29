@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "talladas",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CEDRO + CABECERA AÉREA CORONA TAPIZADA + PIECERA CON DISEÑO - NOGAL CON IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/talladas/tapizadas/1/",
+            "precioRegular": 7999,
+            "precioNormal": 7599,
+            "precioVenta": 7299,
+            "stock": 15,
+            "sku": "K2345NTCT10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "piecera": "si",
+                    "base-encajonada": "si",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

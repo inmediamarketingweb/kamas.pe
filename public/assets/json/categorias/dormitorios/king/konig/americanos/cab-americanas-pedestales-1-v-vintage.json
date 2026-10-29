@@ -1,0 +1,91 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/konig/16/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - CH0COLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/7/",
+            "precioRegular": 3899,
+            "precioNormal": 3299,
+            "precioVenta": 2699,
+            "stock": 13,
+            "sku": "K3242113N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Konig",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/konig/17/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/9/",
+            "precioRegular": 4499,
+            "precioNormal": 3799,
+            "precioVenta": 2899,
+            "stock": 13,
+            "sku": "K3242113N26",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Konig",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/konig/18/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS KONIG + CABECERA PEDESTAL EMPERATRIZ + VELADOR VINTAGE - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/konig/pedestales/americanas/brazos-rectos/emperatriz/10/",
+            "precioRegular": 4599,
+            "precioNormal": 3799,
+            "precioVenta": 2899,
+            "stock": 13,
+            "sku": "K3242113N27",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Konig",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

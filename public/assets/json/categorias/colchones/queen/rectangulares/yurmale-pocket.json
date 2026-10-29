@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "yurmale pocket",
+            "ruta": "/productos/colchones/queen/rectangulares/yurmale/",
+            "nombre": "COLCHÓN KAMAS QUEEN EXTRA ORTOPÉDICO YURMALE",
+            "fotos": "/assets/imagenes/productos/colchones/yurmale/king/",
+            "precioRegular": 3889,
+            "precioNormal": 3229,
+            "precioVenta": 2099,
+            "stock": 99,
+            "sku": "K1312N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/yurmale-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/yurmale-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=yurmale-pocket"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Yurmale es el mejor modelo de toda la marca Kamas, creado para quienes necesitan máximo soporte, firmeza y resistencia superior. Forma parte de la línea extra ortopédica y ofrece una sensación muy firme, ideal para personas de contextura grande o que requieren un descanso altamente estable y seguro.",
+                "Incorpora 700 resortes Pocket, que trabajan de manera independiente para adaptarse al cuerpo y mantener una correcta alineación de la columna, reduciendo los puntos de presión. Su espuma de alta densidad de 25 kg/m³, junto a los refuerzos centrales y el marco de espuma, garantiza una estructura robusta, durable y de alto rendimiento.",
+                "Está revestido con tela de algodón tejido en punto, fresca y confortable al contacto. Su imponente grosor de 44 cm, el uso por ambos lados, la capacidad de soportar hasta 130 kg por persona y su garantía de 12 años confirman al Yurmale como la opción premium y más avanzada de Kamas, pensada para quienes buscan el máximo nivel en descanso ortopédico."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "yurmale pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "600",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "Centrales",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "44cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "130kg. por persona",
+                    "garantía": "12 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/1/",
+            "precioRegular": 2899,
+            "precioNormal": 2099,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K415NMCE10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/2/",
+            "precioRegular": 2899,
+            "precioNormal": 2099,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K415NMCE11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/3/",
+            "precioRegular": 2899,
+            "precioNormal": 2099,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K415NMCE12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/4/",
+            "precioRegular": 2899,
+            "precioNormal": 2099,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K415NMCE13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO CON 2 CAJONES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/5/",
+            "precioRegular": 3099,
+            "precioNormal": 2299,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K415NMCE14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/6/",
+            "precioRegular": 2899,
+            "precioNormal": 2099,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K415NMCE15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "cedro",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CEDRO CON 2 CAJONES + ESCALERA CON CAJONES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-cedro/7/",
+            "precioRegular": 3999,
+            "precioNormal": 3299,
+            "precioVenta": 2899,
+            "stock": 9,
+            "sku": "K415NMCE15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "cedro"
+                }
+            ]
+        }
+    ]
+}

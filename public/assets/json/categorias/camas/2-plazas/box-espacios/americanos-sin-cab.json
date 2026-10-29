@@ -1,0 +1,59 @@
+{
+    "productos":[
+        {
+            "id": 24,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "nombre": "BOX ESPACIO 2 PLAZAS AMERICANO SIN CABECERA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/sin-cabecera/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N24",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "líne-de-cabecera": "Sin cabecera"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas-funcionales/box-espacios/2-plazas/americanos/45/",
+            "nombre": "BOX ESPACIO 2 PLAZAS AMERICANO SIN CABECERA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/sin-cabecera/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N20",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "líne-de-cabecera": "Sin cabecera"
+                }
+            ]
+        }
+    ]
+}

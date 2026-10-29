@@ -1,0 +1,1060 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/colchones.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "colchones",
+            "link": "/productos/colchones/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "modelos":[
+                        {
+                            "texto": "Adel",
+                            "link": "/productos/colchones/?modelo-de-colchón=adel"
+                        },
+                        {
+                            "texto": "Rucay",
+                            "link": "/productos/colchones/?modelo-de-colchón=rucay"
+                        },
+                        {
+                            "texto": "Sarki",
+                            "link": "/productos/colchones/?modelo-de-colchón=sarki"
+                        },
+                        {
+                            "texto": "Safynnte",
+                            "link": "/productos/colchones/?modelo-de-colchón=safynnte"
+                        },
+                        {
+                            "texto": "Der prinz",
+                            "link": "/productos/colchones/?modelo-de-colchón=der-prinz"
+                        },
+                        {
+                            "texto": "Thameo pocket",
+                            "link": "/productos/colchones/?modelo-de-colchón=thameo-pocket"
+                        },
+                        {
+                            "texto": "Ramat",
+                            "link": "/productos/colchones/?modelo-de-colchón=ramat"
+                        },
+                        {
+                            "texto": "Nesie",
+                            "link": "/productos/colchones/?modelo-de-colchón=nesie"
+                        },
+                        {
+                            "texto": "Norole",
+                            "link": "/productos/colchones/?modelo-de-colchón=norole"
+                        },
+                        {
+                            "texto": "Thaleo pocket",
+                            "link": "/productos/colchones/?modelo-de-colchón=thaleo-pocket"
+                        },
+                        {
+                            "texto": "Konig",
+                            "link": "/productos/colchones/?modelo-de-colchón=konig"
+                        },
+                        {
+                            "texto": "Yurmale pocket",
+                            "link": "/productos/colchones/?modelo-de-colchón=yurmale"
+                        },
+                        {
+                            "texto": "Ver todos los modelos",
+                            "link": "/productos/colchones/"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "texto": "cuna",
+                            "link": "/productos/colchones/?tamaño=cuna"
+                        },
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/colchones/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/colchones/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/colchones/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/colchones/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/colchones/?tamaño=king"
+                        },
+                        {
+                            "estado": "Nuevo",
+                            "texto": "4 plazas",
+                            "link": "/productos/colchones/?tamaño=4-plazas"
+                        },
+                        {
+                            "texto": "Ver todas las medidas",
+                            "link": "/productos/colchones/"
+                        }
+                    ]
+                },
+                {
+                    "tipo-/-tecnología":[
+                        {
+                            "texto": "Resortes",
+                            "link": "/productos/colchones/?tipo=bonell"
+                        },
+                        {
+                            "texto": "Pocket",
+                            "link": "/productos/colchones/?tipo=pocket"
+                        },
+                        {
+                            "texto": "Espuma",
+                            "link": "/productos/colchones/?tipo=espuma"
+                        },
+                        {
+                            "estado": "Proximamente",
+                            "texto": "Viscoelásticos",
+                            "link": "/productos/colchones/?tipo=viscoelásticos"
+                        },
+                        {
+                            "texto": "Ver todos los tipos",
+                            "link": "/productos/colchones/"
+                        }
+                    ]
+                },
+                {
+                    "nivel-de-firmeza":[
+                        {
+                            "id": 1,
+                            "texto": "suave",
+                            "link": "/productos/colchones/?nivel-de-confort=suave"
+                        },
+                        {
+                            "id": 2,
+                            "texto": "medio suave",
+                            "link": "/productos/colchones/?nivel-de-confort=medio-suave"
+                        },
+                        {
+                            "id": 3,
+                            "texto": "intermedio",
+                            "link": "/productos/colchones/?nivel-de-confort=intermedio"
+                        },
+                        {
+                            "id": 4,
+                            "texto": "firme",
+                            "link": "/productos/colchones/?nivel-de-confort=firme"
+                        },
+                        {
+                            "id": 5,
+                            "texto": "muy firme",
+                            "link": "/productos/colchones/?nivel-de-confort=muy-firme"
+                        },
+                        {
+                            "texto": "Ver todos los tipos",
+                            "link": "/productos/colchones/"
+                        }
+                    ]
+                },
+                {
+                    "link-suelto":[
+                        {
+                            "titulo": "Bases y tarimas",
+                            "texto": "Bases tapizadas, tarimas, con baúl y más",
+                            "link": "/productos/camas/?línea=bases-y-tarimas",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/camas.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "camas",
+            "link": "/productos/camas/",
+            "textos":[
+                "Bases con diseños americanos, europeos con o sin cajones... son la base de un buen descanso."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "tipos-de-camas":[
+                        {
+                            "texto": "Americanas",
+                            "link": "/productos/camas/?línea=americanas",
+                            "image": "https://dormihogar.pe/assets/imagenes/productos/camas-box-tarimas/kamas/americanas/king/aereas-con-patas/bloques/sin-brazos/meshlock/6/1.jpg",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Europeas",
+                            "link": "/productos/camas/?línea=europeas",
+                            "image": "https://kamas.pe/assets/imagenes/productos/camas-box-tarimas/europeas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/7/1.jpg",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Clásicas de madera",
+                            "link": "/productos/camas/?línea=clásicas-de-madera",
+                            "image": "https://thumbs.dreamstime.com/b/estructura-de-cama-duradera-madera-y-metal-dise%C3%B1o-minimalista-l%C3%ADneas-limpias-sin-colch%C3%B3n-fondo-blanco-%C3%A1ngulo-frontal-izquierdo-431211821.jpg",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Camas espacios",
+                            "link": "/productos/camas/?línea=espacios",
+                            "image": "https://media.falabella.com/tottusPE/40858572_2/w=1500,h=1500,fit=cover",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Camarotes",
+                            "link": "/productos/camas/?línea=camarotes",
+                            "image": "https://macrumo.com.pe/wp-content/uploads/2023/12/camarote-capirona-acabado-cedro-FONDO-BLANCO-1000x1000.jpg",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Infantiles",
+                            "link": "/productos/camas/?línea=infantiles",
+                            "image": "https://m.media-amazon.com/images/I/71wJAPw7u4L.jpg",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Cunas",
+                            "link": "/productos/camas/?línea=cunas",
+                            "image": "https://media.istockphoto.com/id/489117256/es/foto/cuna-de-beb%C3%A9-aislado-en-el-fondo-blanco.jpg?s=612x612&w=0&k=20&c=4yJaXQwGiSwHDfYbGEYOj65-vkFInOw7krTuL6lIQj8=",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Divanes",
+                            "link": "/productos/camas/?línea=divanes",
+                            "image": "https://rimage.ripley.com.pe/home.ripley/Attachment/WOP/1/2064318128687/image1-2064318128687.jpg",
+                            "image-alt": ""
+                        }
+                    ]
+                },
+                {
+                    "camas-especiales":[
+                        {
+                            "estado": "Nuevo",
+                            "texto": "Smart",
+                            "link": "/productos/camas/?línea=smart",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Nube",
+                            "link": "/productos/camas/?línea=nube",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "estado": "Nuevo",
+                            "texto": "Talladas",
+                            "link": "/productos/camas/?línea=talladas",
+                            "image": "https://aarsunwoods.com/wp-content/uploads/2025/12/Carved-Wooden-Bed-Natural-Finish-scaled.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "estado": "Nuevo",
+                            "texto": "Acero inoxidable",
+                            "link": "/productos/camas/?línea=acero-inoxidable",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Circulares",
+                            "link": "/productos/camas/?línea=circulares",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Camas con veladores",
+                            "link": "/productos/camas/?veladores=si",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        },
+                        {
+                            "texto": "Camas con baules",
+                            "link": "/productos/camas/?baúl=si",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "texto": "Cuna",
+                            "link": "/productos/camas/?tamaño=cuna"
+                        },
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/camas/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/camas/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/camas/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/camas/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/camas/?tamaño=king"
+                        },
+                        {
+                            "estado": "Nuevo",
+                            "texto": "4 plazas",
+                            "link": "/productos/camas/?tamaño=4-plazas"
+                        },
+                        {
+                            "texto": "Ver todas las medidas",
+                            "link": "/productos/camas/"
+                        }
+                    ]
+                },
+                {
+                    "link-suelto":[
+                        {
+                            "titulo": "Bases y tarimas",
+                            "texto": "Bases tapizadas, tarimas, con baúl y más",
+                            "link": "/productos/camas/?línea=bases-y-tarimas",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": "",
+                    "link": "/productos/camas/galeria/"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/dormitorios.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "dormitorios",
+            "link": "/productos/dormitorios/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "tipos-de-doritorios":[
+                        {
+                            "texto": "Americanos",
+                            "link": "/productos/dormitorios/?línea=americanos"
+                        },
+                        {
+                            "texto": "Europeos",
+                            "link": "/productos/dormitorios/?línea=europeos"
+                        },
+                        {
+                            "texto": "Clásicos de madera",
+                            "link": "/productos/dormitorios/?línea=clásicos-de-madera"
+                        },
+                        {
+                            "texto": "Sistema espacio",
+                            "link": "/productos/dormitorios/?línea=sistema-espacio"
+                        },
+                        {
+                            "texto": "Camarotes",
+                            "link": "/productos/dormitorios/?línea=camarotes"
+                        },
+                        {
+                            "texto": "Infantiles",
+                            "link": "/productos/dormitorios/?línea=infantiles"
+                        },
+                        {
+                            "texto": "Cunas",
+                            "link": "/productos/dormitorios/?línea=cunas"
+                        },
+                        {
+                            "texto": "Divanes",
+                            "link": "/productos/dormitorios/?línea=divanes"
+                        }
+                    ]
+                },
+                {
+                    "dormitorios-especiales":[
+                        {
+                            "texto": "dormitorios smart",
+                            "link": "/productos/dormitorios/?línea=smart"
+                        },
+                        {
+                            "texto": "dormitorios nube",
+                            "link": "/productos/dormitorios/?línea=nube"
+                        },
+                        {
+                            "texto": "dormitorios tallados",
+                            "link": "/productos/dormitorios/?línea=tallados"
+                        },
+                        {
+                            "texto": "dormitorios de acero inoxidable",
+                            "link": "/productos/dormitorios/?línea=acero-inoxidable"
+                        },
+                        {
+                            "texto": "dormitorios circulares",
+                            "link": "/productos/dormitorios/?línea=circulares"
+                        },
+                        {
+                            "texto": "Ver todos los dormitorios",
+                            "link": "/productos/dormitorios/"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "texto": "cuna",
+                            "link": "/productos/dormitorios/?tamaño=cuna"
+                        },
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/dormitorios/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/dormitorios/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/dormitorios/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/dormitorios/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/dormitorios/?tamaño=king"
+                        },
+                        {
+                            "texto": "4 plazas",
+                            "link": "/productos/dormitorios/?tamaño=4-plazas"
+                        },
+                        {
+                            "texto": "ver todos",
+                            "link": "/productos/dormitorios/"
+                        }
+                    ]
+                },
+                {
+                    "link-suelto":[
+                        {
+                            "titulo": "Bases y tarimas",
+                            "texto": "Bases tapizadas, tarimas, con baúl y más",
+                            "link": "/productos/camas/?línea=bases-y-tarimas",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": "",
+                    "link": "/productos/dormitorios/galeria/"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/cabeceras.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "cabeceras",
+            "link": "/productos/cabeceras/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "medidas":[
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/cabeceras/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/cabeceras/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/cabeceras/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/cabeceras/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/cabeceras/?tamaño=king"
+                        },
+                        {
+                            "texto": "Ver todas las medidas",
+                            "link": "/productos/cabeceras/"
+                        }
+                    ]
+                },
+                {
+                    "colecciones":[
+                        {
+                            "texto": "cabeceras tapizadas",
+                            "link": "/productos/cabeceras/?colección=tapizadas"
+                        },
+                        {
+                            "texto": "de madera",
+                            "link": "/productos/cabeceras/?colección=de-madera"
+                        },
+                        {
+                            "texto": "talladas",
+                            "link": "/productos/cabeceras/?colección=talladas"
+                        },
+                        {
+                            "texto": "de acero inoxidable",
+                            "link": "/productos/cabeceras/?colección=acero-inoxidable"
+                        },
+                        {
+                            "texto": "Ver todas las colecciones",
+                            "link": "/productos/cabeceras/"
+                        }
+                    ]
+                },
+                {
+                    "formatos":[
+                        {
+                            "texto": "Aéreas",
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas"
+                        },
+                        {
+                            "texto": "Con patas",
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas-con-patas"
+                        },
+                        {
+                            "texto": "Completas - Pedestales",
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=pedestales"
+                        },
+                        {
+                            "texto": "De pared - Modulares",
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=modulares"
+                        },
+                        {
+                            "texto": "Ver todos",
+                            "link": "/productos/cabeceras/"
+                        }
+                    ]
+                },
+                {
+                    "especiales":[
+                        {
+                            "texto": "Con LED",
+                            "link": "/productos/cabeceras/?colección=con-led"
+                        },
+                        {
+                            "texto": "Con veladores integrados",
+                            "link": "/productos/cabeceras/?colección=con-veladores-integrados"
+                        },
+                        {
+                            "texto": "Con almacenamiento",
+                            "link": "/productos/cabeceras/?colección=con-almacenamiento"
+                        },
+                        {
+                            "texto": "Para camas circulares",
+                            "link": "/productos/cabeceras/?colección=para-camas-circulares"
+                        },
+                        {
+                            "texto": "Cabeceras a medidas",
+                            "link": "/productos/cabeceras/a-medida/"
+                        },
+                        {
+                            "texto": "Ver todos los modelos",
+                            "link": "/productos/cabeceras/"
+                        }
+                    ]
+                },
+                {
+                    "link-suelto":[
+                        {
+                            "titulo": "Cabeceras infantiles",
+                            "texto": "Bases tapizadas, tarimas, con baúl y más.",
+                            "link": "/productos/cabeceras/?línea=infantiles",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": "",
+                    "link": "/productos/cabeceras/galeria/"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/sofas.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "sófas",
+            "link": "/productos/sofas/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "tipos-de-sófas":[
+                        {
+                            "texto": "Sófas fijos",
+                            "link": "/productos/sofas/?línea=juegos-de-sala"
+                        },
+                        {
+                            "texto": "Seccionales",
+                            "link": "/productos/sofas/?línea=seccinales"
+                        },
+                        {
+                            "texto": "Sófas camas",
+                            "link": "/productos/sofas/?línea=sófas-camas"
+                        },
+                        {
+                            "texto": "Reclinables",
+                            "link": "/productos/sofas/?línea=reclinables"
+                        },
+                        {
+                            "texto": "Juegos de sala",
+                            "link": "/productos/sofas/?línea=mecedoras"
+                        },
+                        {
+                            "texto": "Ver todos los sófas",
+                            "link": "/productos/sofas/"
+                        }
+                    ]
+                },
+                {
+                    "sillones-y-asientos":[
+                        {
+                            "texto": "sillones",
+                            "link": "/productos/sofas/?línea=sillones"
+                        },
+                        {
+                            "texto": "butacas",
+                            "link": "/productos/sofas/?línea=butacas"
+                        },
+                        {
+                            "texto": "mecedoras",
+                            "link": "/productos/sofas/?línea=mecedoras"
+                        },
+                        {
+                            "texto": "Ver todos",
+                            "link": "/productos/sofas/"
+                        }
+                    ]
+                },
+                {
+                    "colecciones":[
+                        {
+                            "texto": "Tapizados",
+                            "link": "/productos/sofas/?colección=tapizados"
+                        },
+                        {
+                            "texto": "De madera",
+                            "link": "/productos/sofas/?colección=de-madera"
+                        },
+                        {
+                            "texto": "Tallados",
+                            "link": "/productos/sofas/?colección=tallados"
+                        },
+                        {
+                            "texto": "Acero inoxidable",
+                            "link": "/productos/sofas/?colección=acero-inoxidable"
+                        },
+                        {
+                            "texto": "Ver todos las colecciones",
+                            "link": "/productos/cabeceras/"
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": "",
+                    "link": "/productos/camas/galeria/"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/medida.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "muebles a medida",
+            "link": "/productos/muebles-a-medida/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "proyectos-principales":[
+                        {
+                            "texto": "cocinas",
+                            "link": "/productos/muebles-a-medida/?línea=cocinas"
+                        },
+                        {
+                            "texto": "clósets y roperos",
+                            "link": "/productos/muebles-a-medida/?línea=clósets-y-roperos"
+                        },
+                        {
+                            "texto": "centros de entretenimiento",
+                            "link": "/productos/muebles-a-medida/?línea=centros-de-entretenimiento"
+                        },
+                        {
+                            "texto": "muebles para dormitorios",
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-dormitorios"
+                        }
+                    ]
+                },
+                {
+                    "más-espacios":[
+                        {
+                            "texto": "escritorios y oficinas",
+                            "link": "/productos/muebles-a-medida/?línea=escritorios-y-oficinas"
+                        },
+                        {
+                            "texto": "muebles para baño",
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-baño"
+                        },
+                        {
+                            "texto": "muebles para lavanderías",
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-lavanderías"
+                        },
+                        {
+                            "texto": "muebles bajo escalera",
+                            "link": "/productos/muebles-a-medida/?línea=muebles-bajo-escalera"
+                        },
+                        {
+                            "texto": "otros muebles a medida",
+                            "link": "/productos/muebles-a-medida/?línea=otros-muebles-a-medida"
+                        }
+                    ]
+                },
+                {
+                    "tu-proyecto":[
+                        {
+                            "texto": "proyectos realizados",
+                            "link": "/productos/muebles-a-medida/línea=proyectos-realizados"
+                        },
+                        {
+                            "texto": "materiales y acabados",
+                            "link": "/productos/muebles-a-medida/materiales-y-acabados/"
+                        },
+                        {
+                            "texto": "como trabajamos",
+                            "link": "/productos/muebles-a-medida/como-trabajamos/"
+                        },
+                        {
+                            "texto": "solicitar cotización",
+                            "link": "/productos/muebles-a-medida/cotizacion/"
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/pet.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "pet",
+            "link": "/productos/pet/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "camas-y-descanso":[
+                        {
+                            "texto": "colchones pet",
+                            "link": "/productos/pet/?línea=colchones-pet"
+                        },
+                        {
+                            "texto": "camas tapizadas",
+                            "link": "/productos/pet/?línea=camas-tapizadas"
+                        },
+                        {
+                            "texto": "pet wood",
+                            "link": "/productos/pet/?línea=pet-wood"
+                        }
+                    ]
+                },
+                {
+                    "confort-y-espacios":[
+                        {
+                            "texto": "confort pet",
+                            "link": "/productos/pet/?línea=confort-pet"
+                        },
+                        {
+                            "texto": "muebles pet",
+                            "link": "/productos/pet/?línea=muebles-pet"
+                        },
+                        {
+                            "texto": "confort pet",
+                            "link": "/productos/pet/?línea=camas-pet-integradas"
+                        }
+                    ]
+                },
+                {
+                    "link-suelto":[
+                        {
+                            "titulo": "Descansen cerca, cada uno en su espacio",
+                            "texto": "Descubre nuestras camas con espacios integradas para mascotas.",
+                            "link": "/productos/camas/?línea=camas-pet-integradas",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                            "image-alt": ""
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "icono":[
+                {
+                    "src": "/assets/imagenes/componentes/header/complementos.svg",
+                    "alt": ""
+                }
+            ],
+            "categoría": "complementos",
+            "link": "/productos/complementos/",
+            "textos":[
+                "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
+            ],
+            "image-1":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "alt": ""
+                }
+            ],
+            "listas":[
+                {
+                    "Muebles complementarios":[
+                        {
+                            "texto": "veladores",
+                            "link": "/productos/complementos/?subcategoría=veladores"
+                        },
+                        {
+                            "texto": "baúles",
+                            "link": "/productos/complementos/?subcategoría=baúles"
+                        },
+                        {
+                            "texto": "puff",
+                            "link": "/productos/complementos/?subcategoría=puffs"
+                        },
+                        {
+                            "texto": "banquetas y pie de cama",
+                            "link": "/productos/complementos/?subcategoría=banquetas-y-pie-de-cama"
+                        }
+                    ]
+                },
+                {
+                    "ropa de cama":[
+                        {
+                            "texto": "sábanas y juegos de cama",
+                            "link": "/productos/complementos/?subcategoría=sábanas-y-juegos-de-cama"
+                        },
+                        {
+                            "texto": "edredones y plumones",
+                            "link": "/productos/complementos/?subcategoría=edredones-y-plumones"
+                        },
+                        {
+                            "texto": "cubrecamas y quilts",
+                            "link": "/productos/complementos/?subcategoría=cubrecamas-y-quilts"
+                        },
+                        {
+                            "texto": "mantas y frazadas",
+                            "link": "/productos/complementos/?subcategoría=mantas-y-frazadas"
+                        },
+                        {
+                            "texto": "pieceras",
+                            "link": "/productos/complementos/?subcategoría=pieceras"
+                        },
+                        {
+                            "texto": "fundas de plumón",
+                            "link": "/productos/complementos/?subcategoría=fundas-de-plumón"
+                        }
+                    ]
+                },
+                {
+                    "protección y confort":[
+                        {
+                            "texto": "protectores de colchón",
+                            "link": "/productos/complementos/?línea=protectores-de-colchón"
+                        },
+                        {
+                            "texto": "protectores de almohadas",
+                            "link": "/productos/complementos/?línea=protectores-de-almohadas"
+                        },
+                        {
+                            "texto": "toppers y cubrecolchones",
+                            "link": "/productos/complementos/?línea=toppers-y-cubrecolchones"
+                        },
+                        {
+                            "texto": "fundas y protectores especiales",
+                            "link": "/productos/complementos/?línea=fundas-y-protectores-especiales"
+                        }
+                    ]
+                },
+                {
+                    "accesorios y decoración":[
+                        {
+                            "texto": "cojines decorativos",
+                            "link": "/productos/complementos/?línea=cojines-decorativos"
+                        },
+                        {
+                            "texto": "organizadores textiles",
+                            "link": "/productos/complementos/?línea=organizadores-textiles"
+                        },
+                        {
+                            "texto": "espejos y decoración",
+                            "link": "/productos/complementos/?línea=espejos-y-decoración"
+                        },
+                        {
+                            "texto": "iluminación",
+                            "link": "/productos/complementos/?línea=iluminación"
+                        }
+                    ]
+                }
+            ],
+            "image-2":[
+                {
+                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
+                    "alt": ""
+                }
+            ]
+        }
+    ]
+}

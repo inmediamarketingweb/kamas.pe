@@ -1,0 +1,230 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/1/",
+            "nombre": "2 SOFÁS RECLINABLES CUERO NEGRO Y GRIS",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1599,
+            "precioVenta": 1398,
+            "stock": 9,
+            "sku": "K641N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/2/",
+            "nombre": "SOFÁ RECLINABLE CUERO PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/2/",
+            "colores": "si",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/3/",
+            "nombre": "SOFÁ RECLINABLE CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/3/",
+            "colores": "si",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/4/",
+            "nombre": "SOFÁ RECLINABLE CUERO PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/4/",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/5/",
+            "nombre": "SOFÁ RECLINABLE CUERO BEIGE",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/5/",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/6/",
+            "nombre": "SOFÁ RECLINABLE CUERO HUESO",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/6/",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/7/",
+            "nombre": "SOFÁ RECLINABLE CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/7/",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "sófas",
+            "línea": "reclinables",
+            "tamaño": "personal",
+            "colección": "tapizados",
+            "ruta": "/productos/sofas/reclinables/1-cuerpo/8/",
+            "nombre": "SOFÁ RECLINABLE CUERO PLOMO",
+            "fotos": "/assets/imagenes/productos/sofas/reclinables/8/",
+            "precioRegular": 1259,
+            "precioNormal": 899,
+            "precioVenta": 699,
+            "stock": 9,
+            "sku": "K641N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "sófas",
+                    "línea": "reclinables",
+                    "tamaño": "personal",
+                    "colección": "tapizados",
+                    "tapiz": "Cuero brescia",
+                    "alto": "109.cm",
+                    "ancho": "107.cm",
+                    "fondo": "85.cm"
+                }
+            ]
+        }
+    ]
+}

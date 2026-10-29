@@ -1,0 +1,149 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "nesie",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/3/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "nesie",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/4/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "nesie",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/5/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "nesie",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/6/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "nesie",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "thameo pocket",
+            "ruta": "/productos/colchones/queen/rectangulares/thameo-pocket/",
+            "nombre": "COLCHÓN KAMAS QUEEN SÚPER ORTOPÉDICO THAMEO POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/king/",
+            "precioRegular": 1999,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 99,
+            "sku": "K138N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thameo-pocket/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/thameo-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/thameo-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=thameo-pocket"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Thameo Pocket forma parte de la línea súper ortopédica y ha sido diseñado para brindar un equilibrio ideal entre soporte y comodidad, ofreciendo una sensación muy confortable sin perder firmeza estructural.",
+                "Incorpora 600 resortes Pocket, que funcionan de manera independiente para adaptarse al cuerpo, reducir los movimientos y favorecer una correcta alineación de la columna. Su espuma de 18 kg/m³, junto con refuerzos centrales y marco sellado, garantiza estabilidad, resistencia y mayor durabilidad.",
+                "Está recubierto con tela de tejido en punto, suave al tacto y con buena ventilación. Con un grosor de 30 cm, uso por ambos lados, soporte de hasta 90 kg por persona y 5 años de garantía, es una excelente opción para quienes buscan confort ortopédico confiable y duradero."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "thameo pocket",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "600",
+                    "tela": "Tejido en punto",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "18kg/m3",
+                    "marco": "sellado",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "5 años"
+                }
+            ]
+        }
+    ]
+}

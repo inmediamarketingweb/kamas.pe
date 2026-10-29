@@ -11,12 +11,19 @@ import PaginaPrincipal from "./Paginas/PaginaPrincipal/PaginaPrincipal";
 
 //Páginas para los productos
 import Productos from './Paginas/Productos/Productos';
-import PaginaDeCategoria from "./Paginas/Categorias/PaginaDeCategoria";
-import PaginaProducto from './Paginas/PaginaProducto/PaginaProducto';
-import Ofertas from "./Paginas/Ofertas/Ofertas";
 
-//Página para productos favoritos en localstorage
-import Favoritos from "./Paginas/Favoritos/Favoritos";
+import PaginaProducto from './Paginas/PaginaProducto/PaginaProducto';
+
+import Colchones from './Paginas/Productos/Categorias/Colchones';
+import Camas from './Paginas/Productos/Categorias/Camas';
+import Dormitorios from './Paginas/Productos/Categorias/Dormitorios';
+import Cabeceras from './Paginas/Productos/Categorias/Cabeceras';
+import Sofas from './Paginas/Productos/Categorias/Sofas';
+import MueblesAMedida from './Paginas/Productos/Categorias/MueblesAMedida';
+import Pet from './Paginas/Productos/Categorias/Pet';
+import Complementos from './Paginas/Productos/Categorias/Complementos';
+
+import Galeria from './Paginas/Productos/Galeria/Galeria';
 
 //Páginas de nosotros y contenido adicional
 import Nosotros from "./Paginas/Nosotros/Nosotros";
@@ -81,22 +88,42 @@ function App(){
                     <Route element={<Layout/>}>
                         <Route index element={<PaginaPrincipal/>} />
 
-                        <Route path="/productos/" element={<Productos/>} />
-                        <Route path="/productos/:categoria/" element={<PaginaDeCategoria/>} />
-                        <Route path="/productos/:categoria/:subcategoria/" element={<PaginaDeCategoria/>} />
-                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/" element={<PaginaDeCategoria/>} />
+                        <Route path="/productos/:categoria/galeria/" element={<Galeria />} />
 
-                        <Route path="/productos/:categoria/:subcategoria/:subsubcategoria/:producto/" element={<PaginaProducto/>} />
-                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
-                        <Route path="/productos/:categoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/" element={<Productos />} />
 
-                        <Route path="/productos/:categoria/:subcategoria/:producto/" element={<PaginaProducto/>} />
+                        <Route path="/productos/complementos/:tipo/:material/:sku/" element={<PaginaProducto />} />
+                        <Route path="/productos/complementos/:tipo/:material/" element={<Complementos />} />
+                        <Route path="/productos/complementos/:tipo/" element={<Complementos />} />
+                        <Route path="/productos/complementos/" element={<Complementos />} />
 
-                        <Route path="/productos/*" element={<PaginaProducto/>} />
+                        <Route path="/productos/colchones/:medida/:formato/:slug/" element={<PaginaProducto />} />
+                        <Route path="/productos/colchones/:medida/:formato/" element={<Colchones />} />
+                        <Route path="/productos/colchones/:medida/" element={<Colchones />} />
+                        <Route path="/productos/colchones/" element={<Colchones />} />
 
-                        <Route path="/ofertas/" element={<Ofertas/>} />
+                        <Route path="/productos/camas/:tamano/:linea/:sku/" element={<PaginaProducto />} />
+                        <Route path="/productos/camas/:tamano/:linea/" element={<Camas />} />
+                        <Route path="/productos/camas/:tamano/" element={<Camas />} />
+                        <Route path="/productos/camas/" element={<Camas />} />
 
-                        <Route path="/mis-favoritos/" element={<Favoritos/>} />
+                        <Route path="/productos/dormitorios/:tamano/:modelo/:linea/:sku/" element={<PaginaProducto />} />
+                        <Route path="/productos/dormitorios/:tamano/:modelo/:linea/" element={<Dormitorios />} />
+                        <Route path="/productos/dormitorios/:tamano/:modelo/" element={<Dormitorios />} />
+                        <Route path="/productos/dormitorios/:tamano/" element={<Dormitorios />} />
+                        <Route path="/productos/dormitorios/" element={<Dormitorios />} />
+
+                        <Route path="/productos/cabeceras/:tamano/:linea/:tipo/:sku/" element={<PaginaProducto />} />
+                        <Route path="/productos/cabeceras/:tamano/:linea/:tipo/" element={<Cabeceras />} />
+                        <Route path="/productos/cabeceras/:tamano/:linea/" element={<Cabeceras />} />
+                        <Route path="/productos/cabeceras/:tamano/" element={<Cabeceras />} />
+                        <Route path="/productos/cabeceras/" element={<Cabeceras />} />
+
+                        <Route path="/productos/sofas/" element={<Sofas />} />
+                        <Route path="/productos/muebles-a-medida/" element={<MueblesAMedida />} />
+                        <Route path="/productos/pet/" element={<Pet />} />
+
+
 
                         <Route path="/nosotros/" element={<Nosotros/>} />
 

@@ -1,0 +1,228 @@
+{
+    "productos":[
+        {
+            "id": 14,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/34/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/35/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/36/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/37/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/4/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/38/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/5/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/39/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/6/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "ruta": "/productos/camas/2-plazas/box-espacios/americanos/40/",
+            "nombre": "BOX ESPACIO AMERICANO 2 PLAZAS + CABECERA PEDESTAL CAPITONEADO - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabeceras": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

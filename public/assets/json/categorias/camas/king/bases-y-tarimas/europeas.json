@@ -1,0 +1,52 @@
+{
+    "productos":[
+        {
+            "id": 14,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europeas",
+            "ruta": "/productos/complementos/base-sola/europeas/king/13/",
+            "nombre": "BASE SOLA EUROPEA KING - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/1/",
+            "precioRegular": 1430,
+            "precioNormal": 1229,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7343N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "europeas",
+            "ruta": "/productos/complementos/base-sola/europeas/king/14/",
+            "nombre": "BASE SOLA EUROPEA KING - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/king/2/",
+            "precioRegular": 1430,
+            "precioNormal": 1229,
+            "precioVenta": 949,
+            "stock": 14,
+            "sku": "K7343N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No"
+                }
+            ]
+        }
+    ]
+}

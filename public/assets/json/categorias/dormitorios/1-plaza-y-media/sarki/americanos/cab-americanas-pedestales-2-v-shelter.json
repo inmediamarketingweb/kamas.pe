@@ -1,0 +1,90 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/20/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL + 2 VELADOR SHELTER - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/1/",
+            "precioRegular": 2349,
+            "precioNormal": 1999,
+            "precioVenta": 1499,
+            "stock": 13,
+            "sku": "K3215235N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "1 plaza y media",
+            "línea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/21/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL + 2 VELADOR SHELTER - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/2/",
+            "precioRegular": 2699,
+            "precioNormal": 2199,
+            "precioVenta": 1599,
+            "stock": 13,
+            "sku": "K3215235N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "linea": "americanos",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/22/",
+            "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA LINEAL + 2 VELADOR SHELTER - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/pedestales/coronas/sin-brazos/lineal/3/",
+            "precioRegular": 2399,
+            "precioNormal": 2299,
+            "precioVenta": 1649,
+            "stock": 13,
+            "sku": "K3215235N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

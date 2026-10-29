@@ -1,0 +1,120 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/33/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/10/",
+            "precioRegular": 3979,
+            "precioNormal": 3019,
+            "precioVenta": 2269,
+            "stock": 13,
+            "sku": "K324275N19",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/36/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/13/",
+            "precioRegular": 4009,
+            "precioNormal": 3319,
+            "precioVenta": 2569,
+            "stock": 13,
+            "sku": "K324275N22",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/37/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - ARENA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/14/",
+            "precioRegular": 4009,
+            "precioNormal": 3319,
+            "precioVenta": 2569,
+            "stock": 13,
+            "sku": "K324275N23",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "ramat",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/ramat/38/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS RAMAT + CABECERA PEDESTAL MAJESTAD + BAÚL - BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/ramat/pedestales/coronas/brazos-curvos/majestad/15/",
+            "precioRegular": 4009,
+            "precioNormal": 3319,
+            "precioVenta": 2569,
+            "stock": 13,
+            "sku": "K324275N24",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "Ramat",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

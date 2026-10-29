@@ -1,0 +1,36 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "acero inoxidable",
+            "nombre": "CAMA DE ACERO INOXIDABLE 2 PLAZAS + CABECERA PEDESTAL TAPIZADA - PLATEADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/de-acero/sin-tapizar/1/",
+            "precioRegular": 3799,
+            "precioNormal": 3599,
+            "precioVenta": 3299,
+            "stock": 14,
+            "sku": "K2321NAIST10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "acero inoxidable",
+                    "material": "acero inoxidable",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "línea-de-cabecera": "de acero inoxidable",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

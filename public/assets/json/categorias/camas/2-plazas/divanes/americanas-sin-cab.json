@@ -1,0 +1,139 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/sin-cabecera/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXSC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "colchón": "no",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/sin-cabecera/2/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXSC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "colchón": "no",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/sin-cabecera/3/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXSC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "colchón": "no",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/sin-cabecera/4/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXSC13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "colchón": "no",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/sin-cabecera/5/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXSC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "colchón": "no",
+                    "línea-de-cabecera": "sin cabecera"
+                }
+            ]
+        }
+    ]
+}

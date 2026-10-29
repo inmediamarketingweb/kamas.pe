@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/8/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA PEDESTAL CAPITONEADO - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/pedestales/americanas/brazos-rectos/capitoneado/1/",
+            "precioRegular": 3999,
+            "precioNormal": 3099,
+            "precioVenta": 2199,
+            "stock": 9,
+            "sku": "K324153N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

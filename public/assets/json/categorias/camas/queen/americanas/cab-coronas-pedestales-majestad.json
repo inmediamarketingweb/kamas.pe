@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/14/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA PEDESTAL MAJESTAD + 2 CAJONES LATERALES - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 1949,
+            "precioNormal": 1849,
+            "precioVenta": 1419,
+            "stock": 15,
+            "sku": "K223225N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

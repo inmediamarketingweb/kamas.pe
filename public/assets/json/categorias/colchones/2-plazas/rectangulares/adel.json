@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "adel",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/adel/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS SEMI ORTOPÉDICO ADEL",
+            "fotos": "/assets/imagenes/productos/colchones/adel/",
+            "precioRegular": 549,
+            "precioNormal": 459,
+            "precioVenta": 299,
+            "stock": 99,
+            "sku": "K121CN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/adel/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/adel/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Adel es un colchón práctico y funcional, ideal para quienes buscan una opción económica sin sacrificar comodidad. Su sistema de resortes Bonell con 12 filas verticales brinda un soporte estable, perfecto para un descanso ligero y uniforme.",
+                "Incluye espuma de 16 kg/m³ y está cubierto con tela Tricop, conocida por su frescura y resistencia. Además, su diseño de uso por ambos lados prolonga la vida útil del colchón y facilita su mantenimiento. Soporta hasta 65 kg por persona y cuenta con 1 año de garantía."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "adel",
+                    "resortes": "12 filas en forma vertical",
+                    "tela": "Tricop",
+                    "densidad-de-la-espuma": "16kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "1 año"
+                }
+            ]
+        }
+    ]
+}

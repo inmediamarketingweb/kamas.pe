@@ -1,0 +1,61 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "safynnte",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/safynnte/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA SÚPER ORTOPÉDICO SAFYNNTE",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/1-plaza-y-media/",
+            "precioRegular": 749,
+            "precioNormal": 619,
+            "precioVenta": 369,
+            "stock": 99,
+            "sku": "K1156IN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/safynnte/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=safynnte"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Safynnte es un colchón intermedio con sensación súper ortopédica, ideal para quienes buscan mayor firmeza y buen soporte. Incorpora resortes Bonell con 10 filas, espuma de 18 kg/m³ y tela drill, materiales resistentes y duraderos.",
+                "Su diseño de un solo lado y marco sellado garantiza estabilidad y una estructura sólida. Soporta hasta 65 kg por persona y ofrece 4 años de garantía, convirtiéndose en una opción confiable dentro de la gama intermedia de Kamas."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "safynnte",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "medio suave",
+                    "resortes": "10 filas",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Sellado",
+                    "soporte-de-peso": "65kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

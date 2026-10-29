@@ -1,0 +1,232 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO + CABECERA PEDESTAL CON 2 VELADORES EMPOTRADOS - TONO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/sin-tapizar/8/",
+            "precioRegular": 3599,
+            "precioNormal": 3499,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K237NCMC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO + CABECERA PEDESTAL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/sin-tapizar/9/",
+            "precioRegular": 3599,
+            "precioNormal": 3499,
+            "precioVenta": 2999,
+            "stock": 15,
+            "sku": "K237NCMC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "veladores": "no",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "otras formas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO CON 2 CAJONES AL PIE + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-cedro/sin-tapizar/1/",
+            "precioRegular": 4299,
+            "precioNormal": 4099,
+            "precioVenta": 3699,
+            "stock": 15,
+            "sku": "K2437NCMC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2,
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO CON 2 CAJONES AL PIE + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-cedro/sin-tapizar/2/",
+            "precioRegular": 4299,
+            "precioNormal": 4099,
+            "precioVenta": 3699,
+            "stock": 15,
+            "sku": "K2437NCMC13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2,
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO CON 2 CAJONES AL PIE + CABECERA AÉREA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-cedro/sin-tapizar/3/",
+            "precioRegular": 4299,
+            "precioNormal": 4099,
+            "precioVenta": 3699,
+            "stock": 15,
+            "sku": "K2437NCMC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2,
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO CON PIECERA + CABECERA PEDESTAL + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-cedro/sin-tapizar/4/",
+            "precioRegular": 4699,
+            "precioNormal": 4399,
+            "precioVenta": 3999,
+            "stock": 15,
+            "sku": "K2437NCMC15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "si",
+                    "cantidad-de-cajones": 2,
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "clásicas de madera",
+            "madera": "cedro",
+            "nombre": "CAMA KING CLÁSICA DE MADERA CEDRO CON PIECERA + CABECERA PEDESTAL CORONA + 2 VELADORES",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/clasicas-de-madera/madera-cedro/sin-tapizar/5/",
+            "precioRegular": 4299,
+            "precioNormal": 4099,
+            "precioVenta": 3799,
+            "stock": 15,
+            "sku": "K2437NCMC16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "clásicas de madera",
+                    "madera": "cedro",
+                    "piecera": "no",
+                    "cajones": "no",
+                    "base-encajonada": "si",
+                    "veladores": "si",
+                    "línea-de-cabecera": "de madera",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

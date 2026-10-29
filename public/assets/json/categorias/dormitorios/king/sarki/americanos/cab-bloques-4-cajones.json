@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/sarki/2/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS SARKI + CABECERA AÉREA BLOQUES - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/sarki/aereas-con-patas/bloques/sin-brazos/otros-modelos/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 9,
+            "sku": "K324136N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

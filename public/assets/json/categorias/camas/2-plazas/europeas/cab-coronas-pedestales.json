@@ -1,0 +1,124 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA PEDESTAL CORONA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-coronas-pedestales/1/",
+            "precioRegular": 1519,
+            "precioNormal": 1249,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2223NXCMP100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA PEDESTAL CORONA - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-coronas-pedestales/2/",
+            "precioRegular": 1519,
+            "precioNormal": 1249,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2223NXCMP101",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA PEDESTAL MAJESTAD - ROJO Y NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-coronas-pedestales/3/",
+            "precioRegular": 1519,
+            "precioNormal": 1249,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2223NXCMP102",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "majestad"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA PEDESTAL VESSO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-coronas-pedestales/4/",
+            "precioRegular": 1569,
+            "precioNormal": 1299,
+            "precioVenta": 1049,
+            "stock": 12,
+            "sku": "K2223NXCMP103",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "brazos curvos",
+                    "modelo-de-cabecera": "vesso"
+                }
+            ]
+        }
+    ]
+}

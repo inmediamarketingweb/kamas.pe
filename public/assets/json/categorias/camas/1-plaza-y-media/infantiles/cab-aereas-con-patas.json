@@ -1,0 +1,116 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA AÉREA RATÓN - VERDE LORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/47/",
+            "precioRegular": 1229,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K2151NIX17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "ratón"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA AÉREA CONEJO - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/48/",
+            "precioRegular": 1229,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K2151NIX18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "conejo"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA AÉREA MURCIELAGO - AMARILLO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/49/",
+            "precioRegular": 1229,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K2151NIX19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "murcielago"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA + CABECERA AÉREA FCB - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/45/",
+            "precioRegular": 1229,
+            "precioNormal": 929,
+            "precioVenta": 729,
+            "stock": 12,
+            "sku": "K2151NIX20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "no",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "Infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "FCB"
+                }
+            ]
+        }
+    ]
+}

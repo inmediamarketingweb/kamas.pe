@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "safynnte",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/2-plazas/safynnte/europeos/1/",
+            "nombre": "DORMITORIO EUROPEO 2 PLAZAS + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CUADROS 1 CON MARCO - HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/2-plazas/safynnte/aereas-con-patas/con-marco/sin-brazos/cuadros-2/1/",
+            "precioRegular": 2009,
+            "precioNormal": 1649,
+            "precioVenta": 1199,
+            "stock": 23,
+            "sku": "K332244N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "safynnte",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

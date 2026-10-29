@@ -1,0 +1,68 @@
+{
+    "productos:":[
+        {
+            "categoría": "colchones",
+            "tamaño": "queen",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "ramat",
+            "ruta": "/productos/colchones/queen/rectangulares/ramat/",
+            "nombre": "COLCHÓN KAMAS QUEEN SÚPER ORTOPÉDICO RAMAT",
+            "fotos": "/assets/imagenes/productos/colchones/ramat/king/",
+            "precioRegular": 2399,
+            "precioNormal": 2079,
+            "precioVenta": 1349,
+            "stock": 99,
+            "sku": "K135MCN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/ramat/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/ramat/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=ramat"
+                }
+            ],
+            "mensajes":[
+                "El colchón Kamas Ramat Queen pertenece a la línea SÚPER ORTOPÉDICA, ideal para quienes buscan un descanso muy confortable con soporte firme y estable. Su sistema de resortes Bonell con 17 filas de acero templado brinda resistencia y durabilidad, favoreciendo una correcta postura al dormir.",
+                "Cuenta con espuma de 20 kg/m³, refuerzos centrales y marco de espuma, que aseguran una distribución uniforme del peso y mayor firmeza en toda la superficie. Incorpora el Sistema PT, pensado para mejorar la estabilidad estructural del colchón.",
+                "Su tela Jacquard ofrece mayor resistencia y elegancia, mientras que el diseño de uso por ambos lados y la doble pestaña prolongan su vida útil. Con un grosor de 37 cm, soporta hasta 90 kg por persona y está respaldado por 4 años de garantía, siendo una excelente opción súper ortopédica para un descanso cómodo y confiable."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "queen",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "ramat",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "17 filas",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Jacquard",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "doble-pestaña": "Si",
+                    "incorpora": "Sistema PT",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "37cm",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}

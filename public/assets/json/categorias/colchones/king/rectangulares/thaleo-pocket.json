@@ -1,0 +1,66 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "thaleo pocket",
+            "ruta": "/productos/colchones/king/rectangulares/thaleo-pocket/",
+            "nombre": "COLCHÓN KAMAS KING EXTRA ORTOPÉDICO THALEO POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/king/",
+            "precioRegular": 3249,
+            "precioNormal": 2849,
+            "precioVenta": 1849,
+            "stock": 99,
+            "sku": "K1410N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thaleo-pocket/"
+                },
+                {
+                    "nombre": "2-plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/thaleo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/thaleo-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=thaleo-pocket"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso firme, estable y confortable con el colchón King Thaleo Pocket, perteneciente a la línea Extra Ortopédicos y diseñado para quienes buscan una sensación de descanso muy firme. Su tecnología de resortes Pocket, con 810 resortes independientes, proporciona un soporte sólido y una estructura pensada para acompañarte durante cada noche.",
+                "Incorpora Sistema One Size, refuerzos centrales y un marco de espuma que aportan mayor estabilidad y resistencia a su estructura. Su espuma de 20 kg/m³ y la agradable tela de algodón tejido en punto complementan la experiencia, ofreciendo una superficie confortable sin perder la firmeza característica de este modelo.",
+                "Con 32 cm de grosor y una capacidad de soporte de hasta 110 kg por persona, el Thaleo Pocket está diseñado para utilizarse por un solo lado. Además, cuenta con 8 años de garantía, brindándote mayor confianza y tranquilidad para disfrutar de un colchón resistente y de larga duración."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "810",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
+                }
+            ]
+        }
+    ]
+}

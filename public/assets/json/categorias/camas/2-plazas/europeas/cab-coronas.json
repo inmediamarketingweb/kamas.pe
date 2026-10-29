@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CORONA PRINCESA - AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-coronas/1/",
+            "precioRegular": 1399,
+            "precioNormal": 1239,
+            "precioVenta": 879,
+            "stock": 12,
+            "sku": "K2223NXCMA100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "princesa"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 23,
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "box espacios",
+            "nombre": "BOX ESPACIO 2 PLAZAS AMERICANO + CABECERA PEDESTAL CORONA - MORO",
+            "fotos": "/assets/imagenes/productos/camas-funcionales/box-espacios/americanos/2-plazas/pedestales/coronas/sin-brazos/corona/1/",
+            "precioRegular": 1549,
+            "precioNormal": 1359,
+            "precioVenta": 1129,
+            "stock": 14,
+            "sku": "K41212N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "box espacios",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA LINEAL 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-americanas/1/",
+            "precioRegular": 1579,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 12,
+            "sku": "K2223NXE100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-americanas/2/",
+            "precioRegular": 1579,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 12,
+            "sku": "K2223NXE101",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "aéreas",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CAPITONEADA + 2 PUFF - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-americanas/4/",
+            "precioRegular": 1579,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 12,
+            "sku": "K2223NXE103",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "aéreas",
+                    "líne-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

@@ -5,6 +5,16 @@
 
 .pd-pg-description-content{
     display: grid;
-    grid-template-columns: 4fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
     gap: 10px;
+}
+
+@media screen and (max-width: 600px){
+    .pd-pg-description-content{
+        grid-template-columns: 1fr;
+    }
+
+    .pd-pg-description{
+        padding: 0;
+    }
 }

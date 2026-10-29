@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "americanas",
+            "tamaño": "2 plazas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA AÉREA CAPITONEADA + 2 VELADORES SHELTER - TABACO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-americanas/16/",
+            "precioRegular": 1949,
+            "precioNormal": 1549,
+            "precioVenta": 1329,
+            "stock": 15,
+            "sku": "K2222113N17",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

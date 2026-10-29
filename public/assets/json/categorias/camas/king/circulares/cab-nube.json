@@ -1,0 +1,252 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL LINEAL HORI - TEJIDO ARENA CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/1/",
+            "precioRegular": 4899,
+            "precioNormal": 4399,
+            "precioVenta": 3999,
+            "stock": 14,
+            "sku": "K214NCN10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL LINEAL HORI - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/2/",
+            "precioRegular": 4899,
+            "precioNormal": 4399,
+            "precioVenta": 3999,
+            "stock": 14,
+            "sku": "K214NCN11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL LINEAL HORI - TEJIDO PALO ROSA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/3/",
+            "precioRegular": 4899,
+            "precioNormal": 4399,
+            "precioVenta": 3999,
+            "stock": 14,
+            "sku": "K214NCN12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL LINEAL HORI - TEJIDO AZUL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/4/",
+            "precioRegular": 4899,
+            "precioNormal": 4399,
+            "precioVenta": 3999,
+            "stock": 14,
+            "sku": "K214NCN13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL LINEAL P - TEJIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/5/",
+            "precioRegular": 4999,
+            "precioNormal": 4399,
+            "precioVenta": 4199,
+            "stock": 14,
+            "sku": "K214NCN14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "lineal p"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL CONCHA DE ABANICO - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/6/",
+            "precioRegular": 5299,
+            "precioNormal": 4999,
+            "precioVenta": 4599,
+            "stock": 14,
+            "sku": "K214NCN15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "concha de abanico"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL CONCHA DE ABANICO - VERDE CON DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/7/",
+            "precioRegular": 5299,
+            "precioNormal": 4999,
+            "precioVenta": 4599,
+            "stock": 14,
+            "sku": "K214NCN16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "concha de abanico"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "circulares",
+            "nombre": "CAMA CIRCULAR NUBE KING + CABECERA PEDESTAL CORONA DE PRINCESA - IVORY CON DORADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/circulares/nube/8/",
+            "precioRegular": 5899,
+            "precioNormal": 5299,
+            "precioVenta": 4999,
+            "stock": 14,
+            "sku": "K214NCN17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "circulares",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "línea-de-cabecera": "nube",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "nube",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "corona de princesa"
+                }
+            ]
+        }
+    ]
+}

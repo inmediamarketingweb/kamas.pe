@@ -1,0 +1,23 @@
+{
+    "files":[
+        "/assets/json/categorias/cabeceras/1-plaza-y-media/tapizadas/pedestales/cab-americanas.json",
+        "/assets/json/categorias/cabeceras/1-plaza-y-media/tapizadas/pedestales/cab-coronas.json",
+
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/aereas/cab-americanas.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/aereas-con-patas/cab-americanas.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/aereas-con-patas/cab-bloques.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-americanas.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-bloques.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-coronas-baul.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-coronas-majestad.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-coronas-vesso.json",
+        "/assets/json/categorias/cabeceras/2-plazas/tapizadas/pedestales/cab-coronas.json",
+
+        "/assets/json/categorias/cabeceras/king/de-madera/aereas-con-patas/madera-cedro.json",
+        "/assets/json/categorias/cabeceras/king/de-madera/aereas-con-patas/madera-tornillo.json",
+
+        "/assets/json/categorias/cabeceras/king/con-led/aereas-con-patas/madera-cedro.json",
+
+        "/assets/json/categorias/cabeceras/king/con-veladores-integrados/aereas-con-patas/madera-tornillo.json"
+    ]
+}

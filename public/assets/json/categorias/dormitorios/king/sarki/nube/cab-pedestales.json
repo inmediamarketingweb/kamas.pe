@@ -1,0 +1,88 @@
+{
+    "productos":[
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/cama-nube/sarki/1/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO HUESO",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/1/",
+            "precioRegular": 4099,
+            "precioNormal": 3599,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K334237N10", 
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/cama-nube/sarki/2/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO AZUL DENIN",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/2/",
+            "precioRegular": 4099,
+            "precioNormal": 3599,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K334237N11",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        },
+        {
+            "categoria": "dormitorios",
+            "subcategoria": "cama nube",
+            "tamaño": "king",
+            "modelo": "sarki",
+            "ruta": "/productos/dormitorios/king/cama-nube/sarki/3/",
+            "nombre": "DORMITORIO NUBE KING + COLCHON KAMAS SARKI - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/cama-nube/king/sarki/3/",
+            "precioRegular": 4099,
+            "precioNormal": 3599,
+            "precioVenta": 2399,
+            "stock": 23,
+            "sku": "K334237N12",
+            "tipo-de-envio": "Gratis",
+            "detalles-del-producto":[
+                {
+                    "línea": "Cama nube",
+                    "tamaño": "King",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "modelo-de-colchón": "Sarki",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cama Nube"
+                }
+            ]
+        }
+    ]
+}

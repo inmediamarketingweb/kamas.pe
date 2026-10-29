@@ -1,0 +1,63 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "norole",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/norole/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS EXTRA ORTOPÉDICO NOROLE",
+            "fotos": "/assets/imagenes/productos/colchones/norole/2-plazas/",
+            "precioRegular": 1349,
+            "precioNormal": 1229,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "K129MFN10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/norole/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/norole/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/norole/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Rectangulares",
+                    "ruta": "/productos/colchones/?modelo-de-colchón=norole&formato=circulares"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Norole es un colchón extra ortopédico ideal para quienes buscan un soporte muy firme. Su sistema de resortes Bonell con 16 filas brinda estabilidad superior y un descanso más alineado para la espalda.",
+                "Está fabricado con tela de algodón tejido en punto, espuma de 23 kg/m³, diseño de un solo lado y marco sellado para mayor durabilidad.",
+                "Soporta hasta 95 kg por persona y ofrece 7 años de garantía, convirtiéndose en una opción resistente, firme y confiable para uso diario."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "norole",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "16 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "23kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "95kg. por persona",
+                    "garantía": "7 años"
+                }
+            ]
+        }
+    ]
+}

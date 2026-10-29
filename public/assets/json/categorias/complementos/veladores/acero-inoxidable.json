@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "acero inoxidable",
+            "nombre": "VELADOR DE ACERO INOXIDABLE Y MELAMINE - DORADO CON BLANCO",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/acero-inoxidable/1/",
+            "precioRegular": 899,
+            "precioNormal": 799,
+            "precioVenta": 759,
+            "stock": 14,
+            "sku": "K7133NAI10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "acero inoxidable",
+                    "material": "melamine",
+                    "estructura": "acero inoxidable",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        },
+        {
+            "categoría": "complementos",
+            "subcategoría": "veladores",
+            "línea": "acero inoxidable",
+            "nombre": "VELADOR DE ACERO INOXIDABLE Y MELAMINE - DORADO CON GRIS",
+            "fotos": "/assets/imagenes/productos/complementos/veladores/acero-inoxidable/2/",
+            "precioRegular": 899,
+            "precioNormal": 799,
+            "precioVenta": 759,
+            "stock": 14,
+            "sku": "K7133NAI11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "veladores",
+                    "línea": "acero inoxidable",
+                    "material": "melamine",
+                    "estructura": "acero inoxidable",
+                    "rieles": "telescópicos pesados",
+                    "cajones": "Si",
+                    "cantidad-de-cajones": "1"
+                }
+            ]
+        }
+    ]
+}

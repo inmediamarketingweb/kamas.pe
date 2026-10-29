@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 194,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/136/",
+            "nombre": "CAMA KING AMERICANA + CABECERA PEDESTAL CAPITONEADA CON MARCO + 2 VELADORES DE MADERA - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/con-marco/sin-brazos/otros-modelos/5/",
+            "precioRegular": 1799,
+            "precioNormal": 2879,
+            "precioVenta": 2349,
+            "stock": 15,
+            "sku": "K224224N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Con marco",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "der prinz",
+            "ruta": "/productos/colchones/king/rectangulares/der-prinz/",
+            "nombre": "COLCHÓN KAMAS KING SÚPER ORTOPÉDICO DER PRINZ",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/king/",
+            "precioRegular": 2559,
+            "precioNormal": 1849,
+            "precioVenta": 1199,
+            "stock": 13,
+            "sku": "K147N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/der-prinz/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circular",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=der-prinz"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso cómodo y reparador con el colchón King Der Prinz, diseñado para brindarte el equilibrio ideal entre confort, soporte y estabilidad. Incorpora 19 filas de resortes de acero templado, refuerzos centrales y un marco de espuma que ayudan a mantener una estructura firme y resistente durante el descanso.",
+                "Su sistema One Size, combinado con espuma de 20 kg/m³ y una agradable tela de algodón tejido en punto, proporciona una superficie confortable para disfrutar cada noche. Con sus 30 cm de grosor y capacidad de soporte de hasta 90 kg por persona, el Der Prinz es una excelente alternativa para quienes buscan comodidad y un buen soporte en su dormitorio.",
+                "Además, cuenta con 6 años de garantía, para que puedas disfrutar de tu colchón con mayor tranquilidad y confianza."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "19 filas en forma vertical",
+                    "material-de-resorte": "Acero templado",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "Marco de espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

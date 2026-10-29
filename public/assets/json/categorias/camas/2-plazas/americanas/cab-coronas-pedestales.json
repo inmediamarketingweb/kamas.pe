@@ -1,0 +1,334 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CORONA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/1/",
+            "precioRegular": 1599,
+            "precioNormal": 1099,
+            "precioVenta": 879,
+            "stock": 15,
+            "sku": "K222225NX200",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CORONA - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/2/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX201",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos p",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CORONA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/3/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX202",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos p",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CUADROS 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/4/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX203",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos p",
+                    "modelo-de-cabecera": "cuadros 2"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CUADROS 2 - UVA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/5/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX204",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL MAJESTAD - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/6/",
+            "precioRegular": 1799,
+            "precioNormal": 1249,
+            "precioVenta": 999,
+            "stock": 15,
+            "sku": "K222225NX205",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos curvos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CORAZÓN - ROSADO BEBÉ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/7/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX206",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL CORAZÓN - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/8/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX207",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL ABANICO - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/9/",
+            "precioRegular": 1699,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 15,
+            "sku": "K222225NX208",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON PIECERA + CABECERA PEDESTAL LINEAL - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/10/",
+            "precioRegular": 1899,
+            "precioNormal": 1349,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K222225NX209",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "si",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "lineal"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA + CABECERA PEDESTAL MAJESTAD ROBLO - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/cab-coronas-pedestales/11/",
+            "precioRegular": 1799,
+            "precioNormal": 1249,
+            "precioVenta": 999,
+            "stock": 15,
+            "sku": "K222225NX205",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "americanas",
+                    "tamaño": "2 plazas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos curvos",
+                    "modelo-de-cabecera": "roblo"
+                }
+            ]
+        }
+    ]
+}

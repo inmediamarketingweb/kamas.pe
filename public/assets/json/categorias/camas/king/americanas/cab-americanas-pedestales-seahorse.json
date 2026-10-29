@@ -1,0 +1,116 @@
+{
+    "productos":[
+        {
+            "id": 188,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/130/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL SEAHORSE CAPITONEADO - ARENA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-seahorse/capitoneado/1/",
+            "precioRegular": 2649,
+            "precioNormal": 2049,
+            "precioVenta": 1549,
+            "stock": 15,
+            "sku": "K224223N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/132/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL SEAHORSE CAPITONEADO - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-seahorse/capitoneado/3/",
+            "precioRegular": 2649,
+            "precioNormal": 2049,
+            "precioVenta": 1549,
+            "stock": 15,
+            "sku": "K224223N25",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/133/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL SEAHORSE CAPITONEADO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-seahorse/capitoneado/4/",
+            "precioRegular": 2649,
+            "precioNormal": 2049,
+            "precioVenta": 1549,
+            "stock": 15,
+            "sku": "K224223N26",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/134/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL SEAHORSE CAPITONEADO - GRIS PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-seahorse/capitoneado/5/",
+            "precioRegular": 2649,
+            "precioNormal": 2049,
+            "precioVenta": 1549,
+            "stock": 15,
+            "sku": "K224223N27",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Brazos seahorse",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

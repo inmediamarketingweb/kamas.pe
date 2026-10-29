@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "línea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/1/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
+            "precioRegular": 3799,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "línea": "americanos",
+            "tamaño": "king",
+            "modelo": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/3/",
+            "nombre": "DORMITORIO AMERICANO KING CON 4 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 3799,
+            "precioNormal": 2999,
+            "precioVenta": 2099,
+            "stock": 9,
+            "sku": "K324153N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categorías": "dormitorios",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

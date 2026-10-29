@@ -1,0 +1,580 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/14/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - COBALTO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/1/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/10/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/6/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/12/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/7/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - GRIS ",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/5/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/4/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2242113N18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/2/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2241113N22",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/3/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K2241113N23",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/32/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 2 - GRIS",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/3/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 2 - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/9/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/35/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 2 - MORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-2/6/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/11/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/64/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/2/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N44",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/67/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - CAMELL OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/5/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N47",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/68/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/6/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N48",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - PLOMO PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/10/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N49",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/70/",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA CUADROS 1 - CUERO CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/americanas/sin-brazos/cuadros-1/8/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N50",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA KING AMERICANA + CABECERA AÉREA LINEAL 1 - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/aereas-con-patas/8/",
+            "precioRegular": 2299,
+            "precioNormal": 1699,
+            "precioVenta": 1199,
+            "stock": 15,
+            "sku": "K231113N53",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

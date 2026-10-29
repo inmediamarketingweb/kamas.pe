@@ -1,0 +1,57 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "konig",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/konig/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS EXTRA ORTOPÉDICO KONIG",
+            "fotos": "/assets/imagenes/productos/colchones/konig/2-plazas/",
+            "precioRegular": 1889,
+            "precioNormal": 1539,
+            "precioVenta": 999,
+            "stock": 99,
+            "sku": "K1211MFN10",
+            "incluye":[ "1 almohada" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/konig/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/konig/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/konig/"
+                }
+            ],
+            "mensajes":[
+                "Este colchón está diseñado para ofrecer un descanso superior gracias a su estructura de 16 filas de resortes, que brindan un soporte firme, estable y uniforme en toda la superficie. Su espuma de 25 kg/m³ aporta mayor densidad y durabilidad, garantizando una sensación cómoda y resistente incluso con el uso diario.",
+                "La superficie en algodón tejido en punto proporciona suavidad, frescura y ventilación natural, ideal para noches más agradables. Además, su diseño de uso por ambos lados permite prolongar su vida útil y mantener el colchón en óptimas condiciones por más tiempo.",
+                "El marco sellado reforzado añade estabilidad y firmeza en los bordes, mientras que su capacidad de soportar hasta 110 kg por persona lo convierte en una opción confiable para quienes buscan calidad superior. Todo esto respaldado por una garantía de 10 años."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "konig",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "Muy firme",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "16 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "25kg/m3",
+                    "tipo-de-uso": "Ambos lados",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "10 años"
+                }
+            ]
+        }
+    ]
+}

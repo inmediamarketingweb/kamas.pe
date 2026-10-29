@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "línea": "americanos",
+            "modelo-de-colchón": "der prinz",
+            "ruta": "/productos/dormitorios/king/americanos-con-cajones/der-prinz/7/",
+            "nombre": "DORMITORIO AMERICANO KING CON 6 CAJONES + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CAPITONEADA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/king/der-prinz/aereas-con-patas/americanas/sin-brazos/capitoneado/7/",
+            "precioRegular": 4009,
+            "precioNormal": 3349,
+            "precioVenta": 2299,
+            "stock": 9,
+            "sku": "K324153N16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "línea": "americanos",
+                    "modelo-de-colchón": "der prinz",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

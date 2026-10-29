@@ -1,5 +1,3 @@
-import { v4 as uuidv4 } from "uuid";
-
 import './Medidas.css';
 
 function Medidas({producto}){
@@ -11,13 +9,13 @@ function Medidas({producto}){
 
     return(
         <div className="d-flex-column gap-10">
-            <h2 className="title text">En otras medidas:</h2>
+            <h2 className="title color-color-1">Otras medidas:</h2>
 
             <ul className="product-page-sizes d-flex-wrap gap-5">
                 {medidas.map(item => (
-                    <li key={uuidv4()}>
-                        <a href={item.ruta} title={item.ruta}>
-                            <p>{item.nombre}</p>
+                    <li className='d-flex-center-center'>
+                        <a className='d-flex-center-center' href={item.ruta} title={item.ruta}>
+                            <p className='text'>{item.nombre}</p>
                         </a>
                     </li>
                 ))}

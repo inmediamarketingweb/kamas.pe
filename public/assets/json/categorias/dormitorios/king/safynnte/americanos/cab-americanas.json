@@ -1,0 +1,92 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "safynnte",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/safynnte/1/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CAPITONEADA - MARRÓN",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/safynnte/pedestales/americanas/brazos-rectos/emperatriz/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2699,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K324243N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "safynnte",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "safynnte",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/safynnte/2/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA CAPITONEADA - MORO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/safynnte/pedestales/americanas/brazos-rectos/emperatriz/2/",
+            "precioRegular": 3399,
+            "precioNormal": 2699,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K324243N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "safynnte",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "id": 427,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "safynnte",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/safynnte/243/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SAFYNNTE + CABECERA AÉREA RECTANGULAR 2 - ANTIFLUIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/safynnte/aereas-con-patas/bloques/sin-brazos/rectangular-2/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2699,
+            "precioVenta": 1799,
+            "stock": 13,
+            "sku": "K324246N21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "safynnte",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Rectangular 2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "complementos",
+            "subcategoría": "baúles",
+            "línea": "otros modelos",
+            "marca": "Kamas",
+            "nombre": "BAÚL 2 PLAZAS - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/complementos/baules/otros-modelos/1/",
+            "precioRegular": 639,
+            "precioNormal": 599,
+            "precioVenta": 549,
+            "stock": 14,
+            "sku": "K7221N10",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "complementos",
+                    "subcategoría": "baúles",
+                    "línea": "otros modelos",
+                    "marca": "Kamas"
+                }
+            ]
+        }
+    ]
+}

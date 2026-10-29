@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA AÉREA LINEAL - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/aereas-con-patas/americanas/sin-brazos/lineal/1/",
+            "precioRegular": 1899,
+            "precioNormal": 1399,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K322223N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Americana",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Lineal"
+                }
+            ]
+        }
+    ]
+}

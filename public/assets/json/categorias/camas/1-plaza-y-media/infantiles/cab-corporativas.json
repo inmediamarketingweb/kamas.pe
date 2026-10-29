@@ -1,0 +1,364 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SUPERHEROÍNA - ROSADO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/1/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "superheroína"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SUPERHEROÍNA - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/2/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "superheroína"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SÚPERHEROE - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/3/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "súperheroe"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SUPERHEROÍNA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/4/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "superheroína"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SÚPERHEROE - VINO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/5/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "súperheroe"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SÚPERHEROE - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/6/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "súperheroe"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SUPERHEROÍNA - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/7/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "superheroína"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL SUPERHEROÍNA - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/8/",
+            "precioRegular": 1909,
+            "precioNormal": 1109,
+            "precioVenta": 949,
+            "stock": 12,
+            "sku": "K2156NIC17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "superheroína"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL LINEAL INFANTIL - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/9/",
+            "precioRegular": 1999,
+            "precioNormal": 1199,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2156NIC18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL LINEAL - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/10/",
+            "precioRegular": 1999,
+            "precioNormal": 1199,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2156NIC19",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/11/",
+            "precioRegular": 1999,
+            "precioNormal": 1199,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2156NIC20",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "infantiles",
+            "nombre": "CAMA INFANTIL 1 PLAZA Y MEDIA + CABECERA PEDESTAL CORONA NUBE - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/infantiles/12/",
+            "precioRegular": 1999,
+            "precioNormal": 1199,
+            "precioVenta": 999,
+            "stock": 12,
+            "sku": "K2156NIC21",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "infantiles",
+                    "cajones": "No",
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baul": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "infantiles",
+                    "diseño-de-cabecera": "infantiles",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

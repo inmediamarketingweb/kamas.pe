@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "europeas",
+            "nombre": "CAMA 2 PLAZAS EUROPEA + CABECERA AÉREA CUADROS 1 CON MARCO - IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/europeas/cab-americanas-con-marco/1/",
+            "precioRegular": 1629,
+            "precioNormal": 1199,
+            "precioVenta": 945,
+            "stock": 12,
+            "sku": "K2223NXCM100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "europeas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "cuadros 1"
+                }
+            ]
+        }
+    ]
+}

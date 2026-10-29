@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+            "id": 8,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "bases y tarimas",
+            "ruta": "/productos/complementos/base-sola/7/",
+            "nombre": "BASE SOLA AMERICANA QUEEN + 3 CAJONES LATERALES - ARENA",
+            "fotos": "/assets/imagenes/productos/complementos/bases/americanas-con-cajones/queen/2/",
+            "precioRegular": 1199,
+            "precioNormal": 999,
+            "precioVenta": 849,
+            "stock": 10,
+            "sku": "K7342N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "bases y tarimas",
+                    "cajones": "Si",
+                    "base-encajonada": "No"
+                }
+            ]
+        }
+    ]
+}

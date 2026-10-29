@@ -1,0 +1,50 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "bases y tarimas",
+            "nombre": "BASE TARIMA QUEEN EUROPEA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/bases-y-tarimas/6/",
+            "precioRegular": 1429,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 14,
+            "sku": "K7342NXE10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "bases y tarimas",
+                    "cajones": "no",
+                    "base-encajonada": "No"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "bases y tarimas",
+            "nombre": "BASE TARIMA QUEEN EUROPEA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/queen/bases-y-tarimas/7/",
+            "precioRegular": 1429,
+            "precioNormal": 1149,
+            "precioVenta": 899,
+            "stock": 14,
+            "sku": "K7342NXE11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "bases y tarimas",
+                    "cajones": "no",
+                    "base-encajonada": "No"
+                }
+            ]
+        }
+    ]
+}

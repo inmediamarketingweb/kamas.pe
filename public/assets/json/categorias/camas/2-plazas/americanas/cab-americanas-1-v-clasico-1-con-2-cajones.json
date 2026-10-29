@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADA + 1 VELADOR CLÁSICOS 1 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/10/",
+            "precioRegular": 1849,
+            "precioNormal": 1349,
+            "precioVenta": 1009,
+            "stock": 15,
+            "sku": "K2113NXX11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "base-encajonada": "No",
+                    "veladores": "si",
+                    "piecera": "No",
+                    "baúl": "No",
+                    "tipo-de-cabecera": "Aéreas",
+                    "línea-de-cabecera": "tapizadas ",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

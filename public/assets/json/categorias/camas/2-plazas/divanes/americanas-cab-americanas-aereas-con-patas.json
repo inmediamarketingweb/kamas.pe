@@ -1,0 +1,32 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "divanes",
+            "nombre": "CAMA DIVAN 2 PLAZAS + 1 PLAZA Y MEDIA + CABECERA AÉREA CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/divanes/cab-aereas-con-patas/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1769,
+            "precioVenta": 1149,
+            "stock": 9,
+            "sku": "K2152NXP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "divanes",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "colchón": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Emperatriz"
+                }
+            ]
+        }
+    ]
+}

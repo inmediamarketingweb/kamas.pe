@@ -1,0 +1,149 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - UVA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/1/",
+            "precioRegular": 1999,
+            "precioNormal": 1559,
+            "precioVenta": 1049,
+            "stock": 13,
+            "sku": "K322225N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/2/",
+            "precioRegular": 1999,
+            "precioNormal": 1559,
+            "precioVenta": 1049,
+            "stock": 13,
+            "sku": "K322225N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VERDE JADE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/4/",
+            "precioRegular": 1999,
+            "precioNormal": 1559,
+            "precioVenta": 1049,
+            "stock": 13,
+            "sku": "K322225N13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/6/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/5/",
+            "precioRegular": 1999,
+            "precioNormal": 1559,
+            "precioVenta": 1049,
+            "stock": 13,
+            "sku": "K322225N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/americanos/rucay/9/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CORONA - VERDE CERCETA",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/rucay/pedestales/coronas/brazos-rectos/corona/8/",
+            "precioRegular": 1999,
+            "precioNormal": 1559,
+            "precioVenta": 1049,
+            "stock": 13,
+            "sku": "K322225N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Corona"
+                }
+            ]
+        }
+    ]
+}

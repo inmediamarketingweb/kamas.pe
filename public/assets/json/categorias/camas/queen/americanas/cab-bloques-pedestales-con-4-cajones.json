@@ -1,0 +1,31 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/50/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN CON 4 CAJONES LATERALES + CABECERA PEDESTAL BLOQUES - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/queen/pedestales/bloques/sin-brazos/otros-modelos/1/",
+            "precioRegular": 2249,
+            "precioNormal": 1899,
+            "precioVenta": 1469,
+            "stock": 12,
+            "sku": "K223126N100",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

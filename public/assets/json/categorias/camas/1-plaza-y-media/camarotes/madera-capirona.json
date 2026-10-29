@@ -1,0 +1,48 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "capirona",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CAPIRONA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-capirona/1/",
+            "precioRegular": 2899,
+            "precioNormal": 1899,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K415NMC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "capirona"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "línea": "camarotes",
+            "tamaño": "1 plaza y media",
+            "madera": "capirona",
+            "nombre": "CAMAROTE 1 PLAZA Y MEDIA MADERA CAPIRONA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/camarotes/madera-capirona/2/",
+            "precioRegular": 2899,
+            "precioNormal": 1899,
+            "precioVenta": 1599,
+            "stock": 9,
+            "sku": "K415NMC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "línea": "camarotes",
+                    "tamaño": "1 plaza y media",
+                    "madera": "capirona"
+                }
+            ]
+        }
+    ]
+}

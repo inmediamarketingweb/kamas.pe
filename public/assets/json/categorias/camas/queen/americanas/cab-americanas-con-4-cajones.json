@@ -1,0 +1,58 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/2/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/2/",
+            "precioRegular": 1999,
+            "precioNormal": 1699,
+            "precioVenta": 1269,
+            "stock": 15,
+            "sku": "K223112N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "queen",
+            "línea": "americanas",
+            "ruta": "/productos/camas/queen/americanas-con-cajones/3/",
+            "nombre": "CAMA BOX TARIMA AMERICANA QUEEN + CABECERA AEREA CAPITONEADA + 4 CAJONES LATERALES - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/king/aereas/americanas/sin-brazos/capitoneado/3/",
+            "precioRegular": 1999,
+            "precioNormal": 1699,
+            "precioVenta": 1269,
+            "stock": 15,
+            "sku": "K223112N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "queen",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

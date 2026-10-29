@@ -1,0 +1,34 @@
+{
+    "productos":[
+        {
+            "id": 397,
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "nesie",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/king/americanos/nesie/8/",
+            "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS NESIE + CABECERA AÉREA XPLORER - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/nesie/aereas-con-patas/bloques/sin-brazos/xplorer/1/",
+            "precioRegular": 3399,
+            "precioNormal": 2599,
+            "precioVenta": 1899,
+            "stock": 13,
+            "sku": "K3242873N17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "king",
+                    "modelo-de-colchón": "nesie",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Xplorer"
+                }
+            ]
+        }
+    ]
+}

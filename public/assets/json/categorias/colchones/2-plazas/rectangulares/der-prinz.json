@@ -1,0 +1,73 @@
+{
+    "productos":[
+        { 
+            "categoría": "colchones",
+            "tamaño": "2 plazas",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "der prinz",
+            "ruta": "/productos/colchones/2-plazas/rectangulares/der-prinz/",
+            "nombre": "COLCHÓN KAMAS 2 PLAZAS SÚPER ORTOPÉDICO DER PRINZ",
+            "fotos": "/assets/imagenes/productos/colchones/der-prinz/2-plazas/",
+            "precioRegular": 849,
+            "precioNormal": 769,
+            "precioVenta": 499,
+            "stock": 31,
+            "sku": "K127N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/1-plaza/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/der-prinz/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/der-prinz/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "Circular",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=der-prinz"
+                }
+            ],
+            "sellers":[
+                {
+                    "nombre": "Falabella",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/149110020/COLCHON-2-PLAZAS-KAMAS-DER-PRINZ/149110021"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Der Prinz ofrece un descanso firme y confiable gracias a su estructura de 15 filas de resortes, diseñada para brindar estabilidad y un soporte uniforme durante toda la noche. Su espuma de 20 kg/m³ aporta mayor firmeza y durabilidad, convirtiéndolo en una excelente opción para quienes buscan un colchón resistente y de larga vida útil.",
+                "La superficie en algodón tejido en punto ofrece suavidad, frescura y una sensación agradable al dormir. Su diseño de uso por un solo lado facilita el mantenimiento, mientras que el marco sellado reforzado mejora la estabilidad estructural del colchón.",
+                "Con capacidad de soporte de hasta 80 kg por persona y una garantía de 6 años, el Der Prinz combina calidad, confort y resistencia en un solo producto."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "2 plazas",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "der prinz",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "nivel-de-confort": "intermedio",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "15 filas",
+                    "tela": "Algodón tejido en punto",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "marco": "Refuerzo de marco sellado",
+                    "soporte-de-peso": "80kg. por persona",
+                    "garantía": "6 años"
+                }
+            ]
+        }
+    ]
+}

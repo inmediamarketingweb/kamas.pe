@@ -1,0 +1,88 @@
+{
+    "productos":[
+        {
+            "id": 197,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/139/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL VESSO - GRIS RATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-curvos/vesso/3/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 15,
+            "sku": "K22325N12",
+            "tipo-de-envio": "Gratis",
+            "descripcions":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 199,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/141/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL VESSO - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-curvos/vesso/5/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 15,
+            "sku": "K22325N14",
+            "tipo-de-envio": "Gratis",
+            "descripcions":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        },
+        {
+            "id": 201,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas/143/",
+            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL VESSO - VIN0",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-curvos/vesso/7/",
+            "precioRegular": 2549,
+            "precioNormal": 1949,
+            "precioVenta": 1449,
+            "stock": 15,
+            "sku": "K22325N16",
+            "tipo-de-envio": "Gratis",
+            "descripcions":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Vesso"
+                }
+            ]
+        }
+    ]
+}

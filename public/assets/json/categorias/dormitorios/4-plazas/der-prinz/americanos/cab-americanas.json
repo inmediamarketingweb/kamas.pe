@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "der prinz",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/4-plazas/americanos/der-prinz/1/",
+            "nombre": "DORMITORIO AMERICANO 4 PLAZAS + COLCHÓN KAMAS DER PRINZ + CABECERA AÉREA CUADROS 2 + 2 PUFF - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos/4-plazas/der-prinz/aereas-con-patas/americanas/sin-brazos/cuadros-2/1/",
+            "precioRegular": 399,
+            "precioNormal": 3499,
+            "precioVenta": 2699,
+            "stock": 13,
+            "sku": "K325253N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "der prinz",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Cuadros 2"
+                }
+            ]
+        }
+    ]
+}

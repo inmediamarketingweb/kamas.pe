@@ -1,0 +1,65 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "thameo pocket",
+            "ruta": "/productos/colchones/king/thameo-pocket/",
+            "nombre": "COLCHÓN KAMAS KING SÚPER ORTOPÉDICO THAMEO POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/thameo-pocket/king/",
+            "precioRegular": 2959,
+            "precioNormal": 2099,
+            "precioVenta": 1349,
+            "stock": 99,
+            "sku": "K148N10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thameo-pocket/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/thameo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/thameo-pocket/"
+                }
+            ],
+            "formatos":[
+                {
+                    "nombre": "circulares",
+                    "ruta": "/productos/colchones/?formato=circulares&modelo-de-colchón=thameo-pocket"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso muy firme, estable y confortable con el colchón King Thameo Pocket, perteneciente a la línea Extra Ortopédicos y diseñado para quienes buscan una sensación de mayor soporte durante el descanso. Su tecnología de resortes Pocket, con 600 resortes independientes, proporciona una estructura firme y resistente, ideal para disfrutar de un descanso estable noche tras noche.",
+                "Cuenta con refuerzos centrales y un marco sellado que aportan mayor estabilidad a su estructura, mientras que su espuma de 18 kg/m³ y su cubierta de tejido en punto ofrecen una superficie agradable y confortable. Además, está diseñado para utilizarse por ambos lados, permitiendo aprovechar mejor el colchón y contribuir a prolongar su vida útil.",
+                "Con 30 cm de grosor, el Thameo Pocket soporta hasta 90 kg por persona y cuenta con 5 años de garantía, brindándote una excelente combinación de firmeza, resistencia y confianza para tu descanso."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "thameo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "600 resortes pocket",
+                    "tela": "Tejido en punto",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "18kg/m3",
+                    "marco": "sellado",
+                    "grosor": "30cm",
+                    "tipo-de-uso": "Ambos lados",
+                    "soporte-de-peso": "90kg. por persona",
+                    "garantía": "5 años"
+                }
+            ]
+        }
+    ]
+}

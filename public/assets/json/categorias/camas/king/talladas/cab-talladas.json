@@ -1,0 +1,100 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA KING MADERA PINO + CABECERA CORONA + DISEÑO EN TARIMA - MIEL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/talladas/talladas/1/",
+            "precioRegular": 5899,
+            "precioNormal": 5499,
+            "precioVenta": 4999,
+            "stock": 14,
+            "sku": "K212NXTTN10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "talladas",
+                    "madera": "pino",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "no",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA KING MADERA CEDRO + CABECERA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/talladas/talladas/2/",
+            "precioRegular": 9999,
+            "precioNormal": 9499,
+            "precioVenta": 8999,
+            "stock": 14,
+            "sku": "K212NXTTN11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "talladas",
+            "nombre": "CAMA TALLADA KING MADERA CEDRO + CABECERA CORONA + PIECERA CON DISEÑO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/talladas/talladas/3/",
+            "precioRegular": 10999,
+            "precioNormal": 10499,
+            "precioVenta": 9999,
+            "stock": 14,
+            "sku": "K212NXTTN12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "marca": "kamas",
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "talladas",
+                    "madera": "cedro",
+                    "cajones": "No",
+                    "base-encajonada": "si",
+                    "piecera": "si",
+                    "colchón": "no incluye",
+                    "veladores": "no",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "talladas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Corona del rey"
+                }
+            ]
+        }
+    ]
+}

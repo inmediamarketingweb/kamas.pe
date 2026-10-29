@@ -1,0 +1,178 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADO - LILA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/2/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADO - CUERO CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/3/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/4/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADO - CENIZO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/5/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA LINEAL HORI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/6/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "2 plazas",
+            "línea": "americanas",
+            "nombre": "CAMA 2 PLAZAS AMERICANA CON 2 CAJONES + CABECERA AÉREA CAPITONEADO - BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/americanas/con-cajones/cab-americanas/7/",
+            "precioRegular": 1349,
+            "precioNormal": 1049,
+            "precioVenta": 829,
+            "stock": 12,
+            "sku": "K221NXC14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "2 plazas",
+                    "línea": "americanas",
+                    "cajones": "si",
+                    "bául": "no",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "capitoneado 1"
+                }
+            ]
+        }
+    ]
+}

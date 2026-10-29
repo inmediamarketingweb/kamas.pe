@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos/konig/1/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/1/",
+            "precioRegular": 3799,
+            "precioNormal": 3699,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "línea": "Europeos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "king",
+            "modelo-de-colchón": "konig",
+            "línea": "europeos",
+            "ruta": "/productos/dormitorios/king/europeos/konig/5/",
+            "nombre": "DORMITORIO EUROPEO KING + COLCHÓN KAMAS KONIG + CABECERA AÉREA BLOQUES - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/europeos/king/konig/pedestales/bloques/sin-brazos/otros-modelos/5/",
+            "precioRegular": 3799,
+            "precioNormal": 3699,
+            "precioVenta": 2749,
+            "stock": 23,
+            "sku": "K3342116N14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "línea": "Europeos",
+                    "tamaño": "King",
+                    "modelo-de-colchón": "Konig",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Aérea con patas",
+                    "diseño-de-cabecera": "Bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        }
+    ]
+}

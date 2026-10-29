@@ -1,0 +1,33 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "línea": "americanos",
+            "modelo-de-colchón": "sarki",
+            "tamaño": "2 plazas",
+            "ruta": "/productos/dormitorios/2-plazas/americanos-con-cajones/sarki/21/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS CON 2 CAJONES LATERALES + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL MAJESTAD - NEGRO",
+            "fotos": "/assets/imagenes/productos/dormitorios/americanos-con-cajones/2-plazas/sarki/pedestales/coronas/brazos-curvos/majestad/1/",
+            "precioRegular": 1929,
+            "precioNormal": 1599,
+            "precioVenta": 1199,
+            "stock": 9,
+            "sku": "K322133N24",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "Sarki",
+                    "línea": "americanos",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Corona",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

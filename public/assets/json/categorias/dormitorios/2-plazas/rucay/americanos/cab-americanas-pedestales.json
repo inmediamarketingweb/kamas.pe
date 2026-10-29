@@ -1,0 +1,265 @@
+{
+   "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/1/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/1/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N10",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/2/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/2/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N11",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/3/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - COBALTO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/3/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N12",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/4/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - VINO CLARO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/4/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N13",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/5/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/5/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N14",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/6/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - VINO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/6/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N15",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/7/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/7/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N16",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/8/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - FUCSIA",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/8/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N17",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "2 plazas",
+            "modelo-de-colchón": "rucay",
+            "línea": "americanos",
+            "ruta": "/productos/dormitorios/2-plazas/clasicos/rucay/10/",
+            "nombre": "DORMITORIO AMERICANO 2 PLAZAS + COLCHÓN KAMAS RUCAY + CABECERA PEDESTAL CLÁSICA 1 - ROJO",
+            "fotos": "/assets/imagenes/productos/dormitorios/clasicos/2-plazas/rucay/pedestales/brazos-rectos/clasica-1/10/",
+            "precioRegular": 1799,
+            "precioNormal": 1329,
+            "precioVenta": 899,
+            "stock": 13,
+            "sku": "K312222N19",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "2 plazas",
+                    "modelo-de-colchón": "rucay",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "tipo-de-cabecera": "Pedestal",
+                    "diseño-de-cabecera": "Clásica",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Clásica 1"
+                }
+            ]
+        }
+   ]
+}

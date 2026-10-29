@@ -1,0 +1,59 @@
+{
+    "productos":[
+        {
+            "categoría": "colchones",
+            "tamaño": "1 plaza y media",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "thaleo pocket",
+            "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thaleo-pocket/",
+            "nombre": "COLCHÓN KAMAS 1 PLAZA Y MEDIA EXTRA ORTOPÉDICO THALEO POCKET",
+            "fotos": "/assets/imagenes/productos/colchones/thaleo-pocket/king/",
+            "precioRegular": 1649,
+            "precioNormal": 1309,
+            "precioVenta": 799,
+            "stock": 99,
+            "sku": "K11510N10",
+            "regalos":[ "1 almohada" ],
+            "tipo-de-envio": "Envío preferente",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/thaleo-pocket/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/thaleo-pocket/"
+                },
+                {
+                    "nombre": "king",
+                    "ruta": "/productos/colchones/king/thaleo-pocket/"
+                }
+            ],
+            "mensajes":[
+                "El Kamas Thaleo Pocket es un colchón extra ortopédico diseñado para quienes buscan un soporte muy firme y altamente resistente. Incorpora 364 resortes Pocket, que trabajan de manera independiente para ofrecer un mejor soporte anatómico y reducir la transferencia de movimiento.",
+                "Su espuma de 20 kg/m³, tela de algodón tejido en punto y refuerzos centrales garantizan estabilidad y durabilidad. Con un imponente grosor de 32 cm, sistema One Size, marco de espuma y uso de un solo lado, está preparado para soportar hasta 110 kg por persona.",
+                "Incluye 8 años de garantía, ideal para quienes buscan un descanso firme, estable y de alta calidad."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "1 plaza y media",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "thaleo pocket",
+                    "línea-de-colchón": "extra ortopédicos",
+                    "nivel-de-confort": "muy firme",
+                    "resortes": "364 resorte pocket",
+                    "tela": "Tela algodón tejido en punto",
+                    "sistema": "One size",
+                    "refuerzos": "centrales",
+                    "densidad-de-la-espuma": "20kg/m3",
+                    "marco": "De espuma",
+                    "grosor": "32cm",
+                    "tipo-de-uso": "Un solo lado",
+                    "soporte-de-peso": "110kg. por persona",
+                    "garantía": "8 años"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "productos":[
+        {
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "línea": "con LED",
+            "tipo-de-cabecera": "aéreas con patas",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CON 2 LAMPARAS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/3/",
+            "precioRegular": 2399,
+            "precioNormal": 1799,
+            "precioVenta": 1499,
+            "stock": 9,
+            "sku": "K54150NX102",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "línea": "con LED",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con marco"
+                }
+            ]
+        },
+        {
+            "categoría": "cabeceras",
+            "tamaño": "king",
+            "línea": "con LED",
+            "tipo-de-cabecera": "aéreas con patas",
+            "nombre": "CABECERA AEREA CON PATAS KING MADERA CEDRO CON LAMPARA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/aereas-con-patas/clasicas/cedro/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1599,
+            "precioVenta": 1299,
+            "stock": 9,
+            "sku": "K54150NX100",
+            "tipo-de-envio": "Envío aplicado",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "tamaño": "king",
+                    "línea": "con LED",
+                    "tipo-de-cabecera": "aéreas con patas",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Muro con lámpara"
+                }
+            ]
+        }
+    ]
+}

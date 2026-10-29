@@ -1,0 +1,62 @@
+{
+    "productos":[
+        {
+            "id": 4,
+            "categoría": "colchones",
+            "tamaño": "king",
+            "formato": "rectangulares",
+            "modelo-de-colchón": "safynnte",
+            "ruta": "/productos/colchones/king/rectangulares/safynnte/",
+            "nombre": "COLCHÓN KAMAS KING SÚPER ORTOPÉDICO SAFYNNTE",
+            "fotos": "/assets/imagenes/productos/colchones/safynnte/king/",
+            "precioRegular": 2109,
+            "precioNormal": 1699,
+            "precioVenta": 1099,
+            "stock": 99,
+            "sku": "K146IN10",
+            "regalos":[ "2 almohadas" ],
+            "tipo-de-envio": "Gratis",
+            "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/safynnte/"
+                },
+                {
+                    "nombre": "Queen",
+                    "ruta": "/productos/colchones/queen/rectangulares/safynnte/"
+                }
+            ],
+            "mensajes":[
+                "Disfruta de un descanso cómodo y acogedor con el colchón King Safynnte, perteneciente a la línea Súper Ortopédicos y diseñado para ofrecer un nivel de confort medio suave, ideal para quienes buscan una sensación agradable sin renunciar a un buen soporte. Su sistema de resortes Bonell, compuesto por 18 filas de resortes de acero templado, proporciona una estructura estable y resistente para el descanso diario.",
+                "Incorpora Sistema One Size, refuerzos centrales y un marco de espuma que ayudan a mantener una estructura firme y duradera. Su espuma de 18 kg/m³ y cubierta en tela Drill complementan la experiencia, ofreciendo una superficie confortable y agradable al descanso.",
+                "Con 30 cm de grosor, el Safynnte está diseñado para utilizarse por un solo lado y soporta hasta 85 kg por persona. Además, cuenta con 4 años de garantía, brindándote la confianza necesaria para disfrutar de un descanso confortable y de calidad."
+            ],
+            "descripcion":[
+                {
+                    "categoría": "colchones",
+                    "tamaño": "king",
+                    "formato": "rectangulares",
+                    "modelo-de-colchón": "safynnte",
+                    "nivel-de-confort": "medio suave",
+                    "línea-de-colchón": "súper ortopédicos",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "18 filas",
+                    "material-de-resortes": "Acero templado",
+                    "tela": "Drill",
+                    "densidad-de-espuma": "18kg/m3",
+                    "tipo-de-uso": "Un solo lado",
+                    "incorpora": "Sistema one size",
+                    "refuerzos": "Centrales",
+                    "marco": "De espuma",
+                    "grosor": "30cm.",
+                    "soporte-de-peso": "85kg. por persona",
+                    "garantía": "4 años"
+                }
+            ]
+        }
+    ]
+}
