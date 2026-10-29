@@ -1,45 +1,3 @@
-// import './Paginacion.css';
-
-// function Paginacion(){
-//     return(
-//         <div className='pdt-paginacion-container'>
-//             <div className='pdt-paginacion'>
-//                 <button type='button'>
-//                     <p>Anterior</p>
-//                 </button>
-
-//                 <ul className='d-flex-center-center'>
-//                     <li>
-//                         <span className='active'>1</span>
-//                     </li>
-//                     <li>
-//                         <span>2</span>
-//                     </li>
-//                     <li>
-//                         <span>3</span>
-//                     </li>
-//                     <li>...</li>
-//                     <li>
-//                         <span>12</span>
-//                     </li>
-//                     <li>
-//                         <span>13</span>
-//                     </li>
-//                     <li>
-//                         <span>14</span>
-//                     </li>
-//                 </ul>
-
-//                 <button type='button'>
-//                     <p>Siguiente</p>
-//                 </button>
-//             </div>
-//         </div>
-//     )
-// }
-
-// export default Paginacion;
-
 import './Paginacion.css';
 
 function Paginacion({ paginaActual, totalPaginas, onChange }) {
@@ -47,7 +5,7 @@ function Paginacion({ paginaActual, totalPaginas, onChange }) {
 
     const generarPaginas = () => {
         const paginas = [];
-        const maxVisibles = 5;
+        const maxVisibles = 3;
 
         let inicio = Math.max(1, paginaActual - Math.floor(maxVisibles / 2));
         let fin = Math.min(totalPaginas, inicio + maxVisibles - 1);
@@ -86,9 +44,9 @@ function Paginacion({ paginaActual, totalPaginas, onChange }) {
                 <ul className="d-flex-center-center">
                     {generarPaginas().map((p, i) =>
                         p === '...' ? (
-                            <li key={`dots-${i}`}>
+                            <div className='margin-l-r-7' key={`dots-${i}`}>
                                 <span className="dots">...</span>
-                            </li>
+                            </div>
                         ) : (
                             <li key={p}>
                                 <span

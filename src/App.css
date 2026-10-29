@@ -505,6 +505,10 @@ button{
     margin-bottom: 10px;
 }
 
+.margin-l-r-7{
+    margin: 0 7px;
+}
+
 .padding-10{
     padding: 10px;
 }

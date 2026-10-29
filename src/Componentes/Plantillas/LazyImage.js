@@ -1,3 +1,104 @@
+// import { useEffect, useRef, useState } from "react";
+
+// function LazyImage({
+//     src,
+//     srcs = [], // 👈 array de fuentes alternativas (fallback)
+//     alt,
+//     width,
+//     height,
+//     className,
+//     fetchPriority = "low",
+//     ...props
+// }) {
+//     const imgRef = useRef();
+//     const [isLoaded, setIsLoaded] = useState(false);
+//     const [isVisible, setIsVisible] = useState(false);
+//     const [currentSrc, setCurrentSrc] = useState(src);
+
+//     // Lista combinada: src + srcs alternativos (sin duplicados ni vacíos)
+//     const candidates = [src, ...srcs].filter(Boolean);
+
+//     useEffect(() => {
+//         if (!imgRef.current) return;
+
+//         const observer = new IntersectionObserver(
+//             ([entry]) => {
+//                 if (entry.isIntersecting) {
+//                     setIsVisible(true);
+//                     observer.disconnect();
+//                 }
+//             },
+//             {
+//                 rootMargin: "50px",
+//                 threshold: 0.01,
+//             }
+//         );
+
+//         observer.observe(imgRef.current);
+//         return () => observer.disconnect();
+//     }, []);
+
+//     useEffect(() => {
+//         if (!isVisible || candidates.length === 0) return;
+
+//         let cancelled = false;
+//         let index = 0;
+
+//         const tryNext = () => {
+//             if (cancelled || index >= candidates.length) return;
+//             const candidate = candidates[index];
+//             const img = new Image();
+//             img.src = candidate;
+//             img.onload = () => {
+//                 if (cancelled) return;
+//                 setCurrentSrc(candidate);
+//                 setIsLoaded(true);
+//             };
+//             img.onerror = () => {
+//                 index += 1;
+//                 tryNext();
+//             };
+//         };
+
+//         tryNext();
+
+//         return () => {
+//             cancelled = true;
+//         };
+//         // eslint-disable-next-line react-hooks/exhaustive-deps
+//     }, [isVisible, candidates.join("|")]);
+
+//     const getLoadingValue = () => {
+//         if (fetchPriority === "high") return "eager";
+//         return "lazy";
+//     };
+
+//     return (
+//         <img
+//             ref={imgRef}
+//             src={
+//                 isLoaded
+//                     ? currentSrc
+//                     : `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='${width}' height='${height}'%3E%3Crect width='100%' height='100%' fill='%23f5f5f5'/%3E%3C/svg%3E`
+//             }
+//             alt={alt}
+//             width={width}
+//             height={height}
+//             loading={getLoadingValue()}
+//             decoding="async"
+//             className={`${className} ${isLoaded ? "loaded" : "loading"}`}
+//             style={{
+//                 backgroundColor: "#FFFFFF",
+//                 transition: "opacity 0.3s",
+//                 opacity: isLoaded ? 1 : 0.5,
+//             }}
+//             {...props}
+//         />
+//     );
+// }
+
+// export default LazyImage;
+
 import { useEffect, useRef, useState } from "react";
 
 function LazyImage({
@@ -8,12 +109,15 @@ function LazyImage({
     height,
     className,
     fetchPriority = "low",
+    onLoaded,     // 👈 NUEVO: se dispara cuando una fuente válida cargó
+    onLoadError,  // 👈 NUEVO: se dispara cuando TODAS las fuentes fallaron
     ...props
 }) {
     const imgRef = useRef();
     const [isLoaded, setIsLoaded] = useState(false);
     const [isVisible, setIsVisible] = useState(false);
     const [currentSrc, setCurrentSrc] = useState(src);
+    const [allFailed, setAllFailed] = useState(false);
 
     // Lista combinada: src + srcs alternativos (sin duplicados ni vacíos)
     const candidates = [src, ...srcs].filter(Boolean);
@@ -45,7 +149,13 @@ function LazyImage({
         let index = 0;
 
         const tryNext = () => {
-            if (cancelled || index >= candidates.length) return;
+            if (cancelled || index >= candidates.length) {
+                if (!cancelled) {
+                    setAllFailed(true);
+                    onLoadError?.();
+                }
+                return;
+            }
             const candidate = candidates[index];
             const img = new Image();
             img.src = candidate;
@@ -53,6 +163,7 @@ function LazyImage({
                 if (cancelled) return;
                 setCurrentSrc(candidate);
                 setIsLoaded(true);
+                onLoaded?.(candidate);
             };
             img.onerror = () => {
                 index += 1;
@@ -86,7 +197,9 @@ function LazyImage({
             height={height}
             loading={getLoadingValue()}
             decoding="async"
-            className={`${className} ${isLoaded ? "loaded" : "loading"}`}
+            className={`${className} ${isLoaded ? "loaded" : "loading"} ${
+                allFailed ? "failed" : ""
+            }`}
             style={{
                 backgroundColor: "#FFFFFF",
                 transition: "opacity 0.3s",

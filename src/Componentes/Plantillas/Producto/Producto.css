@@ -373,3 +373,91 @@
         font-size: 24px;
     }
 }
+
+/* ============================================
+   SKELETON ANIMATION
+   ============================================ */
+@keyframes product-skeleton-shimmer {
+  0%   { background-position: -200px 0; }
+  100% { background-position: calc(200px + 100%) 0; }
+}
+
+@keyframes product-skeleton-pulse {
+  0%, 100% { opacity: 1;   }
+  50%      { opacity: 0.4; }
+}
+
+/* Skeleton base */
+.product-skeleton {
+  background: linear-gradient(
+    90deg,
+    #f0f0f0 25%,
+    #e6e6e6 50%,
+    #f0f0f0 75%
+  );
+  background-size: 200px 100%;
+  animation: product-skeleton-shimmer 1.4s infinite linear;
+  border-radius: 4px;
+}
+
+/* Wrapper del skeleton de imagen, ocupa todo el contenedor de imagen */
+.product-card-images .product-skeleton-image {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: 0;
+  pointer-events: none;
+}
+
+/* ============================================
+   SKELETON DE TEXTOS / PRECIOS
+   ============================================ */
+.product-skeleton-line {
+  height: 12px;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.product-skeleton-line.short   { width: 40%; }
+.product-skeleton-line.medium  { width: 65%; }
+.product-skeleton-line.tiny    { width: 25%; height: 10px; }
+.product-skeleton-line.price   { width: 55%; height: 22px; }
+
+.product-skeleton-row {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.product-skeleton-stars {
+  display: flex;
+  gap: 2px;
+}
+
+.product-skeleton-stars span {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.product-skeleton-badge {
+  width: 70px;
+  height: 20px;
+  border-radius: 20px;
+}
+
+/* Ajustes responsive */
+@media screen and (max-width: 600px) {
+  .product-skeleton-line.price { height: 18px; }
+  .product-skeleton-line       { height: 10px; }
+}
+
+/* Accesibilidad: respetar prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .product-skeleton {
+    animation: none;
+    background: #eee;
+  }
+}
