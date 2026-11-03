@@ -3,7 +3,7 @@
         {
             "categoría": "camas",
             "tamaño": "1 plaza y media",
-            "línea": "americanas con cajones",
+            "línea": "americanas",
             "ruta": "/productos/camas/1-plaza-y-media/americanas-con-cajones/16/",
             "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA Y MEDIA CON 3 CAJONES LATERALES + CABECERA AÉREA CAPITONEADA - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas-con-cajones/1-plaza-y-media/aereas/americanas/sin-brazos/capitoneado/2/",
@@ -20,7 +20,13 @@
                     "línea": "americanas",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea",
+                    "piecera": "no",
+                    "colchón": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "Aéreas",
+                    "línea-de-cabecera": "tapizadas",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"

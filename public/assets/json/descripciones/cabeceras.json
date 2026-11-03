@@ -1,0 +1,18 @@
+{
+    "king":[
+        {
+            "pedestales":[
+                {
+                    "línea-de-cabecera": "",
+                    "mensaje": "",
+                    "lista":[
+                        {
+                            "item 1": "mensaje 1",
+                            "item 2": "mensaje 2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

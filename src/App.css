@@ -5,6 +5,7 @@
     list-style: none;
     text-decoration: none;
     font-family: 'DM Sans';
+    font-size: 15px;
 }
 
 :root{
@@ -252,6 +253,11 @@ button{
     color: var(--color-1) !important;
 }
 
+.color-color-2{
+    color: var(--color-2) !important;
+}
+
+
 .color-black-0{
     color: var(--black) !important;
 }
@@ -374,7 +380,7 @@ button{
 }
 
 .w-100{
-    width: 100%;
+    width: 100% !important;
 }
 
 .h-100{
@@ -511,6 +517,10 @@ button{
 
 .padding-10{
     padding: 10px;
+}
+
+.padding-20{
+    padding: 20px;
 }
 
 .padding-left-right-10{
@@ -769,6 +779,10 @@ input[type="checkbox"]{
 }
 
 .border-1-component-border{
+    border: 1px solid var(--component-border);
+}
+
+.border-1-component{
     border: 1px solid var(--component-border);
 }
 

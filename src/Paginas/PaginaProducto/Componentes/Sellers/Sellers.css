@@ -1,12 +1,32 @@
+.product-page-sellers{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 5px;
+}
+
+.product-page-sellers li{
+    display: flex;
+    width: 100%;
+}
+
 .product-page-sellers li a{
+    width: 100%;
+    height: auto;
     position: relative;
+    padding: 5px;
+    background: rgba(0 0 0 / 0.075);
+    border: 1px solid var(--component-border);
+    border-radius: 4px;
 }
 
 .product-page-sellers li a img{
-    width: 27px;
-    height: auto;
-    aspect-ratio: 1/1;
-    border-radius: 100%;
+    width: 100%;
+    height: 36px;
+    object-fit: cover;
+    display: flex;
+    /* aspect-ratio: 1/1; */
+    /* border-radius: 100%; */
 }
 
 .product-page-sellers li a p{

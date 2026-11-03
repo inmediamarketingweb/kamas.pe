@@ -8,6 +8,7 @@
 
 .product-page-sizes li a{
     display: flex;
+    gap: 3px;
     padding: 4px 8px;
     background: rgba(0 0 0 / 0.05);
     border: 1px solid rgba(0 0 0 / 0.1);
@@ -22,9 +23,17 @@
 
 .product-page-sizes li a p{
     color: var(--text);
+    font-weight: bold;
     font-size: 13px;
 }
 
-.product-page-sizes li a:hover p{
+.product-page-sizes li a:hover p,
+.product-page-sizes li a:hover span{
     color: var(--white);
+}
+
+.product-page-sizes li a span{
+    color: var(--black);
+    font-size: 11px;
+    transition: var(--t-200ms-linear);
 }
