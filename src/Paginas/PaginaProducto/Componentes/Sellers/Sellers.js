@@ -26,15 +26,18 @@ function Sellers({ producto }) {
     if (sellersActivos.length === 0) return null;
 
     return (
-        <div className="d-flex-column gap-10">
-            <h2 className="title color-color-1">Disponible en:</h2>
+        <div className="d-flex-column gap-10 border-r-4 padding-20 border-1-component">
+            <div className="d-flex-column">
+                <h2 className="text font-bold">Disponible en:</h2>
+                <p className="text">Encuentralo también en nuestras tiendas autorizadas</p>
+            </div>
 
-            <ul className="product-page-sellers d-flex-wrap gap-5">
+            <ul className="product-page-sellers">
                 {sellersActivos.map((seller, i) => (
                     <li key={`${seller.nombre}-${i}`} className="d-flex-center-center">
                         <a href={seller.ruta} title={seller.nombre} className="d-flex-center-center" target="_blank" rel="noopener noreferrer" >
                             <img src={seller.img} alt={seller.nombre} />
-                            <p className="text">{seller.nombre}</p>
+                            {/* <p className="text">{seller.nombre}</p> */}
                         </a>
                     </li>
                 ))}

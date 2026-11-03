@@ -5,8 +5,7 @@
             "categoría": "camas",
             "tamaño": "1 plaza",
             "línea": "infantiles",
-            "ruta": "/productos/camas/1-plaza/americanas/63/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/1/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -22,11 +21,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "si",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Osito"
+                    "modelo-de-cabecera": "Osito",
+                    "madera": "pino"
                 }
             ]
         },
@@ -36,7 +37,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/64/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL CON OSITO + ESCALERA + PIECERA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/2/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -52,11 +53,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "si",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Perrito"
+                    "modelo-de-cabecera": "Perrito",
+                    "madera": "pino"
                 }
             ]
         },
@@ -66,7 +69,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/65/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL CON T-REX + ESCALERA - AZUL NOCHE",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL CON T-REX + ESCALERA - AZUL NOCHE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/3/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -82,11 +85,13 @@
                     "cajones": "No",
                     "base-encajonada": "si",
                     "piecera": "no",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "sin Brazos",
-                    "modelo-de-cabecera": "con T-Rex"
+                    "modelo-de-cabecera": "T-Rex",
+                    "madera": "pino"
                 }
             ]
         },
@@ -96,7 +101,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/66/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL CON DINO + ESCALERA - CHAMPAGNE ",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL CON DINO + ESCALERA - CHAMPAGNE ",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/4/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -112,11 +117,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "no",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "sin Brazos",
-                    "modelo-de-cabecera": "con T-Rex"
+                    "modelo-de-cabecera": "Dino",
+                    "madera": "pino"
                 }
             ]
         },
@@ -126,7 +133,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/67/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL RATON - PLOMO OSCURO",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL RATON - PLOMO OSCURO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/5/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -142,11 +149,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "si",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "sin Brazos",
-                    "modelo-de-cabecera": "ratón"
+                    "modelo-de-cabecera": "ratón",
+                    "madera": "pino"
                 }
             ]
         },
@@ -156,7 +165,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/68/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL ARCOIRIS",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL ARCOIRIS",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/6/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -172,11 +181,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "no",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "sin Brazos",
-                    "modelo-de-cabecera": "arcoiris"
+                    "modelo-de-cabecera": "arcoiris",
+                    "madera": "pino"
                 }
             ]
         },
@@ -186,7 +197,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/69/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL ARCOIRIS",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL ARCOIRIS",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/7/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -202,11 +213,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "no",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "sin Brazos",
-                    "modelo-de-cabecera": "arcoiris"
+                    "modelo-de-cabecera": "arcoiris",
+                    "madera": "pino"
                 }
             ]
         },
@@ -216,7 +229,7 @@
             "tamaño": "1 plaza",
             "línea": "infantiles",
             "ruta": "/productos/camas/1-plaza/americanas/70/",
-            "nombre": "CAMA BOX TARIMA AMERICANA 1 PLAZA + CABECERA PEDESTAL ARCOIRIS + ENCOFRADO",
+            "nombre": "CAMA 1 PLAZA INFANTIL + CABECERA PEDESTAL ARCOIRIS + ENCOFRADO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/2-plazas/infantiles/8/",
             "precioRegular": 1399,
             "precioNormal": 1099,
@@ -232,11 +245,13 @@
                     "cajones": "No",
                     "base-encajonada": "Si",
                     "piecera": "no",
-                    "baul": "no",
-                    "tipo-de-cabecera": "pedestal",
-                    "diseño-de-cabecera": "Infantil",
+                    "baúl": "no",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Infantiles",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "arcoiris"
+                    "modelo-de-cabecera": "arcoiris",
+                    "madera": "pino"
                 }
             ]
         }

@@ -18,8 +18,12 @@
                     "categoría": "camas",
                     "tamaño": "2 plazas",
                     "línea": "bases y tarimas",
+                    "madera": "pino",
                     "cajones": "No",
-                    "base-encajonada": "Si"
+                    "base-encajonada": "Si",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "sin cabecera"
                 }
             ]
         }

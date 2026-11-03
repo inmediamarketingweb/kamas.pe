@@ -1,0 +1,86 @@
+{
+    "bases-y-tarimas":[
+        {
+            "americana":[
+                {
+                    "madera": "pino",
+                    "mensaje": "Disfruta de la combinación perfecta de elegancia, resistencia y confort con nuestra cama tapizada. Su estructura interna fabricada en madera de pino ofrece una base sólida, firme y resistente, diseñada para brindar estabilidad y durabilidad en el uso diario. Su excelente construcción garantiza un soporte confiable para tu descanso, mientras que su acabado tapizado aporta un toque de distinción y elegancia a tu dormitorio. Cada detalle está pensado para ofrecerte calidad, seguridad y una larga vida útil, en cualquiera de sus tamaños. Una cama que combina la nobleza de la madera de pino con la elegancia de un diseño pensado para disfrutar y descansar mejor."
+                }
+            ]
+        },
+        {
+            "americana-con-cajones":[
+                {
+                    "madera": "pino",
+                    "mensaje": "Optimiza el espacio de tu dormitorio con nuestras camas que incorporan prácticos cajones de almacenamiento, diseñados para brindarte mayor organización y funcionalidad sin sacrificar la elegancia. Fabricados en melamine de 18 mm de espesor, cuentan con medidas aproximadas de 40 × 63 × 12 cm y están equipados con rieles pesados que ofrecen un desplazamiento firme, suave y resistente. Son ideales para guardar ropa de cama, accesorios y otros objetos, aprovechando inteligentemente cada espacio. Una solución práctica y elegante que combina diseño, calidad y comodidad para tu hogar."
+                }
+            ]
+        },
+        {
+            "europea":[
+                {
+                    "madera": "pino",
+                    "mensaje": "mensaje para bases y tarimas de madera pino pero de la línea americanas"
+                },
+                {
+                    "madera": "tornillo",
+                    "mensaje": "mensaje para bases y tarimas de madera tornillo pero de la línea europea"
+                }
+            ]
+        },
+        {
+            "clasica-de-madera":[
+                {
+                    "madera": "pino",
+                    "mensaje": "mensaje para bases y tarimas de madera pino pero de la línea americ2222222222anas"
+                },
+                {
+                    "madera": "tornillo",
+                    "mensaje": "mensaje para bases y tarimas de madera pino pero de la línea americanas"
+                },
+                {
+                    "madera": "cedro",
+                    "mensaje": "mensaje para bases y tarimas de madera pino pero de la línea americanas"
+                }
+            ]
+        }
+    ],
+    "camarotes":[
+        {
+            "camarote":[
+                {
+                    "madera": "capirona",
+                    "mensaje": "Nuestros camarotes de madera capirona destacan por su extraordinaria resistencia, solidez y durabilidad, convirtiéndose en una excelente opción para quienes buscan calidad y confianza en cada detalle. La madera capirona es reconocida por su dureza, densidad y capacidad para soportar el uso constante, ofreciendo estructuras firmes y resistentes que acompañan a tu familia durante muchos años. Su versatilidad nos permite crear diferentes diseños y estilos, adaptándose a distintos espacios y preferencias. Además, cuentan con un sistema de instalación práctico y sencillo que facilita su armado. Disfruta de la resistencia de una madera de calidad, diseños versátiles y la confianza que solo KAMAS puede ofrecerte."
+                },
+                {
+                    "madera": "pino",
+                    "mensaje": "Nuestros camarotes de madera pino americano combinan elegancia, funcionalidad y calidad en cada detalle. Fabricados con madera seleccionada, destacan por su buena resistencia, estabilidad y versatilidad, ofreciendo una estructura confiable para el uso diario. Su apariencia natural y sus vetas características aportan calidez y un estilo acogedor a cualquier dormitorio. Contamos con una amplia variedad de diseños que se adaptan a diferentes espacios y preferencias, además de un sistema de instalación práctico y sencillo que facilita su armado. Descubre la combinación perfecta entre diseño, practicidad y la belleza de la madera natural con nuestros camarotes KAMAS."
+                },
+                {
+                    "madera": "cedro",
+                    "mensaje": "Nuestros camarotes de madera cedro destacan por su elegancia natural, excelente acabado y calidad superior. El cedro es una madera apreciada por su belleza, sus vetas distintivas, su estabilidad y su buena resistencia, características que aportan durabilidad y un encanto especial a cada pieza. Su tonalidad cálida y apariencia sofisticada convierten cualquier dormitorio en un ambiente acogedor y lleno de estilo. Además, ofrecemos diseños versátiles que se adaptan a diferentes espacios y preferencias, con un sistema de instalación práctico y sencillo que facilita su armado. Elige la belleza, calidad y distinción de la madera natural con nuestros camarotes KAMAS."
+                }
+            ]
+        }
+    ],
+    "infantiles":[
+        {
+            "infantil":[
+                {
+                    "madera": "pino",
+                    "mensaje": "¡Haz que sus sueños tengan el mejor lugar para descansar! En KAMAS contamos con una encantadora variedad de camas infantiles en diferentes diseños, estilos y colores, pensadas para transformar cada dormitorio en un espacio único, acogedor y lleno de imaginación. Además, ofrecemos diseños personalizados para crear la cama que tus pequeños siempre soñaron, adaptándonos a sus gustos y preferencias. Cada modelo combina creatividad, funcionalidad y calidad, porque sabemos que su habitación es mucho más que un lugar para dormir."
+                }
+            ]
+        }
+    ],
+    "smart":[
+        {
+            "smart":[
+                {
+                    "madera": "pino",
+                    "mensaje": "Las Camas Smart Kamas combinan diseño moderno, comodidad y funcionalidad en una estructura amplia y envolvente. Diseñadas en tamaño King de 3 plazas, para colchones de 198 x 203 cm, destacan por sus cabeceras acolchadas y sus diferentes configuraciones con repisas, compartimentos y accesorios según el modelo. Una cama pensada para transformar el dormitorio en un espacio más cómodo, moderno y funcional."
+                }
+            ]
+        }
+    ]
+}

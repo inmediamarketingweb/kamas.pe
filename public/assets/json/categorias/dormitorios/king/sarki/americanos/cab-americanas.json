@@ -826,6 +826,24 @@
             "stock": 9,
             "sku": "K324233N91",
             "tipo-de-envio": "Gratis",
+            "sellers":[
+                {
+                    "nombre": "Falabella",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/145431036/DORMITORIO-KAMAS-KING-SARKI-+-CABECERA-AEREA-CAPITONEADO-ROJO/145431037"
+                },
+                {
+                    "nombre": "ripley",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/145431036/DORMITORIO-KAMAS-KING-SARKI-+-CABECERA-AEREA-CAPITONEADO-ROJO/145431037"
+                },
+                {
+                    "nombre": "mercado libre",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/145431036/DORMITORIO-KAMAS-KING-SARKI-+-CABECERA-AEREA-CAPITONEADO-ROJO/145431037"
+                },
+                {
+                    "nombre": "juntoz",
+                    "ruta": "https://www.falabella.com.pe/falabella-pe/product/145431036/DORMITORIO-KAMAS-KING-SARKI-+-CABECERA-AEREA-CAPITONEADO-ROJO/145431037"
+                }
+            ],
             "descripcion":[
                 {
                     "categoría": "dormitorios",
