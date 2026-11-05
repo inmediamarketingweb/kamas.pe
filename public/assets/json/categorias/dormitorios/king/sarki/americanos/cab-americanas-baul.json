@@ -1,12 +1,11 @@
 {
     "productos":[
         {
-            "id": 352,
+            "id": 1,
             "categoría": "dormitorios",
             "tamaño": "king",
             "modelo-de-colchón": "sarki",
             "línea": "americanos",
-            "ruta": "/productos/dormitorios/king/americanos/sarki/218/",
             "nombre": "DORMITORIO AMERICANO KING + COLCHÓN KAMAS SARKI + CABECERA AÉREA LINEAL 4 + 1 BAÚL - TEJIDO PLATA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/king/sarki/aereas-con-patas/bloques/sin-brazos/lineal-4/6/",
             "precioRegular": 2799,
@@ -21,10 +20,15 @@
                     "tamaño": "king",
                     "modelo-de-colchón": "sarki",
                     "línea": "americanos",
-                    "cajones": "No",
+                    "cajones": "si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Bloques",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal 4"
                 }

@@ -27,6 +27,10 @@
                 {
                     "nombre": "Queen",
                     "ruta": "/productos/colchones/queen/rectangulares/thameo-pocket/"
+                },
+                {
+                    "nombre": "King",
+                    "ruta": "/productos/colchones/king/rectangulares/thameo-pocket/"
                 }
             ],
             "formatos":[

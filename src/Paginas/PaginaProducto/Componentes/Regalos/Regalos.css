@@ -7,16 +7,17 @@
 
 .product-page-gifts > ul li{
     display: flex;
-    padding: 5px;
-    border: 1px solid var(--component-border);
+    /* padding: 5px; */
+    /* border: 1px solid var(--component-border); */
     border-radius: 3px;
     position: relative;
 }
 
 .product-page-gifts > ul li img{
     width: auto;
-    height: 40px;
+    height: 80px;
     aspect-ratio: 1/1;
+    border-radius: 3px;
     /* border: 1px solid orange; */
 }
 

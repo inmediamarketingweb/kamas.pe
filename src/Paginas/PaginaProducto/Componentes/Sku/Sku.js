@@ -22,11 +22,10 @@ function Sku({producto}){
 
     return(
         <button type='button' className='product-page-sku' onClick={handleCopy}>
-            <p>SKU:</p>
-            <p className='sku'>{producto.sku}</p>
             <span className="material-symbols-outlined">content_copy</span>
+            <p className='sku'>{producto.sku}</p>
 
-            <span className='copied'>¡SKU copiado al portapapeles!</span>
+            <span className='copied'>Copiado</span>
         </button>
     )
 }

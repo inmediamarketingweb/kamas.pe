@@ -17,6 +17,8 @@
     border-radius: 6px 6px 0 0;
 
     z-index: 10;
+
+    display: none !important;
 }
 
 .pagina-producto-main .conteo-regresivo .sale-time{
@@ -25,16 +27,18 @@
 }
 
 .product-page-block-content{
+    width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
 }
 
 .product-page-container{
     width: 100%;
     display: grid;
-    grid-template-columns: 1fr 500px 300px;
+    grid-template-columns: 680px 1fr;
     gap: 20px;
+    align-items: start;
 }
 
 .product-page-target{
@@ -43,9 +47,23 @@
 }
 
 .product-page-target-1{
-    overflow: hidden;
     display: flex;
     flex-direction: column;
+    gap: 20px;
+}
+
+.product-page-target-2{
+    position: sticky;
+    top: 168px;
+    height: fit-content;
+    align-self: start;
+
+    display: grid;
+    grid-template-columns: 1fr 340px;
+
+    gap: 20px;
+
+    z-index: 99;
 }
 
 .product-page-category{
@@ -56,7 +74,7 @@
 }
 
 .product-page-name{
-    font-size: 24px;
+    font-size: 28px;
     font-weight: bold;
     color: #212121;
     text-transform: uppercase;
@@ -155,7 +173,7 @@
 }
 
 .stars{
-    margin-top: 10px;
+    /* margin-top: 10px; */
 
     display: flex;
     align-items: center;
@@ -176,81 +194,8 @@
     border-bottom: 1px solid var(--component-border);
 }
 
-.page-product-sale-price{
-    font-size: 17px;
-    font-weight: unset;
-}
-
-.page-product-regular-price,
-.page-product-normal-price{
-    text-decoration: line-through;
-}
-
-.page-product-ofert-price{
-    color: crimson;
-    font-weight: bold;
-    font-size: 26px;
-}
-
-.pd-clm-3-dscto{
-    background: crimson;
-    padding: 6px 10px;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-}
-
-.pd-clm-3-dscto span{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 16px;
-}
-
-.pd-clm-3-dscto span,
-.pd-clm-3-dscto p{
-    color: var(--white);
-}
-
-.pd-clm-3-dscto p{
-    font-size: 12px;
-}
-
-.pd-percentage-dscto{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 6px 10px;
-    border-radius: 4px;
-    font-weight: bold;
-    font-size: 18px;
-    color: crimson;
-    background: rgb(220 20 60 / 0.2);
-}
-
-.page-ptd-of-price-container{
-    display: flex;
-    flex-direction: column;
-    border-top: 1px solid var(--component-border);
-    margin-top: 10px;
-    padding-top: 10px;
-}
-
-.page-ptd-of-price-container .text{
-    color: crimson;
-}
-
-.text-pd-pg-save{
-    display: flex;
-    margin-right: auto;
-
-    padding: 6px 10px;
-    border-radius: 3px;
-    font-size: 11px;
-    background: #212121;
-    color: var(--white);
+.prd-pg-tg-2-visible{
+    display: none;
 }
 
 @media screen and (max-width: 800px){
@@ -267,24 +212,8 @@
         display: none;
     }
 
-    .product-page-target-2{
-        overflow-y: scroll;
-    }
-
-    .product-page-target-2 > div:nth-child(2){
-        grid-template-columns: 1fr !important;
-    }
-
     .product-page-name{
         font-size: 26px;
-    }
-
-    .product-page-target-2 > div:nth-child(2) > div:nth-child(1) > div:nth-child(3){
-        flex-direction: column;
-    }
-
-    .quantity button{
-        width: 44px;
     }
 }
 
@@ -301,6 +230,7 @@
 
     .product-page-target{
         width: 100%;
+        grid-template-columns: 1fr;
     }
 
     .product-page-images-container{
@@ -345,5 +275,52 @@
 
     .product-page-container{
         padding: 0 !important;
+    }
+
+    .product-page-sub-target-2{
+        position: fixed;
+        top: unset;
+        left: 0;
+        bottom: 0;
+        width: 100vw;
+        height: auto;
+        background: var(--body);
+        border-radius: 10px 10px 0 0;
+        overflow: hidden;
+        /* z-index: 99; */
+        padding: 20px;
+        padding-top: 10px;
+        gap: 10px !important;
+
+        box-shadow: 0 -3px 5px rgba(0 0 0 / 0.25);
+        z-index: 100 !important;
+    }
+
+    .prd-pg-buy{
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .prd-pg-buy > p{
+        grid-column: 1/-1;
+    }
+
+    .prd-pg-tg-2-visible{
+        margin: auto;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .prd-pg-tg-2-visible span{
+        width: auto;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .prd-pg-tg-2-visible.active span{
+        rotate: 180deg;
     }
 }

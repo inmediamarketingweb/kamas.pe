@@ -1,0 +1,73 @@
+.page-product-sale-price{
+    font-size: 17px;
+    font-weight: unset;
+}
+
+.page-product-regular-price,
+.page-product-normal-price{
+    text-decoration: line-through;
+}
+
+.page-product-ofert-price{
+    color: crimson;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.pd-clm-3-dscto{
+    background: crimson;
+    padding: 6px 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.pd-clm-3-dscto span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.pd-clm-3-dscto span,
+.pd-clm-3-dscto p{
+    color: var(--white);
+}
+
+.pd-clm-3-dscto p{
+    font-size: 12px;
+}
+
+.pd-percentage-dscto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    color: crimson;
+    background: rgb(220 20 60 / 0.2);
+}
+
+.page-ptd-of-price-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.page-ptd-of-price-container .text{
+    color: crimson;
+}
+
+.text-pd-pg-save{
+    display: flex;
+
+    padding: 6px 10px;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    background: #212121;
+    color: var(--white);
+}

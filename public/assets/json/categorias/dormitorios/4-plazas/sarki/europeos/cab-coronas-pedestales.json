@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA - ACERO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-coronas-pedestales/1/", 
+            "precioRegular": 5699,
+            "precioNormal": 4099,
+            "precioVenta": 3399,
+            "stock": 13,
+            "sku": "K32542399NX10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CORONA - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-coronas-pedestales/2/", 
+            "precioRegular": 5699,
+            "precioNormal": 4099,
+            "precioVenta": 3399,
+            "stock": 13,
+            "sku": "K32542399NX11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "coronas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        }
+    ]
+}

@@ -151,9 +151,15 @@
 
         "/assets/json/categorias/dormitorios/4-plazas/der-prinz/americanos/cab-americanas.json",
 
+        "/assets/json/categorias/dormitorios/4-plazas/sarki/americanos/cab-americanas-con-marco.json",
+        "/assets/json/categorias/dormitorios/4-plazas/sarki/americanos/cab-americanas-pedestales.json",
         "/assets/json/categorias/dormitorios/4-plazas/sarki/americanos/cab-americanas.json",
-        "/assets/json/categorias/dormitorios/4-plazas/sarki/americanos/cab-bloques-con-marco.json",
         "/assets/json/categorias/dormitorios/4-plazas/sarki/americanos/cab-bloques.json",
+
+        "/assets/json/categorias/dormitorios/4-plazas/sarki/europeos/cab-americanas-pedestales.json",
+        "/assets/json/categorias/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales.json",
+        "/assets/json/categorias/dormitorios/4-plazas/sarki/europeos/cab-coronas-pedestales.json",
+
         "/assets/json/categorias/dormitorios/4-plazas/sarki/circulares/cab-bloques-pedestales.json"
     ]
 }

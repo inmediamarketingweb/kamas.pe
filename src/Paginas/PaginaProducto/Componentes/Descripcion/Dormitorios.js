@@ -15,7 +15,21 @@ import {
 } from './utils';
 
 function Dormitorios({ producto }) {
+    const [medidasData, setMedidasData] = useState([]);
     const [descripcionesData, setDescripcionesData] = useState([]);
+
+    const [seccionesAbiertas, setSeccionesAbiertas] = useState({
+        descripcion: true,
+        medidas: false,
+    });
+
+    const toggleSeccion = (seccion) => {
+        setSeccionesAbiertas((prev) => ({
+            ...prev,
+            [seccion]: !prev[seccion],
+        }));
+    };
+
     const [colchonData, setColchonData] = useState(null);
     const [modeloImg, setModeloImg] = useState(null);
 
@@ -281,144 +295,64 @@ function Dormitorios({ producto }) {
     const cabeceraDescripcion = obtenerDescripcion(cabeceraValor);
 
     return (
-        <div className="pd-pg-description">
-            <section className="block-content">
-                <div className="pd-pg-description-content">
-                    <div className="pd-pg-dsp-texts d-flex-column gap-20">
-                        <p className="title font-bold">
-                            {nombreColchonSinMedida || titulo}
-                        </p>
+        <div className="pd-pg-description d-flex-column gap-10">
+            <div className="d-flex-column gap-20 border-1-component padding-20 border-r-4">
+                <p className="title font-bold">{nombreColchonSinMedida || titulo}</p>
 
-                        <div className="d-grid-2-1fr gap-10">
-                            {modeloImg && (
-                                <img
-                                    className="w-100 d-flex"
-                                    src={modeloImg}
-                                    alt={modeloColchonFinal}
-                                    loading="lazy"
-                                />
-                            )}
-                            {firmezaImg && (
-                                <img
-                                    className="w-100 d-flex"
-                                    src={firmezaImg}
-                                    alt={nivelConfort}
-                                    loading="lazy"
-                                />
-                            )}
+                <div className="d-grid-2fr gap-10">
+                    {modeloImg && (
+                        <div className='d-flex w-100'>
+                            <img className="w-100 d-flex" src={modeloImg} alt={modeloColchonFinal} loading="lazy"/>
                         </div>
-
-                        <ul className="d-flex-column gap-5">
-                            {mensajesColchon.length > 0 ? (
-                                mensajesColchon.map((msg, i) => (
-                                    <li key={i}>
-                                        <p className="text">{msg}</p>
-                                    </li>
-                                ))
-                            ) : (
-                                <li>
-                                    <p className="text">Sin información del colchón.</p>
-                                </li>
-                            )}
-                        </ul>
-                    </div>
-
-                    <div className="d-flex-column gap-20">
-                        <div className="d-flex-column gap-10">
-                            <p className="title font-bold">
-                                DESCRIPCIÓN DEL PRODUCTO
-                            </p>
-
-                            <ul className="chr-list">
-                                {Object.entries(detalles).map(([clave, valor]) => (
-                                    <li key={clave}>
-                                        <div className="d-flex gap-5">
-                                            <b className="color-black font-weight first-uppercase">
-                                                {formatearEtiqueta(clave)}:
-                                            </b>
-                                            <p className="text first-uppercase">
-                                                {valor}
-                                            </p>
-                                        </div>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-
-                        <div className="d-grid-2-1fr gap-20">
-                            <div className="d-flex-column gap-10">
-                                <p className="title font-bold">
-                                    {lineaValor
-                                        ? `LÍNEA ${lineaValor.toUpperCase()}`
-                                        : 'LÍNEA'}
-                                </p>
-
-                                <ul className="chr-list">
-                                    {lineaDescripcion.length > 0 ? (
-                                        lineaDescripcion.map((grupo, idx) =>
-                                            Object.entries(grupo).map(
-                                                ([clave, valor]) => (
-                                                    <li key={`${idx}-${clave}`}>
-                                                        <div className="d-flex gap-5">
-                                                            <b className="color-black font-weight first-uppercase">
-                                                                {formatearEtiqueta(clave)}:
-                                                            </b>
-                                                            <p className="text first-uppercase">
-                                                                {valor}
-                                                            </p>
-                                                        </div>
-                                                    </li>
-                                                )
-                                            )
-                                        )
-                                    ) : (
-                                        <li>
-                                            <p className="text">
-                                                Sin información de línea.
-                                            </p>
-                                        </li>
-                                    )}
-                                </ul>
-                            </div>
-
-                            <div className="d-flex-column gap-10">
-                                <p className="title font-bold">
-                                    {cabeceraValor
-                                        ? `CABECERA ${cabeceraValor.toUpperCase()}`
-                                        : 'CABECERA'}
-                                </p>
-
-                                <ul className="chr-list">
-                                    {cabeceraDescripcion.length > 0 ? (
-                                        cabeceraDescripcion.map((grupo, idx) =>
-                                            Object.entries(grupo).map(
-                                                ([clave, valor]) => (
-                                                    <li key={`${idx}-${clave}`}>
-                                                        <div className="d-flex gap-5">
-                                                            <b className="color-black font-weight first-uppercase">
-                                                                {formatearEtiqueta(clave)}:
-                                                            </b>
-                                                            <p className="text first-uppercase">
-                                                                {valor}
-                                                            </p>
-                                                        </div>
-                                                    </li>
-                                                )
-                                            )
-                                        )
-                                    ) : (
-                                        <li>
-                                            <p className="text">
-                                                Sin información de cabecera.
-                                            </p>
-                                        </li>
-                                    )}
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                    )}
+                    {firmezaImg && (
+                        <img
+                            className="w-100 d-flex"
+                            src={firmezaImg}
+                            alt={nivelConfort}
+                            loading="lazy"
+                        />
+                    )}
                 </div>
-            </section>
+
+                <ul className="d-flex-column gap-5">
+                    {mensajesColchon.length > 0 ? (
+                        mensajesColchon.map((msg, i) => (
+                            <li key={i}>
+                                <p className="text">{msg}</p>
+                            </li>
+                        ))
+                    ) : (
+                        <li>
+                            <p className="text">Sin información del colchón.</p>
+                        </li>
+                    )}
+                </ul>
+            </div>
+
+            <div className={`description-tag d-flex-column border-r-4 border-1-component ${ seccionesAbiertas.descripcion ? '' : 'active' }`}>
+                <div className="description-title d-flex-center-between gap-20" onClick={() => toggleSeccion('descripcion')} role="button" aria-expanded={seccionesAbiertas.descripcion} >
+                    <p className="title upperase font-bold uppercase">Descripción</p>
+
+                    <span className='material-symbols-outlined'>keyboard_arrow_down</span>
+                </div>
+
+                <ul className="chr-list">
+                    {Object.entries(detalles).map(([clave, valor]) => (
+                        <li key={clave}>
+                            <div>
+                                <b className="color-black font-weight first-uppercase">
+                                    {formatearEtiqueta(clave)}
+                                </b>
+                            </div>
+
+                            <div>
+                                <p className="text first-uppercase margin-right">{valor}</p>
+                            </div>
+                        </li>
+                    ))}
+                </ul>
+            </div>
         </div>
     );
 }
