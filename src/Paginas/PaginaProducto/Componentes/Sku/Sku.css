@@ -5,27 +5,23 @@
     align-items: center;
     justify-content: center;
     gap: 5px;
-    padding: 5px 10px;
-    border: 1px solid rgba(0 0 0 / 0.1);
-    background: rgba(0 0 0 / 0.05);
+    /* padding: 5px 10px; */
+    /* border: 1px solid rgba(0 0 0 / 0.1); */
+    /* background: rgba(0 0 0 / 0.05); */
     transition: var(--t-200ms-linear);
     border-radius: 3px;
     position: relative;
 }
 
-.product-page-sku:hover{
-    background: rgba(0 0 0 / 0.1);
-}
-
 .product-page-sku::before{
-    content: 'Copiar SKU';
-    width: 64px;
+    content: 'Copiar';
+    width: auto;
     height: 100%;
     position: absolute;
     left: calc(100% + 5px);
     top: 0;
     border-radius: 4px;
-    padding: 0 8px;
+    padding: 4px 6px;
     display: flex;
     align-items: center;
     justify-content: center;

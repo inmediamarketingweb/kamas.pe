@@ -22,7 +22,10 @@
                     "línea": "americanos",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
+                    "piecera": "no",
+                    "veladores": "si",
+                    "baúl": "no",
+                    "madera": "pino",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"

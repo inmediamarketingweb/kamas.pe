@@ -5,7 +5,6 @@
             "tamaño": "1 plaza y media",
             "línea": "americanos",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/4/",
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CORONA - NEGRO",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/coronas/sin-brazos/capitoneado/1/",
             "precioRegular": 1799,
@@ -22,8 +21,8 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }

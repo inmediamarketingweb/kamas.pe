@@ -1,20 +1,25 @@
-.pd-pg-description{
-    background: var(--white);
+.description-title{
+    cursor: pointer;
     padding: 20px;
 }
 
-.pd-pg-description-content{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+.description-tag .description-title p,
+.description-tag .description-title span{
+    user-select: none;
+    pointer-events: none;
 }
 
-@media screen and (max-width: 600px){
-    .pd-pg-description-content{
-        grid-template-columns: 1fr;
-    }
+.description-tag.active .description-title span{
+    rotate: 180deg;
+}
 
-    .pd-pg-description{
-        padding: 0;
-    }
+.description-tag .chr-list{
+    height: 0;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+.description-tag.active .chr-list{
+    height: auto;
+    padding-bottom: 20px;
 }

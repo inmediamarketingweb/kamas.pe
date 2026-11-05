@@ -1,0 +1,70 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "nombre": "DORMITORIO 4 PLAZAS AMERICANO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL LINEAL 1 + 2 PUFF - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/cab-americanas/1/",
+            "precioRegular": 4799,
+            "precioNormal": 3799,
+            "precioVenta": 2799,
+            "stock": 13,
+            "sku": "K325233NXP10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "americanos",
+            "nombre": "DORMITORIO 4 PLAZAS AMERICANO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL CAPITONEADA + 2 PUFF - CAMELL",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/americanos/cab-americanas/2/",
+            "precioRegular": 4799,
+            "precioNormal": 3799,
+            "precioVenta": 2799,
+            "stock": 13,
+            "sku": "K325233NXP11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "americanos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "sin brazos",
+                    "modelo-de-cabecera": "Capitoneada"
+                }
+            ]
+        }
+    ]
+}

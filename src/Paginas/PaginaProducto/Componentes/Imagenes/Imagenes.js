@@ -1,14 +1,12 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
 
 import LazyImage from '../../../../Componentes/Plantillas/LazyImage';
-import Colores from '../Colores/Colores';
+// import Colores from '../Colores/Colores';
 
 import './Imagenes.css';
 
-// 👇 Extensiones soportadas, en orden de preferencia
 const EXTENSIONES_IMAGEN = ['jpg', 'webp', 'png', 'jfif'];
 
-// 👇 Extrae un string de ruta sin importar si viene como string u objeto
 function extraerRuta(img) {
     if (!img) return '';
     if (typeof img === 'string') return img;
@@ -26,7 +24,6 @@ function extraerRuta(img) {
     return '';
 }
 
-// 👇 Genera candidatas de URL probando todas las extensiones
 function construirCandidatosImagen(rutaRaw) {
     const ruta = extraerRuta(rutaRaw);
 
@@ -57,8 +54,6 @@ function construirCandidatosImagen(rutaRaw) {
     };
 }
 
-// 👇 Componente que encuentra la primera URL válida y la usa para <img>
-//    Así el zoom-lens puede superponerse sin problemas.
 function ImagenConFallback({
     candidates,
     alt,
@@ -133,20 +128,7 @@ function ImagenConFallback({
                     }}
                 />
             ) : (
-                <div
-                    style={{
-                        width: '100%',
-                        height: '100%',
-                        background: '#f5f5f5',
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        color: '#aaa',
-                        fontSize: 14,
-                    }}
-                >
-                    {cargando ? 'Cargando…' : 'Imagen no disponible'}
-                </div>
+                <></>
             )}
         </div>
     );
@@ -196,8 +178,6 @@ function Imagenes({
             .filter((ruta) => typeof ruta === 'string' && ruta.trim() !== '');
 
         if (process.env.NODE_ENV === 'development') {
-            console.log('🔎 [Imagenes] entrada:', imagenes);
-            console.log('🔎 [Imagenes] normalizadas:', resultado);
         }
 
         return resultado;
@@ -419,7 +399,6 @@ function Imagenes({
                     >
                         {imagenesResueltas.map((imgData, i) => {
                             const isActive = i === currentIndex;
-                            // Lista de candidatas: fallback ya cargado por miniatura primero
                             const candidatas = urlsCargadas[i]
                                 ? [
                                       urlsCargadas[i],
@@ -517,7 +496,7 @@ function Imagenes({
                 </div>
             </div>
 
-            {mostrarColores && (
+            {/* {mostrarColores && (
                 <Colores
                     onSelectColor={onSelectColor}
                     producto={producto}
@@ -526,7 +505,7 @@ function Imagenes({
                     quantity={quantity}
                     precioFinal={precioFinal}
                 />
-            )}
+            )} */}
         </div>
     );
 }

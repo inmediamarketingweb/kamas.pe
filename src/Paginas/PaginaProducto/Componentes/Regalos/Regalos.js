@@ -149,7 +149,7 @@ function Regalos({ producto }) {
     return (
         <div className="d-flex-column gap-10 product-page-gifts">
             <div className="d-flex-center-left margin-right gap-5">
-                <p className="font-bold font-13 uppercase color-color-1">Regalos</p>
+                <p className="font-bold font-13 uppercase">Regalos</p>
             </div>
 
             <ul>

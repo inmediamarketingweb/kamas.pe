@@ -13,6 +13,18 @@ function Colchones({ producto }) {
     const [medidasData, setMedidasData] = useState([]);
     const [descripcionesData, setDescripcionesData] = useState([]);
 
+    const [seccionesAbiertas, setSeccionesAbiertas] = useState({
+        descripcion: true,
+        medidas: false,
+    });
+
+    const toggleSeccion = (seccion) => {
+        setSeccionesAbiertas((prev) => ({
+            ...prev,
+            [seccion]: !prev[seccion],
+        }));
+    };
+
     const nombre = producto?.nombre || '';
     const detalles =
         Array.isArray(producto?.descripcion) && producto.descripcion[0]
@@ -72,79 +84,93 @@ function Colchones({ producto }) {
     const cabeceraDescripcion = obtenerDescripcion(cabeceraValor);
 
     return (
-        <div className="pd-pg-description">
-            <section className="block-content">
-                <div className="pd-pg-description-content">
-                    <div className="pd-pg-dsp-texts d-flex-column gap-10">
-                        <p className="title font-bold">{titulo}</p>
+        <div className="pd-pg-description d-flex-column gap-10">
+            <div className="d-flex-column gap-10 border-r-4 border-1-component padding-20">
+                <p className="title font-bold">{titulo}</p>
 
-                        <ul className="d-flex-column gap-5">
-                            {mensajes.map((msg, i) => (
-                                <li key={i}>
-                                    <p className="text">{msg}</p>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
+                <ul className="d-flex-column gap-5">
+                    {mensajes.map((msg, i) => (
+                        <li key={i}>
+                            <p className="text">{msg}</p>
+                        </li>
+                    ))}
+                </ul>
+            </div>
 
-                    <div className="d-grid-2-1fr gap-10">
-                        <div className="d-flex-column gap-10">
-                            <p className="title font-bold">
-                                COLCHÓN {formatearModelo(modeloColchon)}
-                            </p>
+            <div
+                className={`description-tag d-flex-column border-r-4 border-1-component ${
+                    seccionesAbiertas.descripcion ? '' : 'active'
+                }`}
+            >
+                <div
+                    className="description-title d-flex-center-between gap-20"
+                    onClick={() => toggleSeccion('descripcion')}
+                    role="button"
+                    aria-expanded={seccionesAbiertas.descripcion}
+                    style={{ cursor: 'pointer' }}
+                >
+                    <p className="title upperase font-bold uppercase">Descripción</p>
 
-                            <ul className="chr-list">
-                                {Object.entries(detalles).map(([clave, valor]) => (
-                                    <li key={clave} className="d-flex w-100">
-                                        <div className="d-flex-center-left gap-5">
-                                            <b className="color-black font-weight first-uppercase">
-                                                {formatearEtiqueta(clave)}:
-                                            </b>
-                                            <p className="text first-uppercase margin-right">
-                                                {valor}
-                                            </p>
-                                        </div>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-
-                        <div className="d-flex-column gap-10">
-                            <p className="title font-bold">
-                                MEDIDAS {tamanoDetectado ? tamanoDetectado.toUpperCase() : ''}
-                            </p>
-
-                            <ul className="chr-list">
-                                {listaMedidas.length > 0 ? (
-                                    listaMedidas.map((grupo, idx) =>
-                                        Object.entries(grupo).map(([clave, valor]) => (
-                                            <li
-                                                key={`${idx}-${clave}`}
-                                                className="d-flex w-100"
-                                            >
-                                                <div className="d-flex-center-left gap-5">
-                                                    <b className="color-black font-weight first-uppercase">
-                                                        {formatearEtiqueta(clave)}:
-                                                    </b>
-                                                    <p className="text first-uppercase margin-right">
-                                                        {valor}
-                                                    </p>
-                                                </div>
-                                            </li>
-                                        ))
-                                    )
-                                ) : (
-                                    <li>
-                                        <p className="text">
-                                            Medidas no disponibles para este tamaño.
-                                        </p>
-                                    </li>
-                                )}
-                            </ul>
-                        </div>
-                    </div>
+                    <span className='material-symbols-outlined'>keyboard_arrow_down</span>
                 </div>
-            </section>
+
+                <ul className="chr-list">
+                    {Object.entries(detalles).map(([clave, valor]) => (
+                        <li key={clave}>
+                            <div>
+                                <b className="color-black font-weight first-uppercase">
+                                    {formatearEtiqueta(clave)}
+                                </b>
+                            </div>
+
+                            <div>
+                                <p className="text first-uppercase margin-right">{valor}</p>
+                            </div>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+
+            <div
+                className={`description-tag d-flex-column border-r-4 border-1-component ${
+                    seccionesAbiertas.medidas ? 'active' : ''
+                }`}
+            >
+                <div
+                    className="description-title d-flex-center-between gap-20"
+                    onClick={() => toggleSeccion('medidas')}
+                    role="button"
+                    aria-expanded={seccionesAbiertas.medidas}
+                    style={{ cursor: 'pointer' }}
+                >
+                    <p className="title font-bold">MEDIDAS {tamanoDetectado ? tamanoDetectado.toUpperCase() : ''}</p>
+
+                    <span className='material-symbols-outlined'>keyboard_arrow_down</span>
+                </div>
+
+                <ul className="chr-list">
+                    {listaMedidas.length > 0 ? (
+                        listaMedidas.map((grupo, idx) =>
+                            Object.entries(grupo).map(([clave, valor]) => (
+                                <li key={`${idx}-${clave}`} className="d-flex w-100">
+                                    <div>
+                                        <b className="color-black font-weight first-uppercase">
+                                            {formatearEtiqueta(clave)}:
+                                        </b>
+                                    </div>
+                                    <div>
+                                        <p className="text first-uppercase margin-right">{valor}</p>
+                                    </div>
+                                </li>
+                            ))
+                        )
+                    ) : (
+                        <li>
+                            <p className="text">Medidas no disponibles para este tamaño.</p>
+                        </li>
+                    )}
+                </ul>
+            </div>
         </div>
     );
 }

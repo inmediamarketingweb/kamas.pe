@@ -1,0 +1,57 @@
+.nvl-frm-container{
+    display: flex;
+
+    gap: 2px;
+}
+
+.nvl-frm-container li{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    gap: 10px;
+}
+
+.nvl-frm-container li:nth-child(1)::before{
+    border-radius: 5px 0 0 5px;
+}
+
+.nvl-frm-container li:nth-child(5)::before{
+    border-radius: 0 5px 5px 0;
+}
+
+.nvl-frm-container li.active::before{
+    background: var(--color-1);
+}
+
+.nvl-frm-container li::before{
+    content: '';
+    width: 100%;
+    height: 10px;
+    background: rgba(0 0 0 / 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nvl-frm-container li p{
+    font-size: 13px;
+
+    position: relative;
+}
+
+.nvl-frm-container li.active p::before{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 5px);
+    translate: -50% 0;
+    display: flex;
+    clip-path: polygon(0 0, 49% 100%, 100% 0);
+
+    width: 20px;
+    height: 5px;
+    background: var(--color-1);
+}

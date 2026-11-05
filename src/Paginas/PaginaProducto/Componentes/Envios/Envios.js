@@ -169,7 +169,7 @@ function Envios({ producto, onConfirm }){
     };
 
     return(
-        <>
+        <div className='border-1-component padding-20 border-r-4'>
             <div className="d-flex-column gap-10">
                 <div className="d-flex-center-left gap-5">
                     {/* <span className="material-symbols-outlined color-color-1">local_shipping</span> */}
@@ -250,7 +250,7 @@ function Envios({ producto, onConfirm }){
                     <div className="envios-layer active" onClick={() => setIsModalOpen(false)}></div>
                 </>
             )}
-        </>
+        </div>
     );
 }
 

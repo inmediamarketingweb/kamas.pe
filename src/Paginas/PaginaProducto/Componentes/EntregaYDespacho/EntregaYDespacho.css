@@ -1,0 +1,70 @@
+.en-y-ds-container-dp-pr-ds > div{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    /* background: red; */
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid var(--component-border);
+
+    cursor: pointer;
+}
+
+.en-y-ds-container-dp-pr-ds > div span.dot{
+    font-size: 18px;
+    color: var(--color-1);
+}
+
+.en-y-ds-container-dp-pr-ds > div span.arrow{
+    font-size: 18px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: blue; */
+}
+
+.en-y-ds-container-dp-pr-ds > div > div span{
+    font-size: 12px;
+    color: #777;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.envios-tag{
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    align-items: center;
+
+    border: 1px solid var(--component-border);
+    padding: 10px;
+    border-radius: 4px;
+    gap: 5px;
+}
+
+.envios-tag > span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: auto;
+    border-radius: 8px;
+    aspect-ratio: 1/1;
+    background: rgba(0 0 0 / 0.075);
+}
+
+.envios-tag .text-r{
+    font-size: 13px;
+}
+
+.envios-tag-pryce{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.envios-tag-pryce.gratis{
+    color: var(--gratis);
+    border: 0;
+    background: none;
+}

@@ -1,0 +1,202 @@
+{
+    "productos":[
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/1/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - IKER PLOMO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/2/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - BEIGE",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/3/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - ARENA OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/4/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - TEJIDO CENIZO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/5/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "dormitorios",
+            "tamaño": "4 plazas",
+            "modelo-de-colchón": "sarki",
+            "línea": "europeos",
+            "nombre": "DORMITORIO 4 PLAZAS EUROPEO + COLCHÓN KAMAS SARKI + CABECERA PEDESTAL BLOQUES - TEJIDO BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/dormitorios/4-plazas/sarki/europeos/cab-bloques-pedestales/6/", 
+            "precioRegular": 5199,
+            "precioNormal": 3999,
+            "precioVenta": 2999,
+            "stock": 13,
+            "sku": "K32543990NX15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "dormitorios",
+                    "tamaño": "4 plazas",
+                    "modelo-de-colchón": "sarki",
+                    "línea": "europeos",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "piecera": "no",
+                    "veladores": "no",
+                    "baúl": "No",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Sin brazos",
+                    "modelo-de-cabecera": "otros modelos"
+                }
+            ]
+        }
+    ]
+}

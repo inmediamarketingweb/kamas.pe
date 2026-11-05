@@ -5,7 +5,6 @@
             "tamaño": "1 plaza y media",
             "línea": "americanos",
             "modelo": "sarki",
-            "ruta": "/productos/dormitorios/1-plaza-y-media/americanos/sarki/1/",
             "nombre": "DORMITORIO AMERICANO 1 PLAZA Y MEDIA + COLCHÓN KAMAS SARKI + CABECERA AÉREA CAPITONEADO + 1 VELADOR SHELTER - ARENA",
             "fotos": "/assets/imagenes/productos/dormitorios/americanos/2-plazas/sarki/aereas-con-patas/americanas/sin-brazos/capitoneado/1/",
             "precioRegular": 2009,
@@ -22,8 +21,8 @@
                     "cajones": "No",
                     "base-encajonada": "No",
                     "modelo-de-colchón": "Sarki",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Americana",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Capitoneada"
                 }

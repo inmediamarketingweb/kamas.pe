@@ -33,7 +33,20 @@ const KEYWORDS_SUBLINEA = [
 ];
 
 function Camas({ producto }) {
+    const [medidasData, setMedidasData] = useState([]);
     const [descripcionesData, setDescripcionesData] = useState({});
+
+    const [seccionesAbiertas, setSeccionesAbiertas] = useState({
+        descripcion: true,
+        medidas: false,
+    });
+
+    const toggleSeccion = (seccion) => {
+        setSeccionesAbiertas((prev) => ({
+            ...prev,
+            [seccion]: !prev[seccion],
+        }));
+    };
 
     const nombre = producto?.nombre || '';
     const detalles =
@@ -136,74 +149,41 @@ function Camas({ producto }) {
     })();
 
     return (
-        <div className="pd-pg-description">
-            <section className="block-content">
-                <div className="pd-pg-description-content">
-                    <div className="pd-pg-dsp-texts d-flex-column gap-10">
-                        {/* AQUÍ SE RENDERIZA EL NUEVO TÍTULO */}
-                        <p className="title font-bold">{tituloLineaMadera}</p>
+        <div className="pd-pg-description d-flex-column gap-10">
+            <div className="d-flex-column gap-10 border-r-4 border-1-component padding-20">
+                <p className="title font-bold">{tituloLineaMadera}</p>
 
-                        {/* <ul className="d-flex-column gap-5">
-                            {mensajes.map((msg, i) => (
-                                <li key={i}>
-                                    <p className="text">{msg}</p>
-                                </li>
-                            ))}
-                        </ul> */}
-
-                        {mensajeDescripcion && (
-                            <div className="pd-pg-dsp-mensaje">
-                                <p className="text">{mensajeDescripcion}</p>
-                            </div>
-                        )}
+                {mensajeDescripcion && (
+                    <div className="pd-pg-dsp-mensaje">
+                        <p className="text">{mensajeDescripcion}</p>
                     </div>
+                )}
+            </div>
 
-                    <div className="d-grid-2-1fr gap-20">
-                        <div className="d-flex-column gap-10">
-                            <p className="title font-bold">DESCRIPCIÓN DEL PRODUCTO</p>
+            <div className={`description-tag d-flex-column border-r-4 border-1-component ${ seccionesAbiertas.descripcion ? '' : 'active' }`}>
+                <div className="description-title d-flex-center-between gap-20"
+                    onClick={() => toggleSeccion('descripcion')}
+                    role="button"
+                    aria-expanded={seccionesAbiertas.descripcion}
+                >
+                    <p className="title upperase font-bold uppercase">Descripción</p>
 
-                            <ul className="chr-list">
-                                {Object.entries(detalles).map(([clave, valor]) => (
-                                    <li key={clave}>
-                                        <div className="d-flex gap-5">
-                                            <b className="color-black font-weight first-uppercase">
-                                                {formatearEtiqueta(clave)}:
-                                            </b>
-                                            <p className="text first-uppercase">{valor}</p>
-                                        </div>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-
-                        <div className="d-flex-column gap-20">
-                            <div className="pd-pg-des-tag pd-pg-des-tag-1">
-                                <button>
-                                    <p className="title font-bold uppercase">medidas</p>
-                                </button>
-                                <ul>
-                                    <li>
-                                        <p>lista</p>
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <div className="pd-pg-des-tag pd-pg-des-tag-2">
-                                <button>
-                                    <p className="title font-bold uppercase">
-                                        descripción cabecera king
-                                    </p>
-                                </button>
-                                <ul>
-                                    <li>
-                                        <p>lista</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                    <span className='material-symbols-outlined'>keyboard_arrow_down</span>
                 </div>
-            </section>
+
+                <ul className="chr-list">
+                    {Object.entries(detalles).map(([clave, valor]) => (
+                        <li key={clave}>
+                            <div className="d-flex gap-5">
+                                <b className="color-black font-weight first-uppercase">
+                                    {formatearEtiqueta(clave)}:
+                                </b>
+                                <p className="text first-uppercase">{valor}</p>
+                            </div>
+                        </li>
+                    ))}
+                </ul>
+            </div>
         </div>
     );
 }

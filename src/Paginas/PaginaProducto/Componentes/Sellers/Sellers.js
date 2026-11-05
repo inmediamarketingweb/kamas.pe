@@ -27,10 +27,7 @@ function Sellers({ producto }) {
 
     return (
         <div className="d-flex-column gap-10 border-r-4 padding-20 border-1-component">
-            <div className="d-flex-column">
-                <h2 className="text font-bold">Disponible en:</h2>
-                <p className="text">Encuentralo también en nuestras tiendas autorizadas</p>
-            </div>
+            <p className="text font-13 uppercase font-bold">Disponible en</p>
 
             <ul className="product-page-sellers">
                 {sellersActivos.map((seller, i) => (
