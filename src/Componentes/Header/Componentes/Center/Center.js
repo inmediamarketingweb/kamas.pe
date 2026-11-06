@@ -208,14 +208,14 @@ function Center(){
                             );
                         })}
 
-                        <li className='menu-li menu-li-ofert'>
+                        {/* <li className='menu-li menu-li-ofert'>
                             <div className='menu-li-div'>
                                 <a className='menu-link-ofert' href='/ofertas/' title='Ofertas | Kamas'>
                                     <span className="material-symbols-outlined">sell</span>
                                     <h2 className='first-uppercase'>Ofertas</h2>
                                 </a>
                             </div>
-                        </li>
+                        </li> */}
                     </ul>
                 </nav>
 

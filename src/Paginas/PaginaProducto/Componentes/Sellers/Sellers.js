@@ -1,8 +1,57 @@
+// import "./Sellers.css";
+
+// const SELLERS_IMGS = {
+//     falabella: "/assets/imagenes/sellers/falabella.jpg",
+//     ripley: "/assets/imagenes/sellers/ripley.jpg",
+// };
+
+// function Sellers({ producto }) {
+//     const sellers = producto?.sellers;
+
+//     if (!Array.isArray(sellers) || sellers.length === 0) return null;
+
+//     const sellersActivos = sellers
+//         .map((s) => {
+//             const nombre = s?.nombre?.trim();
+//             if (!nombre) return null;
+//             const key = nombre.toLowerCase();
+//             return {
+//                 nombre,
+//                 ruta: s.ruta || "/",
+//                 img: SELLERS_IMGS[key] || "/assets/imagenes/sellers/default.jpg",
+//             };
+//         })
+//         .filter(Boolean);
+
+//     if (sellersActivos.length === 0) return null;
+
+//     return (
+//         <div className="d-flex-column gap-10 border-r-4 padding-20 border-1-component">
+//             <p className="text font-13 uppercase font-bold">Disponible en</p>
+
+//             <ul className="product-page-sellers">
+//                 {sellersActivos.map((seller, i) => (
+//                     <li key={`${seller.nombre}-${i}`} className="d-flex-center-center">
+//                         <a href={seller.ruta} title={seller.nombre} className="d-flex-center-center" target="_blank" rel="noopener noreferrer" >
+//                             <img src={seller.img} alt={seller.nombre} />
+//                             {/* <p className="text">{seller.nombre}</p> */}
+//                         </a>
+//                     </li>
+//                 ))}
+//             </ul>
+//         </div>
+//     );
+// }
+
+// export default Sellers;
+
 import "./Sellers.css";
 
 const SELLERS_IMGS = {
     falabella: "/assets/imagenes/sellers/falabella.jpg",
     ripley: "/assets/imagenes/sellers/ripley.jpg",
+    "mercado-libre": "/assets/imagenes/sellers/mercado-libre.jpg",
+    juntoz: "/assets/imagenes/sellers/juntoz.jpg",
 };
 
 function Sellers({ producto }) {
@@ -14,7 +63,10 @@ function Sellers({ producto }) {
         .map((s) => {
             const nombre = s?.nombre?.trim();
             if (!nombre) return null;
-            const key = nombre.toLowerCase();
+            
+            // Normalizamos: minúsculas y espacios a guiones
+            const key = nombre.toLowerCase().replace(/\s+/g, '-');
+            
             return {
                 nombre,
                 ruta: s.ruta || "/",
@@ -32,9 +84,9 @@ function Sellers({ producto }) {
             <ul className="product-page-sellers">
                 {sellersActivos.map((seller, i) => (
                     <li key={`${seller.nombre}-${i}`} className="d-flex-center-center">
-                        <a href={seller.ruta} title={seller.nombre} className="d-flex-center-center" target="_blank" rel="noopener noreferrer" >
+                        <a href={seller.ruta} title={`${seller.nombre} | Kamas`} className="d-flex-center-center" target="_blank" rel="noopener noreferrer" >
                             <img src={seller.img} alt={seller.nombre} />
-                            {/* <p className="text">{seller.nombre}</p> */}
+                            <p className="text">{seller.nombre}</p>
                         </a>
                     </li>
                 ))}

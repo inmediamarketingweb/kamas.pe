@@ -174,11 +174,13 @@ function Camas({ producto }) {
                 <ul className="chr-list">
                     {Object.entries(detalles).map(([clave, valor]) => (
                         <li key={clave}>
-                            <div className="d-flex gap-5">
+                            <div>
                                 <b className="color-black font-weight first-uppercase">
                                     {formatearEtiqueta(clave)}:
                                 </b>
-                                <p className="text first-uppercase">{valor}</p>
+                            </div>
+                            <div>
+                                <p className="text first-uppercase margin-right">{valor}</p>
                             </div>
                         </li>
                     ))}
