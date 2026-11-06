@@ -3,6 +3,7 @@ import './EntregaYDespacho.css';
 function EntregaYDespacho(){
     return(
         <div className='en-y-ds-container border-1-component border-r-4 padding-20 d-flex-column gap-10'>
+        {/* <div className='en-y-ds-container d-flex-column gap-10'> */}
             <p className='text uppercase font-bold font-13'>Entrega y envío</p>
 
             <div className='d-flex-column gap-5'>
@@ -42,7 +43,7 @@ function EntregaYDespacho(){
 
                     <span class="material-symbols-outlined">delivery_truck_speed</span>
 
-                    <div className='w-100 d-flex-center-between'>
+                    <div className='w-100 d-flex-center-between gap-20'>
                         <div className='d-flex-column-center-left'>
                             <p className='text font-bold'>Entrega a domicilio</p>
                             <p className='text text-r'>Consultar disponibilidad de entrega inmediata</p>
@@ -57,7 +58,7 @@ function EntregaYDespacho(){
 
                     <span class="material-symbols-outlined">storefront</span>
 
-                    <div className='w-100 d-flex-center-between'>
+                    <div className='w-100 d-flex-center-between gap-20'>
                         <div className='d-flex-column-center-left'>
                             <p className='text font-bold'>Retiro en tienda</p>
                             <p className='text text-r'>De Lun - Sab de 10am a 3pm</p>

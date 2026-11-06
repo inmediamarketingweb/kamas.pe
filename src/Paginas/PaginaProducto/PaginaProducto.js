@@ -4,31 +4,23 @@
 
 // import "./PaginaProducto.css";
 
-// import SpinnerLoading from "../../Componentes/SpinnerLoading/SpinnerLoading";
 // import Separar from "./Componentes/Separar/Separar";
 // import Jerarquia from "./Componentes/Jerarquia/Jerarquia";
-// import Sku from "./Componentes/Sku/Sku";
 // import Imagenes from "./Componentes/Imagenes/Imagenes";
 // import Regalos from "./Componentes/Regalos/Regalos";
 // import Video from "./Componentes/Video/Video";
 // import Medidas from "./Componentes/Medidas/Medidas";
-// import NivelDeFirmeza from "./Componentes/NivelDeFirmeza/NivelDeFirmeza";
 // import Sellers from "./Componentes/Sellers/Sellers";
-// import Formatos from "./Componentes/Formatos/Formatos";
-// import Envios from "./Componentes/Envios/Envios";
-// import TiposDeEnvio from "./Componentes/TiposDeEnvio/TiposDeEnvio";
 // import WhatsApp from "./Componentes/WhatsApp/WhatsApp";
 // import Descripcion from "./Componentes/Descripcion/Descripcion";
 // import ConteoRegresivo from "../../Componentes/ConteoRegresivo/ConteoRegresivo";
 // import MasProductos from "./Componentes/MasProductos/MasProductos";
-// import Garantia from "./Componentes/Garantia/Garantia";
 // import Precios from "./Componentes/Precios/Precios";
 // import Complementarios from "./Componentes/Complementarios/Complementarios";
 // import EntregaYDespacho from "./Componentes/EntregaYDespacho/EntregaYDespacho";
 
 // function PaginaProducto() {
 //     const [shippingInfo, setShippingInfo] = useState(null);
-//     const [shippingOptions, setShippingOptions] = useState([]);
 //     const [selectedShipping, setSelectedShipping] = useState({ tipo: null, precio: null });
 //     const location = useLocation();
 
@@ -40,12 +32,22 @@
 //     const [skusOfertas, setSkusOfertas] = useState([]);
 //     const [cargandoOfertas, setCargandoOfertas] = useState(true);
 //     const [ofertaActiva, setOfertaActiva] = useState(true);
-//     const [userName, setUserName] = useState(
-//         typeof window !== "undefined" ? localStorage.getItem("nombre") || "" : ""
+
+//     // Toggle de complementarios + detección de mobile (< 600px)
+//     const [mostrarComplementarios, setMostrarComplementarios] = useState(false);
+//     const [esMobile, setEsMobile] = useState(
+//         typeof window !== "undefined" ? window.innerWidth < 600 : false
 //     );
 
 //     const normalizePath = (path = "") => path.replace(/\/$/, "").toLowerCase();
-//     const [mostrarComplementarios, setMostrarComplementarios] = useState(false);
+
+//     useEffect(() => {
+//         const mq = window.matchMedia("(max-width: 599px)");
+//         const handler = (e) => setEsMobile(e.matches);
+//         handler(mq);
+//         mq.addEventListener("change", handler);
+//         return () => mq.removeEventListener("change", handler);
+//     }, []);
 
 //     useEffect(() => {
 //         const cargarOfertas = async () => {
@@ -71,7 +73,6 @@
 //             try {
 //                 const partes = location.pathname.split("/").filter(Boolean);
 
-//                 // ✅ CAMBIO: antes era "partes.length < 5", ahora < 4
 //                 if (partes.length < 4 || partes[0] !== "productos") {
 //                     console.error("❌ URL no válida:", location.pathname);
 //                     if (!cancelado) setError(true);
@@ -79,10 +80,7 @@
 //                 }
 
 //                 const categoria = partes[1];
-//                 const catNorm = categoria.toLowerCase();
-//                 const esColchon = catNorm.includes("colchon");
-//                 const esDormitorio = catNorm.includes("dormitorio");
-//                 const esCama = catNorm.includes("cama") && !esColchon;
+//                 const esColchon = categoria.toLowerCase().includes("colchon");
 
 //                 const skuFinal = partes[partes.length - 1];
 //                 const paramsFiltro = partes.slice(2, partes.length - 1);
@@ -96,9 +94,6 @@
 //                 const manifestData = await manifestRes.json();
 //                 const rutasJson = manifestData.files || [];
 
-//                 // ✅ FIX: filtro más tolerante.
-//                 // Antes: rNorm.includes(`/${p}/`) → fallaba si el segmento iba antes de ".json"
-//                 // Ahora: también acepta que el segmento esté al final de la ruta del JSON.
 //                 const rutasCandidatas = rutasJson.filter((r) => {
 //                     const rNorm = r.toLowerCase();
 //                     return paramsFiltro.every((p) => {
@@ -131,7 +126,6 @@
 //                             : [];
 
 //                         if (esColchon) {
-//                             // 🔒 Lógica de colchones: INTACTA
 //                             productoEncontrado = lista.find((p) => {
 //                                 const modelo = (
 //                                     p["modelo-de-colchón"] ||
@@ -155,16 +149,12 @@
 //                                 return false;
 //                             });
 //                         } else {
-//                             // ✅ Búsqueda por SKU: aplica a camas, dormitorios, cabeceras y complementos
 //                             productoEncontrado = lista.find(
 //                                 (p) => (p.sku || "").toLowerCase() === skuFinalLower
 //                             );
 //                         }
 
-//                         if (productoEncontrado) {
-//                             // console.log("✅ Encontrado en:", ruta);
-//                             break;
-//                         }
+//                         if (productoEncontrado) break;
 //                     } catch {
 //                         continue;
 //                     }
@@ -207,32 +197,12 @@
 //                 for (const ext of EXTENSIONES) {
 //                     const path = `${baseSinExt}.${ext}`;
 //                     const ok = await cargarImg(path);
-//                     if (ok) {
-//                         if (process.env.NODE_ENV === "development") {
-//                             // console.log(`✅ [Imagen cargada] ${path}`);
-//                         }
-//                         return path;
-//                     }
-//                 }
-//                 if (process.env.NODE_ENV === "development") {
-//                     console.warn(
-//                         `❌ [Imagen no encontrada] base="${baseSinExt}" probadas:`,
-//                         EXTENSIONES
-//                     );
+//                     if (ok) return path;
 //                 }
 //                 return null;
 //             };
 
-//             if (process.env.NODE_ENV === "development") {
-//                 // console.log("🔎 [cargarImagenes] carpetaFotos:", carpetaFotos);
-//                 // console.log("🔎 [cargarImagenes] prod.fotos original:", prod.fotos);
-//             }
-
-//             const categoriaProd = (
-//                 prod.categoría ||
-//                 prod.categoria ||
-//                 ""
-//             ).toLowerCase();
+//             const categoriaProd = (prod.categoría || prod.categoria || "").toLowerCase();
 //             const esColchon = categoriaProd.includes("colchon");
 
 //             const promesas = [];
@@ -242,7 +212,6 @@
 //             const resultados = (await Promise.all(promesas)).filter(Boolean);
 
 //             if (esColchon) {
-//                 // 🔒 Lógica de imágenes extra para colchones: INTACTA
 //                 const normalizar = (str) => {
 //                     if (!str) return "";
 //                     return String(str)
@@ -273,17 +242,11 @@
 
 //                 if (typeof prod.nombre === "string") {
 //                     const n = normalizar(prod.nombre);
-//                     const m1 = n.match(
-//                         /colchon\s+kamas\s+(.+?)(?:\s+\d|\s*\+|\s*$)/
-//                     );
+//                     const m1 = n.match(/colchon\s+kamas\s+(.+?)(?:\s+\d|\s*\+|\s*$)/);
 //                     if (m1?.[1]) candidatos.push(m1[1].trim());
-//                     const m2 = n.match(
-//                         /kamas\s+([a-z][a-z\s]*?)(?:\s+\d|\s*\+|\s*$)/
-//                     );
+//                     const m2 = n.match(/kamas\s+([a-z][a-z\s]*?)(?:\s+\d|\s*\+|\s*$)/);
 //                     if (m2?.[1]) candidatos.push(m2[1].trim());
-//                     const m3 = n.match(
-//                         /colchon\s+([a-z][a-z\s]*?)(?:\s+\d|\s*\+|\s*$)/
-//                     );
+//                     const m3 = n.match(/colchon\s+([a-z][a-z\s]*?)(?:\s+\d|\s*\+|\s*$)/);
 //                     if (m3?.[1]) candidatos.push(m3[1].trim());
 //                 }
 
@@ -374,8 +337,7 @@
 //                             }
 //                         }
 //                     }
-//                     if (!modeloDetectado && modeloSlug)
-//                         modeloDetectado = modeloSlug;
+//                     if (!modeloDetectado && modeloSlug) modeloDetectado = modeloSlug;
 //                     if (modeloDetectado && FIRMEZA_POR_MODELO[modeloDetectado]) {
 //                         nivelFirmeza = FIRMEZA_POR_MODELO[modeloDetectado];
 //                     }
@@ -387,10 +349,6 @@
 //                     if (fp) resultados.push(fp);
 //                 }
 //                 if (modeloPath) resultados.push(modeloPath);
-//             }
-
-//             if (process.env.NODE_ENV === "development") {
-//                 // console.log("🖼️ [cargarImagenes] resultado final:", resultados);
 //             }
 
 //             if (!cancelado) setImagenes(resultados);
@@ -405,12 +363,6 @@
 //     useEffect(() => {
 //         if (producto) document.title = producto.nombre;
 //     }, [producto]);
-
-//     useEffect(() => {
-//         const handler = () => setUserName(localStorage.getItem("nombre") || "");
-//         window.addEventListener("storage", handler);
-//         return () => window.removeEventListener("storage", handler);
-//     }, []);
 
 //     const calcularPrecioAjustado = (precioOriginal) => {
 //         const c = precioOriginal * 0.95;
@@ -434,8 +386,7 @@
 //         );
 //     }
 
-//     // if (!producto || cargandoOfertas) return <SpinnerLoading />;
-//     if (!producto || cargandoOfertas) return;
+//     if (!producto || cargandoOfertas) return null;
 
 //     const estaEnOfertas = skusOfertas.includes(producto.sku);
 //     const precioFinal =
@@ -444,7 +395,6 @@
 //             : producto.precioVenta;
 //     const mostrarConteo = estaEnOfertas && ofertaActiva;
 
-//     // ===== Cálculo dinámico de ahorro y porcentaje de descuento =====
 //     const precioRegular = Number(producto.precioRegular) || 0;
 //     const ahorro = precioRegular > 0 ? precioRegular - precioFinal : 0;
 //     const porcentajeDescuento =
@@ -452,7 +402,7 @@
 //             ? Math.round(((precioRegular - precioFinal) / precioRegular) * 100)
 //             : 0;
 
-//     const handleRemove = () => quantity > 0 && setQuantity(quantity - 1);
+//     const handleRemove = () => quantity > 1 && setQuantity(quantity - 1);
 //     const handleAdd = () => quantity < 10 && setQuantity(quantity + 1);
 
 //     const cleanPrice = (price) => {
@@ -519,10 +469,7 @@
 //                     as="image"
 //                     href={`https://kamas.pe${producto.fotos}1.jpg`}
 //                 />
-//                 <meta
-//                     property="og:image"
-//                     content={`https://kamas.pe${producto.fotos}1.jpg`}
-//                 />
+//                 <meta property="og:image" content={`https://kamas.pe${producto.fotos}1.jpg`} />
 //                 <meta property="og:title" content={producto.nombre} />
 //                 <meta property="og:site_name" content={producto.nombre} />
 //                 <meta property="og:description" content={producto.nombre} />
@@ -547,7 +494,6 @@
 //                         </div>
 //                         <div className="d-flex-column gap-10">
 //                             <ConteoRegresivo onTerminar={() => setOfertaActiva(false)} />
-
 //                             <Separar
 //                                 producto={producto}
 //                                 selectedShipping={selectedShipping}
@@ -567,21 +513,27 @@
 //                         <div className="product-page-container">
 //                             <div className="product-page-target product-page-target-1">
 //                                 <div className="d-flex-column gap-20">
-//                                     <Imagenes imagenes={imagenes} producto={producto} onSelectColor={setSelectedColor}
-//                                         skusOfertas={skusOfertas} selectedShipping={selectedShipping}
-//                                         shippingInfo={shippingInfo} quantity={quantity}
+//                                     <Imagenes
+//                                         imagenes={imagenes}
+//                                         producto={producto}
+//                                         onSelectColor={setSelectedColor}
+//                                         skusOfertas={skusOfertas}
+//                                         selectedShipping={selectedShipping}
+//                                         shippingInfo={shippingInfo}
+//                                         quantity={quantity}
 //                                         precioFinal={precioFinal}
 //                                     />
-
-//                                     <Descripcion producto={producto}/>
+//                                     <Descripcion producto={producto} />
 //                                 </div>
 //                             </div>
 
 //                             <div className="product-page-target product-page-target-2">
-//                                 <div className="product-page-sub-target product-page-sub-target-1 d-flex-column gap-20">
+//                                 <div className="product-page-sub-target product-page-sub-target-1 d-flex-column gap-10">
 //                                     <div className="d-flex-column gap-20 border-1-component padding-20 border-r-4">
 //                                         <div className="product-page-top-info">
-//                                             <p className="product-page-category color-color-1">{producto.categoría}</p>
+//                                             <p className="product-page-category color-color-1">
+//                                                 {producto.categoría}
+//                                             </p>
 //                                             <h1 className="product-page-name">{producto.nombre}</h1>
 
 //                                             <div className="stars">
@@ -596,29 +548,41 @@
 //                                             </div>
 //                                         </div>
 
-//                                         <Precios producto={producto} precioFinal={precioFinal} porcentajeDescuento={porcentajeDescuento} ahorro={ahorro} />
+//                                         <Precios
+//                                             producto={producto}
+//                                             precioFinal={precioFinal}
+//                                             porcentajeDescuento={porcentajeDescuento}
+//                                             ahorro={ahorro}
+//                                         />
 //                                         <Regalos producto={producto} />
-
 //                                         <Video producto={producto} />
 //                                     </div>
 
 //                                     <Medidas producto={producto} />
-
 //                                     <Sellers producto={producto} />
-
-//                                     <EntregaYDespacho/>
+//                                     <EntregaYDespacho />
 //                                 </div>
 
-//                                 <div className="product-page-sub-target product-page-sub-target-2 d-flex-column gap-20">
-//                                     <button type="button" className={`prd-pg-tg-2-visible ${mostrarComplementarios ? "active" : ""}`}
-//                                         onClick={() => setMostrarComplementarios((prev) => !prev)}
-//                                         aria-expanded={mostrarComplementarios}
-//                                         aria-controls="complementarios-panel"
-//                                     >
-//                                         <span className="material-symbols-outlined">keyboard_arrow_up</span>
-//                                     </button>
+//                                 <div className="product-page-sub-target product-page-sub-target-2 d-flex-column gap-10">
+//                                     {esMobile && (
+//                                         <button
+//                                             type="button"
+//                                             className={`prd-pg-tg-2-visible ${
+//                                                 mostrarComplementarios ? "active" : ""
+//                                             }`}
+//                                             onClick={() =>
+//                                                 setMostrarComplementarios((prev) => !prev)
+//                                             }
+//                                             aria-expanded={mostrarComplementarios}
+//                                             aria-controls="complementarios-panel"
+//                                         >
+//                                             <span className="material-symbols-outlined">
+//                                                 keyboard_arrow_up
+//                                             </span>
+//                                         </button>
+//                                     )}
 
-//                                     {mostrarComplementarios && (
+//                                     {(!esMobile || mostrarComplementarios) && (
 //                                         <div id="complementarios-panel">
 //                                             <Complementarios producto={producto} />
 //                                         </div>
@@ -628,36 +592,35 @@
 //                                         <p className="text font-bold font-13 uppercase">Cantidad</p>
 
 //                                         <div className="quantity bg-white">
-//                                             <button type="button" onClick={handleRemove} disabled={quantity <= 1}>
+//                                             <button
+//                                                 type="button"
+//                                                 onClick={handleRemove}
+//                                                 disabled={quantity <= 1}
+//                                             >
 //                                                 <span className="material-symbols-outlined">remove</span>
 //                                             </button>
 //                                             <div className="quantity-input">{quantity}</div>
-//                                             <button type="button" onClick={handleAdd} disabled={quantity >= 10}>
+//                                             <button
+//                                                 type="button"
+//                                                 onClick={handleAdd}
+//                                                 disabled={quantity >= 10}
+//                                             >
 //                                                 <span className="material-symbols-outlined">add</span>
 //                                             </button>
 //                                         </div>
-                                        
-//                                         <WhatsApp producto={producto} selectedShipping={selectedShipping} shippingInfo={shippingInfo} selectedColor={selectedColor} quantity={quantity} precioFinal={precioFinal} />
+
+//                                         <WhatsApp
+//                                             producto={producto}
+//                                             selectedShipping={selectedShipping}
+//                                             shippingInfo={shippingInfo}
+//                                             selectedColor={selectedColor}
+//                                             quantity={quantity}
+//                                             precioFinal={precioFinal}
+//                                         />
 //                                     </div>
-
-//                                     {/* <EntregaYDespacho/> */}
-
-//                                     {/* <Envios producto={producto}
-//                                         onConfirm={(data) => {
-//                                             setShippingInfo(data);
-//                                             setShippingOptions(data.shippingOptions);
-//                                             if (data.shippingOptions.length === 1) {
-//                                                 setSelectedShipping({
-//                                                     tipo: data.shippingOptions[0].tipo,
-//                                                     precio: data.shippingOptions[0].precio,
-//                                                 });
-//                                             }
-//                                         }}
-//                                     /> */}
 //                                 </div>
 //                             </div>
 //                         </div>
-
 //                     </section>
 //                 </div>
 
@@ -675,7 +638,6 @@ import { useLocation } from "react-router-dom";
 
 import "./PaginaProducto.css";
 
-import Separar from "./Componentes/Separar/Separar";
 import Jerarquia from "./Componentes/Jerarquia/Jerarquia";
 import Imagenes from "./Componentes/Imagenes/Imagenes";
 import Regalos from "./Componentes/Regalos/Regalos";
@@ -684,7 +646,6 @@ import Medidas from "./Componentes/Medidas/Medidas";
 import Sellers from "./Componentes/Sellers/Sellers";
 import WhatsApp from "./Componentes/WhatsApp/WhatsApp";
 import Descripcion from "./Componentes/Descripcion/Descripcion";
-import ConteoRegresivo from "../../Componentes/ConteoRegresivo/ConteoRegresivo";
 import MasProductos from "./Componentes/MasProductos/MasProductos";
 import Precios from "./Componentes/Precios/Precios";
 import Complementarios from "./Componentes/Complementarios/Complementarios";
@@ -700,9 +661,6 @@ function PaginaProducto() {
     const [imagenes, setImagenes] = useState([]);
     const [selectedColor, setSelectedColor] = useState(null);
     const [quantity, setQuantity] = useState(1);
-    const [skusOfertas, setSkusOfertas] = useState([]);
-    const [cargandoOfertas, setCargandoOfertas] = useState(true);
-    const [ofertaActiva, setOfertaActiva] = useState(true);
 
     // Toggle de complementarios + detección de mobile (< 600px)
     const [mostrarComplementarios, setMostrarComplementarios] = useState(false);
@@ -718,22 +676,6 @@ function PaginaProducto() {
         handler(mq);
         mq.addEventListener("change", handler);
         return () => mq.removeEventListener("change", handler);
-    }, []);
-
-    useEffect(() => {
-        const cargarOfertas = async () => {
-            try {
-                const response = await fetch("/assets/json/productos/ofertas.json");
-                const data = await response.json();
-                setSkusOfertas(data);
-            } catch (err) {
-                console.error("Error cargando ofertas:", err);
-                setSkusOfertas([]);
-            } finally {
-                setCargandoOfertas(false);
-            }
-        };
-        cargarOfertas();
     }, []);
 
     // ===== Producto =====
@@ -1035,14 +977,6 @@ function PaginaProducto() {
         if (producto) document.title = producto.nombre;
     }, [producto]);
 
-    const calcularPrecioAjustado = (precioOriginal) => {
-        const c = precioOriginal * 0.95;
-        const r = Math.round(c);
-        const inf = Math.floor(r / 10) * 10 - 1;
-        const sup = Math.ceil(r / 10) * 10 - 1;
-        return Math.abs(r - inf) < Math.abs(sup - r) ? inf : sup;
-    };
-
     if (error) {
         return (
             <>
@@ -1057,14 +991,9 @@ function PaginaProducto() {
         );
     }
 
-    if (!producto || cargandoOfertas) return null;
+    if (!producto) return null;
 
-    const estaEnOfertas = skusOfertas.includes(producto.sku);
-    const precioFinal =
-        estaEnOfertas && ofertaActiva
-            ? calcularPrecioAjustado(producto.precioVenta)
-            : producto.precioVenta;
-    const mostrarConteo = estaEnOfertas && ofertaActiva;
+    const precioFinal = producto.precioVenta;
 
     const precioRegular = Number(producto.precioRegular) || 0;
     const ahorro = precioRegular > 0 ? precioRegular - precioFinal : 0;
@@ -1155,28 +1084,6 @@ function PaginaProducto() {
             </Helmet>
 
             <main className="pagina-producto-main d-flex-column gap-10">
-                {mostrarConteo && (
-                    <div className="conteo-regresivo">
-                        <div className="d-flex-column gap-10">
-                            <p className="title uppercase color-white w-auto text-left">
-                                Producto en oferta 🔥
-                            </p>
-                            <p className="title color-white">{producto.nombre}</p>
-                        </div>
-                        <div className="d-flex-column gap-10">
-                            <ConteoRegresivo onTerminar={() => setOfertaActiva(false)} />
-                            <Separar
-                                producto={producto}
-                                selectedShipping={selectedShipping}
-                                shippingInfo={shippingInfo}
-                                selectedColor={selectedColor}
-                                quantity={quantity}
-                                precioFinal={precioFinal}
-                            />
-                        </div>
-                    </div>
-                )}
-
                 <div className="block-container product-page-block-container">
                     <section className="block-content product-page-block-content">
                         <Jerarquia producto={producto} />
@@ -1188,7 +1095,6 @@ function PaginaProducto() {
                                         imagenes={imagenes}
                                         producto={producto}
                                         onSelectColor={setSelectedColor}
-                                        skusOfertas={skusOfertas}
                                         selectedShipping={selectedShipping}
                                         shippingInfo={shippingInfo}
                                         quantity={quantity}
@@ -1199,7 +1105,7 @@ function PaginaProducto() {
                             </div>
 
                             <div className="product-page-target product-page-target-2">
-                                <div className="product-page-sub-target product-page-sub-target-1 d-flex-column gap-20">
+                                <div className="product-page-sub-target product-page-sub-target-1 d-flex-column gap-10">
                                     <div className="d-flex-column gap-20 border-1-component padding-20 border-r-4">
                                         <div className="product-page-top-info">
                                             <p className="product-page-category color-color-1">
@@ -1231,10 +1137,10 @@ function PaginaProducto() {
 
                                     <Medidas producto={producto} />
                                     <Sellers producto={producto} />
-                                    {/* <EntregaYDespacho /> */}
+                                    <EntregaYDespacho />
                                 </div>
 
-                                <div className="product-page-sub-target product-page-sub-target-2 d-flex-column gap-20">
+                                <div className="product-page-sub-target product-page-sub-target-2 d-flex-column gap-10">
                                     {esMobile && (
                                         <button
                                             type="button"

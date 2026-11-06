@@ -136,8 +136,8 @@ function PaginaPrincipal() {
                 <Suspense fallback={null}>
                     <Categorias />
                     <Slider />
-                    <UltimasNovedades />
-                    <Ofertas />
+                    {/* <UltimasNovedades /> */}
+                    {/* <Ofertas /> */}
                     <Promocion />
                     <SobreNosotros />
                     {/* <Banners/> */}

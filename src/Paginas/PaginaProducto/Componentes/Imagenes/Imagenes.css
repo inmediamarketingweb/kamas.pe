@@ -131,7 +131,9 @@
     align-items: center;
     justify-content: center;
     transition: var(--t-200ms-linear);
-    border: 1px solid var(--component-border);
+    /* background: rgba(0 0 0 / 0.15); */
+    background: var(--color-1);
+    /* border: 1px solid var(--component-border); */
     border-radius: 100%;
 }
 
@@ -148,7 +150,8 @@
 }
 
 .product-page-images-button span{
-    color: var(--color-1);
+    /* color: var(--color-1); */
+    color: var(--white);
     transition: var(--t-200ms-linear);
 }
 

@@ -162,9 +162,10 @@
     gap: 3px !important;
 }
 
-.menu-li:nth-last-child(1):hover .menu-li-div .menu-link{
+/* .menu-li:nth-last-child(1):hover .menu-li-div .menu-link{
     padding: 0 !important;
-}
+    padding-left: 28px;
+} */
 
 .menu-li:nth-last-child(1):hover .menu-li-div .menu-link h2{
     color: none;
