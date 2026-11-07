@@ -4,7 +4,7 @@ import { useLocation, useSearchParams } from 'react-router-dom';
 
 import './Agencias.css';
 
-import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
+// import SpinnerLoading from '../../../Componentes/SpinnerLoading/SpinnerLoading';
 
 const useMobile = () => {
     const [isMobile, setIsMobile] = useState(false);
@@ -267,12 +267,6 @@ function Agencias(){
             document.removeEventListener('mousedown', handleClickOutside);
         };
     }, []);
-
-    if (loading) {
-        return (
-            <SpinnerLoading />
-        );
-    }
 
     if (error) {
         return (

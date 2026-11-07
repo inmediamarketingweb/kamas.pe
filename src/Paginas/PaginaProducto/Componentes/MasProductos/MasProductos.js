@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 import { Producto } from '../../../../Componentes/Plantillas/Producto/Producto';
-import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
+// import SpinnerLoading from '../../../../Componentes/SpinnerLoading/SpinnerLoading';
 
 const BASE_URL = (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.BASE_URL) || '/';
 const BASE = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
@@ -173,15 +173,6 @@ export default function MasProductos({ categoriaActual }){
     const handleRefresh = () => {
         setRefreshTrigger((prev) => prev + 1);
     };
-
-    if (loading){
-        return <SpinnerLoading />;
-    }
-
-    // 🔍 TEMPORAL: comentado para ver el título aunque no haya productos
-    // if (!products.length){
-    //     return null;
-    // }
 
     const truncate = (str, maxLength) =>
         str.length <= maxLength ? str : str.slice(0, maxLength) + '...';

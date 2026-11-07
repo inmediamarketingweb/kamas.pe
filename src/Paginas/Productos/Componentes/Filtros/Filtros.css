@@ -1,11 +1,17 @@
 /* .prd-flt-container{
-    background: red;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 } */
+
+.prd-flt-container > p.text.font-bold{
+    padding: 20px;
+}
 
 .prd-flt-container .prd-flt-cat-link{
     width: 100%;
     height: 44px;
-    padding: 0 10px;
+    padding: 0 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -13,15 +19,31 @@
 }
 
 .prd-flt-container .prd-flt-cat-link:hover{
-    background: blue;
+    background: rgba(0 0 0 / 0.075);
 }
 
 .prd-flt-container .prd-flt-cat-link div img{
-    width: 30px;
+    width: 26px;
+}
+
+.prd-flt-container .prd-flt-cat-link > span{
+    color: var(--color-1);
 }
 
 .filter-button-checkbox{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 56px;
+    padding: 0 20px;
+    border-radius: 4px;
+
+    border: 1px solid var(--component-border);
+}
+
+.filter-button-checkbox span{
+    color: var(--color-1);
 }
 
 .filter-button-checkbox .d-flex-center-left.gap-5{
@@ -32,25 +54,34 @@
 
 .filter-button-checkbox .filter-button-switch{
     display: flex;
-    width: 38px;
-    height: 22px;
-    background: blue;
+    width: 42px;
+    height: 24px;
+    background: rgba(0 0 0 / 0.25);
     position: relative;
     border-radius: 20px;
+}
+
+.filter-button-checkbox.active .filter-button-switch{
+    background: var(--free);
 }
 
 .filter-button-checkbox .filter-button-switch::before{
     content: '';
     position: absolute;
-    left: 1px;
+    left: 2px;
     top: 50%;
     translate: 0 -50%;
     width: auto;
-    height: calc(100% - 2px);
+    height: calc(100% - 4px);
     aspect-ratio: 1/1;
     display: flex;
-    background: orange;
+    background: var(--white);
     border-radius: 100%;
+}
+
+.filter-button-checkbox.active .filter-button-switch::before{
+    left: unset;
+    right: 2px;
 }
 
 .prd-flt-filtros{
@@ -69,6 +100,8 @@
     width: 100%;
     min-height: 48px;
     padding: 0 10px;
+
+    border-radius: 4px;
 }
 
 .filtros-title-top-global > p{
@@ -108,6 +141,8 @@
 
 .prd-flt-grupo{
     border: 1px solid var(--component-border);
+    border-radius: 4px;
+    overflow: hidden;
 }
 
 .prd-flt-grupo-header{
@@ -122,10 +157,13 @@
     align-items: center;
     justify-content: space-between;
     transition: var(--t-200ms-linear);
+
+    /* border-radius: 20px; */
 }
 
 .prd-flt-grupo-header.active{
     border-bottom: 0;
+    /* border-radius: 4px 4px 0 0 !important; */
 }
 
 .prd-flt-grupo-header > span{

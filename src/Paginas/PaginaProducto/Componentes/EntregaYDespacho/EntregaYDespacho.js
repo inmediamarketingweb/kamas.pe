@@ -60,6 +60,21 @@ function EntregaYDespacho(){
 
                     <div className='w-100 d-flex-center-between gap-20'>
                         <div className='d-flex-column-center-left'>
+                            <p className='text font-bold'>Envío por agencia</p>
+                            <p className='text text-r'>Lo llevamos a la agencia que elijas o una que te recomendemos</p>
+                        </div>
+
+                        <p className='envios-tag-pryce gratis'>Gratis</p>
+                    </div>
+                </div>
+
+                <div className='envios-tag envios-tag-1'>
+                    <input type='checkbox'/>
+
+                    <span class="material-symbols-outlined">storefront</span>
+
+                    <div className='w-100 d-flex-center-between gap-20'>
+                        <div className='d-flex-column-center-left'>
                             <p className='text font-bold'>Retiro en tienda</p>
                             <p className='text text-r'>De Lun - Sab de 10am a 3pm</p>
                         </div>

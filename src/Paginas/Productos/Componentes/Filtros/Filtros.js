@@ -56,8 +56,8 @@ function Filtros({ categoriaForzada = null, productos = [], abierto = false, onC
     if (!categoriaForzada) {
         return (
             <div className="d-flex-column gap-20">
-                <div className="prd-flt-container">
-                    <p className="title font-bold padding-10">Categorías</p>
+                <div className="prd-flt-container border-1-component border-r-4 d-flex-column">
+                    <p className="text font-bold">Categorías</p>
 
                     <ul className="prd-flt-cat">
                         <li>
@@ -137,7 +137,7 @@ function Filtros({ categoriaForzada = null, productos = [], abierto = false, onC
 
                 <ul className="d-flex-column gap-10 w-100">
                     <li className="d-flex w-100">
-                        <button type="button" className="filter-button filter-button-checkbox">
+                        <button type="button" className="filter-button filter-button-checkbox active">
                             <div className="d-flex-center-left gap-5">
                                 <span className="material-symbols-outlined">sell</span>
                                 <p className="text">En oferta</p>
@@ -170,7 +170,7 @@ function Filtros({ categoriaForzada = null, productos = [], abierto = false, onC
                     </li>
                 </ul>
 
-                <img className="w-100 d-flex border-r-4" src="/assets/imagenes/productos/foto-de-filtros.webp" alt=""/>
+                {/* <img className="w-100 d-flex border-r-4" src="/assets/imagenes/productos/foto-de-filtros.webp" alt=""/> */}
             </div>
         );
     }
@@ -385,7 +385,7 @@ function FiltrosDeCategoria({ categoria, productos, abierto, onCerrar }) {
                         <div className="d-flex-column w-100" key={grupo.nombre}>
                             <div className="prd-flt-grupo">
                                 <button type="button" className={`prd-flt-grupo-header ${abierto ? "active" : ""}`} onClick={() => toggleGrupo(grupo.nombre)}>
-                                    <p className="title first-uppercase text">{grupo.nombre.replace(/-/g, " ")}</p>
+                                    <p className="font-bold first-uppercase text">{grupo.nombre.replace(/-/g, " ")}</p>
                                     <span className="material-symbols-outlined">{abierto ? "expand_more" : "expand_less"}</span>
                                 </button>
 
@@ -416,18 +416,11 @@ function FiltrosDeCategoria({ categoria, productos, abierto, onCerrar }) {
                 })}
             </div>
 
-            <button
-                type="button"
-                className={`filter-button-close ${abierto ? "active" : ""}`}
-                onClick={onCerrar}
-            >
+            <button type="button" className={`filter-button-close ${abierto ? "active" : ""}`} onClick={onCerrar}>
                 <span className="material-symbols-outlined">close</span>
             </button>
 
-            <div
-                className={`prd-flt-filtros-layer ${abierto ? "active" : ""}`}
-                onClick={onCerrar}
-            ></div>
+            <div className={`prd-flt-filtros-layer ${abierto ? "active" : ""}`} onClick={onCerrar} ></div>
         </>
     );
 }
