@@ -320,7 +320,6 @@ function Imagenes({
 
     const mostrarColores = debeMostrarColores(producto);
 
-    // ===== Sin imágenes =====
     if (imagenesResueltas.length === 0) {
         return (
             <div className="product-page-images-global">
@@ -354,7 +353,6 @@ function Imagenes({
         >
             <span className="product-page-discount">-{descuento}%</span>
 
-            {/* ===== MINIATURAS ===== */}
             <div className="product-page-images-miniatures-container">
                 <ul className="product-page-images-miniatures">
                     {imagenesResueltas.map((imgData, i) => (
@@ -381,7 +379,6 @@ function Imagenes({
                 </ul>
             </div>
 
-            {/* ===== IMAGEN PRINCIPAL ===== */}
             <div className="product-page-images-container">
                 <div
                     className="product-page-images-content"

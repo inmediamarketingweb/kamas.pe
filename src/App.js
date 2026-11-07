@@ -22,6 +22,7 @@ import Sofas from './Paginas/Productos/Categorias/Sofas';
 import MueblesAMedida from './Paginas/Productos/Categorias/MueblesAMedida';
 import Pet from './Paginas/Productos/Categorias/Pet';
 import Complementos from './Paginas/Productos/Categorias/Complementos';
+import Ofertas from './Paginas/Ofertas/Ofertas';
 
 import Galeria from './Paginas/Productos/Galeria/Galeria';
 
@@ -122,6 +123,8 @@ function App(){
                         <Route path="/productos/sofas/" element={<Sofas />} />
                         <Route path="/productos/muebles-a-medida/" element={<MueblesAMedida />} />
                         <Route path="/productos/pet/" element={<Pet />} />
+
+                        <Route path="/productos/ofertas/" element={<Ofertas />} />
 
 
 

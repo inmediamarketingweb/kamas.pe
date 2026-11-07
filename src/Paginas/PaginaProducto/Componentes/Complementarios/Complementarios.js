@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import PropTypes from "prop-types";
 
 import { construirRutaProducto } from "../../../../Componentes/Plantillas/Producto/Producto";
+
 import "./Complementarios.css";
 
 /* 🔽 REGLAS ACTUALIZADAS (Se agregó "dormitorio") */
