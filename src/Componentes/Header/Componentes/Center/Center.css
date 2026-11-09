@@ -83,7 +83,7 @@
 
 .menu-li .menu-li-div .menu-link img{
     /* position: absolute; */
-    width: 20px;
+    width: 19px;
     aspect-ratio: 1/1;
     transition: var(--t-200ms-linear);
 
@@ -188,6 +188,12 @@
     /* row-gap: 0; */
 }
 
+.submenu-lista-group{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .submenu-lista-group-1,
 .submenu-lista-group-image-right{
     /* width: 300px; */
@@ -197,6 +203,7 @@
 .submenu-lista-group-1{
     grid-column: 1/2;
 
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -204,15 +211,46 @@
 
 .submenu-lista-group-1 img{
     width: 100%;
-    height: 100%;
-    display: flex;
+    height: auto;
+    object-fit: contain;
     border-radius: 4px;
 }
 
 .submenu-lista-group-image-right{
+    width: 100%;
     height: 100%;
     grid-column: -2/-1;
-    /* background: blue; */
+
+    display: flex;
+}
+
+.submenu-lista-group-image-right img{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    border-radius: 4px;
+}
+
+.submenu-container-3 .submenu .submenu-lista-group-image-right{
+    max-height: 505px;
+}
+
+.submenu-container-4 .submenu .submenu-lista-group-image-right{
+    max-height: 415px;
+}
+
+.submenu-container-5 .submenu .submenu-lista-group-image-right{
+    max-height: 415px;
+}
+
+.submenu-container-7 .submenu .submenu-lista-group-image-right{
+    max-height: 425px;
+}
+
+.submenu-container-8 .submenu .submenu-lista-group-image-right{
+    max-height: 425px;
 }
 
 .submenu-lista-group-1,
@@ -308,14 +346,6 @@
 .submenu-lista-group-link-suelto:hover .material-symbols-outlined,
 .submenu-list li:hover .material-symbols-outlined{
     color: var(--color-1);
-}
-
-.submenu-img-large{
-    width: 100%;
-    height: 100%;
-    /* display: grid; */
-    border-radius: 4px;
-    object-fit: cover;
 }
 
 .submenu-lista-group-link-suelto{

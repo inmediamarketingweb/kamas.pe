@@ -3,9 +3,9 @@
         {
             "id": 1,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO - GRIS",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO - GRIS",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/1/",
             "precioRegular": 1749,
             "precioNormal": 1099,
@@ -16,8 +16,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",
@@ -31,9 +31,9 @@
         {
             "id": 2,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO - GRIS",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO - GRIS",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/2/",
             "precioRegular": 1749,
             "precioNormal": 1099,
@@ -44,8 +44,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",
@@ -59,9 +59,9 @@
         {
             "id": 3,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO - TEJIDO PALO ROSA",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO - TEJIDO PALO ROSA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/3/",
             "precioRegular": 1749,
             "precioNormal": 1099,
@@ -72,8 +72,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",
@@ -87,9 +87,9 @@
         {
             "id": 4,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO - TEJIDO BEIGE",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO - TEJIDO BEIGE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/4/",
             "precioRegular": 1749,
             "precioNormal": 1099,
@@ -100,8 +100,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",
@@ -115,9 +115,9 @@
         {
             "id": 5,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO - TEJIDO PALO ROSA",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO - TEJIDO PALO ROSA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/5/",
             "precioRegular": 1709,
             "precioNormal": 1049,
@@ -128,8 +128,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",
@@ -143,9 +143,9 @@
         {
             "id": 6,
             "categoría": "camas",
-            "línea": "cunas",
-            "tamaño": "cuna",
-            "nombre": "CAMA CUNA SIN COLCHON ENCOFRADO ALTO CAPITONEADO DISEÑO OSITO - TEJIDO BEIGE",
+            "tamaño": "cuna",            
+            "línea": "americanas",
+            "nombre": "CAMA CUNA SIN COLCHÓN ENCOFRADO ALTO CAPITONEADO DISEÑO OSITO - TEJIDO BEIGE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/cunas/tapizadas/8/",
             "precioRegular": 1799,
             "precioNormal": 1099,
@@ -156,8 +156,8 @@
             "descripcion":[
                 {
                     "categoría": "camas",
-                    "línea": "cunas",
                     "tamaño": "cuna",
+                    "línea": "americanas",
                     "cajones": "no",
                     "base-encajonada": "si",
                     "piecera": "no",

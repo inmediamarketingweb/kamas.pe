@@ -29,14 +29,14 @@ function Bottom(){
                             <h2>Proyectos y alianzas</h2>
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <p className="color-white">|</p>
                     </li>
                     <li>
                         <a href="/mis-favoritos/" title='Mis favoritos | Kamas'>
                             <h2>Mis favoritos</h2>
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
             </section>
         </div>

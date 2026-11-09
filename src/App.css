@@ -84,6 +84,13 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Outfit';
+    src: url('../public/assets/fonts/Outfit/Outfit-SemiBold.ttf') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+
 .material-symbols-outlined{
     font-family: 'Material Symbols Outlined';
     font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
@@ -130,47 +137,30 @@ main{
 }
 
 .block-title-container{
-    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin-bottom: 10px;
-    grid-column: 1/-1;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-bottom: 20px;
 }
 
 .block-title{
-    word-spacing: 2px;
-    letter-spacing: -2px;
+    color: var(--color-2);
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Outfit';
+    display: inline-block;
+}
+
+.block-title::first-letter{
     text-transform: uppercase;
+}
+
+.block-title-container p{
+    font-size: 16px;
+    font-weight: bold;
     text-align: center;
-    font-weight: 900;
-    font-size: 28px;
-    color: #333333;
-    position: relative;
-}
-
-.block-title-sub{
-    padding-bottom: 5px;
-    border-bottom: 2px solid var(--color-1);
-}
-
-.block-title-buttons{
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-}
-
-.block-title-buttons button{
-    width: 56px;
-    height: 36px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 25px;
-    color: var(--white);
-    background: var(--color-1);
 }
 
 fieldset{
@@ -184,6 +174,10 @@ select{
 
 option{
     cursor: pointer;
+}
+
+.object-cover{
+    object-fit: cover;
 }
 
 .page-banner-img{
@@ -467,6 +461,11 @@ button{
 .d-grid-3-2-1fr{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+
+.d-grid-4-2{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
 }
 
 .d-grid-1-3fr{
@@ -949,16 +948,12 @@ input[type="checkbox"]{
         min-height: unset;
     }
 
-    .block-container{
-        padding: 0 10px;
-    }
-
-    .block-title{
-        font-size: 25px;
-    }
-
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(3, 1fr) !important;
+    }
+
+    .d-grid-4-2{
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -969,11 +964,6 @@ input[type="checkbox"]{
 
     main{
         margin-top: 190px !important;
-    }
-
-    .block-title{
-        font-size: 22px;
-        margin-right: auto;
     }
 
     .title{
@@ -987,6 +977,7 @@ input[type="checkbox"]{
         grid-template-columns: 1fr;
     }
 
+    .d-grid-4-2,
     .d-grid-3-1fr-2,
     .d-grid-5-3-2fr{
         grid-template-columns: repeat(2, 1fr) !important;

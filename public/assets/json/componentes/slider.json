@@ -7,6 +7,11 @@
             "alt": "Dormitorios circulares | Kamas"
         },
         {
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/reserva.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/reserva.png",
+            "alt": "Kamas | Fabricantes de colchones, camas y juegos de dormitorios"
+        },
+        {
             "foto-desktop": "/assets/imagenes/componentes/slider/2.jpg",
             "foto-mobile": "/assets/imagenes/componentes/slider/2.jpg",
             "alt": "Envíos gratis todo Lima y Callao | Kamas"
@@ -36,8 +41,8 @@
             "alt": "Dormitorios nube | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/7.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/7.jpg",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/4-plazas.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/4-plazas.png",
             "link": "/productos/dormitorios/?tamaño=4-plazas",
             "alt": "Dormitorios 4 plazas | Kamas"
         },
@@ -48,10 +53,16 @@
             "alt": "Dormitorios infantiles | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/9.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/9.jpg",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/premium.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/premium.png",
             "link": "/productos/dormitorios/?línea=clasicos-de-madera",
-            "alt": "Dormitorios premium | Kamas"
+            "alt": "Dormitorios clásicos de madera | Kamas"
+        },
+        {
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/piecera.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/piecera.png",
+            "link": "/productos/dormitorios/king/der-prinz/americanos/K324225N17/",
+            "alt": "Dormitorios | Kamas"
         }
     ]
 }

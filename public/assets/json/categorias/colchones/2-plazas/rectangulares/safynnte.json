@@ -21,6 +21,10 @@
                     "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/safynnte/"
                 },
                 {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/safynnte/"
+                },
+                {
                     "nombre": "Queen",
                     "ruta": "/productos/colchones/queen/rectangulares/safynnte/"
                 },
@@ -49,7 +53,8 @@
                     "modelo-de-colchón": "safynnte",
                     "línea-de-colchón": "súper ortopédicos",
                     "nivel-de-confort": "medio suave",
-                    "resortes": "14 filas",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "14 filas",
                     "tela": "Drill",
                     "densidad-de-espuma": "18kg/m3",
                     "tipo-de-uso": "Un solo lado",

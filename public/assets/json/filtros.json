@@ -35,7 +35,23 @@
                 ]
             },
             {
-                "sensación-de-colchón":[
+                "resortes":[
+                    {
+                        "resortes": "bonell"
+                    },
+                    {
+                        "resortes": "pocket"
+                    },
+                    {
+                        "resortes": "espuma"
+                    },
+                    {
+                        "resortes": "viscoelásticos"
+                    }
+                ]
+            },
+            {
+                "línea-de-colchón":[
                     {
                         "línea-de-colchón": "semi ortopédicos"
                     },

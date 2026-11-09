@@ -12,36 +12,7 @@ function Perfiles(){
 
                     <ul className='profiles'>
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/homesleep.webp" alt="Homesleep" className="profile-card-banner"/>
-                            <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
-                            <div className='profile-card-content d-flex-column'>
-                                <div className='profile-card-stars'>
-                                    <Estrellas/>
-
-                                    <p className='profile-card-sales'>+12800 vendidos</p>
-                                </div>
-
-                                <p>Encuentra nuestros productos en <a href='https://homesleep.pe/' title='Homesleep'>Homesleep</a></p>
-                            </div>
-                        </li>
-
-                        <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/vitai.webp" alt="Vitai" className="profile-card-banner"/>
-                            <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
-
-                            <div className='profile-card-content d-flex-column'>
-                                <div className='profile-card-stars'>
-                                    <Estrellas/>
-
-                                    <p className='profile-card-sales'>+10500 vendidos</p>
-                                </div>
-
-                                <p>Encuentra nuestros productos en <a href='https://vitai.pe/' title='Vitai'>Vitai</a></p>
-                            </div>
-                        </li>
-
-                        <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/dormihogar.webp" alt="Dormihogar" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/dormihogar.png" alt="Dormihogar" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>
@@ -56,7 +27,36 @@ function Perfiles(){
                         </li>
 
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/falabella.webp" alt="Falabella" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/homesleep.png" alt="Homesleep" className="profile-card-banner"/>
+                            <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
+                            <div className='profile-card-content d-flex-column'>
+                                <div className='profile-card-stars'>
+                                    <Estrellas/>
+
+                                    <p className='profile-card-sales'>+12800 vendidos</p>
+                                </div>
+
+                                <p>Encuentra nuestros productos en <a href='https://homesleep.pe/' title='Homesleep'>Homesleep</a></p>
+                            </div>
+                        </li>
+
+                        <li className='profile'>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/vitai.png" alt="Vitai" className="profile-card-banner"/>
+                            <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
+
+                            <div className='profile-card-content d-flex-column'>
+                                <div className='profile-card-stars'>
+                                    <Estrellas/>
+
+                                    <p className='profile-card-sales'>+10500 vendidos</p>
+                                </div>
+
+                                <p>Encuentra nuestros productos en <a href='https://vitai.pe/' title='Vitai'>Vitai</a></p>
+                            </div>
+                        </li>
+
+                        <li className='profile'>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/falabella.png" alt="Falabella" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>
@@ -71,7 +71,7 @@ function Perfiles(){
                         </li>
 
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/ripley.webp" alt="Ripley" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/ripley.png" alt="Ripley" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>
@@ -86,7 +86,7 @@ function Perfiles(){
                         </li>
 
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/plaza-vea.webp" alt="Plaza Vea" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/plaza-vea.png" alt="Plaza Vea" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>
@@ -101,7 +101,7 @@ function Perfiles(){
                         </li>
 
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/juntoz.webp" alt="Juntoz" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/juntoz.png" alt="Juntoz" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>
@@ -116,7 +116,7 @@ function Perfiles(){
                         </li>
 
                         <li className='profile'>
-                            <LazyImage width={333} height={120} src="/assets/imagenes/paginas/pagina-principal/perfiles/mercado-libre.webp" alt="Mercado Libre" className="profile-card-banner"/>
+                            <LazyImage width={333} height={120} src="/assets/imagenes/pag-principal/distribuidores/mercado-libre.png" alt="Mercado Libre" className="profile-card-banner"/>
                             <LazyImage width={60} height={60} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HpdIkdK6Ya0D-So2aV7brjbmPmqPhR-cYQ&s" alt="Logo de Kamas" className="profile-card-logo"/>
 
                             <div className='profile-card-content d-flex-column'>

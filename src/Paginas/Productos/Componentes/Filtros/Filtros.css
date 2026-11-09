@@ -224,6 +224,7 @@
         transition: var(--t-200ms-linear);
         overflow-y: auto;
         opacity: 0;
+        padding: 20px;
         
         z-index: 102;
     }

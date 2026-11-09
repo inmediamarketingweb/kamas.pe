@@ -438,7 +438,7 @@ function Productos({
                             </div>
 
                             {galeriaCategoria && (
-                                <a href={galeriaCategoria.link || "/"} className="pg-prd-banner-gallery" title="| Kamas">
+                                <a href={galeriaCategoria.link || "/"} className="pg-prd-banner-gallery" title={galeriaCategoria.alt}>
                                     <img className="d-flex w-100" src={galeriaCategoria.image} alt={galeriaCategoria.alt || ""} />
                                 </a>
                             )}

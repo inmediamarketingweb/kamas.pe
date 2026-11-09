@@ -61,7 +61,9 @@
 }
 
 .main-pagina-principal{
-    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
 }
 
 .solo-por-horas div{

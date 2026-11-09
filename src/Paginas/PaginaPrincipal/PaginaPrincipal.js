@@ -2,6 +2,9 @@ import { lazy, Suspense } from 'react';
 import { Helmet } from 'react-helmet';
 
 import Categorias from './Componentes/Categorias/Categorias';
+import Colchones from './Componentes/Categorias/Colchones/Colchones';
+import Dormitorios from './Componentes/Categorias/Dormitorios/Dormitorios';
+import Complementos from './Componentes/Categorias/Complementos/Complementos';
 
 import './PaginaPrincipal.css';
 
@@ -101,8 +104,8 @@ function PaginaPrincipal() {
                 `}</style>
             </Helmet>
 
-            <main className="main-pagina-principal d-flex-column gap-10">
-                <div className="main-hero-container">
+            <main className="main-pagina-principal">
+                {/* <div className="main-hero-container">
                     <img src="/assets/imagenes/paginas/pagina-principal/hero-bg.webp" alt="Kamas | Fabricantes de colchones, camas y juegos de dormitorios" fetchpriority="high" loading="eager" decoding="async" width="1920" height="1080"/>
 
                     <section className="main-hero-content">
@@ -131,14 +134,17 @@ function PaginaPrincipal() {
                             </div>
                         </div>
                     </section>
-                </div>
+                </div> */}
 
                 <Suspense fallback={null}>
-                    <Categorias />
                     <Slider />
+                    <Categorias />
+                    <Colchones/>
+                    {/* <Dormitorios/> */}
+                    <Complementos/>
                     {/* <UltimasNovedades /> */}
                     {/* <Ofertas /> */}
-                    <Promocion />
+                    {/* <Promocion /> */}
                     <SobreNosotros />
                     {/* <Banners/> */}
                     <Perfiles/>
