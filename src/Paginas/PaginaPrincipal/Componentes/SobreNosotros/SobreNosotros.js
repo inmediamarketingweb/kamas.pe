@@ -5,8 +5,8 @@ function SobreNosotros(){
         <section className='block-container sobre-nosotros-block-container'>
             <div className='block-content sobre-nosotros-block-content gap-10'>
                 <div className='d-flex-column gap-10'>
-                    <img src='/assets/imagenes/paginas/nosotros/sobre-nosotros.webp' alt='Kamas | Sobre nosotros' className='page-banner-img'/>
-                    <img src='/assets/imagenes/paginas/nosotros/sobre-nosotros.webp' alt='Kamas | Sobre nosotros' className='page-banner-img'/>
+                    <img src='/assets/imagenes/pag-principal/nosotros/1.png' alt='Kamas | Sobre nosotros' className='page-banner-img'/>
+                    {/* <img src='/assets/imagenes/paginas/nosotros/sobre-nosotros.webp' alt='Kamas | Sobre nosotros' className='page-banner-img'/> */}
                 </div>
 
                 <div className='d-flex-column'>

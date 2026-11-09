@@ -50,30 +50,6 @@
             ]
         },
         {
-            "id": 11,
-            "categoría": "camas",
-            "tamaño": "2 plazas",
-            "línea": "bases y tarimas",
-            "ruta": "/productos/camas/2-plazas/bases-y-tarimas/10/",
-            "nombre": "BASE SOLA EUROPEA 2 PLAZAS - MELON",
-            "fotos": "/assets/imagenes/productos/complementos/bases/europeas/2-plazas/3/",
-            "precioRegular": 1430,
-            "precioNormal": 659,
-            "precioVenta": 499,
-            "stock": 14,
-            "sku": "K7323N12",
-            "tipo-de-envio": "Envío preferente",
-            "descripcion":[
-                {
-                    "categoría": "camas",
-                    "tamaño": "2 plazas",
-                    "línea": "bases y tarimas",
-                    "cajones": "No",
-                    "base-encajonada": "No"
-                }
-            ]
-        },
-        {
             "id": 12,
             "categoría": "camas",
             "tamaño": "2 plazas",

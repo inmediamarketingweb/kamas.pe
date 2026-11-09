@@ -17,6 +17,10 @@
             "tipo-de-envio": "Envío preferente",
             "tamaños-disponibles":[
                 {
+                    "nombre": "1 plaza y media",
+                    "ruta": "/productos/colchones/1-plaza-y-media/thaleo-pocket/"
+                },
+                {
                     "nombre": "2 plazas",
                     "ruta": "/productos/colchones/2-plazas/thaleo-pocket/"
                 },
@@ -42,7 +46,8 @@
                     "modelo-de-colchón": "thaleo pocket",
                     "línea-de-colchón": "extra ortopédicos",
                     "nivel-de-confort": "muy firme",
-                    "resortes": "364 resorte pocket",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "364",
                     "tela": "Tela algodón tejido en punto",
                     "sistema": "One size",
                     "refuerzos": "centrales",

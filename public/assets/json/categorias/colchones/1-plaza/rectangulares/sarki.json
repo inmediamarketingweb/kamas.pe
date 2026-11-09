@@ -5,7 +5,6 @@
             "tamaño": "1 plaza",
             "formato": "rectangulares",
             "modelo-de-colchón": "sarki",
-            "ruta": "/productos/colchones/1-plaza/rectangulares/sarki/",
             "nombre": "COLCHÓN KAMAS 1 PLAZA ORTOPÉDICO SARKI",
             "fotos": "/assets/imagenes/productos/colchones/sarki/1-plaza-y-media/",
             "precioRegular": 659,
@@ -16,6 +15,10 @@
             "regalos":[ "1 almohada" ],
             "tipo-de-envio": "Envío preferente",
             "tamaños-disponibles":[
+                {
+                    "nombre": "1 plaza",
+                    "ruta": "/productos/colchones/rectangulares/1-plaza/sarki/"
+                },
                 {
                     "nombre": "1 plaza y media",
                     "ruta": "/productos/colchones/rectangulares/1-plaza-y-media/sarki/"
@@ -38,7 +41,8 @@
                 }
             ],
             "mensajes":[
-                "mensaje 1"
+                "El Kamas Sarki es el modelo insignia de la marca, reconocido por su durabilidad, comodidad y excelente relación calidad-precio. Ofrece un confort ortopédico y confortable, gracias a su sistema de resortes Bonell con 9 filas, espuma de 18 kg/m³ y una suave tela de algodón tejido en punto.",
+                "Su estructura de uso por ambos lados y marco sellado brinda estabilidad y una larga vida útil. Soporta hasta 65 kg por persona e incluye 3 años de garantía, convirtiéndose en la opción clásica y confiable para quienes buscan descanso seguro y confortable."
             ],
             "descripcion":[
                 {
@@ -46,7 +50,9 @@
                     "tamaño": "1 plaza",
                     "formato": "rectangulares",
                     "modelo-de-colchón": "sarki",
-                    "resortes": "9 filas",
+                    "línea-de-colchón": "ortopédicos",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "8 filas",
                     "tela": "Algodón tejido en punto",
                     "densidad-de-espuma": "18kg/m3",
                     "tipo-de-uso": "Ambos lados",

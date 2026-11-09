@@ -13,12 +13,6 @@
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
             ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
-            ],
             "listas":[
                 {
                     "modelos":[
@@ -174,19 +168,32 @@
                 {
                     "link-suelto":[
                         {
-                            "titulo": "Bases y tarimas",
-                            "texto": "Bases tapizadas, tarimas, con baúl y más",
-                            "link": "/productos/camas/?línea=bases-y-tarimas",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                            "image-alt": ""
+                            "titulo": "A medida",
+                            "texto": "¿Necesitas un colchón de una medida especial? Nosotros lo haremos posible",
+                            "link": "/productos/colchones/medida-personalizada/",
+                            "image": "https://homesleep.pe/assets/imagenes/productos/colchones/1.webp",
+                            "image-alt": "Colchones | Kamas"
                         }
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/colchones-1.png",
+                    "alt": "Colchones Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/colchones-2.png",
+                    "alt": "Colchones kamas"
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "/assets/imagenes/productos/colchones/galeria.png",
+                    "alt": "Colchones Kamas",
+                    "link": "/productos/colchones/galeria/"
                 }
             ]
         },
@@ -202,12 +209,6 @@
             "link": "/productos/camas/",
             "textos":[
                 "Bases con diseños americanos, europeos con o sin cajones... son la base de un buen descanso."
-            ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
             ],
             "listas":[
                 {
@@ -232,7 +233,7 @@
                         },
                         {
                             "texto": "Camas espacios",
-                            "link": "/productos/camas/?línea=espacios",
+                            "link": "/productos/camas/?línea=box-espacios",
                             "image": "https://media.falabella.com/tottusPE/40858572_2/w=1500,h=1500,fit=cover",
                             "image-alt": ""
                         },
@@ -250,7 +251,7 @@
                         },
                         {
                             "texto": "Cunas",
-                            "link": "/productos/camas/?línea=cunas",
+                            "link": "/productos/camas/?tamaño=cuna",
                             "image": "/assets/imagenes/productos/camas-box-tarimas/cunas.jpg",
                             "image-alt": ""
                         },
@@ -360,16 +361,22 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/camas-1.png",
+                    "alt": "Camas Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/camas-2.png",
+                    "alt": "Camas Kamas"
                 }
             ],
             "galeria":[
                 {
-                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": "",
+                    "image": "/assets/imagenes/productos/camas-box-tarimas/galeria.png",
+                    "alt": "Camas Kamas",
                     "link": "/productos/camas/galeria/"
                 }
             ]
@@ -387,15 +394,9 @@
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
             ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
-            ],
             "listas":[
                 {
-                    "tipos-de-doritorios":[
+                    "tipos-de-dormitorios":[
                         {
                             "texto": "Americanos",
                             "link": "/productos/dormitorios/?línea=americanos"
@@ -410,7 +411,7 @@
                         },
                         {
                             "texto": "Sistema espacio",
-                            "link": "/productos/dormitorios/?línea=sistema-espacio"
+                            "link": "/productos/dormitorios/?línea=box-espacios"
                         },
                         {
                             "texto": "Camarotes",
@@ -506,16 +507,22 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/dormitorios-1.png",
+                    "alt": "Dormitorios Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/dormitorios-2.png",
+                    "alt": "Dormitorios Kamas"
                 }
             ],
             "galeria":[
                 {
-                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": "",
+                    "image": "/assets/imagenes/productos/dormitorios/galeria.png",
+                    "alt": "Dormitorios Kamas",
                     "link": "/productos/dormitorios/galeria/"
                 }
             ]
@@ -532,12 +539,6 @@
             "link": "/productos/cabeceras/",
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
-            ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
             ],
             "listas":[
                 {
@@ -656,17 +657,23 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/cabeceras-1.png",
+                    "alt": "Cabeceras Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/cabeceras-2.png",
+                    "alt": "Cabeceras Kamas"
                 }
             ],
             "galeria":[
                 {
-                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": "",
-                    "link": "/productos/cabeceras/galeria/"
+                    "image": "/assets/imagenes/productos/dormitorios/galeria.png",
+                    "alt": "Cabeceras Kamas",
+                    "link": "/productos/dormitorios/galeria/"
                 }
             ]
         },
@@ -682,12 +689,6 @@
             "link": "/productos/sofas/",
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
-            ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
             ],
             "listas":[
                 {
@@ -763,17 +764,23 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/sofas-1.png",
+                    "alt": "Cabeceras Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/sofas-2.png",
+                    "alt": "Cabeceras Kamas"
                 }
             ],
             "galeria":[
                 {
-                    "image": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": "",
-                    "link": "/productos/camas/galeria/"
+                    "image": "/assets/imagenes/productos/sofas/galeria.png",
+                    "alt": "Sofás Kamas",
+                    "link": "/productos/sofas/galeria/"
                 }
             ]
         },
@@ -882,12 +889,6 @@
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
             ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
-            ],
             "listas":[
                 {
                     "camas-y-descanso":[
@@ -933,10 +934,23 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/pet-1.png",
+                    "alt": "Pet Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/pet-2.png",
+                    "alt": "Pet Kamas"
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "/assets/imagenes/productos/pet/galeria.png",
+                    "alt": "Pet Kamas",
+                    "link": "/productos/pet/galeria/"
                 }
             ]
         },
@@ -952,12 +966,6 @@
             "link": "/productos/complementos/",
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
-            ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
             ],
             "listas":[
                 {
@@ -1049,10 +1057,23 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/complementos-1.png",
+                    "alt": "Complementos Kamas"
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/sofas/butacas/sub-cat-butacas.png",
-                    "alt": ""
+                    "src": "/assets/imagenes/componentes/header/banners/complementos-2.png",
+                    "alt": "Complementos Kamas"
+                }
+            ],
+            "galeria":[
+                {
+                    "image": "/assets/imagenes/productos/complementos/galeria.png",
+                    "alt": "Complementos Kamas",
+                    "link": "/productos/complementos/galeria/"
                 }
             ]
         }

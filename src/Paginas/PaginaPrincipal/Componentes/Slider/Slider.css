@@ -1,9 +1,10 @@
 .slider-general-container{
+    margin-top: -20px;
     display: flex;
     width: 100%;
     /* padding: 0 20px; */
-    max-width: var(--content-mx-width);
-    margin: 0 auto;
+    /* max-width: var(--content-mx-width); */
+    /* margin: 0 auto; */
     /* height: 340px; */
     overflow: hidden;
 }
@@ -46,7 +47,7 @@
     position: relative;
     flex-shrink: 0;
     overflow: hidden;
-    border-radius: 4px;
+    /* border-radius: 4px; */
 }
 
 .slider li a{
@@ -61,8 +62,8 @@
     width: 100%;
     display: flex;
     /* max-width: var(--container-mx-width); */
-    height: auto;
-    object-fit: contain;
+    height: 450px;
+    object-fit: cover;
 }
 
 .hero-slider-button{
@@ -73,23 +74,22 @@
     align-items: center;
     justify-content: center;
     transition: var(--t-200ms-linear);
-    width: 36px;
-    height: 72px;
-    background: rgba(0 0 0 / 0.05);
-    border-radius: 4px;
+    width: 54px;
+    height: auto;
+    aspect-ratio: 1/1;
+    background: var(--white);
+    border-radius: 100%;
     z-index: 10;
     border: none;
     cursor: pointer;
-}
 
-.hero-slider-button:hover{
-    background: rgba(0 0 0 / 0.25);
+    box-shadow: 0 0 10px rgba(0 0 0 / 0.25);
 }
 
 .hero-slider-button span{
     color: var(--color-1);
-    font-size: 40px !important;
-    text-shadow: 0 2px 0 rgba(0 0 0 / 0.5);
+    font-size: 26px !important;
+    /* text-shadow: 0 2px 0 rgba(0 0 0 / 0.5); */
 }
 
 .hero-slider-button-1{
@@ -100,26 +100,11 @@
     right: 20px;
 }
 
-@media screen and (max-width: 800px){
-    .slider-general-container{
-        height: 320px;
-    }
-}
-
 @media screen and (max-width: 600px){
-    .slider-general-container{
-        height: 180px;
-        padding: 0 10px;
-    }
-
     .slider-general-container > img{
         width: 100%;
         height: auto;
         max-height: none;
-    }
-
-    .hero-container{
-        max-height: 180px;
     }
 
     .hero-slider-button{

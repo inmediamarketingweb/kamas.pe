@@ -25,6 +25,10 @@
                     "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/rucay/"
                 },
                 {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/rucay/"
+                },
+                {
                     "nombre": "Queen",
                     "ruta": "/productos/colchones/queen/rectangulares/rucay/"
                 },
@@ -46,7 +50,8 @@
                     "modelo-de-colchón": "rucay",
                     "línea-de-colchón": "anátomicos",
                     "nivel-de-confort": "suave",
-                    "resortes": "12 filas en forma vertical",
+                    "resortes": "bonell",
+                    "cantidad-de-resortes": "12 filas",
                     "tela": "Algodón tejido en punto",
                     "densidad-de-la-espuma": "16kg/m3",
                     "marco": "Marco sellado",

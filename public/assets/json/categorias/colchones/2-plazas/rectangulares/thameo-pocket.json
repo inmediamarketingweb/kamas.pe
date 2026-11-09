@@ -21,6 +21,10 @@
                     "ruta": "/productos/colchones/1-plaza-y-media/rectangulares/thameo-pocket/"
                 },
                 {
+                    "nombre": "2 plazas",
+                    "ruta": "/productos/colchones/2-plazas/rectangulares/thameo-pocket/"
+                },
+                {
                     "nombre": "Queen",
                     "ruta": "/productos/colchones/queen/rectangulares/thameo-pocket/"
                 },
@@ -48,7 +52,8 @@
                     "modelo-de-colchón": "thameo pocket",
                     "línea-de-colchón": "súper ortopédicos",
                     "nivel-de-confort": "Intermedio",
-                    "resortes": "494 resortes pocket",
+                    "resortes": "pocket",
+                    "cantidad-de-resortes": "494",
                     "tela": "Tejido en punto",
                     "refuerzos": "centrales",
                     "densidad-de-la-espuma": "18kg/m3",

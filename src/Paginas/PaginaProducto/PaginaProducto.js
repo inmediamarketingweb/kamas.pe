@@ -15,7 +15,7 @@ import Descripcion from "./Componentes/Descripcion/Descripcion";
 import MasProductos from "./Componentes/MasProductos/MasProductos";
 import Precios from "./Componentes/Precios/Precios";
 import Complementarios from "./Componentes/Complementarios/Complementarios";
-import EntregaYDespacho from "./Componentes/EntregaYDespacho/EntregaYDespacho";
+// import EntregaYDespacho from "./Componentes/EntregaYDespacho/EntregaYDespacho";
 
 function PaginaProducto() {
     const [shippingInfo, setShippingInfo] = useState(null);
@@ -451,7 +451,7 @@ function PaginaProducto() {
 
                         <div className="product-page-container">
                             <div className="product-page-target product-page-target-1">
-                                <div className="d-flex-column gap-20">
+                                <div className="d-flex-column gap-10">
                                     <Imagenes
                                         imagenes={imagenes}
                                         producto={producto}
@@ -498,7 +498,7 @@ function PaginaProducto() {
 
                                     <Medidas producto={producto} />
                                     <Sellers producto={producto} />
-                                    <EntregaYDespacho />
+                                    {/* <EntregaYDespacho /> */}
                                 </div>
 
                                 <div className="product-page-sub-target product-page-sub-target-2 d-flex-column gap-10">
