@@ -399,35 +399,51 @@
                     "tipos-de-dormitorios":[
                         {
                             "texto": "Americanos",
-                            "link": "/productos/dormitorios/?línea=americanos"
+                            "link": "/productos/dormitorios/?línea=americanos",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/americanos.png",
+                            "image-alt": "Dormitorios americanos | Kamas"
                         },
                         {
                             "texto": "Europeos",
-                            "link": "/productos/dormitorios/?línea=europeos"
+                            "link": "/productos/dormitorios/?línea=europeos",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/europeos.png",
+                            "image-alt": "Dormitorios europeos | Kamas"
                         },
                         {
                             "texto": "Clásicos de madera",
-                            "link": "/productos/dormitorios/?línea=clásicos-de-madera"
+                            "link": "/productos/dormitorios/?línea=clásicos-de-madera",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/madera.png",
+                            "image-alt": "Dormitorios clásicos de madera | Kamas"
                         },
                         {
                             "texto": "Sistema espacio",
-                            "link": "/productos/dormitorios/?línea=box-espacios"
+                            "link": "/productos/dormitorios/?línea=box-espacios",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/espacio.png",
+                            "image-alt": "Dormitorios espacio | Kamas"
                         },
                         {
                             "texto": "Camarotes",
-                            "link": "/productos/dormitorios/?línea=camarotes"
+                            "link": "/productos/dormitorios/?línea=camarotes",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/camarotes.png",
+                            "image-alt": "Dormitorios camarotes | Kamas"
                         },
                         {
                             "texto": "Infantiles",
-                            "link": "/productos/dormitorios/?línea=infantiles"
+                            "link": "/productos/dormitorios/?línea=infantiles",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/infantiles.png",
+                            "image-alt": "Dormitorios infantiles | Kamas"
                         },
                         {
                             "texto": "Cunas",
-                            "link": "/productos/dormitorios/?línea=cunas"
+                            "link": "/productos/dormitorios/?línea=cunas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/cuna.png",
+                            "image-alt": "Dormitorios cunas | Kamas"
                         },
                         {
                             "texto": "Divanes",
-                            "link": "/productos/dormitorios/?línea=divanes"
+                            "link": "/productos/dormitorios/?línea=divanes",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/divan.png",
+                            "image-alt": "Dormitorios divanes | Kamas"
                         }
                     ]
                 },
@@ -435,23 +451,33 @@
                     "dormitorios-especiales":[
                         {
                             "texto": "dormitorios smart",
-                            "link": "/productos/dormitorios/?línea=smart"
+                            "link": "/productos/dormitorios/?línea=smart",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/smart.png",
+                            "image-alt": "Dormitorios smart | Kamas"
                         },
                         {
                             "texto": "dormitorios nube",
-                            "link": "/productos/dormitorios/?línea=nube"
+                            "link": "/productos/dormitorios/?línea=nube",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/nube.png",
+                            "image-alt": "Dormitorios nube | Kamas"
                         },
                         {
                             "texto": "dormitorios tallados",
-                            "link": "/productos/dormitorios/?línea=tallados"
+                            "link": "/productos/dormitorios/?línea=tallados",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/tallados.png",
+                            "image-alt": "Dormitorios tallados | Kamas"
                         },
                         {
                             "texto": "dormitorios de acero inoxidable",
-                            "link": "/productos/dormitorios/?línea=acero-inoxidable"
+                            "link": "/productos/dormitorios/?línea=acero-inoxidable",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/de-acero.png",
+                            "image-alt": "Dormitorios de acero | Kamas"
                         },
                         {
                             "texto": "dormitorios circulares",
-                            "link": "/productos/dormitorios/?línea=circulares"
+                            "link": "/productos/dormitorios/?línea=circulares",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/dormitorios/circulares.png",
+                            "image-alt": "Dormitorios circulares | Kamas"
                         },
                         {
                             "texto": "Ver todos los dormitorios",
@@ -498,11 +524,11 @@
                 {
                     "link-suelto":[
                         {
-                            "titulo": "Bases y tarimas",
-                            "texto": "Bases tapizadas, tarimas, con baúl y más",
-                            "link": "/productos/camas/?línea=bases-y-tarimas",
+                            "titulo": "Sin cabecera",
+                            "texto": "Sin perder elegancia ni calidad",
+                            "link": "/productos/camas/?línea=sin-cabecera",
                             "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                            "image-alt": ""
+                            "image-alt": "Dormitorios sin cabeceras | Kamas"
                         }
                     ]
                 }
@@ -573,7 +599,9 @@
                     "colecciones":[
                         {
                             "texto": "cabeceras tapizadas",
-                            "link": "/productos/cabeceras/?colección=tapizadas"
+                            "link": "/productos/cabeceras/?colección=tapizadas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/tapizadas.png",
+                            "image-alt": "Cabeceras tapizadas | Kamas"
                         },
                         {
                             "texto": "de madera",
@@ -581,11 +609,15 @@
                         },
                         {
                             "texto": "talladas",
-                            "link": "/productos/cabeceras/?colección=talladas"
+                            "link": "/productos/cabeceras/?colección=talladas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/talladas.png",
+                            "image-alt": "Cabeceras talladas | Kamas"
                         },
                         {
                             "texto": "de acero inoxidable",
-                            "link": "/productos/cabeceras/?colección=acero-inoxidable"
+                            "link": "/productos/cabeceras/?colección=acero-inoxidable",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/acero.png",
+                            "image-alt": "Cabeceras de acero inoxidable | Kamas"
                         },
                         {
                             "texto": "Ver todas las colecciones",
@@ -597,19 +629,27 @@
                     "formatos":[
                         {
                             "texto": "Aéreas",
-                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas"
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/aereas.png",
+                            "image-alt": "Cabeceras aéreas | Kamas"
                         },
                         {
                             "texto": "Con patas",
-                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas-con-patas"
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=aéreas-con-patas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/aereas-con-patas.png",
+                            "image-alt": "Cabeceras aéreas con patas | Kamas"
                         },
                         {
                             "texto": "Completas - Pedestales",
-                            "link": "/productos/cabeceras/?tipo-de-cabecera=pedestales"
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=pedestales",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/pedestales.png",
+                            "image-alt": "Cabeceras pedestales | Kamas"
                         },
                         {
                             "texto": "De pared - Modulares",
-                            "link": "/productos/cabeceras/?tipo-de-cabecera=modulares"
+                            "link": "/productos/cabeceras/?tipo-de-cabecera=modulares",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/modulares.png",
+                            "image-alt": "Cabeceras modulares | Kamas"
                         },
                         {
                             "texto": "Ver todos",
@@ -625,23 +665,33 @@
                         },
                         {
                             "texto": "Con veladores integrados",
-                            "link": "/productos/cabeceras/?colección=con-veladores-integrados"
+                            "link": "/productos/cabeceras/?colección=con-veladores-integrados",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/con-veladores.png",
+                            "image-alt": "Cabeceras con veladores | Kamas"
                         },
                         {
                             "texto": "Con almacenamiento",
-                            "link": "/productos/cabeceras/?colección=con-almacenamiento"
+                            "link": "/productos/cabeceras/?colección=con-almacenamiento",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/con-almacenamiento.png",
+                            "image-alt": "Cabeceras con almacenamiento | Kamas"
                         },
                         {
                             "texto": "Para camas circulares",
-                            "link": "/productos/cabeceras/?colección=para-camas-circulares"
+                            "link": "/productos/cabeceras/?colección=para-camas-circulares",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/circulares.png",
+                            "image-alt": "Cabeceras circulares | Kamas"
                         },
                         {
                             "texto": "Cabeceras a medidas",
-                            "link": "/productos/cabeceras/a-medida/"
+                            "link": "/productos/cabeceras/a-medida/",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/a-medida.png",
+                            "image-alt": "Cabeceras a medida | Kamas"
                         },
                         {
                             "texto": "Ver todos los modelos",
-                            "link": "/productos/cabeceras/"
+                            "link": "/productos/cabeceras/",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/ver-todos-1.png",
+                            "image-alt": "Cabeceras | Kamas"
                         }
                     ]
                 },
