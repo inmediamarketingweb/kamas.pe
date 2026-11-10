@@ -84,6 +84,22 @@ function Citas() {
                                     <p className='title'>En nuestra sala de exhibición podrás armar el dormitorio con el que tanto sueñas, contamos con alta variedad de modelos en box, colchones y más de 100 modelos en cabeceras que puedes escoger a tu gusto. </p>
                                     <p className='text font-13'>Debido a la situación de seguridad actual de nuestra capital solo estamos atendiendo visitas de exhibición bajo previa elavuación, gracias por su compresión.</p>
                                 </div>
+
+                                <div className="d-flex-column gap-10">
+                                    <div className="d-flex w-100">
+                                        <a href="https://maps.app.goo.gl/11jFEAsPXwWbFYSs9" target="_blank" rel="noreferrer" title="Show room | Kamas" className="d-flex w-100">
+                                            <img src="/assets/imagenes/mapas/tienda.png" alt="ubicación tienda kamas" className="d-flex w-100 border-r-4"/>
+                                        </a>
+                                    </div>
+                                    <div className="d-flex w-100">
+                                        <a href="https://maps.app.goo.gl/25kiiuAeef4BdgYB8" target="_blank" rel="noreferrer" title="Fábrica | Kamas" className="d-flex w-100">
+                                            <img src="/assets/imagenes/mapas/taller.png" alt="fábrica kamas" className="d-flex w-100 border-r-4"/>
+                                        </a>
+                                    </div>
+                                    <div className="d-flex w-100">
+                                        <img src="/assets/imagenes/mapas/premier.png" alt="fábrica kamas" className="d-flex w-100 border-r-4"/>
+                                    </div>
+                                </div>
                             </div>
 
                             <div className='d-flex-column gap-20'>

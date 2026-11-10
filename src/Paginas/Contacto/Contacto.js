@@ -59,6 +59,22 @@ function Contacto(){
                                 </div>
 
                                 <div className="d-flex-column gap-10">
+                                    <div className="d-flex w-100">
+                                        <a href="https://maps.app.goo.gl/11jFEAsPXwWbFYSs9" target="_blank" rel="noreferrer" title="Show room | Kamas" className="d-flex w-100">
+                                            <img src="/assets/imagenes/mapas/tienda.png" alt="ubicación tienda kamas" className="d-flex w-100 border-r-4"/>
+                                        </a>
+                                    </div>
+                                    <div className="d-flex w-100">
+                                        <a href="https://maps.app.goo.gl/25kiiuAeef4BdgYB8" target="_blank" rel="noreferrer" title="Fábrica | Kamas" className="d-flex w-100">
+                                            <img src="/assets/imagenes/mapas/taller.png" alt="fábrica kamas" className="d-flex w-100 border-r-4"/>
+                                        </a>
+                                    </div>
+                                    <div className="d-flex w-100">
+                                        <img src="/assets/imagenes/mapas/premier.png" alt="fábrica kamas" className="d-flex w-100 border-r-4"/>
+                                    </div>
+                                </div>
+
+                                <div className="d-flex-column gap-10">
                                     <p className="title">Canales de atención</p>
                                     <ul className="d-flex-center-left gap-10">
                                         <li className="button-icon button-icon-1">
@@ -68,11 +84,6 @@ function Contacto(){
                                             <div>
                                                 <a href="tel: +51917013610" title="Teléfono | Kamas" className="">
                                                     <p className="text">917013610</p>
-                                                </a>
-                                            </div>
-                                            <div>
-                                                <a href="tel: +51943469911" title="Teléfono | Kamas" className="">
-                                                    <p className="text">943469911</p>
                                                 </a>
                                             </div>
                                         </li>
@@ -122,42 +133,44 @@ function Contacto(){
                                 </div>
                             </div>
 
-                            <form ref={formRef} onSubmit={handleSubmit} className="w-100 contact-form">
-                                <div className="d-grid-2-1fr gap-10">
+                            <div className="d-flex-column">
+                                <form ref={formRef} onSubmit={handleSubmit} className="w-100 contact-form">
+                                    <div className="d-grid-2-1fr gap-10">
+                                        <fieldset>
+                                            <label>Nombres:</label>
+                                            <input type="text" placeholder="" name="Nombres" required />
+                                            <span></span>
+                                        </fieldset>
+                                        <fieldset>
+                                            <label>Teléfono:</label>
+                                            <input type="number" placeholder="" name="Teléfono" required />
+                                            <span></span>
+                                        </fieldset>
+                                    </div>
                                     <fieldset>
-                                        <label>Nombres:</label>
-                                        <input type="text" placeholder="" name="Nombres" required />
+                                        <label>Correo electrónico:</label>
+                                        <input type="text" placeholder="" name="Correo" required />
                                         <span></span>
                                     </fieldset>
                                     <fieldset>
-                                        <label>Teléfono:</label>
-                                        <input type="number" placeholder="" name="Teléfono" required />
+                                        <label>Ciudad:</label>
+                                        <input type="text" placeholder="" name="Ciudad" required />
                                         <span></span>
                                     </fieldset>
-                                </div>
-                                <fieldset>
-                                    <label>Correo electrónico:</label>
-                                    <input type="text" placeholder="" name="Correo" required />
-                                    <span></span>
-                                </fieldset>
-                                <fieldset>
-                                    <label>Ciudad:</label>
-                                    <input type="text" placeholder="" name="Ciudad" required />
-                                    <span></span>
-                                </fieldset>
-                                <fieldset>
-                                    <label>Mensaje:</label>
-                                    <textarea placeholder="" name="Mensaje" required></textarea>
-                                    <span></span>
-                                </fieldset>
+                                    <fieldset>
+                                        <label>Mensaje:</label>
+                                        <textarea placeholder="" name="Mensaje" required></textarea>
+                                        <span></span>
+                                    </fieldset>
 
-                                <div className="d-flex">
-                                    <button type="submit" className="form-submit margin-left button-link button-link-2 gap-10">
-                                        <p className="button-link-text">Enviar</p>
-                                        <span className="material-symbols-outlined">mail</span>
-                                    </button>
-                                </div>
-                            </form>
+                                    <div className="d-flex">
+                                        <button type="submit" className="form-submit margin-left button-link button-link-2 gap-10">
+                                            <p className="button-link-text">Enviar</p>
+                                            <span className="material-symbols-outlined">mail</span>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
                         </div>
                     </section>
                 </div>
