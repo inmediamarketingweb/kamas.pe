@@ -133,7 +133,7 @@ function Colores() {
             <header className='pg-colors-header'>
                 <div className='header-center-container d-flex-w-100'>
                     <div className='header-center'>
-                        <a href='https://dormihogar.pe/' title='' className='header-logo'>
+                        <a href='https://kamas.pe/' title='Kamas | Fabricantes de colchones, camas y juegos de dormitorios' className='header-logo margin-auto'>
                             <img src="/assets/imagenes/kamas/logo-principal-kamas.jpg" width={188} height={42} alt="Kamas" />
                         </a>
                     </div>

@@ -5,8 +5,8 @@ function Complementos(){
         <div className='block-container'>
             <section className='block-content'>
                 <div className='block-title-container'>
-                    <h2 className='block-title'>Complementa tu espacio</h2>
-                    <p className='text'>Cojines, baúles, veladores, juegos de sábanas y mucho más</p>
+                    <h2 className='block-title'>Los detalles que hacen tu dormitorio</h2>
+                    <p className='text'>Dale tu estilo con textiles, accesorios y muebles que aportan comodidad, orden y personalidad.</p>
                 </div>
 
                 <ul className='pg-index-list-prds'>
@@ -66,7 +66,7 @@ function Complementos(){
                     </li>
                     <li>
                         <a href='/productos/complementos/?subcategoría=pieceras' title='Pieceras | Kamas'>
-                            <img src='/assets/imagenes/pag-principal/complementos/protectores-de-almohadas.png' alt='imagen de protector de almohada' />
+                            <img src='/assets/imagenes/pag-principal/complementos/ver-mas.png' alt='imagen de piecera' />
                             <p className='text'>Pieceras</p>
                         </a>
                     </li>

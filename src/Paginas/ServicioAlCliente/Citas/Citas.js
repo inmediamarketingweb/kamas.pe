@@ -104,6 +104,7 @@ function Citas() {
 
                             <div className='d-flex-column gap-20'>
                                 <p className='block-title color-white'>Agenda una visita</p>
+
                                 <form className='cita-formulario d-flex-column gap-20' onSubmit={handleSubmit}>
                                     <fieldset>
                                         <span>Nombres<b className='color-red'>*</b></span>
@@ -117,6 +118,15 @@ function Citas() {
                                         <span>DNI<b className='color-red'>*</b></span>
                                         <input type='number' placeholder='DNI' name='dni' required value={formData.dni} onChange={handleChange}/>
                                     </fieldset>
+                                    {/* <fieldset>
+                                        <span>¿Cómo supiste de nosotros?<b className='color-red'>*</b></span>
+                                        <select>
+                                            <option>
+                                                <p className='text'></p>
+                                            </option>
+                                        </select>
+                                        <input type='number' placeholder='DNI' name='dni' required value={formData.dni} onChange={handleChange}/>
+                                    </fieldset> */}
                                     <fieldset>
                                         <span>Fecha y hora<b className='color-red'>*</b></span>
                                         <DatePicker

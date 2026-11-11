@@ -19,8 +19,8 @@ function Categorias(){
         <section className='block-container'>
             <div className='block-content categories-block-content'>
                 <div className='block-title-container'>
-                    <h2 className='block-title'>Nuestras categorías</h2>
-                    <p className='text'>Más de 1000 productos para el dormitorio de tus sueños</p>
+                    <h2 className='block-title'>Dale forma al hogar que imaginas</h2>
+                    <p className='text'>Explora más de 2500 modelos y diseños y encuentra los que van contigo</p>
                 </div>
 
                 <nav className="w-100">

@@ -147,7 +147,7 @@ function Footer(){
                                             </a>
                                         </li>
                                         <li>
-                                            <a href='https://blog.kamas.pe' title='Blog | Kamas'>
+                                            <a href='https://kamas.pe' title='Kamas | Fabricantes de colchones, camas y juegos de dormitorio'>
                                                 <p>Blog</p>
                                             </a>
                                         </li>

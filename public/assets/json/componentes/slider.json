@@ -1,68 +1,54 @@
 {
     "slider":[
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/1.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/1.jpg",
-            "link": "/productos/dormitorios/?tamaño=king&línea=circulares",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/A.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/A.png",
             "alt": "Dormitorios circulares | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/pag-principal/slider/reserva.png",
-            "foto-mobile": "/assets/imagenes/pag-principal/slider/reserva.png",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/B.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/B.png",
             "alt": "Kamas | Fabricantes de colchones, camas y juegos de dormitorios"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/2.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/2.jpg",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/C.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/C.png",
             "alt": "Envíos gratis todo Lima y Callao | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/3.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/3.jpg",
-            "link": "/envios/envios-a-provincia/",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/D.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/D.png",
             "alt": "Envíos a provincia | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/4.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/4.jpg",
-            "link": "/servicio-al-cliente/medios-de-pago/",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/E.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/E.png",
             "alt": "Medios de pago | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/5.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/5.jpg",
-            "link": "/busqueda?query=orion",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/F.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/F.png",
             "alt": "Dormitorios modelo Orion | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/6.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/6.jpg",
-            "link": "/productos/dormitorios/?línea=nube",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/G.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/G.png",
             "alt": "Dormitorios nube | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/pag-principal/slider/4-plazas.png",
-            "foto-mobile": "/assets/imagenes/pag-principal/slider/4-plazas.png",
-            "link": "/productos/dormitorios/?tamaño=4-plazas",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/H.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/H.png",
             "alt": "Dormitorios 4 plazas | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/componentes/slider/8.jpg",
-            "foto-mobile": "/assets/imagenes/componentes/slider/8.jpg",
-            "link": "/productos/dormitorios/?línea=infantiles",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/I.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/I.png",
             "alt": "Dormitorios infantiles | Kamas"
         },
         {
-            "foto-desktop": "/assets/imagenes/pag-principal/slider/premium.png",
-            "foto-mobile": "/assets/imagenes/pag-principal/slider/premium.png",
-            "link": "/productos/dormitorios/?línea=clasicos-de-madera",
+            "foto-desktop": "/assets/imagenes/pag-principal/slider/J.png",
+            "foto-mobile": "/assets/imagenes/pag-principal/slider/J.png",
             "alt": "Dormitorios clásicos de madera | Kamas"
-        },
-        {
-            "foto-desktop": "/assets/imagenes/pag-principal/slider/piecera.png",
-            "foto-mobile": "/assets/imagenes/pag-principal/slider/piecera.png",
-            "link": "/productos/dormitorios/king/der-prinz/americanos/K324225N17/",
-            "alt": "Dormitorios | Kamas"
         }
     ]
 }

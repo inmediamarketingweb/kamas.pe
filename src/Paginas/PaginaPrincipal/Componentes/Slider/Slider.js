@@ -73,7 +73,7 @@ function Slider(){
 
         const interval = setInterval(() => {
             goToNextSlide();
-        }, 10000);
+        }, 5000);
 
         return () => clearInterval(interval);
     }, [sliderItems.length, goToNextSlide]);
