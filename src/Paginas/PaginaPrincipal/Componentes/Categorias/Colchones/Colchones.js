@@ -3,8 +3,8 @@ function Colchones(){
         <div className="block-container">
             <section className="block-content">
                 <div className="block-title-container">
-                    <h2 className="block-title">Colchones</h2>
-                    <p className="text">Encuentra el ideal para un descanso confortante</p>
+                    <h2 className="block-title">Descanso a tu medida</h2>
+                    <p className="text">Encuentra tu colchón ideal en diferentes niveles de firmeza, tecnología pocket y diseños en la medida y forma que necesitas.</p>
                 </div>
 
                 <ul className="pg-index-cat-prds">

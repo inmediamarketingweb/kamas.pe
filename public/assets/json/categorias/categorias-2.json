@@ -18,51 +18,75 @@
                     "modelos":[
                         {
                             "texto": "Adel",
-                            "link": "/productos/colchones/?modelo-de-colchón=adel"
+                            "link": "/productos/colchones/?modelo-de-colchón=adel",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/adel.png",
+                            "image-alt": "Colchón adel | Kamas"
                         },
                         {
                             "texto": "Rucay",
-                            "link": "/productos/colchones/?modelo-de-colchón=rucay"
+                            "link": "/productos/colchones/?modelo-de-colchón=rucay",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/rucay.png",
+                            "image-alt": "Colchón rucay | Kamas"
                         },
                         {
                             "texto": "Sarki",
-                            "link": "/productos/colchones/?modelo-de-colchón=sarki"
+                            "link": "/productos/colchones/?modelo-de-colchón=sarki",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/sarki.png",
+                            "image-alt": "Colchón sarki | Kamas"
                         },
                         {
                             "texto": "Safynnte",
-                            "link": "/productos/colchones/?modelo-de-colchón=safynnte"
+                            "link": "/productos/colchones/?modelo-de-colchón=safynnte",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/safynnte.png",
+                            "image-alt": "Colchón safynnte | Kamas"
                         },
                         {
                             "texto": "Der prinz",
-                            "link": "/productos/colchones/?modelo-de-colchón=der-prinz"
+                            "link": "/productos/colchones/?modelo-de-colchón=der-prinz",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/der-prinz.png",
+                            "image-alt": "Colchón der prinz | Kamas"
                         },
                         {
                             "texto": "Thameo pocket",
-                            "link": "/productos/colchones/?modelo-de-colchón=thameo-pocket"
+                            "link": "/productos/colchones/?modelo-de-colchón=thameo-pocket",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/thameo-pocket.png",
+                            "image-alt": "Colchón thameo pocket | Kamas"
                         },
                         {
                             "texto": "Ramat",
-                            "link": "/productos/colchones/?modelo-de-colchón=ramat"
+                            "link": "/productos/colchones/?modelo-de-colchón=ramat",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/ramat.png",
+                            "image-alt": "Colchón ramat | Kamas"
                         },
                         {
                             "texto": "Nesie",
-                            "link": "/productos/colchones/?modelo-de-colchón=nesie"
+                            "link": "/productos/colchones/?modelo-de-colchón=nesie",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/nesie.png",
+                            "image-alt": "Colchón nesie | Kamas"
                         },
                         {
                             "texto": "Norole",
-                            "link": "/productos/colchones/?modelo-de-colchón=norole"
+                            "link": "/productos/colchones/?modelo-de-colchón=norole",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/norole.png",
+                            "image-alt": "Colchón norole | Kamas"
                         },
                         {
                             "texto": "Thaleo pocket",
-                            "link": "/productos/colchones/?modelo-de-colchón=thaleo-pocket"
+                            "link": "/productos/colchones/?modelo-de-colchón=thaleo-pocket",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/thaleo-pocket.png",
+                            "image-alt": "Colchón thaleo pocket | Kamas"
                         },
                         {
                             "texto": "Konig",
-                            "link": "/productos/colchones/?modelo-de-colchón=konig"
+                            "link": "/productos/colchones/?modelo-de-colchón=konig",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/konig.png",
+                            "image-alt": "Colchón konig | Kamas"
                         },
                         {
                             "texto": "Yurmale pocket",
-                            "link": "/productos/colchones/?modelo-de-colchón=yurmale"
+                            "link": "/productos/colchones/?modelo-de-colchón=pocket-yurmale",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/yurmale.png",
+                            "image-alt": "Colchón pocket yurmale | Kamas"
                         },
                         {
                             "texto": "Ver todos los modelos",
@@ -111,20 +135,28 @@
                     "tipo-/-tecnología":[
                         {
                             "texto": "Resortes",
-                            "link": "/productos/colchones/?tipo=bonell"
+                            "link": "/productos/colchones/?tipo=bonell",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/resortes-bonell.png",
+                            "image-alt": "Colchones de resortes bonell | Kamas"
                         },
                         {
                             "texto": "Pocket",
-                            "link": "/productos/colchones/?tipo=pocket"
+                            "link": "/productos/colchones/?tipo=pocket",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/resortes-pocket.png",
+                            "image-alt": "Colchones de resortes pocket | Kamas"
                         },
                         {
                             "texto": "Espuma",
-                            "link": "/productos/colchones/?tipo=espuma"
+                            "link": "/productos/colchones/?tipo=espuma",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/colchones-de-espuma.png",
+                            "image-alt": "Colchones de espuma | Kamas"
                         },
                         {
                             "estado": "Proximamente",
                             "texto": "Viscoelásticos",
-                            "link": "/productos/colchones/?tipo=viscoelásticos"
+                            "link": "/productos/colchones/?tipo=viscoelásticos",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/colchones-viscoelasticos.png",
+                            "image-alt": "Colchones de espuma viscoelástica | Kamas"
                         },
                         {
                             "texto": "Ver todos los tipos",
@@ -137,27 +169,37 @@
                         {
                             "id": 1,
                             "texto": "suave",
-                            "link": "/productos/colchones/?nivel-de-confort=suave"
+                            "link": "/productos/colchones/?nivel-de-confort=suave",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/suave.png",
+                            "image-alt": "Colchones suaves | Kamas"
                         },
                         {
                             "id": 2,
                             "texto": "medio suave",
-                            "link": "/productos/colchones/?nivel-de-confort=medio-suave"
+                            "link": "/productos/colchones/?nivel-de-confort=medio-suave",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/medio-suave.png",
+                            "image-alt": "Colchones medios suaves | Kamas"
                         },
                         {
                             "id": 3,
                             "texto": "intermedio",
-                            "link": "/productos/colchones/?nivel-de-confort=intermedio"
+                            "link": "/productos/colchones/?nivel-de-confort=intermedio",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/intermedio.png",
+                            "image-alt": "Colchones intermedios | Kamas"
                         },
                         {
                             "id": 4,
                             "texto": "firme",
-                            "link": "/productos/colchones/?nivel-de-confort=firme"
+                            "link": "/productos/colchones/?nivel-de-confort=firme",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/firme.png",
+                            "image-alt": "Colchones firmes | Kamas"
                         },
                         {
                             "id": 5,
                             "texto": "muy firme",
-                            "link": "/productos/colchones/?nivel-de-confort=muy-firme"
+                            "link": "/productos/colchones/?nivel-de-confort=muy-firme",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/colchones/muy-firme.png",
+                            "image-alt": "Colchones firmes | Kamas"
                         },
                         {
                             "texto": "Ver todos los tipos",
@@ -216,50 +258,50 @@
                         {
                             "texto": "Americanas",
                             "link": "/productos/camas/?línea=americanas",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/americanas.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/americanas.png",
+                            "image-alt": "Camas americanas | Kamas"
                         },
                         {
                             "texto": "Europeas",
                             "link": "/productos/camas/?línea=europeas",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/europeas.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/europeas.png",
+                            "image-alt": "Camas europeas | Kamas"
                         },
                         {
                             "texto": "Clásicas de madera",
                             "link": "/productos/camas/?línea=clásicas-de-madera",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/clasicas-de-madera.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/de-madera.png",
+                            "image-alt": "Camas clásicas de madera | Kamas"
                         },
                         {
                             "texto": "Camas espacios",
                             "link": "/productos/camas/?línea=box-espacios",
-                            "image": "https://media.falabella.com/tottusPE/40858572_2/w=1500,h=1500,fit=cover",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/espacio.png",
+                            "image-alt": "Camas espacio | Kamas"
                         },
                         {
                             "texto": "Camarotes",
                             "link": "/productos/camas/?línea=camarotes",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/camarotes.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/camarotes.png",
+                            "image-alt": "Camarotes | Kamas"
                         },
                         {
                             "texto": "Infantiles",
                             "link": "/productos/camas/?línea=infantiles",
-                            "image": "https://m.media-amazon.com/images/I/71wJAPw7u4L.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/infantiles.png",
+                            "image-alt": "Camas infantiles | Kamas"
                         },
                         {
                             "texto": "Cunas",
                             "link": "/productos/camas/?tamaño=cuna",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/cunas.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/cunas.png",
+                            "image-alt": "Cunas | Kamas"
                         },
                         {
                             "texto": "Divanes",
                             "link": "/productos/camas/?línea=divanes",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/divan.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/divanes.png",
+                            "image-alt": "Camas divanes | Kamas"
                         }
                     ]
                 },
@@ -269,46 +311,46 @@
                             "estado": "Nuevo",
                             "texto": "Smart",
                             "link": "/productos/camas/?línea=smart",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/smart.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/smart.png",
+                            "image-alt": "Camas smart | Kamas"
                         },
                         {
                             "texto": "Nube",
                             "link": "/productos/camas/?línea=nube",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/nube.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/nube.png",
+                            "image-alt": "Camas nube | Kamas"
                         },
                         {
                             "estado": "Nuevo",
                             "texto": "Talladas",
                             "link": "/productos/camas/?línea=talladas",
-                            "image": "https://aarsunwoods.com/wp-content/uploads/2025/12/Carved-Wooden-Bed-Natural-Finish-scaled.webp",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/talladas.png",
+                            "image-alt": "Camas talladas | Kamas"
                         },
                         {
                             "estado": "Nuevo",
                             "texto": "Acero inoxidable",
                             "link": "/productos/camas/?línea=acero-inoxidable",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/acero-inoxidable.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/de-acero.png",
+                            "image-alt": "Camas de acero inoxidable | Kamas"
                         },
                         {
                             "texto": "Circulares",
                             "link": "/productos/camas/?línea=circulares",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/circulares.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/circulares.png",
+                            "image-alt": "Camas circulares | Kamas"
                         },
                         {
                             "texto": "Camas con veladores",
                             "link": "/productos/camas/?veladores=si",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/con-veladores.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/con-veladores.png",
+                            "image-alt": "Camas con veladores | Kamas"
                         },
                         {
                             "texto": "Camas con baúl",
                             "link": "/productos/camas/?baúl=si",
-                            "image": "/assets/imagenes/productos/camas-box-tarimas/con-baul.jpg",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/camas/con-baul.png",
+                            "image-alt": "Camas con baúl | Kamas"
                         }
                     ]
                 },
@@ -745,23 +787,33 @@
                     "tipos-de-sófas":[
                         {
                             "texto": "Sófas fijos",
-                            "link": "/productos/sofas/?línea=juegos-de-sala"
+                            "link": "/productos/sofas/?línea=juegos-de-sala",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/fijos.png",
+                            "image-alt": "Juegos de salas | Kamas"
                         },
                         {
                             "texto": "Seccionales",
-                            "link": "/productos/sofas/?línea=seccinales"
+                            "link": "/productos/sofas/?línea=seccinales",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/seccionales.png",
+                            "image-alt": "Seccionales | Kamas"
                         },
                         {
                             "texto": "Sófas camas",
-                            "link": "/productos/sofas/?línea=sófas-camas"
+                            "link": "/productos/sofas/?línea=sófas-camas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/sofa-cama.png",
+                            "image-alt": "Sófa camas | Kamas"
                         },
                         {
                             "texto": "Reclinables",
-                            "link": "/productos/sofas/?línea=reclinables"
+                            "link": "/productos/sofas/?línea=reclinables",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/reclinables.png",
+                            "image-alt": "Reclinables | Kamas"
                         },
                         {
                             "texto": "Juegos de sala",
-                            "link": "/productos/sofas/?línea=mecedoras"
+                            "link": "/productos/sofas/?línea=mecedoras",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/juegos-de-sala.png",
+                            "image-alt": "Juegos de sala | Kamas"
                         },
                         {
                             "texto": "Ver todos los sófas",
@@ -773,15 +825,21 @@
                     "sillones-y-asientos":[
                         {
                             "texto": "sillones",
-                            "link": "/productos/sofas/?línea=sillones"
+                            "link": "/productos/sofas/?línea=sillones",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/sillones.png",
+                            "image-alt": "Sillones | Kamas"
                         },
                         {
                             "texto": "butacas",
-                            "link": "/productos/sofas/?línea=butacas"
+                            "link": "/productos/sofas/?línea=butacas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/butacas.png",
+                            "image-alt": "Butacas | Kamas"
                         },
                         {
                             "texto": "mecedoras",
-                            "link": "/productos/sofas/?línea=mecedoras"
+                            "link": "/productos/sofas/?línea=mecedoras",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/mecedoras.png",
+                            "image-alt": "Mecedoras | Kamas"
                         },
                         {
                             "texto": "Ver todos",
@@ -793,19 +851,27 @@
                     "colecciones":[
                         {
                             "texto": "Tapizados",
-                            "link": "/productos/sofas/?colección=tapizados"
+                            "link": "/productos/sofas/?colección=tapizados",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/sofas-2.png",
+                            "image-alt": "Sófas tapizados | Kamas"
                         },
                         {
                             "texto": "De madera",
-                            "link": "/productos/sofas/?colección=de-madera"
+                            "link": "/productos/sofas/?colección=de-madera",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/de-madera.png",
+                            "image-alt": "Sófas de madera | Kamas"
                         },
                         {
                             "texto": "Tallados",
-                            "link": "/productos/sofas/?colección=tallados"
+                            "link": "/productos/sofas/?colección=tallados",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/tallados.png",
+                            "image-alt": "Sófas tallados | Kamas"
                         },
                         {
                             "texto": "Acero inoxidable",
-                            "link": "/productos/sofas/?colección=acero-inoxidable"
+                            "link": "/productos/sofas/?colección=acero-inoxidable",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles/de-acero.png",
+                            "image-alt": "Sófas de acero | Kamas"
                         },
                         {
                             "texto": "Ver todos las colecciones",
@@ -858,19 +924,27 @@
                     "proyectos-principales":[
                         {
                             "texto": "cocinas",
-                            "link": "/productos/muebles-a-medida/?línea=cocinas"
+                            "link": "/productos/muebles-a-medida/?línea=cocinas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/cocinas.png",
+                            "image-alt": "Cocinas a medida | Kamas"
                         },
                         {
                             "texto": "clósets y roperos",
-                            "link": "/productos/muebles-a-medida/?línea=clósets-y-roperos"
+                            "link": "/productos/muebles-a-medida/?línea=clósets-y-roperos",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/closets.png",
+                            "image-alt": "Roperos a medida | Kamas"
                         },
                         {
                             "texto": "centros de entretenimiento",
-                            "link": "/productos/muebles-a-medida/?línea=centros-de-entretenimiento"
+                            "link": "/productos/muebles-a-medida/?línea=centros-de-entretenimiento",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/centros.png",
+                            "image-alt": "Centros de entretenemiento a medida | Kamas"
                         },
                         {
                             "texto": "muebles para dormitorios",
-                            "link": "/productos/muebles-a-medida/?línea=muebles-para-dormitorios"
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-dormitorios",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/dormitorios.png",
+                            "image-alt": "Dormitorios a medida | Kamas"
                         }
                     ]
                 },
@@ -878,23 +952,33 @@
                     "más-espacios":[
                         {
                             "texto": "escritorios y oficinas",
-                            "link": "/productos/muebles-a-medida/?línea=escritorios-y-oficinas"
+                            "link": "/productos/muebles-a-medida/?línea=escritorios-y-oficinas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/escritorios.png",
+                            "image-alt": "Escritorios a medida | Kamas"
                         },
                         {
                             "texto": "muebles para baño",
-                            "link": "/productos/muebles-a-medida/?línea=muebles-para-baño"
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-baño",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/baños-2.png",
+                            "image-alt": "Muebles para lavanderías a medida | Kamas"
                         },
                         {
                             "texto": "muebles para lavanderías",
-                            "link": "/productos/muebles-a-medida/?línea=muebles-para-lavanderías"
+                            "link": "/productos/muebles-a-medida/?línea=muebles-para-lavanderías",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/baños.png",
+                            "image-alt": "Muebles para baños a medida | Kamas"
                         },
                         {
                             "texto": "muebles bajo escalera",
-                            "link": "/productos/muebles-a-medida/?línea=muebles-bajo-escalera"
+                            "link": "/productos/muebles-a-medida/?línea=muebles-bajo-escalera",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/escaleras.png",
+                            "image-alt": "Muebles bajo escaleras a medida | Kamas"
                         },
                         {
                             "texto": "otros muebles a medida",
-                            "link": "/productos/muebles-a-medida/?línea=otros-muebles-a-medida"
+                            "link": "/productos/muebles-a-medida/?línea=otros-muebles-a-medida",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/muebles-a-medida/otros.png",
+                            "image-alt": "Otros muebles a medida | Kamas"
                         }
                     ]
                 },
@@ -944,15 +1028,21 @@
                     "camas-y-descanso":[
                         {
                             "texto": "colchones pet",
-                            "link": "/productos/pet/?línea=colchones-pet"
+                            "link": "/productos/pet/?línea=colchones-pet",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/colchones.png",
+                            "image-alt": "Colchones pet | Kamas"
                         },
                         {
                             "texto": "camas tapizadas",
-                            "link": "/productos/pet/?línea=camas-tapizadas"
+                            "link": "/productos/pet/?línea=camas-tapizadas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/camas.png",
+                            "image-alt": "Camas pet | Kamas"
                         },
                         {
                             "texto": "pet wood",
-                            "link": "/productos/pet/?línea=pet-wood"
+                            "link": "/productos/pet/?línea=pet-wood",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/camas-2.png",
+                            "image-alt": "Camas pet | Kamas"
                         }
                     ]
                 },
@@ -960,15 +1050,15 @@
                     "confort-y-espacios":[
                         {
                             "texto": "confort pet",
-                            "link": "/productos/pet/?línea=confort-pet"
+                            "link": "/productos/pet/?línea=confort-pet",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/casas.png",
+                            "image-alt": "Camas pet | Kamas"
                         },
                         {
                             "texto": "muebles pet",
-                            "link": "/productos/pet/?línea=muebles-pet"
-                        },
-                        {
-                            "texto": "confort pet",
-                            "link": "/productos/pet/?línea=camas-pet-integradas"
+                            "link": "/productos/pet/?línea=muebles-pet",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/muebles.png",
+                            "image-alt": "Muebles pet | Kamas"
                         }
                     ]
                 },
@@ -978,8 +1068,8 @@
                             "titulo": "Descansen cerca, cada uno en su espacio",
                             "texto": "Descubre nuestras camas con espacios integradas para mascotas.",
                             "link": "/productos/camas/?línea=camas-pet-integradas",
-                            "image": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                            "image-alt": ""
+                            "image": "/assets/imagenes/componentes/header/subcategorias/pet/juntos.png",
+                            "image-alt": "Camas compartidas con mascotas | Kamas"
                         }
                     ]
                 }
@@ -1022,19 +1112,27 @@
                     "Muebles complementarios":[
                         {
                             "texto": "veladores",
-                            "link": "/productos/complementos/?subcategoría=veladores"
+                            "link": "/productos/complementos/?subcategoría=veladores",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/veladores.png",
+                            "image-alt": "Veladores | Kamas"
                         },
                         {
                             "texto": "baúles",
-                            "link": "/productos/complementos/?subcategoría=baúles"
+                            "link": "/productos/complementos/?subcategoría=baúles",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/baules.png",
+                            "image-alt": "Baúles | Kamas"
                         },
                         {
                             "texto": "puff",
-                            "link": "/productos/complementos/?subcategoría=puffs"
+                            "link": "/productos/complementos/?subcategoría=puffs",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/puff.png",
+                            "image-alt": "Puffs | Kamas"
                         },
                         {
                             "texto": "banquetas y pie de cama",
-                            "link": "/productos/complementos/?subcategoría=banquetas-y-pie-de-cama"
+                            "link": "/productos/complementos/?subcategoría=banquetas-y-pie-de-cama",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/pie-de-cama.png",
+                            "image-alt": "Banquetas y pie de cama | Kamas"
                         }
                     ]
                 },
@@ -1042,27 +1140,39 @@
                     "ropa de cama":[
                         {
                             "texto": "sábanas y juegos de cama",
-                            "link": "/productos/complementos/?subcategoría=sábanas-y-juegos-de-cama"
+                            "link": "/productos/complementos/?subcategoría=sábanas-y-juegos-de-cama",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/sabanas.png",
+                            "image-alt": "Sábanas y juegos de camas | Kamas"
                         },
                         {
                             "texto": "edredones y plumones",
-                            "link": "/productos/complementos/?subcategoría=edredones-y-plumones"
+                            "link": "/productos/complementos/?subcategoría=edredones-y-plumones",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/edredones.png",
+                            "image-alt": "Edredondes y plumones | Kamas"
                         },
                         {
                             "texto": "cubrecamas y quilts",
-                            "link": "/productos/complementos/?subcategoría=cubrecamas-y-quilts"
+                            "link": "/productos/complementos/?subcategoría=cubrecamas-y-quilts",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/edredones.png",
+                            "image-alt": "Cubrecamas y quilts | Kamas"
                         },
                         {
                             "texto": "mantas y frazadas",
-                            "link": "/productos/complementos/?subcategoría=mantas-y-frazadas"
+                            "link": "/productos/complementos/?subcategoría=mantas-y-frazadas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/mantas.png",
+                            "image-alt": "Mantas y frazadas | Kamas"
                         },
                         {
                             "texto": "pieceras",
-                            "link": "/productos/complementos/?subcategoría=pieceras"
+                            "link": "/productos/complementos/?subcategoría=pieceras",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/pieceras.png",
+                            "image-alt": "Pieceras | Kamas"
                         },
                         {
                             "texto": "fundas de plumón",
-                            "link": "/productos/complementos/?subcategoría=fundas-de-plumón"
+                            "link": "/productos/complementos/?subcategoría=fundas-de-plumón",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/fundas-de-plumon.png",
+                            "image-alt": "Fundas de plumón | Kamas"
                         }
                     ]
                 },
@@ -1070,19 +1180,27 @@
                     "protección y confort":[
                         {
                             "texto": "protectores de colchón",
-                            "link": "/productos/complementos/?línea=protectores-de-colchón"
+                            "link": "/productos/complementos/?línea=protectores-de-colchón",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/protectores-de-colchon.png",
+                            "image-alt": "Protectotes de colchón | Kamas"
                         },
                         {
                             "texto": "protectores de almohadas",
-                            "link": "/productos/complementos/?línea=protectores-de-almohadas"
+                            "link": "/productos/complementos/?línea=protectores-de-almohadas",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/protectores-de-almohadas.png",
+                            "image-alt": "Protectores de almohadas | Kamas"
                         },
                         {
                             "texto": "toppers y cubrecolchones",
-                            "link": "/productos/complementos/?línea=toppers-y-cubrecolchones"
+                            "link": "/productos/complementos/?línea=toppers-y-cubrecolchones",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/edredones.png",
+                            "image-alt": "Toppers y cubrecolchones | Kamas"
                         },
                         {
                             "texto": "fundas y protectores especiales",
-                            "link": "/productos/complementos/?línea=fundas-y-protectores-especiales"
+                            "link": "/productos/complementos/?línea=fundas-y-protectores-especiales",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/protectores-especiales.png",
+                            "image-alt": "Fundas y protectores especiales | Kamas"
                         }
                     ]
                 },
@@ -1090,19 +1208,27 @@
                     "accesorios y decoración":[
                         {
                             "texto": "cojines decorativos",
-                            "link": "/productos/complementos/?línea=cojines-decorativos"
+                            "link": "/productos/complementos/?línea=cojines-decorativos",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/cojines.png",
+                            "image-alt": "Cojines decorativos | Kamas"
                         },
                         {
                             "texto": "organizadores textiles",
-                            "link": "/productos/complementos/?línea=organizadores-textiles"
+                            "link": "/productos/complementos/?línea=organizadores-textiles",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/organizadores.png",
+                            "image-alt": "Organizadores textiles | Kamas"
                         },
                         {
                             "texto": "espejos y decoración",
-                            "link": "/productos/complementos/?línea=espejos-y-decoración"
+                            "link": "/productos/complementos/?línea=espejos-y-decoración",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/espejos.png",
+                            "image-alt": "Espejos y decoración | Kamas"
                         },
                         {
                             "texto": "iluminación",
-                            "link": "/productos/complementos/?línea=iluminación"
+                            "link": "/productos/complementos/?línea=iluminación",
+                            "image": "/assets/imagenes/componentes/header/subcategorias/complementos/lamparas.png",
+                            "image-alt": "Iluminación | Kamas"
                         }
                     ]
                 }
