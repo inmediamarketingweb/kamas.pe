@@ -209,7 +209,7 @@ function ProyectosYAlianzas(){
                     </section>
                 </div>
 
-                <div className='block-container'>
+                <div className='block-container bg-beige-claro padding-20'>
                     <section className='block-content'>
                         <div className='d-grid-2-1fr gap-20'>
                             <div className='d-flex-column gap-20'>
@@ -226,6 +226,92 @@ function ProyectosYAlianzas(){
                                         <span className="material-symbols-outlined">call</span>
                                         <p className='button-link-text font-bold'>917 013 610</p>
                                     </a>
+                                </div>
+
+                                <div className='d-flex-column'>
+                                    <p className='text'>¿Buscas una alianza comercial?</p>
+                                    <p className='text'>También queremos conocerte</p>
+                                </div>
+                            </div>
+
+                            <div className='d-flex-column gap-20 padding-20 bg-white'>
+                                <p className='block-title'>Solicita una propuesta</p>
+
+                                <div className='d-flex-center-left gap-20'>
+                                    <div className='d-flex-center-center gap-5'>
+                                        <input type='radio' />
+                                        <p className='text'>Cotizar un proyecto</p>
+                                    </div>
+
+                                    <div className='d-flex-center-center gap-5'>
+                                        <input type='radio' />
+                                        <p className='text'>Proponer una alianza</p>
+                                    </div>
+                                </div>
+
+                                <div className='d-grid-2 gap-10'>
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>Nombre y apellido</p>
+                                        <input type='text' placeholder='Nombre y apellido' className='input-form-comun'></input>
+                                    </div>
+
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>Empresa</p>
+                                        <input type='text' placeholder='Empresa' className='input-form-comun'></input>
+                                    </div>
+
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>WhatsApp</p>
+                                        <input type='text' placeholder='WhatsApp' className='input-form-comun'></input>
+                                    </div>
+
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>Correo electrónico</p>
+                                        <input type='text' placeholder='Correo electrónico' className='input-form-comun'></input>
+                                    </div>
+
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>Tipo de proyecto</p>
+
+                                        <select className='input-form-select'>
+                                            <option>Selecciona un opción</option>
+                                            <option>Opción 1</option>
+                                            <option>Opción 2</option>
+                                            <option>Opción 3</option>
+                                            <option>Opción 4</option>
+                                            <option>Opción 5</option>
+                                        </select>
+                                    </div>
+
+                                    <div className='d-flex-column'>
+                                        <p className='d-flex'>Ciudad</p>
+                                        <input type='text' placeholder='Ciudad' className='input-form-comun'></input>
+                                    </div>
+
+                                    <div className='d-flex-column d-grid-1-1-full-row'>
+                                        <p className='d-flex'>Cuéntanos que necesitas</p>
+                                        <textarea className='d-flex w-100 padding-10' placeholder='Productos, cantidades aproximadas y fecha estimada.'></textarea>
+                                    </div>
+
+                                    <div className='d-flex-column d-grid-1-1-full-row'>
+                                        <p className='text'>Adjuntar planos o referencias (opcional)</p>
+                                        <input type='file'></input>
+                                    </div>
+
+                                    <div className='d-flex-center-left d-grid-1-1-full-row gap-10'>
+                                        <input type='checkbox'></input>
+
+                                        <div className='d-flex gap-5'>
+                                            <p className='text'>He leído la</p>
+                                            <a href='/' title='Política de privacidad | Kamas' className='text color-color-2 underline'>política de privacidad</a>
+                                        </div>
+                                    </div>
+
+                                    <div className='d-grid-1-1-full-row'>
+                                        <a href='/' title='' className='button-link button-link-2 w-100'>
+                                            <p className='button-link-text'>Enviar solicitud</p>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
