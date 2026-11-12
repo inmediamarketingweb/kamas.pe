@@ -75,6 +75,8 @@ import Cotizador from './Paginas/Vendedores/Cotizador/Cotizador';
 //*Servicio al cliente*
 import Citas from './Paginas/ServicioAlCliente/Citas/Citas';
 
+import Mayoristas from './Paginas/ProyectosYAlianzas/Mayoristas/Mayoristas';
+
 import './App.css';
 
 function App(){
@@ -131,6 +133,7 @@ function App(){
                         <Route path="/nosotros/" element={<Nosotros/>} />
 
                         <Route path="/proyectos-y-alianzas/" element={<ProyectosYAlianzas/>} />
+                        <Route path="/ventas-al-por-mayor/" element={<Mayoristas/>} />
 
                         <Route path="/nosotros/razones-para-comprar/" element={<RazonesParaComprar/>}/>
                         <Route path="/nosotros/propiedad-intelectual/" element={<PropiedadIntelectual/>}/>
