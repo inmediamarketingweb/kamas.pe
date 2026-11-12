@@ -95,43 +95,6 @@
                     ]
                 },
                 {
-                    "medidas":[
-                        {
-                            "texto": "cuna",
-                            "link": "/productos/colchones/?tamaño=cuna"
-                        },
-                        {
-                            "texto": "1 plaza",
-                            "link": "/productos/colchones/?tamaño=1-plaza"
-                        },
-                        {
-                            "texto": "1 plaza y media",
-                            "link": "/productos/colchones/?tamaño=1-plaza-y-media"
-                        },
-                        {
-                            "texto": "2 plazas",
-                            "link": "/productos/colchones/?tamaño=2-plazas"
-                        },
-                        {
-                            "texto": "queen",
-                            "link": "/productos/colchones/?tamaño=queen"
-                        },
-                        {
-                            "texto": "king",
-                            "link": "/productos/colchones/?tamaño=king"
-                        },
-                        {
-                            "estado": "Nuevo",
-                            "texto": "4 plazas",
-                            "link": "/productos/colchones/?tamaño=4-plazas"
-                        },
-                        {
-                            "texto": "Ver todas las medidas",
-                            "link": "/productos/colchones/"
-                        }
-                    ]
-                },
-                {
                     "tipo-/-tecnología":[
                         {
                             "texto": "Resortes",
@@ -203,6 +166,43 @@
                         },
                         {
                             "texto": "Ver todos los tipos",
+                            "link": "/productos/colchones/"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "texto": "cuna",
+                            "link": "/productos/colchones/?tamaño=cuna"
+                        },
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/colchones/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/colchones/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/colchones/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/colchones/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/colchones/?tamaño=king"
+                        },
+                        {
+                            "estado": "Nuevo",
+                            "texto": "4 plazas",
+                            "link": "/productos/colchones/?tamaño=4-plazas"
+                        },
+                        {
+                            "texto": "Ver todas las medidas",
                             "link": "/productos/colchones/"
                         }
                     ]
@@ -610,34 +610,6 @@
             ],
             "listas":[
                 {
-                    "medidas":[
-                        {
-                            "texto": "1 plaza",
-                            "link": "/productos/cabeceras/?tamaño=1-plaza"
-                        },
-                        {
-                            "texto": "1 plaza y media",
-                            "link": "/productos/cabeceras/?tamaño=1-plaza-y-media"
-                        },
-                        {
-                            "texto": "2 plazas",
-                            "link": "/productos/cabeceras/?tamaño=2-plazas"
-                        },
-                        {
-                            "texto": "queen",
-                            "link": "/productos/cabeceras/?tamaño=queen"
-                        },
-                        {
-                            "texto": "king",
-                            "link": "/productos/cabeceras/?tamaño=king"
-                        },
-                        {
-                            "texto": "Ver todas las medidas",
-                            "link": "/productos/cabeceras/"
-                        }
-                    ]
-                },
-                {
                     "colecciones":[
                         {
                             "texto": "cabeceras tapizadas",
@@ -734,6 +706,34 @@
                             "link": "/productos/cabeceras/",
                             "image": "/assets/imagenes/componentes/header/subcategorias/cabeceras/ver-todos-1.png",
                             "image-alt": "Cabeceras | Kamas"
+                        }
+                    ]
+                },
+                {
+                    "medidas":[
+                        {
+                            "texto": "1 plaza",
+                            "link": "/productos/cabeceras/?tamaño=1-plaza"
+                        },
+                        {
+                            "texto": "1 plaza y media",
+                            "link": "/productos/cabeceras/?tamaño=1-plaza-y-media"
+                        },
+                        {
+                            "texto": "2 plazas",
+                            "link": "/productos/cabeceras/?tamaño=2-plazas"
+                        },
+                        {
+                            "texto": "queen",
+                            "link": "/productos/cabeceras/?tamaño=queen"
+                        },
+                        {
+                            "texto": "king",
+                            "link": "/productos/cabeceras/?tamaño=king"
+                        },
+                        {
+                            "texto": "Ver todas las medidas",
+                            "link": "/productos/cabeceras/"
                         }
                     ]
                 },
@@ -913,12 +913,6 @@
             "textos":[
                 "Contamos con una amplia gama de colchones en diversos tamaños, nivel de comodidad y modelos propios."
             ],
-            "image-1":[
-                {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
-                    "alt": ""
-                }
-            ],
             "listas":[
                 {
                     "proyectos-principales":[
@@ -1003,9 +997,15 @@
                     ]
                 }
             ],
+            "image-1":[
+                {
+                    "src": "/assets/imagenes/componentes/header/banners/muebles-a-medida-1.png",
+                    "alt": ""
+                }
+            ],
             "image-2":[
                 {
-                    "src": "https://homesleep.pe/assets/imagenes/productos/complementos/1.webp",
+                    "src": "/assets/imagenes/componentes/header/banners/muebles-a-medida-2.png",
                     "alt": ""
                 }
             ]
