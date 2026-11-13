@@ -199,6 +199,16 @@ main{
     rotate: 0deg !important;
 }
 
+.big-number-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    font-size: 48px;
+    font-weight: bold;
+}
+
 fieldset{
     border: 0;
     outline: 0;
@@ -267,6 +277,14 @@ button{
 
 .bg-beige-claro{
     background: var(--beige-claro);
+}
+
+.bg-color-2{
+    background: var(--color-2);
+}
+
+.bg-light-color-2{
+    background: #6C0C2C10;
 }
 
 .border-r-4{
@@ -686,7 +704,9 @@ button{
 .button-link-3,
 .button-link-4,
 .button-link-7,
-.button-link-10{
+.button-link-10,
+.button-link-11,
+.button-link-12{
     width: auto;
     height: 44px;
     padding: 0 10px;
@@ -845,6 +865,23 @@ button{
 
 .button-link-10 span{
     color: var(--color-2);
+}
+
+.button-link-11{
+    background: var(--white);
+}
+
+.button-link-11 .button-link-text{
+    color: var(--color-1);
+}
+
+.button-link-12{
+    background: transparent;
+    border: 1px solid var(--white);
+}
+
+.button-link-12 .button-link-text{
+    color: var(--white);
 }
 
 .button-link-10 .button-link-text{
