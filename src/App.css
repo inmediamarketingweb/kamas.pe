@@ -295,6 +295,10 @@ button{
     border-radius: 6px !important;
 }
 
+.border-r-25{
+    border-radius: 25px !important;
+}
+
 .color-red{
     color: #FF0000;
 }
@@ -309,6 +313,10 @@ button{
 
 .color-gray{
     color: gray !important;
+}
+
+.color-text{
+    color: var(--text) !important;
 }
 
 .color-color-1{
@@ -463,6 +471,10 @@ button{
     max-width: none !important;
 }
 
+.min-w-180{
+    min-width: 180px !important;
+}
+
 .mx-w-30-then-100{
     max-width: 30%;
 }
@@ -560,6 +572,11 @@ button{
     grid-template-columns: repeat(4, 1fr);
 }
 
+.d-grid-4-2-1{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
 .d-grid-1-3fr{
     display: grid;
     grid-template-columns: 1fr 3fr;
@@ -639,6 +656,10 @@ button{
     padding: 20px;
 }
 
+.padding-10-20{
+    padding: 10px 20px;
+}
+
 .padding-left-right-10{
     padding: 0 10px;
 }
@@ -706,7 +727,8 @@ button{
 .button-link-7,
 .button-link-10,
 .button-link-11,
-.button-link-12{
+.button-link-12,
+.button-link-13{
     width: auto;
     height: 44px;
     padding: 0 10px;
@@ -887,6 +909,16 @@ button{
 .button-link-10 .button-link-text{
     color: var(--color-2);
     font-weight: bold;
+}
+
+.button-link-13{
+    background: #AD336210;
+    justify-content: space-between !important;
+}
+
+.button-link-13 .button-link-text,
+.button-link-13 span{
+    color: var(--color-2);
 }
 
 .button-link-wsp{
@@ -1116,6 +1148,34 @@ input[type="checkbox"]{
     /* background: orange; */
 }
 
+.faq-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.faq-tag{
+    border: 1px solid var(--gray);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.fag-tag-title{
+    width: 100%;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+
+    padding: 0 10px;
+}
+
+.faq-content{
+    height: 0;
+    overflow: hidden;
+}
+
 @media screen and (max-width: 800px){
     main{
         margin-top: 142px !important;
@@ -1126,7 +1186,8 @@ input[type="checkbox"]{
         grid-template-columns: repeat(3, 1fr) !important;
     }
 
-    .d-grid-4-2{
+    .d-grid-4-2,
+    .d-grid-4-2-1{
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -1149,7 +1210,8 @@ input[type="checkbox"]{
     .d-grid-auto-1fr,
     .d-grid-1-3fr,
     .d-grid-3-1fr,
-    .work-w-out{
+    .work-w-out,
+    .d-grid-4-2-1{
         grid-template-columns: 1fr;
     }
 
