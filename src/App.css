@@ -17,7 +17,7 @@
     --body: #FFFFFF;
 
     --white: #FFFFFF;
-    --component: #FAFAFA;
+    --component: #eeeeee;
     --component-border: #00000030;
     --gray: #434343;
     --black: #000000;
@@ -287,6 +287,10 @@ button{
     background: #6C0C2C10;
 }
 
+.bg-light-green{
+    background: #08B10810;
+}
+
 .border-r-4{
     border-radius: 4px !important;
 }
@@ -295,8 +299,20 @@ button{
     border-radius: 6px !important;
 }
 
+.border-r-10{
+    border-radius: 10px !important;
+}
+
 .border-r-25{
     border-radius: 25px !important;
+}
+
+.border-t-1-component{
+    border-top: 1px solid var(--component);
+}
+
+.border-b-1-component{
+    border-bottom: 1px solid var(--component);
 }
 
 .color-red{
@@ -327,17 +343,25 @@ button{
     color: var(--color-2) !important;
 }
 
+.color-wsp-1{
+    color: var(--whatsapp);
+}
+
+.color-wsp-2{
+    color: var(--whatsapp-2);
+}
+
+.text{
+    color: var(--text);
+    transition: var(--t-200ms-linear);
+}
+
 .color-black-2{
     color: var(--black-2) !important;
 }
 
 .color-black-0{
     color: var(--black) !important;
-}
-
-.text{
-    color: var(--text);
-    transition: var(--t-200ms-linear);
 }
 
 .text-outfit{
@@ -403,21 +427,21 @@ button{
 }
 
 .d-flex-center-center{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
 
 .d-flex-center-between{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between !important;
 }
 
 .d-flex-center-left{
-    display: flex;
-    align-items: center;
-    justify-content: left;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: left !important;
 }
 
 .d-flex-center-right{
@@ -648,6 +672,10 @@ button{
     margin: 0 7px;
 }
 
+.padding-5{
+    padding: 5px;
+}
+
 .padding-10{
     padding: 10px;
 }
@@ -728,7 +756,9 @@ button{
 .button-link-10,
 .button-link-11,
 .button-link-12,
-.button-link-13{
+.button-link-13,
+.button-link-14,
+.button-link-15{
     width: auto;
     height: 44px;
     padding: 0 10px;
@@ -921,6 +951,22 @@ button{
     color: var(--color-2);
 }
 
+.button-link-14{
+    background: var(--white);
+}
+
+.button-link-14 .button-link-text{
+    color: var(--color-1);
+}
+
+.button-link-15{
+    border: 1px solid var(--white);
+}
+
+.button-link-15 .button-link-text{
+    color: var(--white);
+}
+
 .button-link-wsp{
     border: 2px solid var(--whatsapp);
     width: auto;
@@ -997,6 +1043,35 @@ input[type="checkbox"]{
     justify-content: center;
     color: var(--color-2);
     font-size: 44px;
+}
+
+.super-icon-2{
+    width: 80px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-2);
+    background: #AD336210;
+    font-size: 40px;
+}
+
+.super-big-icon{
+    font-size: 76px;
+    color: var(--color-2);
+}
+
+.big-number-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: auto;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background: var(--color-2);
+    color: var(--white);
 }
 
 .border-1-gray{
@@ -1109,6 +1184,7 @@ input[type="checkbox"]{
 .list-simple li::before{
     content: '✔';
     color: var(--color-1);
+    margin-right: 7px;
 }
 
 .visible-on-desktop-no-mobile{
@@ -1173,6 +1249,10 @@ input[type="checkbox"]{
 
 .faq-content{
     height: 0;
+    overflow: hidden;
+}
+
+.overflow-hidden{
     overflow: hidden;
 }
 

@@ -76,6 +76,9 @@ import Cotizador from './Paginas/Vendedores/Cotizador/Cotizador';
 import Citas from './Paginas/ServicioAlCliente/Citas/Citas';
 
 import Mayoristas from './Paginas/ProyectosYAlianzas/Mayoristas/Mayoristas';
+import EntregasYEnvios from "./Paginas/ServicioAlCliente/EntregasYEnvios";
+import UsoYCuidado from "./Paginas/ServicioAlCliente/UsoYCuidado";
+import Envios from './Paginas/ServicioAlCliente/Envios';
 
 import './App.css';
 
@@ -172,6 +175,11 @@ function App(){
 
                         <Route path="/contacto/" element={<Contacto/>} />
                         <Route path="/contacto/libro-de-reclamaciones/" element={<LibroDeReclamaciones/>} />
+
+                        <Route path="/atencion-al-cliente/entregas-y-envios/" element={<EntregasYEnvios/>}/>
+                        <Route path="/atencion-al-cliente/uso-y-cuidado/" element={<UsoYCuidado/>}/>
+
+                        <Route path="/servicio-al-cliente/envios/" element={<Envios/>}/>
 
                         <Route path="/busqueda/" element={<Busqueda/>} />
 
