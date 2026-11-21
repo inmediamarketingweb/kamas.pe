@@ -81,6 +81,16 @@ function Footer(){
                                         </a>
                                     </li>
                                     <li>
+                                        <a href='/servicio-al-cliente/envios/' title='Envíos | Kamas'>
+                                            <p>Envíos</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='/atencion-al-cliente/entregas-y-envios/' title='Entregas y envíos | Kamas'>
+                                            <p>Entregas y envíos</p>
+                                        </a>
+                                    </li>
+                                    <li>
                                         <a href='/servicio-al-cliente/costos-de-envio-por-zona/' title='Costos de envio por zona | Kamas'>
                                             <p>Costos de envío por zona</p>
                                         </a>
@@ -123,6 +133,11 @@ function Footer(){
                                     <li>
                                         <a href='/servicio-al-cliente/manual-de-instalacion/' title='Manual de instalación | Kamas'>
                                             <p>Manual de instalación</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='/atencion-al-cliente/uso-y-cuidado/' title='Uso y cuidados | Kamas'>
+                                            <p>Uso y cuidados</p>
                                         </a>
                                     </li>
                                 </ul>
