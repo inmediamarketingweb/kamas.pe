@@ -1,0 +1,30 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TURRONIX CON MARCO - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/36/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX45",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "con marco",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "turronix"
+                }
+            ]
+        }
+    ]
+}

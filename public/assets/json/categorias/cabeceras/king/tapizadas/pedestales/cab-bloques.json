@@ -318,7 +318,7 @@
             "línea": "tapizadas",
             "tamaño": "king",
             "tipo-de-cabecera": "pedestales",
-            "nombre": "CABECERA KING PEDESTAL VELUTO - CUERO NEGRO",
+            "nombre": "CABECERA KING PEDESTAL VELUTO - NEGRO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/13/",
             "precioRegular": 1329,
             "precioNormal": 999,
@@ -647,6 +647,1592 @@
                     "diseño-de-cabecera": "bloques",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "meshlock"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL REPTILIAN - GRIS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/26/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX35",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL WELO 4 - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/27/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX36",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "welo 4"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROBLO - PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/28/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX37",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "roblo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL NILO - CENIZO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/29/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX38",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "nilo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL LINEAL 3 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/30/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX39",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "nilo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL GIRASOL - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/31/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX40",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "girasol"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL CORAZON - TEJIDO PLOMO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/32/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX41",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "corazón"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL WELO - TEJIDO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/33/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX42",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL EGYPT 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/34/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX43",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "egypt 2"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL EGYPT 2 - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/35/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX44",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "egypt 2"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL XTRATO - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/37/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX46",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "xtrato"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROBLO - ANTIFLUIDO BEIGE OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/38/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX47",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "roblo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL PANAL 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/39/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX48",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "panal 2"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL EXPLORER - VINO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/40/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX49",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "explorer"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL CHANCHAN - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/41/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX50",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "chanchan"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL NILO - ANTIFLUIDO PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/42/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX51",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "nilo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL RUPESTRE - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/43/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX52",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "rupestre"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROMBOI - DURAZNO PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/44/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX53",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "romboi"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOUNTAIN - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/45/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX54",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "mountain"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL REPTILIAN - CUERO PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/46/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX55",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOKI - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/47/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX56",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROMBOI - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/48/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX57",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "romboi"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROBLO - ANTIFLUIDO BEIGE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/49/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX58",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "roblo"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL OBSIDIAN - TABACO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/50/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX59",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "obsidian"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOKI - TEJIDO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/51/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX60",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL LINEAL 3 - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/52/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX61",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lineal 3"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL KERO - TRICOLOR",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/53/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX62",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "kero"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL ROBLO - DURANZO BEIGE CLARO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/54/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX63",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "roblo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL REPTILIAN - CUERO MORO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/55/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX64",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL KUBO - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/56/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX65",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "kubo"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOUNTAIN - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/57/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX66",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "mountain"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL REPTILIAN - TRICOLOR",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/58/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX67",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL PANAL - CENIZO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/59/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX68",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "panal"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL VELUTO - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/60/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX69",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "veluto"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MESHLOCK - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/61/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX70",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "meshlock"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL VITORIA - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/62/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX71",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "vitoria"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL EGYPT 3 - TRICOLOR",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/63/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX72",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "egypt 3"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TORTUN - TEJIDO VERDE JADE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/64/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX73",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL LINEAL HORI - PLATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/65/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX74",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lineal hori"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL CHANCHAN - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/67/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX76",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "chanchan"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL GAVIOTA 2 - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/68/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX77",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "gaviota 2"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL NAZCALINE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/69/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX78",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "nazcaline"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOUNTAIN - GRIS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/70/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX79",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "mountain"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TORTUN - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/71/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX80",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL PANAL - DURAZNO CAMELL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/72/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX81",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "panal"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL WELO - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/73/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX82",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL STARIS - ANTIFLUIDO MARFIL",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/74/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX83",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "staris"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL LINEAL 2 - AZUL NOCHE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/75/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX84",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lineal 2"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL PRESTIGE - CUERO ROJO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/76/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX85",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "prestige"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL KONKERO - LILA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/77/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX86",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "konkero"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TORTUN - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/78/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX87",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TORTUN - ANTIFLUIDO VERDE PACAY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/79/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX88",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "tortun"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL REPTILIAN - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/80/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX89",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "reptilian"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TURMALINA 3 - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/81/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX90",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "turmalina 3"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL WELO - IVORY",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/82/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX91",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL HEXALINE - PLOMO OSCURO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/83/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX92",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "hexaline"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL MOKI - TEJIDO PLOMO RATA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/85/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX94",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "moki"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL RUPESTRE - NEGRO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/87/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX96",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "rupestre"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TURMALINA - GRIS",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/88/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX97",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "turmalina"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TURRONIX - LILA",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/89/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX98",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "turronix"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
+            "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
+            "nombre": "CABECERA KING PEDESTAL TORTUN - TEJIDO MARFIL CLARO",
+            "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/bloques/90/",
+            "precioRegular": 1329,
+            "precioNormal": 999,
+            "precioVenta": 799,
+            "stock": 9,
+            "sku": "K54221NX99",
+            "tipo-de-envio": "Envío preferente",
+            "descripcion":[
+                {
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
+                    "tamaño": "king",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "tortun"
                 }
             ]
         }
