@@ -2,9 +2,10 @@
     "productos":[
         {
             "id": 80,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/1/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - ROJO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/1/",
@@ -14,11 +15,12 @@
             "stock": 9,
             "sku": "K54221N10",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -27,9 +29,10 @@
         },
         {
             "id": 81,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/2/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - NEGRO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/2/",
@@ -39,11 +42,12 @@
             "stock": 9,
             "sku": "K54221N11",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -52,9 +56,10 @@
         },
         {
             "id": 82,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/3/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - FUCSIA",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/3/",
@@ -64,11 +69,12 @@
             "stock": 9,
             "sku": "K54221N12",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -77,9 +83,10 @@
         },
         {
             "id": 83,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/4/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/4/",
@@ -89,11 +96,12 @@
             "stock": 9,
             "sku": "K54221N13",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -102,9 +110,10 @@
         },
         {
             "id": 84,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/5/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - PLATA",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/5/",
@@ -114,11 +123,12 @@
             "stock": 9,
             "sku": "K54221N14",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -127,9 +137,10 @@
         },
         {
             "id": 85,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/6/",
             "nombre": "CABECERA PEDESTAL KING CAPITONEADO - HUESO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-rectos/capitoneado/6/",
@@ -139,11 +150,12 @@
             "stock": 9,
             "sku": "K54221N15",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "brazos rectos",
                     "modelo-de-cabecera": "Capitoneada"
@@ -152,9 +164,10 @@
         },
         {
             "id": 86,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/7/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/1/",
@@ -164,11 +177,12 @@
             "stock": 9,
             "sku": "K54224N10",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -177,9 +191,10 @@
         },
         {
             "id": 87,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/8/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - VERDE LORO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/2/",
@@ -189,11 +204,12 @@
             "stock": 9,
             "sku": "K54224N11",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -202,9 +218,10 @@
         },
         {
             "id": 88,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/9/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/3/",
@@ -214,11 +231,12 @@
             "stock": 9,
             "sku": "K54224N12",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -227,9 +245,10 @@
         },
         {
             "id": 89,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/10/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/4/",
@@ -239,11 +258,12 @@
             "stock": 9,
             "sku": "K54224N13",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -252,9 +272,10 @@
         },
         {
             "id": 91,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/12/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - PLOMO RATA",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/6/",
@@ -264,11 +285,12 @@
             "stock": 9,
             "sku": "K54224N15",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -277,9 +299,10 @@
         },
         {
             "id": 92,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/13/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/7/",
@@ -289,11 +312,12 @@
             "stock": 9,
             "sku": "K54224N16",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"
@@ -302,9 +326,10 @@
         },
         {
             "id": 93,
-            "categoria": "cabeceras",
-            "subcategoria": "pedestales",
+            "categoría": "cabeceras",
+            "línea": "tapizadas",
             "tamaño": "king",
+            "tipo-de-cabecera": "pedestales",
             "ruta": "/productos/cabeceras/king/pedestales/14/",
             "nombre": "CABECERA PEDESTAL KING EMPERATRIZ - NEGRO",
             "fotos": "/assets/imagenes/productos/cabeceras/king/pedestales/americanas/brazos-seahorse/emperatriz/8/",
@@ -314,11 +339,12 @@
             "stock": 9,
             "sku": "K54224N17",
             "tipo-de-envio": "Envío preferente",
-            "detalles-del-producto":[
+            "descripcion":[
                 {
-                    "línea": "Americana",
+                    "categoría": "cabeceras",
+                    "línea": "tapizadas",
                     "tamaño": "King",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos seahorse",
                     "modelo-de-cabecera": "Emperatriz"

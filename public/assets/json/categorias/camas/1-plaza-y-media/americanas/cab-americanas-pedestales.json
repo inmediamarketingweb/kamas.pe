@@ -31,6 +31,70 @@
                     "modelo-de-cabecera": "Otros modelos"
                 }
             ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA AMERICANA CON PIECERA + CABECERA PEDESTAL CAPITONEADA PEDESTAL CAPITONEADA - TEJIDO ACERO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/americanas/10/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 840,
+            "stock": 12,
+            "sku": "K2215223N11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
+        },
+        {
+            "categoría": "camas",
+            "tamaño": "1 plaza y media",
+            "línea": "americanas",
+            "nombre": "CAMA 1 PLAZA Y MEDIA AMERICANA CON PIECERA + CABECERA PEDESTAL CAPITONEADA PEDESTAL CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/1-plaza-y-media/americanas/11/",
+            "precioRegular": 1129,
+            "precioNormal": 929,
+            "precioVenta": 840,
+            "stock": 12,
+            "sku": "K2215223N12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "1 plaza y media",
+                    "línea": "americanas",
+                    "cajones": "no",
+                    "base-encajonada": "no",
+                    "piecera": "si",
+                    "colchón": "no",
+                    "veladores": "no",
+                    "baúl": "no",
+                    "madera": "pino",
+                    "tipo-de-cabecera": "Pedestales",
+                    "línea-de-cabecera": "tapizadas",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "Otros modelos"
+                }
+            ]
         }
     ]
 }
