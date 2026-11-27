@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "ruta": "/productos/camas/king/americanas-con-cajones/23/",
+            "nombre": "CAMA AMERICANA KING CON 6 CAJONES + CABECERA PEDESTAL WELO - ANTIFLUIDO IVORY",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-bloques-pedestales-con-cajones/1/",
+            "precioRegular": 2599,
+            "precioNormal": 1999,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K222116XN1010",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "King",
+                    "línea": "americanas",
+                    "cajones": "Si",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "bloques",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "welo"
+                }
+            ]
+        }
+    ]
+}

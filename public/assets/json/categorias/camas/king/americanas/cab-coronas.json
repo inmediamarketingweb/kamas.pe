@@ -6,7 +6,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/105/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - ARENA OSCURO",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - ARENA OSCURO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/1/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -14,15 +14,19 @@
             "stock": 15,
             "sku": "K2232116N40",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }
@@ -34,7 +38,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/108/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - CAMELL",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - CAMELL",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/3/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -42,15 +46,19 @@
             "stock": 15,
             "sku": "K2232116N42",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }
@@ -62,7 +70,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/109/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - CHOCOLATE",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - CHOCOLATE",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/4/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -70,15 +78,19 @@
             "stock": 15,
             "sku": "K2232116N43",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }
@@ -90,7 +102,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/111/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - ROSADO BEBÉ",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - ROSADO BEBÉ",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/6/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -98,15 +110,19 @@
             "stock": 15,
             "sku": "K2232116N45",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }
@@ -118,7 +134,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/112/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - VERDE LORO",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - VERDE LORO",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/7/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -126,15 +142,19 @@
             "stock": 15,
             "sku": "K2232116N46",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }
@@ -146,7 +166,7 @@
             "tamaño": "king",
             "línea": "americanas",
             "ruta": "/productos/camas/king/americanas/115/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA AÉREA CORONA - PLOMO PLATA",
+            "nombre": "CAMA AMERICANA KING + CABECERA AÉREA CORONA - PLOMO PLATA",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/aereas-con-patas/coronas/sin-brazos/lineal/10/",
             "precioRegular": 2299,
             "precioNormal": 1699,
@@ -154,15 +174,19 @@
             "stock": 15,
             "sku": "K2232116N49",
             "tipo-de-envio": "Gratis",
-            "descripcions":[
+            "descripcion":[
                 {
                     "categoría": "camas",
                     "tamaño": "king",
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Aérea con patas",
-                    "diseño-de-cabecera": "Corona",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Aéreas con patas",
+                    "diseño-de-cabecera": "Coronas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Lineal"
                 }

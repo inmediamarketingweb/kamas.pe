@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL MAJESTAD + BAÚL CLÁSICO - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-coronas-pedestales-con-baul/1/",
+            "precioRegular": 2749,
+            "precioNormal": 2149,
+            "precioVenta": 1649,
+            "stock": 15,
+            "sku": "K2232510NX10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "si",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "Brazos curvos",
+                    "modelo-de-cabecera": "Majestad"
+                }
+            ]
+        }
+    ]
+}

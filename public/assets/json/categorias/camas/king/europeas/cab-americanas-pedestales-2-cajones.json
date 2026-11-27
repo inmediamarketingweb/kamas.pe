@@ -5,8 +5,7 @@
             "categoría": "camas",
             "tamaño": "king",
             "línea": "europeas",
-            "ruta": "/productos/camas/king/europeas-con-cajones/2/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - GRIS",
+            "nombre": "CAMA EUROPEA KING CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADA - GRIS",
             "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/2/",
             "precioRegular": 2899,
             "precioNormal": 2299,
@@ -21,38 +20,14 @@
                     "línea": "Europeas",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "categoría": "camas",
-            "tamaño": "king",
-            "línea": "europeas",
-            "ruta": "/productos/camas/king/europeas-con-cajones/7/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - CAMELL",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/7/",
-            "precioRegular": 2899,
-            "precioNormal": 2299,
-            "precioVenta": 1799,
-            "stock": 12,
-            "sku": "K234123N16",
-            "tipo-de-envio": "Gratis",
-            "descripcion":[
-                {
-                    "categoría": "camas",
-                    "tamaño": "King",
-                    "línea": "Europeas",
-                    "cajones": "Si",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "americanas",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "capitoneado"
                 }
             ]
         },
@@ -62,8 +37,8 @@
             "tamaño": "king",
             "línea": "europeas",
             "ruta": "/productos/camas/king/europeas-con-cajones/8/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - CHOCOLATE",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/8/",
+            "nombre": "CAMA EUROPEA KING CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADA - CHOCOLATE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/europeas/cab-americanas-pedestales-con-cajones/2/",
             "precioRegular": 2899,
             "precioNormal": 2299,
             "precioVenta": 1799,
@@ -77,10 +52,14 @@
                     "línea": "Europeas",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "capitoneado"
                 }
             ]
         },
@@ -90,8 +69,8 @@
             "tamaño": "king",
             "línea": "europeas",
             "ruta": "/productos/camas/king/europeas-con-cajones/11/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES LATERALES + CABECERA PEDESTAL EMPERATRIZ - BEIGE",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/11/",
+            "nombre": "CAMA EUROPEA KING CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADA - BEIGE",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/europeas/cab-americanas-pedestales-con-cajones/3/",
             "precioRegular": 2899,
             "precioNormal": 2299,
             "precioVenta": 1799,
@@ -105,10 +84,14 @@
                     "línea": "Europeas",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "capitoneado"
                 }
             ]
         },
@@ -118,8 +101,8 @@
             "tamaño": "king",
             "línea": "europeas",
             "ruta": "/productos/camas/king/europeas-con-cajones/12/",
-            "nombre": "CAMA BOX TARIMA EUROPEA KING CON 2 CAJONES AL PIE + CABECERA PEDESTAL EMPERATRIZ - HUESO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/europeas-con-cajones/king/pedestales/americanas/brazos-rectos/emperatriz/12/",
+            "nombre": "CAMA EUROPEA KING CON 2 CAJONES + CABECERA PEDESTAL CAPITONEADA - HUESO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/europeas/cab-americanas-pedestales-con-cajones/1/",
             "precioRegular": 2899,
             "precioNormal": 2299,
             "precioVenta": 1799,
@@ -133,10 +116,14 @@
                     "línea": "Europeas",
                     "cajones": "Si",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "veladores": "No",
+                    "piecera": "No",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
                     "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
+                    "modelo-de-cabecera": "capitoneado"
                 }
             ]
         }
