@@ -1,34 +1,6 @@
 {
     "productos":[
         {
-            "id": 178,
-            "categoría": "camas",
-            "tamaño": "king",
-            "línea": "americanas",
-            "ruta": "/productos/camas/king/americanas/120/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL CUADROS 2 - GRIS RATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/cuadros-2/1/",
-            "precioRegular": 2199,
-            "precioNormal": 1699,
-            "precioVenta": 1199,
-            "stock": 15,
-            "sku": "K224223N14",
-            "tipo-de-envio": "Gratis",
-            "descripcion":[
-                {
-                    "categoría": "camas",
-                    "tamaño": "king",
-                    "línea": "americanas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americanas",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Cuadros 2"
-                }
-            ]
-        },
-        {
             "id": 179,
             "categoría": "camas",
             "tamaño": "king",
@@ -49,7 +21,7 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
@@ -77,7 +49,7 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
@@ -105,7 +77,7 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
@@ -133,7 +105,7 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
@@ -161,66 +133,10 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Brazos rectos",
                     "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
-        },
-        {
-            "id": 185,
-            "categoría": "camas",
-            "tamaño": "king",
-            "línea": "americanas",
-            "ruta": "/productos/camas/king/americanas/127/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL EMPERATRIZ - ROJO",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/americanas/brazos-rectos/emperatriz/7/",
-            "precioRegular": 2499,
-            "precioNormal": 1899,
-            "precioVenta": 1399,
-            "stock": 15,
-            "sku": "K224223N21",
-            "tipo-de-envio": "Gratis",
-            "descripcion":[
-                {
-                    "categoría": "camas",
-                    "tamaño": "king",
-                    "línea": "americanas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Americanas",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Emperatriz"
-                }
-            ]
-        },
-        {
-            "id": 187,
-            "categoría": "camas",
-            "tamaño": "king",
-            "línea": "americanas",
-            "ruta": "/productos/camas/king/americanas/129/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL LINEAL - CAMELL",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/bloques/brazos-rectos/lineal/1/",
-            "precioRegular": 1799,
-            "precioNormal": 1869,
-            "precioVenta": 1299,
-            "stock": 15,
-            "sku": "K224226N10",
-            "tipo-de-envio": "Gratis",
-            "descripcion":[
-                {
-                    "categoría": "camas",
-                    "tamaño": "king",
-                    "línea": "americanas",
-                    "cajones": "No",
-                    "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
-                    "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Lineal"
                 }
             ]
         },
@@ -245,7 +161,7 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
+                    "tipo-de-cabecera": "Pedestales",
                     "diseño-de-cabecera": "Americanas",
                     "brazos-de-cabecera": "Sin brazos",
                     "modelo-de-cabecera": "Otros modelos"
@@ -257,14 +173,13 @@
             "categoría": "camas",
             "tamaño": "king",
             "línea": "americanas",
-            "ruta": "/productos/camas/king/americanas/147/",
-            "nombre": "CAMA BOX TARIMA AMERICANA KING + CABECERA PEDESTAL LINEAL - PLOMO RATA",
-            "fotos": "/assets/imagenes/productos/camas-box-tarimas/americanas/king/pedestales/coronas/brazos-rectos/lunar/1/",
-            "precioRegular": 2399,
-            "precioNormal": 1799,
-            "precioVenta": 1299,
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - PLOMO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/1/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
             "stock": 15,
-            "sku": "K224226N11",
+            "sku": "K224226NX10",
             "tipo-de-envio": "Gratis",
             "descripcion":[
                 {
@@ -273,10 +188,262 @@
                     "línea": "americanas",
                     "cajones": "No",
                     "base-encajonada": "No",
-                    "tipo-de-cabecera": "Pedestal",
-                    "diseño-de-cabecera": "Bloques",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
                     "brazos-de-cabecera": "Brazos rectos",
-                    "modelo-de-cabecera": "Lunar"
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - MORO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/2/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX11",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - GRIS OSCURO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/3/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX12",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/4/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX13",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - CUERO NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/5/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX14",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL LINEAL 1 - CAMELL",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/6/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX15",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "lineal 1"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEDA - ROJO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/7/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX16",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CUADROS 1 - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/8/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX17",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "cuadros 1"
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL CAPITONEADA - NEGRO",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-americanas-pedestales/9/",
+            "precioRegular": 2499,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K224226NX18",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "Pedestales",
+                    "diseño-de-cabecera": "americanas",
+                    "brazos-de-cabecera": "Brazos rectos",
+                    "modelo-de-cabecera": "capitoneado"
                 }
             ]
         }

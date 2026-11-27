@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id": 164,
+            "categoría": "camas",
+            "tamaño": "king",
+            "línea": "americanas",
+            "nombre": "CAMA AMERICANA KING + CABECERA PEDESTAL LUNAR - PLATA",
+            "fotos": "/assets/imagenes/productos/camas-box-tarimas/king/americanas/cab-coronas-pedestales/1/",
+            "precioRegular": 2399,
+            "precioNormal": 1899,
+            "precioVenta": 1399,
+            "stock": 15,
+            "sku": "K2232116NX10",
+            "tipo-de-envio": "Gratis",
+            "descripcion":[
+                {
+                    "categoría": "camas",
+                    "tamaño": "king",
+                    "línea": "americanas",
+                    "cajones": "No",
+                    "base-encajonada": "No",
+                    "veladores": "no",
+                    "piecera": "no",
+                    "baúl": "no",
+                    "línea-de-cabecera": "tapizadas",
+                    "tipo-de-cabecera": "pedestales",
+                    "diseño-de-cabecera": "Coronas",
+                    "brazos-de-cabecera": "brazos rectos",
+                    "modelo-de-cabecera": "lunar"
+                }
+            ]
+        }
+    ]
+}
